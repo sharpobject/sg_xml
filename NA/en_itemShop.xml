@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ITEM_SHOP_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ITEM>
+    <ID>Item054</ID>
+    <NAME>Talentium Pearl</NAME>
+    <IMAGE_FILE>item_54.png</IMAGE_FILE>
+    <TITLE_CARD>210021</TITLE_CARD>
+    <PRICE>2000</PRICE>
+  </ITEM>
+  <ITEM>
+    <ID>Item055</ID>
+    <NAME>Talentium Ingot</NAME>
+    <IMAGE_FILE>item_55.png</IMAGE_FILE>
+    <TITLE_CARD>200222</TITLE_CARD>
+    <PRICE>2000</PRICE>
+  </ITEM>
+
+</ITEM_SHOP_DATA>

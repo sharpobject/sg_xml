@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QUEST_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<QUEST>
+		<ID>0</ID>
+		<GRADE>0</GRADE>
+		<TITLE>더 넓은 세계로의 여행</TITLE>
+		<TEXT>여기에서 할 수 있는 모든 퀘스트를|완료하신 것 같네요.|계속해서 소드걸스의 세계를 여행|하다보면 새로운 퀘스트를 만나실|수 있을 거에요.</TEXT>
+		<MISSION>다른 탭의 퀘스트에 도전|소드걸스의 다른 컨텐츠들을 이용|</MISSION>
+		<REWARD>소녀들과의 즐거운 시간||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_00.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_both.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>1</ID>
+		<GRADE>1</GRADE>
+		<TITLE>아는 것이 힘</TITLE>
+		<TEXT>튜토리얼은 완수하셨나요?|짧지만 게임에 대해 이해를|도울 수 있을 거에요.|아직 튜토리얼을 완료하지 않았다면|지금 꼭 완료하세요.</TEXT>
+		<MISSION>튜토리얼 완료|(옵션의 게임모드를 EX에서 CLASSIC|으로 변경후 확인할 수 있습니다.)|</MISSION>
+		<REWARD>백색광석 8매|고양이인형 6매|</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_01.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>2</ID>
+		<GRADE>1</GRADE>
+		<TITLE>카드가 더 필요해!</TITLE>
+		<TEXT>소드걸스에서는 던전과 파이트를 통해|얻은 재료를 조합하여 다양한 카드들을|무료로 얻을 수 있습니다.|메인로비의 LAB->과학실에서|게임스타터 카드를 조합해 보세요.</TEXT>
+		<MISSION>메인로비의 LAB->과학실로 이동|게임스타터 1매 조합|</MISSION>
+		<REWARD>100GP||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_02.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_gp.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>3</ID>
+		<GRADE>1</GRADE>
+		<TITLE>플랜B: 또 다른 획득방법</TITLE>
+		<TEXT>부스터를 이용하면 조금 더 쉽게|카드를 얻을 수 있어요.|부스터는 메인로비의 SHOP에서|구매하거나 던전과 파이트에서|보상지급 시 구매할 수 있습니다.</TEXT>
+		<MISSION>메인로비의 SHOP으로 이동 또는|던전과 파이트의 게임보상창에서|부스터 1매 구매하기</MISSION>
+		<REWARD>300GP||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_03.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_gp.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>4</ID>
+		<GRADE>1</GRADE>
+		<TITLE>장비 확인은 RPG의 기본!(?)</TITLE>
+		<TEXT>메인로비의 DECK에서|덱을 수정해 보세요.|클릭만으로 덱에서 카드를 빼거나|덱으로 카드를 넣을 수 있습니다.|SAVE하는 것, 잊어버리면 안돼요!</TEXT>
+		<MISSION>메인로비의 DECK으로 이동|덱 수정 후 SAVE하기|</MISSION>
+		<REWARD>백색광석 10매||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_04.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>5</ID>
+		<GRADE>1</GRADE>
+		<TITLE>DEAL!</TITLE>
+		<TEXT>원하는 재료가 부족하다면|연금공방에서 변환해 보세요.|메인로비의 LAB->연금공방에서|원하는 재료로 변환해 보세요.|</TEXT>
+		<MISSION>메인로비의 LAB->연금공방으로 이동|광석 교환해 보기|</MISSION>
+		<REWARD>게임스타터 카드 2매||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_05.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>6</ID>
+		<GRADE>1</GRADE>
+		<TITLE>날 버리지 말아줘!</TITLE>
+		<TEXT>여분의 카드는 재료로|교환하실 수 있어요.|메인로비의 LAB->교환사무국에서|연중무휴! 언제든지 교환해 보세요.|</TEXT>
+		<MISSION>메인로비의 LAB->교환사무국으로 이동|게임스타터 카드를 재료로 교환하기|</MISSION>
+		<REWARD>게임스타터 카드 4매||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_06.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>7</ID>
+		<GRADE>1</GRADE>
+		<TITLE>재료로는 부족해!</TITLE>
+		<TEXT>높은 레벨의 카드는 광석과 재료가 아닌|일반카드를 이용하여 조합이 가능합니다.|여분의 카드들을 조합하여|높은 레벨의 카드를 획득해 보세요.</TEXT>
+		<MISSION>메인로비의 LAB->과학실로 이동|초보가이드 리코 1매 조합|</MISSION>
+		<REWARD>백색광석 녹색광석 적색광석|청색광석 흑색광석|각 6매|</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_07.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>8</ID>
+		<GRADE>1</GRADE>
+		<TITLE>광부와는 다르다 광부와는!</TITLE>
+		<TEXT>게임플레이할 시간이 부족하세요?|당신의 캐릭터는 당신이 잠든 사이에도|열심히 재료를 모은답니다.|메인로비의 LAB->캠핑장에서|탐사를 지시해보세요.</TEXT>
+		<MISSION>메인로비의 LAB->캠핑장으로 이동|캐릭터카드 탐사 지시|</MISSION>
+		<REWARD>검 안경 구두 양말|리본 고양이인형 책|각 6매</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_08.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>9</ID>
+		<GRADE>1</GRADE>
+		<TITLE>정신과 훈련의 방(?)</TITLE>
+		<TEXT>같은 추종자라도 수련과 강화를|통해 더 강해질 수 있습니다.|우선 그 1단계! 수련을 시켜보세요.|메인로비의 LAB->강의실에서|추종자 카드를 수련시켜 보세요.</TEXT>
+		<MISSION>메인로비의 LAB->강의실로 이동|추종자카드 수련 지시|</MISSION>
+		<REWARD>수련치 100인 게임스타터 카드 2매||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_09.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>10</ID>
+		<GRADE>1</GRADE>
+		<TITLE>성공이냐 실패냐!</TITLE>
+		<TEXT>추종자에게 수련치가 누적됐다면|수련치와 같은 종류의 추종자카드를|재료로 강화를 시도할 수 있습니다.|메인로비의 LAB->체육관에서|추종자 카드 강화를 시도해 보세요.</TEXT>
+		<MISSION>메인로비의 LAB->체육관으로 이동|추종자카드 강화 시도|</MISSION>
+		<REWARD>유적의 파편, 심장석 각 10매||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_10.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>11</ID>
+		<GRADE>1</GRADE>
+		<TITLE>지구인들아 나에게 힘을 줘!</TITLE>
+		<TEXT>수련치를 모으는게 오래걸리나요?|친구와 함께 서로 수련을 도와주면|수련치를 더 빨리 모을 수 있습니다.|메인로비의 FRIEND를 클릭해서|친구를 도와주세요.</TEXT>
+		<MISSION>메인로비의 FRIEND 클릭|"소드걸스"를 친구로 추가|수련중인 카드를 도와주기</MISSION>
+		<REWARD>광석 5종 및 재료카드 7종 각 10매||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_11.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>12</ID>
+		<GRADE>1</GRADE>
+		<TITLE>도전! 초급던전!</TITLE>
+		<TEXT>이제 조금 게임에 익숙해 지셨나요?|그럼 메인로비의 DUNGEON에서|초급던전에 도전해 보세요.|초급던전을 클리어하시면 다른|던전에도 도전하실 수 있습니다.</TEXT>
+		<MISSION>메인로비의 DUNGEON으로 이동|EASY탭의 초급던전 클리어|</MISSION>
+		<REWARD>1000GP||</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_b_12.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_gp.png</REWARD_IMG>
+	</QUEST>
+<QUEST>  <ID>57</ID>  <GRADE>1</GRADE>  <TITLE>캐릭터를 얻는 또다른 방법</TITLE>  <TEXT>오호, 자네 이제 제법 한 사람 몫을|할 수 있게 된 것 같군 그래.|음? 그런가? 힘이 필요하다고?|던전을 10회 클리어하면 보스의 힘을|얻을 수 있지. 어떤가, 해보겠나?</TEXT>  <MISSION>초급던전 10회 클리어하여|놀드 캐릭터카드 획득</MISSION>  <REWARD>광석카드 5종 각 10매</REWARD>  <HELPER_CARD_NO>100005</HELPER_CARD_NO>  <MISSION_IMG>quest_b_12.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>58</ID>  <GRADE>1</GRADE>  <TITLE>난 그렇게 쉬운 여자 아냐!</TITLE>  <TEXT>흥, 이 미풍권정 카넬님의 힘을|원한단 말야?|뭐? 필요없다고? 죽을래 임마?|그, 그렇게 이몸이 필요하다면 어디|실력을 보여주시지!</TEXT>  <MISSION>중급던전 10회 클리어하여|카넬 캐릭터카드 획득</MISSION>  <REWARD>시즌1 파이트재료카드 7종 각 10매</REWARD>  <HELPER_CARD_NO>100008</HELPER_CARD_NO>  <MISSION_IMG>quest_b_13.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>59</ID>  <GRADE>1</GRADE>  <TITLE>싫어! 싫단 말이야!</TITLE>  <TEXT>뭐? 누구한테 그런 소리를 듣고왔어?|놀드? 놀드라고? 이 멍청이가 쓸데|없는 소리를 흘리고 다니다니!|싫어! 절대로 너랑 같이 안가!|안갈거라고! 바보!</TEXT>  <MISSION>고급던전 10회 클리어하여|갓트 캐릭터카드 획득</MISSION>  <REWARD>광석카드 5종 각 10매|시즌1 파이트재료카드 7종 각 10매|500GP</REWARD>  <HELPER_CARD_NO>100009</HELPER_CARD_NO>  <MISSION_IMG>quest_b_14.png</MISSION_IMG>  <REWARD_IMG>quest_prize_both.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>60</ID>  <GRADE>1</GRADE>  <TITLE>외눈안경이 폭발할지도 몰라</TITLE>  <TEXT>앗, 당신은 누구시죠?|호오, 수련치가 올라가는군요.|하지만 저의 수련치는 2000입니다.|세번의 변신이 남아있지요.|저를 따라잡을 수 있을까요?</TEXT>  <MISSION>추종자카드의 수련치 2000이상 달성</MISSION>  <REWARD>광석카드 5종 각 10매</REWARD>  <HELPER_CARD_NO>300042</HELPER_CARD_NO>  <MISSION_IMG>quest_b_15.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>61</ID>  <GRADE>1</GRADE>  <TITLE>수련치만 가지고는 안돼요</TITLE>  <TEXT>앗! 대단해요! 대단한 수련치!|하지만 수련치만 높아서는 아무런|소용이 없답니다. 네.? 핀테일씨가?|…요즘 슬럼프라더니 그런 짓을…|일단 같은 추종자를 모아볼까요?</TEXT>  <MISSION>같은 종류의 추종자 카드 10매 이상|보유하기 </MISSION>  <REWARD>시즌1 파이트재료카드 7종 각 10매</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_b_16.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>62</ID>  <GRADE>1</GRADE>  <TITLE>행운을 시험해 보세요</TITLE>  <TEXT>후후, 보아하니 강화에 도전할 모양|이로군요. 실패한다고 해서 그간의|강함이 사라지지는 않겠지만…|쉬운 길은 아닐걸요? 운이 좋아야|할테니까요. 어때요? 시험해 보면?</TEXT>  <MISSION>강화 1회 성공|(이 퀘스트를 시작한 이후부터의|강화에 한정됩니다.)</MISSION>  <REWARD>광석카드 5종 각 10매|시즌1 파이트재료카드 7종 각 10매|500GP</REWARD>  <HELPER_CARD_NO>300242</HELPER_CARD_NO>  <MISSION_IMG>quest_s_05.png</MISSION_IMG>  <REWARD_IMG>quest_prize_both.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>63</ID>  <GRADE>1</GRADE>  <TITLE>너의 강함을 증명해 봐</TITLE>  <TEXT>물론 널 따라가겠다고 정했지만|정말 나에게 이익을 줄 수 있는지|시험해봐야겠어.|가서 너의 강함을 증명해 봐.|이 정도는 해내야지?</TEXT>  <MISSION>파이트 B랭크 이상 50회 달성|(이 퀘스트를 시작한 이후부터의|게임에 한정됩니다.)</MISSION>  <REWARD>광석카드 5종 각 10매</REWARD>  <HELPER_CARD_NO>100058</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>64</ID>  <GRADE>1</GRADE>  <TITLE>눈을 감았지만 잠은 안잤습니다</TITLE>  <TEXT>아뇨, 오해입니다. 절대 잠을 자지|않았습니다. 단지 눈을 감고있었을|뿐이란 말입니다. 잠을 잔 것 같지만|사실은 그동안에도 열심히…대전…|잠깐 피로회복제를 마셔도 될까요?</TEXT>  <MISSION>자동대전 20일 참여|(이 퀘스트를 시작한 이후부터의|게임에 한정됩니다.)</MISSION>  <REWARD>시즌1 파이트재료카드 7종 각 10매</REWARD>  <HELPER_CARD_NO>300144</HELPER_CARD_NO>  <MISSION_IMG>quest_b_17.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>65</ID>  <GRADE>1</GRADE>  <TITLE>이정도는 해내라고 얼빠진 녀석</TITLE>  <TEXT>네놈은 정신상태가 썩었어.|썩은내가 여기까지 진동하는구나.|어서 가서 너의 썩은 정신을 다시|무장하고 오도록 해.|꾸물거리면 엉덩이를 차줄테다.</TEXT>  <MISSION>파이트 A랭크 이상 20회 달성|(이 퀘스트를 시작한 이후부터의|게임에 한정됩니다.)</MISSION>  <REWARD>광석카드 5종 각 10매|시즌1 파이트재료카드 7종 각 10매|500GP</REWARD>  <HELPER_CARD_NO>100088</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_both.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>79</ID>  <GRADE>1</GRADE>  <TITLE>친구와 사이좋게 연습게임</TITLE>  <TEXT>도전장입니다. 지금 당장 제가 지정한|채널로 달려오세요.|연습이라고 방심했다간 큰 코 다쳐요.|각오하고 오는 게 좋을겁니다. 히히.</TEXT>  <MISSION>연습게임 10게임 진행|(E랭크 이상)|</MISSION>  <REWARD>100GP</REWARD>  <HELPER_CARD_NO>300080</HELPER_CARD_NO>  <MISSION_IMG>quest_b_79.png</MISSION_IMG>  <REWARD_IMG>quest_prize_gp.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>80</ID>  <GRADE>1</GRADE>  <TITLE>강한 힘에는 노력이 따른다</TITLE>  <TEXT>조급해 하지 말고 천천히.|한번에 큰 힘을 얻을 수는 없어요.|한 걸음씩 꾸준히, 재료를 모으는|것부터 시작해 보세요.</TEXT>  <MISSION>LAB->과학실로 이동|3레벨 레어 카드 1매 제작|(상단의 필터를 사용해 보세요)</MISSION>  <REWARD>500GP</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_gp.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>81</ID>  <GRADE>1</GRADE>  <TITLE>더 강한 힘에는 더 큰 노력이 따른다</TITLE>  <TEXT>큰 힘일수록 더 많은 노력이 따르죠.|그래도 포기하지 않고 이어간다면|닿을 수 있을 거에요.|힘내세요! 응원할 테니까요.</TEXT>  <MISSION>LAB->과학실로 이동|4레벨 더블레어 카드 1매 제작|(상단의 필터를 사용해 보세요)</MISSION>  <REWARD>1000GP</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_gp.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>82</ID>  <GRADE>1</GRADE>  <TITLE>적의 방어력은 나의 힘 (공립)</TITLE>  <TEXT>상대의 방어를 이용하는 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"요리연구부 에이스" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "요리연구부 에이스" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>83</ID>  <GRADE>1</GRADE>  <TITLE>적의 방어력은 나의 힘 (사립)</TITLE>  <TEXT>상대의 방어를 이용하는 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"정적의 메이드" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "정적의 메이드" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>84</ID>  <GRADE>1</GRADE>  <TITLE>적의 방어력은 나의 힘 (크룩스)</TITLE>  <TEXT>상대의 방어를 이용하는 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"신성연구회장" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "신성연구회장" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>85</ID>  <GRADE>1</GRADE>  <TITLE>적의 방어력은 나의 힘 (다크로어)</TITLE>  <TEXT>상대의 방어를 이용하는 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"등불의 마녀" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "등불의 마녀" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>86</ID>  <GRADE>1</GRADE>  <TITLE>추종자가 쓰러지지 않아 (공립)</TITLE>  <TEXT>공격에 굴하지 않는 멋진 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"시타의 친구 로시" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "시타의 친구 로시" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>87</ID>  <GRADE>1</GRADE>  <TITLE>추종자가 쓰러지지 않아 (사립)</TITLE>  <TEXT>공격에 굴하지 않는 멋진 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"SS대행자 나인" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "SS대행자 나인" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>88</ID>  <GRADE>1</GRADE>  <TITLE>추종자가 쓰러지지 않아 (크룩스)</TITLE>  <TEXT>공격에 굴하지 않는 멋진 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"신성연구회 루세라" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "신성연구회 루세라" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>89</ID>  <GRADE>1</GRADE>  <TITLE>추종자가 쓰러지지 않아 (다크로어)</TITLE>  <TEXT>공격에 굴하지 않는 멋진 기술을|알고 계신가요?|당신의 주변에도 그런 추종자가|있다던데…만나보시는 건 어때요?|당신의 여행에 도움이 될 거에요.</TEXT>  <MISSION>LAB->과학실로 이동|"상실의 인형" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "상실의 인형" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>90</ID>  <GRADE>1</GRADE>  <TITLE>기본에 충실한 스펠 (공립)</TITLE>  <TEXT>스펠 카드는 다양한 효과를 가져오는|특별한 힘이에요.|어떻게 사용하느냐에 따라 전세를|뒤집을 수도 있는 그런 카드죠.|이런 스펠카드는 어떠세요?</TEXT>  <MISSION>LAB->과학실로 이동|"볼케이노" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "볼케이노" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>91</ID>  <GRADE>1</GRADE>  <TITLE>기본에 충실한 스펠 (사립)</TITLE>  <TEXT>스펠 카드는 다양한 효과를 가져오는|특별한 힘이에요.|어떻게 사용하느냐에 따라 전세를|뒤집을 수도 있는 그런 카드죠.|이런 스펠카드는 어떠세요?</TEXT>  <MISSION>LAB->과학실로 이동|"저주" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "저주" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>92</ID>  <GRADE>1</GRADE>  <TITLE>기본에 충실한 스펠 (크룩스)</TITLE>  <TEXT>스펠 카드는 다양한 효과를 가져오는|특별한 힘이에요.|어떻게 사용하느냐에 따라 전세를|뒤집을 수도 있는 그런 카드죠.|이런 스펠카드는 어떠세요?</TEXT>  <MISSION>LAB->과학실로 이동|"풀밭의 휴일" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "풀밭의 휴일" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>93</ID>  <GRADE>1</GRADE>  <TITLE>기본에 충실한 스펠 (다크로어)</TITLE>  <TEXT>스펠 카드는 다양한 효과를 가져오는|특별한 힘이에요.|어떻게 사용하느냐에 따라 전세를|뒤집을 수도 있는 그런 카드죠.|이런 스펠카드는 어떠세요?</TEXT>  <MISSION>LAB->과학실로 이동|"압도" 1매 제작|(좌측의 검색기를 사용해 보세요)</MISSION>  <REWARD> "압도" 1매|(퀘스트 완료 시 같은 카드를 보상으로|1매 더 획득합니다.)</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+
+
+	<QUEST>
+		<ID>14</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 그걸 어디다 뒀더라?</TITLE>
+		<TEXT>아주 오래전에 어딘가에 묻어둔|명주가 하나 있는데 말이다…|조금 찾아봐 주겠느냐?|찾지 못해도 좋은걸 주마.|</TEXT>
+		<MISSION>던전에서 1승하기||</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100049</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_01.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>15</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 잠깐, 뭔가 이상한데 이건?</TITLE>
+		<TEXT>네녀석 요즘 나태한 것 아닌가?|이몸의 주인이 될 자격에 대해|다시 확인해 봐야 할 것 같군.|어서 다녀오도록 해.|이 정도는 할 수 있겠지?</TEXT>
+		<MISSION>FIGHT에서 1게임하기|(D랭크이상 획득)|</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100088</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_02.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>16</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 재료를 모으고 GET…</TITLE>
+		<TEXT>카드 조합은 기본 중의 기본!|기억하고 계신가요?|자, 확인할 겸 한번 다시 가서|카드를 조합해 보세요.|</TEXT>
+		<MISSION>카드 조합 1회 하기|(LAB->과학실)|</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100089</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_03.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>17</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 꾸준한 습관.</TITLE>
+		<TEXT>꾸준히 자신을 단련하는 것.|그것이 강자의 비결입니다.|네? 저야말로 슬럼프라고요?|어, 어서 수련을 해야겠어요!|</TEXT>
+		<MISSION>추종자카드 수련 시도|(LAB->강의실)|</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>300042</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_04.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>18</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 그 이름으로 부르지 마!</TITLE>
+		<TEXT>가끔 나를 광부라고 부르는|아이들이 있는데…혹시 자네|그게 무슨 말인지 아는가?|응? 뭔가? 왜 웃는건가?|</TEXT>
+		<MISSION>캐릭터에게 탐사 지시|(LAB->캠핑장)|</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100005</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_05.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>19</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 나는 친구가 적다.</TITLE>
+		<TEXT>친구란 언제든지 기댈 수 있는|그런 존재래.|너는 그런 친구가 있어?|지금 도움이 필요 할지도 몰라.|</TEXT>
+		<MISSION>친구의 수련중인 추종자에게|도움주기|(FRIEND)</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100009</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_06.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>20</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[일일] 그냥 옆에 있고 싶어.</TITLE>
+		<TEXT>거기 너! 한가해 보이니까|나랑 같이 놀아줘.|한 시간이면 돼. 뭐? 뭘하냐고?|너 바보야? 뭐든 해봐 멍청아!|</TEXT>
+		<MISSION>게임 접속 1시간 유지||</MISSION>
+		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100008</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_07.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+<QUEST>  <ID>28</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 조금만 더 깊숙히.</TITLE>  <TEXT>못찾았다니 아쉽구나. 그것이 참|귀한 명주인데….|설마 입구까지만 갔다가 되돌아 온|것은 아니냐? 다시 한번 다녀|오너라. 좀 더 깊은 곳까지.</TEXT>  <MISSION>던전에서 5승하기||</MISSION>  <REWARD>고양이인형 5매||</REWARD>  <HELPER_CARD_NO>100049</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>29</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 그렇다면 별 수 없지.</TITLE>  <TEXT>없었다고? 그럴리가 없는데….|그럼 잠깐 이리 와서 한잔 어떠냐?|뭐? 못한다고? 에이…아쉽구나.|그럼 그냥 옆에 앉아있기만 해다오.|잠깐이면 된단다.</TEXT>  <MISSION>게임 접속 1시간 유지||</MISSION>  <REWARD>팬더인형 5매||</REWARD>  <HELPER_CARD_NO>100049</HELPER_CARD_NO>  <MISSION_IMG>quest_n_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>30</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 정말 뭔가 이상해!</TITLE>  <TEXT>뭐야, 겨우 그 정도로 돌아왔나?|정말 쓰레기 같은 녀석이군.|흥, 적어도 이정도는 해야지!|뭐해? 어서 다녀와!|</TEXT>  <MISSION>FIGHT에서 1게임하기|(C랭크 이상)|</MISSION>  <REWARD>고양이인형 5매||</REWARD>  <HELPER_CARD_NO>100088</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>31</ID>  <GRADE>2</GRADE>  <TITLE>[일일] …아니, 그만두자.</TITLE>  <TEXT>흥, 제법 하는군 그래…알겠어.|아직 한참 모자라다고 생각하지만|일단 인정해 주도록 하지.|감사히 생각하도록 해.|그러니까 이몸에게 봉사하도록.</TEXT>  <MISSION>게임 접속 1시간 유지||</MISSION>  <REWARD>팬더인형 5매||</REWARD>  <HELPER_CARD_NO>100088</HELPER_CARD_NO>  <MISSION_IMG>quest_n_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>32</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 지금 건 무효!</TITLE>  <TEXT>앗, 잠깐 한눈 판 사이에!|정말 하신 건가요?|하, 한번만 더 보여주세요!|딱 한번만 더! 제발요!|</TEXT>  <MISSION>카드 조합 1회 하기|(LAB->과학실)|</MISSION>  <REWARD>시즌1 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>33</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 횡설수설</TITLE>  <TEXT>그, 그다음은…수련? 강화? 조합은|했고…어, 그러니까….|…죄송해요. 너무 심심해서 같이|놀고 싶었을 뿐인데.|조금만 더 같이 있어도 되나요?</TEXT>  <MISSION>게임 접속 1시간 유지||</MISSION>  <REWARD>시즌2 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>34</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 여분의 카드가 필요해!</TITLE>  <TEXT>자, 수련을 마쳤으니…앗!|강화 시도를 해야 하는데 카드가|부족하잖아요!|어서 가서 조합을 해 보세요!|</TEXT>  <MISSION>카드 조합 1회 하기|(LAB->과학실)|</MISSION>  <REWARD>시즌1 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>300042</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>35</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 하드 트레이닝.</TITLE>  <TEXT>이럴 수가! 실패해 버렸어요!|으…이건 너무 분해요!|다시 수련해야 겠어요!|같이 어울려 주실 거죠?|네? 바쁘다고요? 안 돼요!</TEXT>  <MISSION>게임 접속 1시간 유지||</MISSION>  <REWARD>시즌2 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>300042</HELPER_CARD_NO>  <MISSION_IMG>quest_n_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>36</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 얘기가 왜 그리로….</TITLE>  <TEXT>아무리 그래도 말일세, 나는 명색이|사립학원의 수호자란 말이지.|조합으로는 획득할 수 없다네.|그러고 보니 조합은 할 수 있는가?</TEXT>  <MISSION>카드 조합 1회 하기|(LAB->과학실)|</MISSION>  <REWARD>시즌1 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>100005</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>37</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 결국 잡혀버렸어.</TITLE>  <TEXT>오, 할 줄 아는군 그래.|그보다 여기 잠깐 앉아보게나.|그래, 요즘은 잘 지내는가?|바깥의 이야기를 조금 들려 주게.|아주 잠깐이면 되니까.</TEXT>  <MISSION>게임 접속 1시간 유지||</MISSION>  <REWARD>시즌2 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>100005</HELPER_CARD_NO>  <MISSION_IMG>quest_n_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>38</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 이 패턴은 익숙하다.</TITLE>  <TEXT>너 혹시 조합이라는 것 알고 있어?|뭐? 무, 무슨 소리야!|내가 그런 걸 모를 리가 없잖아!|잔말 말고 어서 해봐! 빨리!|내가 보는 앞에서!</TEXT>  <MISSION>카드 조합 1회 하기|(LAB->과학실)|</MISSION>  <REWARD>시즌1 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>100009</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>39</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 알았어. 같이 놀자.</TITLE>  <TEXT>흥! 내가 모를 리가 없잖아!|단지 네가 얼마나 잘 알고 있는지|시험해 봤을 뿐이니까!|다음은…뭐, 뭐야 그 눈은?|별로 같이 놀고 싶은 건 아니라고!</TEXT>  <MISSION>게임 접속 1시간 유지||</MISSION>  <REWARD>시즌2 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>100009</HELPER_CARD_NO>  <MISSION_IMG>quest_n_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>40</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 놀아줘! 놀아줘!</TITLE>  <TEXT>잠깐! 거기 당신!|지금 특별히 할 일 없지? 응?|그러면 나랑 놀아줄 수 있지?|잠깐이면 돼 잠깐이면!|응? 놀아줘! 놀아줘!</TEXT>  <MISSION>캐릭터에게 탐사 지시|(LAB->캠핑장)|</MISSION>  <REWARD>시즌1 파이트재료 7종 각 1매||||</REWARD>  <HELPER_CARD_NO>300196</HELPER_CARD_NO>  <MISSION_IMG>quest_n_05.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>41</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 나도 놀아주세요.</TITLE>  <TEXT>어머나, 리온. 재미있어 보이는구나?|거기 당신, 리온과 충분히 놀았으니|나랑도 조합하면서 놀아주세요!|자, 잠깐. 그런데 설마 이 사람도|슬리퍼로 머리를 때리진 않겠지요?</TEXT>  <MISSION>카드 조합 1회 하기|(LAB->과학실)|</MISSION>  <REWARD>시즌2 파이트재료 7종 각 1매||</REWARD>  <HELPER_CARD_NO>300195</HELPER_CARD_NO>  <MISSION_IMG>quest_n_03.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>94</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 잠깐, 뭔가 이상한데 이건?</TITLE>  <TEXT>네녀석 요즘 나태한 것 아닌가?|이몸의 주인이 될 자격에 대해|다시 확인해 봐야 할 것 같군.|어서 다녀오도록 해.|이 정도는 할 수 있겠지?</TEXT>  <MISSION>FIGHT에서 3게임하기|(E랭크이상 획득)|</MISSION>  <REWARD>청색코인1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100088</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>95</ID>  <GRADE>2</GRADE>  <TITLE>[일일] 그걸 어디다 뒀더라?</TITLE>  <TEXT>아주 오래전에 어딘가에 묻어둔|명주가 하나 있는데 말이다…|조금 찾아봐 주겠느냐?|찾지 못해도 좋은걸 주마.</TEXT>  <MISSION>던전에서 3게임 승리||</MISSION>  <REWARD>청색코인1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100049</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+
+	<QUEST>
+		<ID>21</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 붉은 마도사의 등장.</TITLE>
+		<TEXT>변경 유적의 입구가 이상한 결계로|차단되고, 대량의 몬스터들이|소환되었다는 소식을 들었습니다.|대체 누가 어떤 목적으로…|어서 가서 막아야 합니다!</TEXT>
+		<MISSION>변경유적 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100003</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_08.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>22</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 마법학회의 불청객.</TITLE>
+		<TEXT>그건 분명히 언니였어요.|언니가 마녀들과 함께 있다니…|대체 어떻게 된 거죠?|직접 가서 확인해 봐야겠어요.|</TEXT>
+		<MISSION>마녀의탑 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100002</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_09.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>23</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 교국의 성수.</TITLE>
+		<TEXT>기사단의 자격시험에 대해 아세요?|기사단 견장의 재료가 되는 성수의|눈물을 얻기 위해 페가수스에게|용기를 시험받는다고 해요.|해, 해낼 수 있겠죠?</TEXT>
+		<MISSION>크룩스훈련소 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>300037</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_10.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>24</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 아가씨의 펫.</TITLE>
+		<TEXT>분명 숲 속에…뭔가가 있었어….|곰…? 곰과는 조금 달라….|흑백의…넌 누구지…?|어디에서 왔어…?|</TEXT>
+		<MISSION>죽림향 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100054</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_11.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>25</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 어긋난 애정.</TITLE>
+		<TEXT>시니아, 어째서 그런 눈으로 나를|보는 거지?|난 그저 가문을 위해, 너를 위해….|더 이상 알아선 안 돼! 무슨 수를|써서라도 절대 널 보내지 않을 거야!</TEXT>
+		<MISSION>리니아관 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>300121</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_12.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>26</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 흡혈귀 토벌.</TITLE>
+		<TEXT>이분자들을 심판할 때가 왔다!|일어나라 교국의 기사단이여!|어둠 속에 거주하는 저 밤의 권속|들을 전부 처단하라!|가라! 여신의 이름으로!</TEXT>
+		<MISSION>흡혈귀의땅 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100043</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_13.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+	<QUEST>
+		<ID>27</ID>
+		<GRADE>2</GRADE>
+		<TITLE>[던전] 비타학교의 행사.</TITLE>
+		<TEXT>교장선생님의 이상한 취미는 의외로|학생들에게 잘 알려지진 않았죠.|그래도 이 행사는 조금 재미있어요.|아이들은 정말 무한한 가능성을|가지고 있거든요.</TEXT>
+		<MISSION>비타학교 클리어||</MISSION>
+		<REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
+		<HELPER_CARD_NO>100096</HELPER_CARD_NO>
+		<MISSION_IMG>quest_n_14.png</MISSION_IMG>
+		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
+	</QUEST>
+<QUEST>  <ID>44</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 그녀의 심상세계.</TITLE>  <TEXT>이렇게 혼란스러운 심상세계는 처음이야.|어이없을 정도로 마력이 충만한데|느껴지는 기운은 외로움, 불만족, 우울…|온갖 부정적인 것들로 가득해.|대체 뭐하는 녀석이람? 뭐, 상관 없지만.</TEXT>  <MISSION>심상세계 1회 클리어</MISSION>  <REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>110123</HELPER_CARD_NO>  <MISSION_IMG>quest_n_15.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>47</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 지하의 예배당</TITLE>  <TEXT>평안을 찾고 계십니까?|그렇다면 잘 오셨습니다.|당신이 찾고 있는 평안이…|안식이 바로 여기에 있답니다.|어서오세요, 지하예배당에.</TEXT>  <MISSION>카타콤 1회 클리어||</MISSION>  <REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100120</HELPER_CARD_NO>  <MISSION_IMG>quest_n_16.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>48</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 성역을 향하여</TITLE>  <TEXT>꽤액! 꽤액! 가자! 성역으로!|고대의 아티펙트를 손에 넣어라!|여신의 영광을 위해!|교국의 영광을 위해!|가라! 가라! 검을 들어라!</TEXT>  <MISSION>고대성역 1회 클리어||</MISSION>  <REWARD>청색코인 5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100123</HELPER_CARD_NO>  <MISSION_IMG>quest_n_17.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>74</ID>  <GRADE>2</GRADE>  <TITLE>[던전] SS흥신소 조사</TITLE>  <TEXT>진실을 알고싶다면 SS흥신소로 와봐.|네가 원하는 진실을 알고 있어.|알려줄지 말지는 내 자유겠지만.|어쩌면 네 붕대가 더 새빨갛게|물들지도 모르지. 후후.</TEXT>  <MISSION>SS흥신소 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120018</HELPER_CARD_NO>  <MISSION_IMG>quest_b_74.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>75</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 고양이를 잡아라!</TITLE>  <TEXT>거기 당신, 지금 한가하시죠?|학생회에서 이렇게 생긴 고양이를|쫓고 있는데 도와주셔야겠어요.|거부권은 없습니다.</TEXT>  <MISSION>고양이추격전 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>300014</HELPER_CARD_NO>  <MISSION_IMG>quest_b_75.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>76</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 매장도서관의 망령</TITLE>  <TEXT>비밀을 쫓아 들어간 매장도서관의|깊은 곳에는 이상한 여자아이가 서|있었다. 외형부터가 이상하지만,|그보다는 주변을 흐르는 분위기가|이 세상 것이 아닌 것 같았다.</TEXT>  <MISSION>매장도서관 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100121</HELPER_CARD_NO>  <MISSION_IMG>quest_b_76.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>77</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 제단을 여는 열쇠</TITLE>  <TEXT>소마를 찾아야 해. 소마 말이야!|소마를 몰라? 곤란한걸….|문을 열기 위해서는 열쇠가 있어야|한단 말이야. 어서 찾아봐.</TEXT>  <MISSION>지하제단 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100161</HELPER_CARD_NO>  <MISSION_IMG>quest_b_77.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>78</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 잡았다 요놈!</TITLE>  <TEXT>어린 아이를 납치하다니 최악이다.|당장 잡아서 족쇄라도 채워두지|않으면 잠이 오지 않을 것 같군.</TEXT>  <MISSION>로일시티 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120025</HELPER_CARD_NO>  <MISSION_IMG>quest_b_78.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>99</ID>  <GRADE>2</GRADE>  <TITLE>[던전]헨리페의 시험(공립)</TITLE>  <TEXT>이몸은 칠성수 중 하나 뇌랑 헨리페.|탈렌티움 적성자들을 시험하고 있지.|너의 재능을 시험해보겠어?||</TEXT>  <MISSION>시타 캐릭터 카드로|시험의 전당 클리어|</MISSION>  <REWARD>시타 코스튬 리코 1매</REWARD>  <HELPER_CARD_NO>120019</HELPER_CARD_NO>  <MISSION_IMG>quest_b_80.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>100</ID>  <GRADE>2</GRADE>  <TITLE>[던전]헨리페의 시험(사립)</TITLE>  <TEXT>이몸은 칠성수 중 하나 뇌랑 헨리페.|탈렌티움 적성자들을 시험하고 있지.|너의 재능을 시험해보겠어?||</TEXT>  <MISSION>시니아 캐릭터 카드로|시험의 전당 클리어|</MISSION>  <REWARD>시니아 코스튬 리코 1매</REWARD>  <HELPER_CARD_NO>120019</HELPER_CARD_NO>  <MISSION_IMG>quest_b_80.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>101</ID>  <GRADE>2</GRADE>  <TITLE>[던전]헨리페의 시험(크룩스)</TITLE>  <TEXT>이몸은 칠성수 중 하나 뇌랑 헨리페.|탈렌티움 적성자들을 시험하고 있지.|너의 재능을 시험해보겠어?||</TEXT>  <MISSION>루티카 캐릭터 카드로|시험의 전당 클리어|</MISSION>  <REWARD>루티카 코스튬 리코 1매</REWARD>  <HELPER_CARD_NO>120019</HELPER_CARD_NO>  <MISSION_IMG>quest_b_80.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>102</ID>  <GRADE>2</GRADE>  <TITLE>[던전]헨리페의 시험(다크로어)</TITLE>  <TEXT>이몸은 칠성수 중 하나 뇌랑 헨리페.|탈렌티움 적성자들을 시험하고 있지.|너의 재능을 시험해보겠어?||</TEXT>  <MISSION>아이리 캐릭터 카드로|시험의 전당 클리어|</MISSION>  <REWARD>아이리 코스튬 리코 1매</REWARD>  <HELPER_CARD_NO>120019</HELPER_CARD_NO>  <MISSION_IMG>quest_b_80.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+
+<QUEST>  <ID>46</ID>  <GRADE>3</GRADE>  <TITLE>자신을 뛰어넘는 힘</TITLE>  <TEXT>열심히 수련을 거듭하다 보면 말이죠.|어느 순간 팟! 하고 강해지는 자신을|발견하곤 합니다.|그런 경험, 있으신가요? 네? 없어요?|한번 경험해 보시는 건 어떤가요?</TEXT>  <MISSION>강화 1회 성공</MISSION>  <REWARD>탈렌티움 구슬 1매|(탈렌티움 구슬은 특별한 조합식의|재료로 사용됩니다)</REWARD>  <HELPER_CARD_NO>300042</HELPER_CARD_NO>  <MISSION_IMG>quest_s_05.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>103</ID>  <GRADE>3</GRADE>  <TITLE>비기너즈 팩을 사보자!</TITLE>  <TEXT>뭐라카이? 부스터로 구입하는거 보다 90%나 저렴하다고? 거기다가 돈을 돌려준다니.. 뭔가 사기아니가?</TEXT>  <MISSION>Shop의 덱상점에서 비기너즈 팩1 중 1개 구입</MISSION>  <REWARD>4,000 GP</REWARD>  <HELPER_CARD_NO>300300</HELPER_CARD_NO>  <MISSION_IMG>quest_s_07.png</MISSION_IMG>  <REWARD_IMG>quest_prize_gp.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>104</ID>  <GRADE>3</GRADE>  <TITLE>30슬을 해보자</TITLE>  <TEXT>30승만 해도 카드 10장치 재료를 준다고?</TEXT>  <MISSION>30승을 달성.</MISSION>  <REWARD>시즌1 파이트재료 7종 각 20매</REWARD>  <HELPER_CARD_NO>300300</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>105</ID>  <GRADE>3</GRADE>  <TITLE>100승을 해보자</TITLE>  <TEXT>이게 꿈인가 생시인가? 구분이 안되네</TEXT>  <MISSION>100승을 달성.</MISSION>  <REWARD>탈렌티움 구슬 5매|(탈렌티움 구슬은 특별한 조합식의|재료로 사용됩니다)</REWARD>  <HELPER_CARD_NO>300300</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>106</ID>  <GRADE>3</GRADE>  <TITLE>[반복] 파이트 강화 기간</TITLE>  <TEXT>네 녀석 요즘들어 정말 나태해졌군.|고작 이 정도로 만족하고 있단 말인가?|그래서야 이 몸에게 어떻게 봉사를 하겠다는 거지?|어서 가서 네 녀석의 가치를 증명해봐!|</TEXT>  <MISSION>FIGHT에서 5게임하기|(C랭크이상 획득)|</MISSION>  <REWARD>시즌 3 파이트 재료 각 2매+|백색 광석 20매</REWARD>  <HELPER_CARD_NO>100088</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+
+<QUEST>  <ID>107</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]만나서 반갑습니다.</TITLE>  <TEXT>정말 오랜만이에요! 설마 제가 누군지|잊으신 건 아니겠죠? 그런 거죠? 그럼 오랜만에 초심으로 돌아가 볼 겸 저와 함께 던전으로 나들이를 떠나요!</TEXT>  <MISSION>시즌1 Easy 던전 전부 클리어|(죽림향, 꿈꾸는 섬)</MISSION>  <REWARD>시즌1 던전재료 8종 각 50매||</REWARD>  <HELPER_CARD_NO>100089</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>108</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]새로운 힘을 발휘해보세요!</TITLE>  <TEXT>뮤지시터는 여러분의 꿈과 희망 그리고 내일을 지키기 위해 결성된 단체랍니다. 당신도 저희와 계약해서 뮤지시터가|되보시지않겠어요?</TEXT>  <MISSION>시즌2 Easy 던전 전부 클리어|(뮤지시터 랜드, SS흥신소)</MISSION>  <REWARD>시즌2 던전재료 11종 각 50매||</REWARD>  <HELPER_CARD_NO>100195</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>109</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]Boys, Be Ambitious!</TITLE>  <TEXT>소년이면 모름지기 가슴속에 저마다의|로망과 야망을 품고 살아가야 하는 법이죠. 당신의 야망 조금 확인해 볼까요?</TEXT>  <MISSION>시즌1 Normal 던전 전부 클리어|(변경유적~심상세계)</MISSION>  <REWARD>소드걸스 1주년 추종자 5매</REWARD>  <HELPER_CARD_NO>120012</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>110</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]시작의 끝, 끝의 시작</TITLE>  <TEXT>모든 것에는 시작이 있다면 필연적으로 끝이 있는 법입니다. 끝과 시작 사이의 여정이 어떠한 결과를 가지고 왔는지 다시 한 번 살펴보도록 하죠. </TEXT>  <MISSION>시즌2 Normal 던전 전부 클리어|(카타콤~카나의 제단)</MISSION>  <REWARD>소드걸스 1주년 추종자 5매</REWARD>  <HELPER_CARD_NO>120035</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>111</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]여신의 초대장</TITLE>  <TEXT>당신에게는 미래를 잇고자 하는 강인한 의지가 느껴지는군요. 저희가 처음 만났던 장소로 다시 한 번 찾아와 주실 수 있나요? 기다리고 있겠습니다.</TEXT>  <MISSION>시즌1 Hard 던전 전부 클리어|(쉐도우 랜드, 여신의 탑)</MISSION>  <REWARD>부스터 마일리지 5매</REWARD>  <HELPER_CARD_NO>120011</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>112</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]페스티벌!</TITLE>  <TEXT>올해도 어김없이 찾아온 축제를 맞아 모두 즐겁게 참여하고 있는 걸 보니 정말 기분이 좋네요. 어떠신가요?|올해의 축제에도 같이 참여해주실 거죠?</TEXT>  <MISSION>시즌2 Hard 던전 전부 클리어|(리니아의 세계, 비타페스티벌)</MISSION>  <REWARD>부스터 마일리지 5매</REWARD>  <HELPER_CARD_NO>120026</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>113</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]싸움의 기술</TITLE>  <TEXT>파이트에서 중요한 것은 리듬! 파워!|그리고… 깃발이에요! 엣!? 아니라고요? 으윽… 그래도 매일매일 꾸준한 연습 하신다면 핀테일 선배님처럼 슬럼프에 빠지실 일은 없을 거에요.</TEXT>  <MISSION>파이트 C랭크 이상 10회 달성</MISSION>  <REWARD>황색코인 3매</REWARD>  <HELPER_CARD_NO>300482</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>114</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]노려라! 파이트 마스터!</TITLE>  <TEXT>누군가 제 이야기를 하는 거 같은데…|엣츄! 파이트 마스터의 길은 멀고도 험난하죠! 동료와 함께 힘을 합쳐 파이트를 해나가 보면 언젠가 파이트 마스터가 될 수 있을 거에요!</TEXT>  <MISSION>파이트 S랭크 이상 10회 달성</MISSION>  <REWARD>적색코인 1매</REWARD>  <HELPER_CARD_NO>300619</HELPER_CARD_NO>  <MISSION_IMG>quest_n_02.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>115</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]제국 연구소 탐사</TITLE>  <TEXT>너는 찾아야 한다. 다른 지하감옥! 깨끗이 하고 나에게 보고하라. 지하감옥!|위험함! </TEXT>  <MISSION>제국 연구소 A,B,C동 각 2회 클리어</MISSION>  <REWARD>동색, 은색, 금색 훈장 각 4매</REWARD>  <HELPER_CARD_NO>120047</HELPER_CARD_NO>  <MISSION_IMG>quest_n_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>116</ID>  <GRADE>3</GRADE>  <TITLE>[스페셜]보너스인줄 알았어? 땡!</TITLE>  <TEXT>거기! 너 그래. 과연 미천한 네가 여기까지 올 수 있을까? 뭐 별로 기대는 하지 않지만 여기까지 올 수 있다면 특별한 걸 선물 해주도록 할게.</TEXT>  <MISSION>모든 이벤트 퀘스트 클리어</MISSION>  <REWARD>신화의 시온 리온 1매</REWARD>  <HELPER_CARD_NO>100287</HELPER_CARD_NO>  <MISSION_IMG>quest_b_01.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+
+<QUEST>  <ID>117</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 뮤지시터 등장!</TITLE>  <TEXT>이 세상에 악의 불씨를 없애기 위해…|하늘에서 춤추듯 내려오는 그 이름 뮤지시터! 어떠신가요? 당신도 저희와 계약해서 뮤지시터가 되어 이 세상의 악을 정화할 생각. 없으신가요?</TEXT>  <MISSION>뮤지시터 랜드 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120028</HELPER_CARD_NO>  <MISSION_IMG>quest_n_19.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>118</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 카넬의 꿈</TITLE>  <TEXT>흑… 집 나오면 고생이라고 했더니…|정말이었어… 누구라도 좋으니 머…먹을 것 좀 가져다줘…|이래서는 신비의 버섯을 찾기도 전에 굶어 죽게 될 거야…</TEXT>  <MISSION>주번 더 레전드 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120033</HELPER_CARD_NO>  <MISSION_IMG>quest_n_20.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>119</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 목격자의 진의</TITLE>  <TEXT>이곳은 모든 곳의 마지막이자 곧 새로운 출발점이 되기도 할 장소이죠.|당신이 목격한 곳, 그리고 이곳이 하나가 되어 새로운 세계가 열리게 될 겁니다.</TEXT>  <MISSION>차원의 틈 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120034</HELPER_CARD_NO>  <MISSION_IMG>quest_n_21.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>120</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 제단의 문</TITLE>  <TEXT>카나는 지켜져야 할 장소입니다.|함부로 제단에 손대다간 무슨 일이 일어날지 예측할 수 없습니다. 이곳으로 접근하고 있는 사악한 기운이 느껴지는군요.|수호자로서의 사명을 다할 때입니다.</TEXT>  <MISSION>카나의 제단 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120035</HELPER_CARD_NO>  <MISSION_IMG>quest_n_22.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>121</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 정체불명의 꽃</TITLE>  <TEXT>이런 나쁜 인간들! 도대체 이 몸을 뭐로 보고 이런 대접을…! 두고 보라고! 내가 꼭 진범을 잡아서 내게 이런 모욕을 준 인간들을 엎드려 빌게 해줄 테니…!</TEXT>  <MISSION>로일 습격 사건 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100006</HELPER_CARD_NO>  <MISSION_IMG>quest_n_23.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>122</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 불면의 저주</TITLE>  <TEXT>불면의 저주에서 고통받고 계신다고요? 저런… 정말로 불행하신 분이군요…|그런 도움이 필요한 분들을 무시하는 건 학생회장의 도리가 아니죠!</TEXT>  <MISSION>황금의 요람 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120037</HELPER_CARD_NO>  <MISSION_IMG>quest_n_24.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>123</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 자매의 이야기</TITLE>  <TEXT>여신님의 뜻에 따라 선을 행한 것 그것이 잘못된 일인 걸까요? 제발 도와주세요… 저는 단지 언니와 단둘이 평화로운 나날을 보내고 싶었던 것뿐인데… 그게 용서받지 못한 일인가요?</TEXT>  <MISSION>복수의 여정 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>100263</HELPER_CARD_NO>  <MISSION_IMG>quest_n_25.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>124</ID>  <GRADE>2</GRADE>  <TITLE>[던전] GS 시티에 어서 오세요.</TITLE>  <TEXT>꼬마 숙녀분들은 저희 계획에 발탁되었|답니다. 어떠신가요? 그렇지 않아도 요즘 조직에 사람이 부족해서 그러니 저희 GS단에 들어와 보실 생각 없으신가요?</TEXT>  <MISSION>GS 시티 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120044</HELPER_CARD_NO>  <MISSION_IMG>quest_n_26.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>125</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 검과 소녀의 이야기 1부</TITLE>  <TEXT>여러분이 여태까지 걸어오신 발자취가|궁금하시다고요? 그렇다면 언제든지 저희를 찾아와 주세요.|여러분들이 그동안 보여주셨던 활약상은 모두 여기에 기록되고 있답니다.</TEXT>  <MISSION>검과 소녀의 이야기 1부 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120045</HELPER_CARD_NO>  <MISSION_IMG>quest_n_27.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>126</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 수수께끼의 휴게소</TITLE>  <TEXT>그녀들에게는 좀 더 심신의 안정을 취할 수 있는 마음이 머무를 수 있는 장소가 필요해요… 분명 그녀들도 그것들을|바라고 있을 거라 생각해요.|그렇죠. 리니아님?</TEXT>  <MISSION>위안의 방 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120046</HELPER_CARD_NO>  <MISSION_IMG>quest_n_28.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>127</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 순혈의 흡혈귀</TITLE>  <TEXT>하암… 이게 얼마 만이야? 다들 그동안|잘 지냈어? 그나저나 너희는 원래 있던 곳은 어쩌고 여기까지 찾아오게 된 거야?|뭐? 쫓겨났다고? 도대체 내가 없는 동안 무슨 일이 벌어진 거야?</TEXT>  <MISSION>지하도시 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120050</HELPER_CARD_NO>  <MISSION_IMG>quest_n_29.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+<QUEST>  <ID>128</ID>  <GRADE>2</GRADE>  <TITLE>[던전] 당신을 범인입니다.</TITLE>  <TEXT>우리의 이름은 시온! 그리고 리온! 둘이서 하나인 명탐정이지!|무언가 해결하기 힘든 고민과 사건이|생기면 언제든지 탐정사무소로 찾아와줘!|단 맨입으로는 안되는 거 알지?</TEXT>  <MISSION>탐정사무소 1회 클리어</MISSION>  <REWARD>청색코인5매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>  <HELPER_CARD_NO>120051</HELPER_CARD_NO>  <MISSION_IMG>quest_n_30.png</MISSION_IMG>  <REWARD_IMG>quest_prize_card.png</REWARD_IMG> </QUEST>
+
+</QUEST_DATA>

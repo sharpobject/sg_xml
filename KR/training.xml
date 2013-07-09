@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TRAINING_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TRAINING_ROOM>
+		<ID>1</ID>
+		<NAME>일반수련장</NAME>
+		<ICON_FILE>training_normal.png</ICON_FILE>
+		<ICON_TAG_FILE>training_normal_tag.png</ICON_TAG_FILE>
+		<TITLE_FILE>title_normaltraining.png</TITLE_FILE>
+	</TRAINING_ROOM>
+
+	<TRAINING_ROOM>
+		<ID>2</ID>
+		<NAME>고급수련장</NAME>
+		<ICON_FILE>training_high.png</ICON_FILE>
+		<ICON_TAG_FILE>training_high_tag.png</ICON_TAG_FILE>
+		<TITLE_FILE>title_premiumtraining.png</TITLE_FILE>
+	</TRAINING_ROOM>
+</TRAINING_DATA>

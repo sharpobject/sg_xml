@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CATEGORY_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CATEGORY>
+		<ACTIVE_SCENE>9</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>슬리브</NAME>
+		<ICON_FILE>library_sleeve.png</ICON_FILE>
+		<TITLE_FILE>library_sleeve_title.png</TITLE_FILE>
+	</CATEGORY>
+	
+	<CATEGORY>
+		<ACTIVE_SCENE>13</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>부스터</NAME>
+		<ICON_FILE>shop_booster.png</ICON_FILE>
+		<TITLE_FILE>shop_booster_title.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>13</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>덱</NAME>
+		<ICON_FILE>shop_deck.png</ICON_FILE>
+		<TITLE_FILE>shop_deck_title.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>13</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>아이템</NAME>
+		<ICON_FILE>shop_item.png</ICON_FILE>
+		<TITLE_FILE>shop_item_title.png</TITLE_FILE>
+	</CATEGORY>
+	
+	<CATEGORY>
+		<ACTIVE_SCENE>17</ACTIVE_SCENE>
+		<ID>4</ID>
+		<NAME>코인샵</NAME>
+		<ICON_FILE>coinshop.png</ICON_FILE>
+		<TITLE_FILE>coinshop_title.png</TITLE_FILE>
+	</CATEGORY>
+
+
+
+	<CATEGORY>
+		<ACTIVE_SCENE>10</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>일반강화장</NAME>
+		<ICON_FILE>enchant_normal.png</ICON_FILE>
+		<TITLE_FILE>title_normalenchant.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>10</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>고급강화장</NAME>
+		<ICON_FILE>enchant_premium.png</ICON_FILE>
+		<TITLE_FILE>title_premiumenchant.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>10</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>특별강화장</NAME>
+		<ICON_FILE>enchant_special.png</ICON_FILE>
+		<TITLE_FILE>title_specialchant.png</TITLE_FILE>
+	</CATEGORY>
+
+
+	<CATEGORY>
+		<ACTIVE_SCENE>14</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>광석교환</NAME>
+		<ICON_FILE>alchemy_stone.png</ICON_FILE>
+		<TITLE_FILE>alchemy_stone_title.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>14</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>재료교환</NAME>
+		<ICON_FILE>alchemy_meterial.png</ICON_FILE>
+		<TITLE_FILE>alchemy_meterial_title.png</TITLE_FILE>
+	</CATEGORY>	
+	<CATEGORY>
+		<ACTIVE_SCENE>14</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>더블레어교환</NAME>
+		<ICON_FILE>alchemy_double.png</ICON_FILE>
+		<TITLE_FILE>alchemy_double_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>16</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>파이트재료</NAME>
+		<ICON_FILE>exchange_fight.png</ICON_FILE>
+		<TITLE_FILE>exchange_fight_title.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>16</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>던전재료</NAME>
+		<ICON_FILE>exchange_dungeon.png</ICON_FILE>
+		<TITLE_FILE>exchange_dungeon_title.png</TITLE_FILE>
+	</CATEGORY>
+
+
+	<CATEGORY>
+		<ACTIVE_SCENE>8</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>일반수련장</NAME>
+		<ICON_FILE>training_normal.png</ICON_FILE>
+		<TITLE_FILE>title_normaltraining.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>8</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>고급수련장</NAME>
+		<ICON_FILE>training_high.png</ICON_FILE>
+		<TITLE_FILE>title_premiumtraining.png</TITLE_FILE>
+	</CATEGORY>
+	
+
+	<CATEGORY>
+		<ACTIVE_SCENE>12</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>광산</NAME>
+		<ICON_FILE>camping_01.png</ICON_FILE>
+		<TITLE_FILE>campingtitle_01.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>12</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>마법의숲</NAME>
+		<ICON_FILE>camping_02.png</ICON_FILE>
+		<TITLE_FILE>campingtitle_02.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>12</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>소녀의방</NAME>
+		<ICON_FILE>camping_03.png</ICON_FILE>
+		<TITLE_FILE>campingtitle_03.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>18</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>일반앨범</NAME>
+		<ICON_FILE>photostudio_nomal.png</ICON_FILE>
+		<TITLE_FILE>photostudio_nomal_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>18</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>명예의전당</NAME>
+		<ICON_FILE>photostudio_fame.png</ICON_FILE>
+		<TITLE_FILE>photostudio_fame_title.png</TITLE_FILE>
+	</CATEGORY>
+	
+</CATEGORY_DATA>

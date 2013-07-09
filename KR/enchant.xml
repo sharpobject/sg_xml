@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ENCHANT_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ENCHANT_ROOM>
+		<ID>1</ID>
+		<NAME>일반강화장</NAME>
+		<ICON_FILE>normalenchant.png</ICON_FILE>
+		<TITLE_FILE>title_normalenchant.png</TITLE_FILE>
+	</ENCHANT_ROOM>
+
+	<ENCHANT_ROOM>
+		<ID>2</ID>
+		<NAME>고급강화장</NAME>
+		<ICON_FILE>premiumenchant.png</ICON_FILE>
+		<TITLE_FILE>title_premiumenchant.png</TITLE_FILE>
+	</ENCHANT_ROOM>
+</ENCHANT_DATA>

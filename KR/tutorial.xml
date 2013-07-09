@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TUTORIAL_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TUTORIAL_PAGE>
+		<ID>0</ID>
+		<TITLE>환영합니다</TITLE>
+		<IMAGE_FILE>.</IMAGE_FILE>
+		<STATE>0</STATE>
+		<MSG><![CDATA[SWORD GIRLS의 세계에 오신 것을 환영합니다.<br></br>게임을 처음 시작하시는 분들을 위한 튜토리얼을<br></br>제공하고 있습니다.<br></br><br></br>튜토리얼을 완료하신 분들에게는<br></br>선물이 준비되어 있습니다.<br></br>튜토리얼을 진행하시겠습니까?]]></MSG>
+	</TUTORIAL_PAGE>
+	
+	<TUTORIAL_PAGE>
+		<ID>1</ID>
+		<TITLE>카드의 종류</TITLE>
+		<IMAGE_FILE>tuto_1_rule.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[SWORD GIRLS의 카드는<br></br><span fontWeight="bold" color="#0ba8f9">캐릭터, 스펠, 추종자</span>로 구분됩니다.<br></br><span fontWeight="bold" color="#0ba8f9">캐릭터</span>는 게임의 중심이 되는 카드이며,<br></br><span fontWeight="bold" color="#0ba8f9">스펠</span>은 특별한 능력을 가진 1회용 카드,<br></br><span fontWeight="bold" color="#0ba8f9">추종자</span>는 직접 전투를 하는 카드입니다.]]></MSG>
+	</TUTORIAL_PAGE>
+	
+	<TUTORIAL_PAGE>
+		<ID>2</ID>
+		<TITLE>카드의 사이즈</TITLE>
+		<IMAGE_FILE>tuto_2_rule.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[스펠 카드와 추종자 카드에는 <span fontWeight="bold" color="#0ba8f9">사이즈</span>가 존재합니다.<br></br>매 턴마다 스펠카드와 추종자 카드를 선택하여<br></br>클릭하면 필드에 올릴 수 있는데,<br></br>이 때 필드에 올리는 카드의<span fontWeight="bold" color="#0ba8f9">사이즈</span><br></br>합은 <span fontWeight="bold" color="#0ba8f9">10</span>을 넘길 수 없습니다.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>3</ID>
+		<TITLE>전투의 시작</TITLE>
+		<IMAGE_FILE>tuto_3_fight.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[1. 카드를  <span fontWeight="bold" color="#0ba8f9">10 사이즈</span> 이내에서 선택하고<br></br><br></br>2. <span fontWeight="bold" color="#0ba8f9">READY</span>를 클릭하면<br></br><br></br>전투를 시작합니다.<br></br><br></br> * 제한시간은 <span fontWeight="bold" color="#0ba8f9">30초</span>입니다.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>4</ID>
+		<TITLE>전투의 진행</TITLE>
+		<IMAGE_FILE>tuto_4_fight.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[READY를 클릭하면 코인을 던져 선공을 정하고<br></br>번갈아 공격을 시작합니다.<br></br>이 때의 공격순서와 공격 타겟은 랜덤하게 정해집니다.<br></br>1. 추종자카드가 파괴되거나<br></br>2. 방어할 추종자 카드가 없는 경우<br></br>캐릭터의  <span fontWeight="bold" color="#0ba8f9">라이프</span>가 감소하며,<br></br>상대 캐릭터의 <span fontWeight="bold" color="#0ba8f9">라이프</span>가<br></br>0이 되면 전투에 승리합니다.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>5</ID>
+		<TITLE>각 메뉴 설명</TITLE>
+		<IMAGE_FILE>tuto_5_menu.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[<span fontWeight="bold" color="#0ba8f9">DUNGEON</span> - NPC와 대전합니다.<br></br><span fontWeight="bold" color="#0ba8f9">FIGHT</span> - 랜덤한 유저와 대전합니다.<br></br><span fontWeight="bold" color="#0ba8f9">SHOP</span> - 유료 아이템을 구입합니다.<br></br><span fontWeight="bold" color="#0ba8f9">DECK</span> - 대전에서 사용할 카드를 선택합니다.<br></br><span fontWeight="bold" color="#0ba8f9">LAB</span> - 다양한 컨텐츠가 모여있습니다.<br></br>각 메뉴의 기능은 왼쪽 위의 "?"에<br></br>마우스를 올리면 자세한 설명을 확인<br></br>하실 수 있습니다.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>6</ID>
+		<TITLE>감사합니다.</TITLE>
+		<IMAGE_FILE>.</IMAGE_FILE>
+		<STATE>2</STATE>
+		<MSG><![CDATA[튜토리얼을 완료하신 것을 축하드리는 의미에서<br></br>선물을 준비했습니다.<br></br>선물은 DECK에서 확인 가능하며 LAB-과학실에서<br></br>새로운 카드로 조합하실 수 있습니다.<br></br><br></br>던전에 입장해 지금까지 배운 내용들을<br></br>직접 활용해 보세요.]]></MSG>
+	</TUTORIAL_PAGE>
+</TUTORIAL_DATA>

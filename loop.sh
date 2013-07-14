@@ -5,9 +5,13 @@ do
     do
         cd $dir
         cat urls.txt | xargs wget -N
+        git add *xml
         cd ..
     done
-    git add */*xml
+    cd Hikki
+    python grab.py
+    git add *json *py
+    cd ../
     git commit -m "automatic commit"
     git push origin master
     sleep 5m

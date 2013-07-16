@@ -333,7 +333,7 @@
 <CARD_SKILL><ID>100330</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱,핸드,필드,무덤에 사립소속 카드가 25장 이상있을경우 이하의 조건에 따라 특수능력이 발동된다. 1턴: 상대 덱 추종자 전체 공격력-1. 2턴 이후: 상대 핸드 랜덤한 추종자 1의 공격력-2. 자신라이프10이하: 상대필드.핸드 추종자 전체 공격력 -2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100331</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱,핸드,필드,무덤에 크룩스소속 카드가 25장 이상있을경우 이하의 조건에 따라 특수능력이 발동된다. 1턴: 상대 덱 추종자 전체 방/체 -1. 2턴 이후: 자신 필드 랜덤한 추종자 2의 방/체 +1. 자신라이프10이하: 자신 필드,핸드 추종자 전체 공/방/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100332</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱,핸드,필드,무덤에 다크로어소속 카드가 25장 이상있을경우 이하의 조건에 따라 특수능력이 발동된다. 1턴: 자신 무덤 천리교도 에프리바 7장 생성. 2턴 이후: 자신무덤 10의 자리수 만큼 자신필드 랜덤한 추종자 2의 공/체 증가. 자신라이프10이하:자신무덤 10의자리 수 만큼 자신핸드 랜덤한 추종자1 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100333</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 랜덤한 추종자 1은 자신 핸드 카드 사이즈의 종류수에 따라 이하의 효과를 적용한다. ●1사이즈: 사이즈 -1. ●2~3사이즈: 공/체 +1. ●4~5사이즈 체력 +1. ●6사이즈 이상: 방어력 + 1</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100333</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 랜덤한 추종자 1은 자신핸드 카드 사이즈 종류수에 따라 이하의 효과를 적용한다. ●1사이즈: 사이즈 -1. ●2~3사이즈: 공/체 +1. ●4~5사이즈 체력 +1. ●6사이즈 이상: 방어력 + 1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100334</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 사이즈가 가장 큰 카드 1의 사이즈 = 2 또는 3이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>

@@ -374,7 +374,7 @@
     "100053",
     "",
     ".",
-    "turn Start: A random Follower on the enemy Field gets ATK -1/STA -2. If the number of cards in your Hand is even, it gets an additional DEF -1.",
+    "Turn Start: A random Follower on the enemy Field gets ATK -1/STA -2. If the number of cards in your Hand is even, it gets an additional DEF -1.",
     "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790\uc758 \uacf5/\uccb4 -1/-2. \uc790\uc2e0 \ud578\ub4dc \uce74\ub4dc\uc218\uac00 \uc9dd\uc218\uc77c \uacbd\uc6b0, \ucd94\uac00\ub85c \ubc29\uc5b4\ub825 -1"
   ],
   [
@@ -416,7 +416,7 @@
     "100059",
     "",
     ".",
-    "Turn Start: The first Vita card in your Hand is sent to the bottom of your Deck. If this happens, the first Folloewr on the enemy Field with the highest STA gets DEF/STA decreased by half the sent card's SIZE (rounding up, by a maximum of 3).",
+    "Turn Start: The first Vita card in your Hand is sent to the bottom of your Deck. If this happens, the first Follower on the enemy Field with the highest STA gets DEF/STA decreased by half the sent card's SIZE (rounding up, by a maximum of 3).",
     "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0\ud578\ub4dc \uacf5\ub9bd\uc18c\uc18d \uccab\ubc88\uc9f8 \uce74\ub4dc\ub97c \uc790\uc2e0 \ub371 \ub9e8 \ubc11\uc73c\ub85c \uc62e\uae34\ub2e4. \uadf8 \uacbd\uc6b0 \ud574\ub2f9 \uce74\ub4dc \uc0ac\uc774\uc988\uc758 \uc808\ubc18(\uc62c\ub9bc)\ub9cc\ud07c \uccb4\ub825\uc774 \uac00\uc7a5 \ub192\uc740 \uccab\ubc88\uc9f8 \uc0c1\ub300\ud544\ub4dc \ucd94\uc885\uc790 1\uc758 \ubc29/\uccb4 \uac10\uc18c(\ucd5c\ub300 3)"
   ],
   [
@@ -766,7 +766,7 @@
     "100109",
     "",
     ".",
-    "Turn Start: If all cards in your Hand and Field belong to this card's faction and there are at least 5 cards in your Grave, a random Follower in your Grave is sent to the bottom of your Deck. A random Follower on your Field gets ATK +2/STA +2. If the number of cards in your Deck is less than or equal to the number of cards in the enemy Deck, a random Folloewr on the enemy Field gets DEF -1/STA -2.",
+    "Turn Start: If all cards in your Hand and Field belong to this card's faction and there are at least 5 cards in your Grave, a random Follower in your Grave is sent to the bottom of your Deck. A random Follower on your Field gets ATK +2/STA +2. If the number of cards in your Deck is less than or equal to the number of cards in the enemy Deck, a random Follower on the enemy Field gets DEF -1/STA -2.",
     "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0\ud578\ub4dc/\ud544\ub4dc\uce74\ub4dc\uac00 \uc790\uc2e0\uce90\ub9ad\ud130\uc640 \uc18c\uc18d\uc774 \uac19\uace0 \ubb34\ub364\uc7745\uc7a5 \uc774\uc0c1\uc774\uba74 \ub79c\ub364 \uc790\uc2e0\ubb34\ub364 \ucd94\uc885\uc7901\uc744 \uc790\uc2e0\ub371 \ub9e8\ubc11\uc73c\ub85c \uc62e\uae34\ub2e4. \ub79c\ub364\ud55c \uc790\uc2e0\ud544\ub4dc\ucd94\uc885\uc7901 \uacf5/\uccb4 +2 \uc790\uc2e0\ub371\uc218\uac00 \uc0c1\ub300\ub371 \uc218 \uc774\ud558\uba74 \ub79c\ub364\ud55c \uc0c1\ub300\ud544\ub4dc\ucd94\uc885\uc7901\uc758 \ubc29/\uccb4 -1/-2"
   ],
   [
@@ -948,7 +948,7 @@
     "100135",
     "",
     ".",
-    "Turn Start: A random Follower on your Field gets STA increased by the number of Followers on your Field. A random Follower in the enemy Hand gets STA dcreased by the number of Folloewrs on your Field.",
+    "Turn Start: A random Follower on your Field gets STA increased by the number of Followers on your Field. A random Follower in the enemy Hand gets STA dcreased by the number of Followers on your Field.",
     "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc740 \uc790\uc2e0\ud544\ub4dc \ucd94\uc885\uc790 \uc218\ub9cc\ud07c \uccb4\ub825\uc99d\uac00. \ub79c\ub364\ud55c \uc0c1\ub300 \ud578\ub4dc \ucd94\uc885\uc790 1\uc740 \uc790\uc2e0\ud544\ub4dc \ucd94\uc885\uc790 \uc218\ub9cc\ud07c \uccb4\ub825\uac10\uc18c."
   ],
   [
@@ -1060,7 +1060,7 @@
     "100151",
     "",
     ".",
-    "Turn Start: If the Turn Number is odd, a random Follower on your Field gets ATK +1/DEF +1/STA +1. If that Follower's SIZE is at least 4, it gets an additional ATK +1/STA +1. If the Turn Number is odd, a random Follower on the enemy Field gets ATK -1/DEF -1/STA -1. If that Folloewr's SIZE is at least 4, it gets an additional ATK -1/STA -1.",
+    "Turn Start: If the Turn Number is odd, a random Follower on your Field gets ATK +1/DEF +1/STA +1. If that Follower's SIZE is at least 4, it gets an additional ATK +1/STA +1. If the Turn Number is odd, a random Follower on the enemy Field gets ATK -1/DEF -1/STA -1. If that Follower's SIZE is at least 4, it gets an additional ATK -1/STA -1.",
     "\ud134\uac1c\uc2dc\uc2dc: \ud640\uc218\ud134\uc774\uba74 \uc790\uc2e0\ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc758 \uacf5/\ubc29/\uccb4 +1. \ud574\ub2f9 \ucd94\uc885\uc790\uac00 \uc0ac\uc774\uc988 4\uc774\uc0c1\uc774\uba74 \ucd94\uac00\ub85c \uacf5/\uccb4 +1. \uc9dd\uc218\ud134\uc774\uba74 \uc0c1\ub300\ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc758 \uacf5/\ubc29/\uccb4 -1. \ud574\ub2f9 \ucd94\uc885\uc790\uac00 \uc0ac\uc774\uc988 4\uc774\uc0c1\uc774\uba74 \ucd94\uac00\ub85c \uacf5/\uccb4 -1."
   ],
   [
@@ -1662,7 +1662,7 @@
     "100237",
     "",
     "",
-    "Turn Start: If your Character's LIFE is at least 12, the first 2 Folloewrs in the enemy Deck get ATK -1/STA -1. If your Character's LIFE is less than 12, you get Shuffles=0. (Hidden effect: If the Turn Number is 1, all Followers in your Deck with \"Linus\" in the name get STA +1)",
+    "Turn Start: If your Character's LIFE is at least 12, the first 2 Followers in the enemy Deck get ATK -1/STA -1. If your Character's LIFE is less than 12, you get Shuffles=0. (Hidden effect: If the Turn Number is 1, all Followers in your Deck with \"Linus\" in the name get STA +1)",
     "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ub77c\uc774\ud504\uac00 12 \uc774\uc0c1\uc77c \uacbd\uc6b0 \uc0c1\ub300 \ub371 \ub9e8 \uc704\uc758 \ucd94\uc885\uc790 2\uc7a5\uc758 \uacf5/\uccb4 -1. \ub77c\uc774\ud504\uac00 12 \ubbf8\ub9cc\uc77c \uacbd\uc6b0 \uc790\uc2e0 \uc154\ud50c\uc218 =0. (\uc228\uaca8\uc9c4 \ud6a8\uacfc\uac00 \uc788\uc2b5\ub2c8\ub2e4.)"
   ],
   [
@@ -2329,6 +2329,20 @@
     "",
     "Turn Start: If there are at least 25 total Darklore cards in your Deck, Hand, Field, and Grave, the following effects are applied depending on the situation. Turn 1: 7 cards with the name \"Aletheian F-RIVA\" are created in your Grave. Turn 2 or later: 2 random Followers on your Field get ATK/STA increased by the tens digit of the number of cards in your Grave. Your Character's LIFE is 10 or less: A random Follower in your Hand gets ATK/STA increased by the tens digit of the number of cards in your Grave.",
     "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0\ub371,\ud578\ub4dc,\ud544\ub4dc,\ubb34\ub364\uc5d0 \ub2e4\ud06c\ub85c\uc5b4\uc18c\uc18d \uce74\ub4dc\uac00 25\uc7a5 \uc774\uc0c1\uc788\uc744\uacbd\uc6b0 \uc774\ud558\uc758 \uc870\uac74\uc5d0 \ub530\ub77c \ud2b9\uc218\ub2a5\ub825\uc774 \ubc1c\ub3d9\ub41c\ub2e4. 1\ud134: \uc790\uc2e0 \ubb34\ub364 \ucc9c\ub9ac\uad50\ub3c4 \uc5d0\ud504\ub9ac\ubc14 7\uc7a5 \uc0dd\uc131. 2\ud134 \uc774\ud6c4: \uc790\uc2e0\ubb34\ub364 10\uc758 \uc790\ub9ac\uc218 \ub9cc\ud07c \uc790\uc2e0\ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 2\uc758 \uacf5/\uccb4 \uc99d\uac00. \uc790\uc2e0\ub77c\uc774\ud50410\uc774\ud558:\uc790\uc2e0\ubb34\ub364 10\uc758\uc790\ub9ac \uc218 \ub9cc\ud07c \uc790\uc2e0\ud578\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc7901 \uacf5/\uccb4 \uc99d\uac00."
+  ],
+  [
+    "100333",
+    "",
+    "",
+    "Turn Start: A random Follower on your Field gets the following effects depending on the SIZES present in your Hand. \u25cfSIZE 1: SIZE -1. \u25cfSIZE 2~3: ATK +1/STA +1. \u25cfSIZE 4~5: STA +1. \u25cfSIZE 6 or higher: DEF +1.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0\ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc740 \uc790\uc2e0\ud578\ub4dc \uce74\ub4dc \uc0ac\uc774\uc988 \uc885\ub958\uc218\uc5d0 \ub530\ub77c \uc774\ud558\uc758 \ud6a8\uacfc\ub97c \uc801\uc6a9\ud55c\ub2e4. \u25cf1\uc0ac\uc774\uc988: \uc0ac\uc774\uc988 -1. \u25cf2~3\uc0ac\uc774\uc988: \uacf5/\uccb4 +1. \u25cf4~5\uc0ac\uc774\uc988 \uccb4\ub825 +1. \u25cf6\uc0ac\uc774\uc988 \uc774\uc0c1: \ubc29\uc5b4\ub825 + 1."
+  ],
+  [
+    "100334",
+    "",
+    "",
+    "Turn Start: The card in your Hand with the highest SIZE gets SIZE=2~3.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ud578\ub4dc \uc0ac\uc774\uc988\uac00 \uac00\uc7a5 \ud070 \uce74\ub4dc 1\uc758 \uc0ac\uc774\uc988 = 2 \ub610\ub294 3\uc774 \ub41c\ub2e4."
   ],
   [
     "110001",
@@ -3958,7 +3972,7 @@
     "110233",
     "",
     ".",
-    "Turn Start: If all cards in your Hand and Field belong to this card's faction and there are at least 5 cards in your Grave, a random Follower in your Grave is sent to the bottom of your Deck. A random Follower on your Field gets ATK +2/STA +2. If the number of cards in your Deck is less than or equal to the number of cards in the enemy Deck, a random Folloewr on the enemy Field gets DEF -1/STA -2.",
+    "Turn Start: If all cards in your Hand and Field belong to this card's faction and there are at least 5 cards in your Grave, a random Follower in your Grave is sent to the bottom of your Deck. A random Follower on your Field gets ATK +2/STA +2. If the number of cards in your Deck is less than or equal to the number of cards in the enemy Deck, a random Follower on the enemy Field gets DEF -1/STA -2.",
     "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0\ud578\ub4dc/\ud544\ub4dc\uce74\ub4dc\uac00 \uc790\uc2e0\uce90\ub9ad\ud130\uc640 \uc18c\uc18d\uc774 \uac19\uace0 \ubb34\ub364\uc7745\uc7a5 \uc774\uc0c1\uc774\uba74 \ub79c\ub364 \uc790\uc2e0\ubb34\ub364 \ucd94\uc885\uc7901\uc744 \uc790\uc2e0\ub371 \ub9e8\ubc11\uc73c\ub85c \uc62e\uae34\ub2e4. \ub79c\ub364\ud55c \uc790\uc2e0\ud544\ub4dc\ucd94\uc885\uc7901 \uacf5/\uccb4 +2 \uc790\uc2e0\ub371\uc218\uac00 \uc0c1\ub300\ub371 \uc218 \uc774\ud558\uba74 \ub79c\ub364\ud55c \uc0c1\ub300\ud544\ub4dc\ucd94\uc885\uc7901\uc758 \ubc29/\uccb4 -1/-2"
   ],
   [
@@ -4872,6 +4886,69 @@
     "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ub371 \uc218 \ub9cc\ud07c \uc790\uc2e0 \ub77c\uc774\ud504 \uac10\uc18c. \uc790\uc2e0 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 2\uc758 \uacf5/\uccb4\ub294 \uc0c1\ub300 \ub371 \uc2ed\uc758 \uc790\ub9ac\uc218 \ub9cc\ud07c \uc99d\uac00\ud55c\ub2e4."
   ],
   [
+    "110364",
+    "",
+    "",
+    "Turn Start: If Slot 1 of the enemy Field is empty, the card in Slot 3 of the enemy Field is sent to the Grave. A random card on the enemy Field is moved to the next empty Slot.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud544\ub4dc 1\ubc88 \uc2ac\ub86f\uc5d0 \uce74\ub4dc\uac00 \uc5c6\uc744\uacbd\uc6b0 3\ubc88 \uc2ac\ub86f\uc5d0 \uc788\ub294 \uce74\ub4dc\ub97c \ubb34\ub364\uc73c\ub85c \ubcf4\ub0b8\ub2e4. \uc0c1\ub300 \ud544\ub4dc \ub79c\ub364\ud55c \uce74\ub4dc1\uc740 \ub2e4\uc74c \ube48 \uc2ac\ub86f\uc73c\ub85c \uc774\ub3d9\ud55c\ub2e4."
+  ],
+  [
+    "110365",
+    "",
+    "",
+    "Turn Start: The last Follower on your Field is moved to the next Slot. If the new Slot number is 5, the enemy Character gets LIFE -5.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ud544\ub4dc \ub9c8\uc9c0\ub9c9 \uc2ac\ub86f\uc5d0 \uc704\uce58\ud55c \ucd94\uc885\uc790\ub294 \ub2e4\uc74c \uc2ac\ub86f\uc73c\ub85c \uc774\ub3d9\ud55c\ub2e4. \ud574\ub2f9 \uc2ac\ub86f\uc774 5\ubc88 \uc2ac\ub86f\uc77c \uacbd\uc6b0 \uc0c1\ub300 \uce90\ub9ad\ud130 \ub77c\uc774\ud504 -5."
+  ],
+  [
+    "110366",
+    "",
+    "",
+    "Turn Start: If the first card in the enemy Hand is a Spell, the first Follower on the enemy Field gets STA -3.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud578\ub4dc \uccab\ubc88\uc9f8 \uce74\ub4dc\uac00 \uc2a4\ud3a0\uce74\ub4dc\uc77c \uacbd\uc6b0 \uc0c1\ub300 \ud544\ub4dc \uccab \ubc88\uc9f8 \ucd94\uc885\uc790\uc758 \uccb4\ub825 -3."
+  ],
+  [
+    "110367",
+    "",
+    "",
+    "Turn Start: A random Follower on the enemy Field gets ATK decreased by the difference in SIZE of the first 2 cards in the enemy Hand.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud578\ub4dc \uccab\ubc88\uca30 \uce74\ub4dc\uc640 \ub450\ubc88\uc9f8 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988 \ucc28\uc774\ub9cc\ud07c \uc0c1\ub300 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc758 \uacf5\uaca9\ub825 \uac10\uc18c."
+  ],
+  [
+    "110368",
+    "",
+    "",
+    "Turn Start: The first Follower on your Field with a SIZE of 3 gets STA changed to its original value.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ud544\ub4dc \uccab \ubc88\uc9f8 3 \uc0ac\uc774\uc988 \ucd94\uc885\uc790\uc758 \uccb4\ub825\uc740 \uc6d0\ub798 \uccb4\ub825\uc774 \ub41c\ub2e4."
+  ],
+  [
+    "110369",
+    "",
+    "",
+    "Turn Start: The first Follower on the enemy Field with a SIZE of 3 is sent to the bottom of the enemy Deck.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud544\ub4dc \uccab \ubc88\uc9f8 3\uc0ac\uc774\uc988 \ucd94\uc885\uc790 1\uc740 \ub371 \ub9e8\ubc11\uc73c\ub85c \uac04\ub2e4."
+  ],
+  [
+    "110370",
+    "",
+    "",
+    "Turn Start: All Followers on the enemy Field whose Slot numbers and DEF are both odd or both even get ATK -1/STA -1.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc2ac\ub86f\ubc88\ud638\uc640 \uc790\uc2e0 \ubc29\uc5b4\ub825\uc758 \ud640/\uc9dd\uc774 \uc77c\uce58\ud558\ub294 \uc0c1\ub300\ud544\ub4dc \ucd94\uc885\uc790 \uce74\ub4dc \uc804\uccb4 \uacf5/\uccb4 -1"
+  ],
+  [
+    "110371",
+    "",
+    "",
+    "Turn Start: A random Follower on your Field is sent to the Grave. The enemy Character gets LIFE decreased by half the sent card's SIZE (rounding down).",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc740 \ubb34\ub364\uc73c\ub85c \uac04\ub2e4. \ud574\ub2f9 \ucd94\uc885\uc790\uc758 \uc0ac\uc774\uc988\uc758 \uc808\ubc18(\ub0b4\ub9bc)\ub9cc\ud07c \uc0c1\ub300 \uce90\ub9ad\ud130 \ub77c\uc774\ud504 \uac10\uc18c."
+  ],
+  [
+    "110372",
+    "",
+    "",
+    "Turn Start: A random Follower on your Field gets SIZE +1/ATK +1/DEF +1/STA +1.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc758 \uc0ac\uc774\uc988\uc640 \uacf5/\ubc29/\uccb4 +1."
+  ],
+  [
     "120001",
     "",
     "",
@@ -5227,6 +5304,20 @@
     "",
     "Turn Start: All Followers on the enemy Field get SIZE -1. A random Follower on the enemy Field whose current SIZE and original SIZE differ by at least 3 is destroyed. If this happens, a random Follower in the enemy Hand gets SIZE -1.",
     "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \uc0ac\uc774\uc988 -1. \ubcf8\ub798 \uc0ac\uc774\uc988\uc640 \ud604\uc7ac \uc0ac\uc774\uc988\uac00 3\uc774\uc0c1 \ucc28\uc774\ub098\ub294 \uc0c1\ub300 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc7901\uc744 \ud30c\uad34\ud55c\ub2e4.\uadf8\ub7ac\uc744\uacbd\uc6b0 \uc0c1\ub300 \ud578\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc758 \uc0ac\uc774\uc988 -1."
+  ],
+  [
+    "120052",
+    "",
+    "",
+    "Turn Start: A random Follower on the enemy Field gets the following effects depending on the SIZES present in the enemy Hand. \u25cfSIZE 1: SIZE +1. \u25cfSIZE 2: ATK -1. \u25cfSIZE 3: STA -1. \u25cfSIZE 4: DEF -1. \u25cfSIZE 5: ATK -1/STA -1.",
+    "\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300 \ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc790 1\uc740 \uc0c1\ub300 \ud578\ub4dc \uce74\ub4dc \uc0ac\uc774\uc988\uc758 \uc885\ub958\uc218\uc5d0 \ub530\ub77c \uc774\ud558\uc758 \ud6a8\uacfc\ub97c \ubaa8\ub450 \uc801\uc6a9\ud55c\ub2e4. \u25cf1\uc0ac\uc774\uc988: \uc0ac\uc774\uc988 +1. \u25cf2\uc0ac\uc774\uc988: \uacf5\uaca9\ub825 -1. \u25cf3\uc0ac\uc774\uc988: \uccb4\ub825 -1. \u25cf4\uc0ac\uc774\uc988: \ubc29\uc5b4\ub825 -1. \u25cf5\uc0ac\uc774\uc988: \uacf5/\uccb4 -1."
+  ],
+  [
+    "120053",
+    "",
+    "",
+    "Turn Start: If the Turn Number is 1, all cards in your Deck get SIZE=2.",
+    "\ud134\uac1c\uc2dc\uc2dc: \ud604\uc7ac \ud134 \uc218\uac00 1\uc77c\uacbd\uc6b0 \uc790\uc2e0 \ub371 \uce74\ub4dc \uc804\uccb4 \uc0ac\uc774\uc988 =2."
   ],
   [
     "200001",
@@ -9922,7 +10013,7 @@
     "200671",
     "",
     "",
-    ".",
+    "A card with the name \"Pang Pang\" is created in all empty Slots of either your Field or the enemy Field. Afterwards, all created cards are removed from the game. All Followers on your Field get STA increased by the number of \"Pang Pang\" cards that were removed from your Field. All Followers on the enemy Field get STA decreased by the number of \"Pang Pang\" cards that were removed from the enemy Field.",
     "\uc790\uc2e0 \ud639\uc740 \uc0c1\ub300\ud544\ub4dc \uccab\ubc88\uc9f8 \ube48\uc2ac\ub86f\ubd80\ud130 \ucc28\ub840\ub300\ub85c \"\ud321\ud321\"\uce74\ub4dc\ub97c \uc0dd\uc131\ud55c\ub2e4. \uadf8 \ud6c4 \ud574\ub2f9 \uce74\ub4dc\ub97c \uc804\ubd80 \uc81c\uac70\ud55c\ub2e4. \uc790\uc2e0 \ud544\ub4dc\uc758 \"\ud321\ud321\"\uce74\ub4dc\uac00 \uc81c\uac70\ub41c \uc218 \ub9cc\ud07c \uc790\uc2e0 \ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \uccb4\ub825 \uc99d\uac00. \uc0c1\ub300 \ud544\ub4dc\uc758 \"\ud321\ud321\"\uce74\ub4dc\uac00 \uc81c\uac70\ub41c \uc218 \ub9cc\ud07c \uc0c1\ub300\ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \uccb4\ub825 \uac10\uc18c."
   ],
   [
@@ -10104,7 +10195,7 @@
     "200697",
     "",
     "",
-    "The first Follower on your Field with \"Maid\" in the name is removed from the game. The first card in your Deck with the name \"Dress Up Guard\" is sent to the first empty Slot on your Field. If there are any cards remaining in your Deck with the name \"Dress Up Guard\", those cards are removed from the game. If this happens, the sent Folloewr gets SIZE -1/ATK +1/DEF +1/STA +1.",
+    "The first Follower on your Field with \"Maid\" in the name is removed from the game. The first card in your Deck with the name \"Dress Up Guard\" is sent to the first empty Slot on your Field. If there are any cards remaining in your Deck with the name \"Dress Up Guard\", those cards are removed from the game. If this happens, the sent Follower gets SIZE -1/ATK +1/DEF +1/STA +1.",
     "\uc790\uc2e0 \ud544\ub4dc \uc774\ub984\uc5d0 \"\uba54\uc774\ub4dc\"\uac00 \ub4e4\uc5b4\uac04 \uccab \ubc88\uc9f8 \ucd94\uc885\uc790\ub97c \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud55c\ub2e4. \uc790\uc2e0 \ub371\uc5d0 \"\ub4dc\ub808\uc2a4\uc5c5 \uac00\ub354\"\ub97c \uc790\uc2e0 \ud544\ub4dc \uccab \ubc88\uc9f8 \ube48 \uc2ac\ub86f\uc5d0 \ubc30\uce58\ud55c\ub2e4. \uc790\uc2e0\ub371\uc5d0 \"\ub4dc\ub808\uc2a4\uc5c5 \uac00\ub354\"\uac00 \uc788\uc744\uacbd\uc6b0 \ud574\ub2f9 \uce74\ub4dc\ub97c \uc804\ubd80 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud55c\ub2e4. \uadf8 \uacbd\uc6b0 \uacf5/\ubc29/\uccb4 +1. \uc0ac\uc774\uc988 -1."
   ],
   [
@@ -10216,7 +10307,7 @@
     "200713",
     "",
     "",
-    "The Follower on your Field with the highest SIZE gets SIZE +3. If that Follower belongs to Crux, that Folloewr gets ATK/STA increased by half its new SIZE (rounding down). If that Follower's new SIZE is at least 9, it gets SIZE=3.",
+    "The Follower on your Field with the highest SIZE gets SIZE +3. If that Follower belongs to Crux, that Follower gets ATK/STA increased by half its new SIZE (rounding down). If that Follower's new SIZE is at least 9, it gets SIZE=3.",
     "\uc790\uc2e0\ud544\ub4dc \uc0ac\uc774\uc988\uac00 \uac00\uc7a5 \ud070 \ucd94\uc885\uc790\uc758 \uc0ac\uc774\uc988 +3. \ud574\ub2f9 \ucd94\uc885\uc790\uac00 \ud06c\ub8e9\uc2a4 \uc18c\uc18d\uc77c\uacbd\uc6b0 \ubcc0\ud654 \ud6c4 \uc0ac\uc774\uc988\uc758 \uc808\ubc18(\ub0b4\ub9bc) \ub9cc\ud07c \uacf5/\uccb4 \uc99d\uac00. \ubcc0\ud654 \ud6c4 \uc0ac\uc774\uc988\uac00 9\uc774\uc0c1\uc77c \uacbd\uc6b0 \ud574\ub2f9 \ucd94\uc885\uc790\uc758 \uc0ac\uc774\uc988 = 3."
   ],
   [
@@ -10617,6 +10708,34 @@
     "",
     "All Followers on your Field are deactivated. All Followers on the enemy Field get ATK/STA decreased by 1.5 times the number of deactivated Followers (rounding up). This card gets SIZE=1 and remains active. If this card's SIZE is 1, all Followers on your Field are reactivated instead.",
     "\uc790\uc2e0 \ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \ud589\ub3d9\uc885\ub8cc \uc0c1\ud0dc\uac00 \ub41c\ub2e4. \ud589\ub3d9\uc885\ub8cc\ub41c \ucd94\uc885\uc790 \uc218 1.5\ubc30(\uc62c\ub9bc)\ub9cc\ud07c \uc0c1\ub300\ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \uacf5/\uccb4 \uac10\uc18c. \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988 =1 \ud558\uc5ec \ubc30\uce58\ud55c\ub2e4. \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988\uac00 1\uc77c\uacbd\uc6b0 \uc790\uc2e0\ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \ud589\ub3d9\uac00\ub2a5 \uc0c1\ud0dc\uac00 \ub41c\ub2e4."
+  ],
+  [
+    "200771",
+    "",
+    "",
+    "The follower on your Field with the lowest STA gains the skill $1934. 3 random Followers in the enemy Deck gain the skill $1934.",
+    "\uc790\uc2e0 \ud544\ub4dc \uccb4\ub825\uc774 \uac00\uc7a5 \ub0ae\uc740 \ucd94\uc885\uc790 1\uc740 \"\ubc29\uc5b4\uc804:\uc774 \ucd94\uc885\uc790\ub294 \ud30c\uad34\ub41c\ub2e4.\" \ud2b9\uc218\ub2a5\ub825\uc774 \ucd94\uac00\ub41c\ub2e4. \uc0c1\ub300 \ub371 \ub79c\ub364\ud55c \ucd94\uc885\uc790 3\uc740 \"\ubc29\uc5b4\uc804: \uc774 \ucd94\uc885\uc790\ub294 \ud30c\uad34\ub41c\ub2e4.\"\ud2b9\uc218\ub2a5\ub825\uc774 \ucd94\uac00\ub41c\ub2e4."
+  ],
+  [
+    "200772",
+    "",
+    "",
+    "All cards in both Fields and Hands get SIZE changed to their original values. All Followers on the enemy Field get ATK/STA decreased by the total change in SIZE (if you have an Academy Character) or half the total change in SIZE (rounding down, if you do not have an Academy Character).",
+    "\ubaa8\ub4e0 \ud544\ub4dc/\ud578\ub4dc \uce74\ub4dc\uc758 \uc0ac\uc774\uc988\ub294 \uc6d0\ub798 \uc218\uce58\uac00 \ub41c\ub2e4. \ud574\ub2f9 \ubcc0\ud654 \uc218\uce58 \ud569\uacc4\uc758 \uc808\ubc18(\ub0b4\ub9bc)\ub9cc\ud07c \uc0c1\ub300\ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \uacf5/\uccb4 \uac10\uc18c. \uc790\uc2e0 \uce90\ub9ad\ud130\uac00 \uc0ac\ub9bd\uc18c\uc18d\uc77c \uacbd\uc6b0 \ubcc0\ud654 \uc218\uce58\uc758 \ud569\uacc4\ub9cc\ud07c \uac10\uc18c\ud55c\ub2e4."
+  ],
+  [
+    "200773",
+    "",
+    "",
+    "If you have a Crux Character, all Followers on the enemy Field are deactivated and gain the skill $1935",
+    "\uc790\uc2e0 \uce90\ub9ad\ud130\uac00 \ud06c\ub8e9\uc2a4 \uc18c\uc18d\uc77c\uacbd\uc6b0 \uc0c1\ub300 \ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \ud589\ub3d9\uc885\ub8cc \uc0c1\ud0dc\uac00 \ub418\uace0, \"\ubc29\uc5b4\uc804: \uc774 \ucd94\uc885\uc790\ub294 \uc804\uccb4 \ud544\ub4dc \ub79c\ub364\ud55c \ube48 \uc2ac\ub86f\uc73c\ub85c \uc774\ub3d9\ud55c\ub2e4. \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4.\" \ud2b9\uc218\ub2a5\ub825\uc774 \ucd94\uac00\ub41c\ub2e4."
+  ],
+  [
+    "200774",
+    "",
+    "",
+    "All cards in the enemy Grave that belong to a different faction than then enemy Character are removed from the game. The enemy Character gets LIFE decreased by the number of removed cards (by a maximum of 3). If the number of removed cards was 5 or less, all Followers in your Hand and Field get ATK +2/STA +2. If the number of removed cards was 5 or more, a random Spell on the enemy Field is sent to the Grave.",
+    "\uc0c1\ub300 \uce90\ub9ad\ud130\uc640 \uc18c\uc18d\uc774 \ub2e4\ub978 \uc0c1\ub300 \ubb34\ub364 \uce74\ub4dc \uc804\ubd80 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud55c\ub2e4. \uc81c\uac70\ud55c \uc218 \ub9cc\ud07c \uc0c1\ub300 \ub77c\uc774\ud504 \uac10\uc18c.(\ucd5c\ub300 3) \uc81c\uac70\ud55c \uce74\ub4dc\uac00 5\uc7a5\uc774\ud558\uc77c \uacbd\uc6b0 \uc790\uc2e0 \ud578\ub4dc/\ud544\ub4dc \ucd94\uc885\uc790 \uc804\uccb4 \uacf5/\uccb4 +2. 5\uc7a5 \uc774\uc0c1\uc77c\uacbd\uc6b0 \uc0c1\ub300 \ud544\ub4dc \ub79c\ub364\ud55c \uc2a4\ud3a0\uce74\ub4dc 1\uc744 \ubb34\ub364\uc73c\ub85c \ubcf4\ub0b8\ub2e4."
   ],
   [
     "1001",
@@ -17008,5 +17127,173 @@
     "\uad6c\uc18d\ud574\uc81c!",
     "\u25b6Attack: This card gets ATK set equal to 3 + this card's original ATK. This skill is removed.",
     "\u25b6\uacf5\uaca9\uc804: \uc774 \ucd94\uc885\uc790\uc758 \uacf5\uaca9\ub825\uc740 \ubcf8\ub798 \uacf5\uaca9\ub825 +3\uc774 \ub41c\ub2e4. \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4."
+  ],
+  [
+    "1914",
+    "Persona!",
+    "\uc2e0\ubd84\uc2e0!",
+    "\u25b6Turn Start: All cards in your Deck with the same name as this card are removed from the game. For every card removed, this card gets ATK +2/STA +2. This card's original skills are restored.",
+    "\u25b6\ud134\uac1c\uc2dc\uc2dc: \uc774\uce74\ub4dc\uc640 \uac19\uc740\uc774\ub984\uc758 \uce74\ub4dc\ub97c \uc790\uc2e0\ub371\uc5d0\uc11c \ubaa8\ub450 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud55c\ub2e4. \uc81c\uac70\ud55c \uce74\ub4dc 1\uc7a5\ub2f9 \uc774 \uce74\ub4dc\uc758 \uacf5/\uccb4+2. \uc774 \uce74\ub4dc\uc758 \ud2b9\uc218\ub2a5\ub825\uc740 \ubcf8\ub798 \ud2b9\uc218\ub2a5\ub825\uc774 \ub41c\ub2e4."
+  ],
+  [
+    "1915",
+    "Summon Persona!",
+    "\ubd84\uc2e0 \uc18c\ud658!",
+    "\u25b6Attack: A copy of this card is created at the bottom of your Deck. This skill is removed.",
+    "\u25b6\uacf5\uaca9\uc804: \uc790\uc2e0\ub371 \ub9e8 \ubc11\uc5d0 \uc774 \uce74\ub4dc\ub97c \ubcf5\uc0ac\ud55c\ub2e4. \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4."
+  ],
+  [
+    "1916",
+    "Summon Persona!",
+    "\ubd84\uc2e0 \uc18c\ud658!",
+    "\u25b6Defend: A copy of this card is created at the bottom of your Deck. This skill is removed.",
+    "\u25b6\ubc29\uc5b4\uc804: \uc790\uc2e0\ub371 \ub9e8 \ubc11\uc5d0 \uc774 \uce74\ub4dc\ub97c \ubcf5\uc0ac\ud55c\ub2e4. \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4."
+  ],
+  [
+    "1917",
+    "My Blessing",
+    "\uc9d0\uc758 \uc740\ucd1d",
+    "\u25b6Turn Start: 5 random Vita Followers in your Deck whose ATK is lower than this card's ATK get ATK set equal to this card's ATK.",
+    "\u25b6\ud134\uac1c\uc2dc\uc2dc: \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825\ubcf4\ub2e4 \ub0ae\uc740 \uacf5\uaca9\ub825\uc744 \uac00\uc9c4 \uc790\uc2e0 \ub371 \ub79c\ub364\ud55c \uacf5\ub9bd\uc18c\uc18d \ucd94\uc885\uc7905\uc758 \uacf5\uaca9\ub825\uc740 \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825\uacfc \uac19\uc544\uc9c4\ub2e4."
+  ],
+  [
+    "1918",
+    "Exorcise",
+    "\ud1f4\ub9c8\uc220",
+    "\u25b6Attack: This card gets SIZE +1 (to a maximum of 5) and ATK +1/DEF +1/STA +2.",
+    "\u25b6\uacf5\uaca9\uc804: \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988 +1.(\ucd5c\ub300 5) \uacf5/\ubc29/\uccb4 +1/+1/+2."
+  ],
+  [
+    "1919",
+    "Seal",
+    "\ubd09\uc2e0",
+    "\u25b6Defend: This card gets STA increased by half its SIZE (rounding up).",
+    "\u25b6\ubc29\uc5b4\uc804: \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988 \uc808\ubc18(\uc62c\ub9bc)\ub9cc\ud07c \uc774 \uce74\ub4dc\uc758 \uccb4\ub825 \uc99d\uac00."
+  ],
+  [
+    "1920",
+    "Would you not get mad?",
+    "\ud654\ub0b4\uac8c \ud558\uc9c0 \ub9d0\uc544\uc904\ub798?",
+    "\u25b6Attack: This card gets SIZE -1 (to a minimum of 2). The defender gets ATK -1/STA -1.",
+    "\u25b6\uacf5\uaca9\uc804: \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988 -1.(\ucd5c\uc18c 2) \ubc29\uc5b4 \ucd94\uc885\uc790\uc758 \uacf5/\uccb4 -1."
+  ],
+  [
+    "1921",
+    "It's punishment time!",
+    "\uccb4\ubc8c\uc2dc\uac04\uc774\uc57c.",
+    "\u25b6Defend: This card gets STA increased by the difference between its current SIZE and original SIZE.",
+    "\u25b6\ubc29\uc5b4\uc804: \uc774 \uce74\ub4dc\uc758 \ubcf8\ub798 \uc0ac\uc774\uc988\uc640 \ud604\uc7ac \uc0ac\uc774\uc988\uc758 \ucc28\uc774 \ub9cc\ud07c \uc774 \uce74\ub4dc\uc758 \uccb4\ub825 \uc99d\uac00."
+  ],
+  [
+    "1922",
+    "Memorize",
+    "\uba54\ubaa8\ub77c\uc774\uc988",
+    "\u25b6Turn Start: The first card in the enemy Hand is sent to the bottom of the enemy Deck.",
+    "\u25b6\ud134\uac1c\uc2dc\uc2dc: \uc0c1\ub300\ud578\ub4dc \uccab \ubc88\uc9f8 \uce74\ub4dc\ub97c \uc0c1\ub300 \ub371 \ub9e8 \ubc11\uc73c\ub85c \ubcf4\ub0b8\ub2e4."
+  ],
+  [
+    "1923",
+    "Levantin!",
+    "\ub808\ubc18\ud2f4!",
+    "\u25b6Defend: This card gets STA increased by the number of empty Slots in the enemy Hand.",
+    "\u25b6\ubc29\uc5b4\uc804: \uc0c1\ub300 \ud578\ub4dc \ube48 \uc2ac\ub86f \uc218\ub9cc\ud07c \uc774 \uce74\ub4dc\uc758 \uccb4\ub825 \uc99d\uac00."
+  ],
+  [
+    "1924",
+    "Rune Magic!",
+    "\ub8ec\uc758 \ub9c8\ubc95!",
+    "\u25b6Attack: The first card in your Hand is sent to the top of your Deck. This card gets ATK increased by the number of empty Slots in your Hand.",
+    "\u25b6\uacf5\uaca9\uc804: \uc790\uc2e0 \ud578\ub4dc \uccab\ubc88\uc9f8 \uce74\ub4dc\ub97c \uc790\uc2e0 \ub371 \ub9e8 \uc704\ub85c \uc62e\uae34\ub2e4. \uc790\uc2e0 \ud578\ub4dc \ube48 \uc2ac\ub86f \uc218 \ub9cc\ud07c \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825 \uc99d\uac00."
+  ],
+  [
+    "1925",
+    "Extreme Weapons!",
+    "\ubb34\uae30\uc775\uc2a4\ud37c\ud2b8!",
+    "\u25b6Attack: This card and another random Follower on your Field gain 1 one of the following skills randomly. $1124 $1705 $1203 This skill is changed to $1076",
+    "\u25b6\uacf5\uaca9\uc804:\uc774 \uce74\ub4dc\uc640 \uc790\uc2e0\ud544\ub4dc \ub79c\ub364\ud55c \ucd94\uc885\uc7901\uc740 \uc774\ud558\uc758 \ud2b9\uc218\ub2a5\ub825\uc911 \ub79c\ub364\ud55c 1\uac1c\ub97c \uc5bb\ub294\ub2e4. \"\uacf5\uaca9\uc804: \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825 +2.\",\"\uacf5\uaca9\uc804:\uc774 \uce74\ub4dc\uc758 \uacf5/\uccb4 +1/+2\",\"\ubc29\uc5b4\uc804: \uc774 \uce74\ub4dc\uc758 \uccb4\ub825 +3.\" \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \"\ud134\uac1c\uc2dc\uc2dc: \ubcf8\ub798 \ud2b9\uc218\ub2a5\ub825\uc774 \ub41c\ub2e4.\"\ub85c \ubc14\ub010\ub2e4."
+  ],
+  [
+    "1926",
+    "Fight for me...",
+    "\ub300\uc2e0 \uc2f8\uc6cc\uc918\u2026",
+    "\u25b6Turn Start: A random Darklore Follower in your Deck gets ATK/STA increased by the number of cards in your Grave with the name \"Zombie\" (by a maximum of 3).",
+    "\u25b6\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \ubb34\ub364 \u201c\uc880\ube44\u201d \ub4e4\uc5b4\uac04 \uce74\ub4dc \uc218 \ub9cc\ud07c \uc790\uc2e0 \ub371 \ub79c\ub364\ud55c \ub2e4\ud06c\ub85c\uc5b4 \ucd94\uc885\uc790 1\uc758 \uacf5/\uccb4 \uc99d\uac00.(\ucd5c\ub300 3)"
+  ],
+  [
+    "1927",
+    "Magic Rod",
+    "\uc5ec\uc758\ubd09",
+    "\u25b6Attack: A card in your Deck with the name \"Zombie\" is sent to the Grave. If this happens, this card gets SIZE -1/ATK +2/STA +2",
+    "\u25b6\uacf5\uaca9\uc804: \uc790\uc2e0 \ub371 \u201c\uc880\ube44\u201d \uce74\ub4dc 1\uc7a5\uc744 \ubb34\ub364\uc73c\ub85c \ubcf4\ub0b8\ub2e4. \uadf8\ub7ac\uc744\uacbd\uc6b0 \uc774 \uce74\ub4dc\uc758 \uacf5/\uccb4 +2 \uc0ac\uc774\uc988 -1."
+  ],
+  [
+    "1928",
+    "Throw Bait",
+    "\ubbf8\ub07c \ud22c\ucc99",
+    "\u25b6Defend: If the attacker's ATK is less than or equal to this card's total DEF+STA, a card with the name \"Zombie\" is created at the bottom of your Deck.",
+    "\u25b6\ubc29\uc5b4\uc804: \uacf5\uaca9\ucd94\uc885\uc790\uc758 \uacf5\uaca9\ub825\uc774 \uc774 \uce74\ub4dc\uc758 \ubc29/\uccb4\ud569 \uc774\ud558\uc77c\uacbd\uc6b0 \uc790\uc2e0 \ub371 \ub9e8 \ubc11\uc5d0 \u201c\uc880\ube44\u201d\uce74\ub4dc\ub97c 1\uc7a5 \uc0dd\uc131\ud55c\ub2e4."
+  ],
+  [
+    "1929",
+    "Golden Time!",
+    "\ud669\uae08\uc758 \uc2dc\uac04!",
+    "\u25b6Turn Start: If you have a Darklore Character, this card gets SIZE and ATK changed to their original values.",
+    "\u25b6\ud134\uac1c\uc2dc\uc2dc: \uc790\uc2e0 \uce90\ub9ad\ud130\uac00 \ub2e4\ud06c\ub85c\uc5b4 \uc18c\uc18d\uc77c \uacbd\uc6b0 \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988\uc640 \uacf5\uaca9\ub825\uc740 \uc6d0\ub798 \uc218\uce58\uac00 \ub41c\ub2e4."
+  ],
+  [
+    "1930",
+    "Caladbolg",
+    "\uce7c\ub77c\ub4dc\ubcfc\uadf8",
+    "\u25b6Attack: The defender gets STA decreased by this card's ATK. This card gets ATK=0 and SIZE +1.",
+    "\u25b6\uacf5\uaca9\uc804: \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825 \ub9cc\ud07c \ubc29\uc5b4 \ucd94\uc885\uc790 \uccb4\ub825 \uac10\uc18c. \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825 = 0. \uc0ac\uc774\uc988 +1."
+  ],
+  [
+    "1931",
+    "Magic Boost",
+    "\ub9c8\ub825 \ubcf4\ucda9",
+    "\u25b6Defend: If this card's ATK is 0, this card gets ATK set equal to this card's SIZE.",
+    "\u25b6\ubc29\uc5b4\uc804: \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825\uc774 0\uc77c\uacbd\uc6b0 \uc774 \uce74\ub4dc\uc758 \uacf5\uaca9\ub825\uc740 \uc774 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988\uac00 \ub41c\ub2e4."
+  ],
+  [
+    "1932",
+    "Enforcer Sword",
+    "\uc9d1\ud589\uc758 \uac80",
+    "\u25b6Attack: The last Follower in your Deck is sent to the top of your Deck. This card and the sent card get ATK/STA increased by half this card's Upgrade Level (rounding up). This skill is removed.",
+    "\u25b6\uacf5\uaca9\uc804:\uc790\uc2e0 \ub371 \ub9e8 \uc544\ub798 \ucd94\uc885\uc790\ub97c \uc790\uc2e0 \ub371 \ub9e8\uc704\ub85c \ubcf4\ub0b8\ub2e4. \uc62e\uae34\uce74\ub4dc\uc640 \uc774 \uce74\ub4dc\uc758 \uacf5/\uccb4\ub294 \uc774 \uce74\ub4dc \uac15\ud654\uc218\uce58\uc758 \uc808\ubc18(\uc62c\ub9bc)\ub9cc\ud07c \uc99d\uac00\ud55c\ub2e4.\uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4."
+  ],
+  [
+    "1933",
+    "Judgment Sword",
+    "\uc2ec\ud310\uc758 \uac80",
+    "\u25b6Defend: A number of random cards in your Grave equal to this card's Upgrade Level are sent to the bottom of your Deck. The first Spell in your Deck gets SIZE decreased by the number of cards sent. This skill is removed.",
+    "\u25b6\ubc29\uc5b4\uc804:\uc774 \uce74\ub4dc\uc758 \uac15\ud654\uc218\uce58 \ub9cc\ud07c \uc790\uc2e0 \ubb34\ub364 \ub79c\ub364\ud55c \uce74\ub4dc\ub97c \ub371 \ub9e8\ubc11\uc73c\ub85c \uc62e\uae34\ub2e4. \uc790\uc2e0\ub371 \ub9e8 \uc704 \uc2a4\ud3a0 1\uc758 \uc0ac\uc774\uc988\ub294 \uc62e\uae34 \uce74\ub4dc \uc218 \ub9cc\ud07c \uac10\uc18c\ud55c\ub2e4. \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4."
+  ],
+  [
+    "1934",
+    "Death",
+    "\ubb34\ub364\ud589",
+    "\u25b6Defend: This card is destroyed.",
+    "\u25b6\ubc29\uc5b4\uc804: \uc774 \uce74\ub4dc\ub294 \ud30c\uad34\ub41c\ub2e4."
+  ],
+  [
+    "1935",
+    "Wander",
+    "\ubc29\ub791",
+    "\u25b6Defend: This card is moved to a random empty Slot on either Field. This skill is removed.",
+    "\u25b6\ubc29\uc5b4\uc804: \uc774 \ucd94\uc885\uc790\ub294 \uc804\uccb4 \ud544\ub4dc \ub79c\ub364\ud55c \ube48 \uc2ac\ub86f\uc73c\ub85c \uc774\ub3d9\ud55c\ub2e4. \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \uc0ac\ub77c\uc9c4\ub2e4."
+  ],
+  [
+    "1936",
+    "Just another observation",
+    "\ub610 \ub2e4\ub978 \uad00\ucc30",
+    "\u25b6Defend: This card gets ATK/DEF/STA increased by the difference between the total SIZE of your Field and the total SIZE of the enemy Field (by a maximum of 5). This skill is changed to $1076",
+    "\u25b6\ubc29\uc5b4\uc804: \uc790\uc2e0 \ud544\ub4dc \uc0ac\uc774\uc988 \ud569\uacfc \uc0c1\ub300 \ud544\ub4dc \uc0ac\uc774\uc988 \ud569\uc758 \ucc28\uc774 \ub9cc\ud07c \uc774 \uce74\ub4dc\uc758 \uacf5/\ubc29/\uccb4 \uc99d\uac00.(\ucd5c\ub300 5) \uc774 \ud2b9\uc218\ub2a5\ub825\uc740 \"\ud134\uac1c\uc2dc\uc2dc: \ubcf8\ub798 \ud2b9\uc218\ub2a5\ub825\uc774 \ub41c\ub2e4.\"\ub85c \ubc14\ub010\ub2e4."
+  ],
+  [
+    "1937",
+    "Electronic Fairy!",
+    "\uc804\uc790\uc758 \uc694\uc815!",
+    "\u25b6Turn Start: This card swaps places with the card in your Deck with the highest SIZE. The swapped card gets SIZE cut in half (rounding down).",
+    "\u25b6\ud134\uac1c\uc2dc\uc2dc: \uc774 \uce74\ub4dc\uc640 \uc790\uc2e0 \ub371 \uc0ac\uc774\uc988\uac00 \uac00\uc7a5 \ud070 \uce74\ub4dc 1\uc758 \uc704\uce58\ub97c \ubc14\uafbc\ub2e4. \ud574\ub2f9 \uce74\ub4dc\uc758 \uc0ac\uc774\uc988\ub294 \uc808\ubc18(\ub0b4\ub9bc)\uc774 \ub41c\ub2e4."
   ]
 ]

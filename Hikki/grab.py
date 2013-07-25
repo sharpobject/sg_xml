@@ -6,6 +6,7 @@ from collections import Counter
 import re
 import gspread
 from feed.date.rfc3339 import tf_from_timestamp
+import sys
 
 # Takes a dict (or Counter) and an int, returns a new dict with all
 # the values multiplied by the int
@@ -16,14 +17,17 @@ def cmul(di, n):
     return ret
 Counter.__mul__ = cmul
 
+tsfile = open("timestamp", "r")
+old_ts = float(tsfile.read())
+tsfile.close()
+
 (username, password) = open("password.conf").read().split(" ")
 gc = gspread.login(username, password)
 sh = gc.open_by_key("0ArCz3yAJlMXkdEhzbjBySGl6Qkg4dWJLVHNKV0pmcHc")
-print sh.get_worksheet(1).updated
-print tf_from_timestamp(sh.get_worksheet(1).updated)
-print sh.get_worksheet(2).updated
-print tf_from_timestamp(sh.get_worksheet(1).updated)
-exit()
+new_ts = max(tf_from_timestamp(sh.get_worksheet(1).updated),
+             tf_from_timestamp(sh.get_worksheet(1).updated))
+if new_ts <= old_ts:
+    sys.exit(0)
 csheet = sh.get_worksheet(1).get_all_values()
 ssheet = sh.get_worksheet(2).get_all_values()
 

@@ -32,6 +32,9 @@ csheet = sh.get_worksheet(1).get_all_values()
 ssheet = sh.get_worksheet(2).get_all_values()
 
 
+tsfile = open("timestamp", "w")
+tsfile.write(new_ts)
+tsfile.close()
 out = open("hikki_cards.json", "w")
 out.write(json.dumps(csheet, indent=2, separators=(',', ': ')))
 out.close()

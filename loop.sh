@@ -10,9 +10,10 @@ do
     done
     cd Hikki
     python grab.py
-    git add *json *py
+    git add *json *py timestamp
     cd ../
+    git add loop.sh
     git commit -m "automatic commit"
     git push origin master
-    sleep 5m
+    sleep 10m
 done

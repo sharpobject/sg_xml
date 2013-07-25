@@ -5,6 +5,7 @@ import json
 from collections import Counter
 import re
 import gspread
+from feed.date.rfc3339 import tf_from_timestamp
 
 # Takes a dict (or Counter) and an int, returns a new dict with all
 # the values multiplied by the int
@@ -18,8 +19,14 @@ Counter.__mul__ = cmul
 (username, password) = open("password.conf").read().split(" ")
 gc = gspread.login(username, password)
 sh = gc.open_by_key("0ArCz3yAJlMXkdEhzbjBySGl6Qkg4dWJLVHNKV0pmcHc")
+print sh.get_worksheet(1).updated
+print tf_from_timestamp(sh.get_worksheet(1).updated)
+print sh.get_worksheet(2).updated
+print tf_from_timestamp(sh.get_worksheet(1).updated)
+exit()
 csheet = sh.get_worksheet(1).get_all_values()
 ssheet = sh.get_worksheet(2).get_all_values()
+
 
 out = open("hikki_cards.json", "w")
 out.write(json.dumps(csheet, indent=2, separators=(',', ': ')))

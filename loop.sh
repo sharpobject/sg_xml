@@ -9,6 +9,8 @@ do
         cd ..
     done
     cd Hikki
+    sed 's/&/&amp;/' < ../NA/en_cardData.xml > en_cardData.xml
+    sed 's/&/&amp;/' < ../NA/en_cardSkill.xml > en_cardSkill.xml
     python grab.py
     git add *json *py timestamp
     cd ../

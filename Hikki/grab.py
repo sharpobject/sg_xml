@@ -124,6 +124,10 @@ rarities = ["","","","","","C","","UC","","R","DR","EV","TR","","","P","IM"]
 
 skill_tags = ["SKILL_NUMBER", "SKILL_NUMBER_1", "SKILL_NUMBER_2", "SKILL_NUMBER_3"]
 
+types = {"CHARACTER_CARD": "Character",
+         "SPELL_CARD": "Spell",
+         "FOLLOWER_CARD": "Follower"}
+
 cardData = minidom.parse('en_cardData.xml')
 cards = cardData.getElementsByTagName("CHARACTER_CARD")+cardData.getElementsByTagName("SPELL_CARD")+cardData.getElementsByTagName("FOLLOWER_CARD")
 for element in cards:
@@ -157,6 +161,7 @@ for element in cards:
         elems = element.getElementsByTagName(tagname)
         if len(elems) and int(elems[0].firstChild.wholeText):
             card["skills"].append(elems[0].firstChild.wholeText)
+    card["type"] = types[element.tagName]
     id_to_card[id] = card
     if name not in name_to_ids:
         name_to_ids[name] = set()

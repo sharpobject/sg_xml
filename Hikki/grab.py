@@ -128,6 +128,22 @@ types = {"CHARACTER_CARD": "Character",
          "SPELL_CARD": "Spell",
          "FOLLOWER_CARD": "Follower"}
 
+# let's paste code from stackoverflow
+import unicodedata as ud
+
+latin_letters= {}
+
+def is_latin(uchr):
+    try: return latin_letters[uchr]
+    except KeyError:
+         return latin_letters.setdefault(uchr, 'LATIN' in ud.name(uchr))
+
+def only_roman_chars(unistr):
+    return all(is_latin(uchr)
+           for uchr in unistr
+           if uchr.isalpha())
+# that was fun!
+
 cardData = minidom.parse('en_cardData.xml')
 cards = cardData.getElementsByTagName("CHARACTER_CARD")+cardData.getElementsByTagName("SPELL_CARD")+cardData.getElementsByTagName("FOLLOWER_CARD")
 for element in cards:
@@ -182,9 +198,7 @@ for element in skills:
     text = element.getElementsByTagName("TEXT")[0].firstChild.wholeText
     if not id:
         continue
-    try:
-        text.encode('ascii')
-    except:
+    if not only_roman_chars(text):
         continue
     skill_text[id] = text.replace("<span fontWeight='bold'>", "").replace("</span>", "")
 

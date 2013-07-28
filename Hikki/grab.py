@@ -162,6 +162,8 @@ for element in cards:
         if len(elems) and int(elems[0].firstChild.wholeText):
             card["skills"].append(elems[0].firstChild.wholeText)
     card["type"] = types[element.tagName]
+    if len(card["episode"]) > 0 and card["episode"][0] not in ["E", "U"]:
+        card["episode"] = "EP"+card["episode"]
     id_to_card[id] = card
     if name not in name_to_ids:
         name_to_ids[name] = set()

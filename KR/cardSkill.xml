@@ -2481,7 +2481,7 @@
 <CARD_SKILL><ID>1938</ID><NAME>진형 와해</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자를 제외한 랜덤한 상대 필드 추종자1을 상대 필드 랜덤한 빈 슬롯으로 옮긴다. 해당 추종자가 방어추종자와 인접할경우, 해당 추종자와 인접한 모든 추종자의 공/방/체 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1939</ID><NAME>신간 구매!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 공립소속일경우 자신핸드 맨앞카드 2를 자신 덱 맨 밑으로 옮긴다.그 경우 행동종료상태인 랜덤한 자신필드 추종자1의 사이즈-1. 행동가능 상태가 된다. 자신 덱 맨위 추종자 1의 사이즈 -1 공/방 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1940</ID><NAME>도서 보충</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨아래 공립소속 카드 1을 자신 핸드 마지막 빈 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1941</ID><NAME>자택 관리!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 사립소속일경우 자신핸드 맨앞카드 2를 자신 덱 맨 밑으로 옮긴다.그 경우 행동종료상태인 랜덤한 자신필드 추종자1의 공격력+1. 행동가능 상태가 된다. 상대 덱 맨위 추종자 1의 사이즈 + 1 공/체 -1/-2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1941</ID><NAME>자택 관리!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 사립소속일경우 자신핸드 맨앞카드 2를 자신 덱 맨 밑으로 옮긴다.그경우 행동종료상태인 랜덤한 자신필드 추종자1의 공격력+1. 행동가능 상태가 된다. 상대 덱 맨위 추종자 1의 사이즈 + 1 공/체 -1/-2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1942</ID><NAME>물자 보충</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨아래 사립소속 카드 1을 자신 핸드 마지막 빈 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1943</ID><NAME>체력은 국력!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스소속일경우 자신핸드 맨앞카드 2를 자신 덱 맨 밑으로 옮긴다.그 경우 행동종료상태인 랜덤한 자신필드 추종자1의 방어력+1. 행동가능 상태가 된다. 자신 덱 맨위 추종자 1의 사이즈 -1 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1944</ID><NAME>수분 보충</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨아래 크룩스소속 카드 1을 자신 핸드 마지막 빈 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>

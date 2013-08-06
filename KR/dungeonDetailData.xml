@@ -590,6 +590,79 @@
 
 
 <DUNGEON_DETAIL>
+<ID>54</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep20.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 고풍스러운 가면|특징 : 의문의 꽃이 개화한 교국의 지하로로 탐사대를 보낸 교국. 그곳에서 기다리고 있는 것은…</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>언더테이커</NPC_NAME><NPC_TEXT_1>신병이 아니야 마더데몬님의 충실한 부하 언더테이커 루에님이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>악의 앞잡이가 이상한 소리를 하는군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>언더테이커</NPC_NAME><NPC_TEXT_1>너야말로 이상한 소리를 하네. 악의 앞잡이라니 우린 친구라고 저번에도 말했는데 말이야~ 그리고 너! 뭔가 잊고 있는거 아니야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>말이 통하지 않는군요. 비키시지 않는다면 베겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>신병 정신 차리세요! 이 앞부터는 꽃의 개화장소입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>(웃으며 고개를 끄덕인다.)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>…말씀하셨지 ……재밌어야한다고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_jaina.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>신병 잡담은 금물이다</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_melissa.png</NPC_IMG><NPC_NAME>멜리사</NPC_NAME><NPC_TEXT_1>왜 우리가 꽃따위 때문에 여기에 있어야하는지 모르겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>기사단이야 몸쓰는 일밖에 모르니까~</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>maknae.png</NPC_IMG><NPC_NAME>로토리</NPC_NAME><NPC_TEXT_1>우리도 왜 도움 받는지 모르겠네요. 책상에만 앉아 계시는 분들은 도움이 안되는데 말이에요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>크크큭.......</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>sb.png</NPC_IMG><NPC_NAME>봉선</NPC_NAME><NPC_TEXT_1>정지! 앞에 미확인 생물체 발견! 제가 나서겠습니다! 여러분은 저를 따라와 주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>이제 더 재밌어 지겠어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>7</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>conundrum.png</NPC_IMG><NPC_NAME>코넌드럼</NPC_NAME><NPC_TEXT_1>에?! 이쪽 흡혈귀분들의 말과는 다른데요. 논리스럽지 않아요! 여신의 기사라니요.  돌아갈래요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>너는 아직 퇴장할 때가 아니야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>9</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>너무~ 재밌었어. 하지만 더 이상은 안 돼. 아직 시간이 안 됐어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>신병?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>51</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ue5.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 백색광석|특징 : 유저 공모전 글게시판 부문에 당선된 소설 '현자탐정사무소'의 던전입니다.</TOOL_TIP_TEXT>
 
 <FLOOR>

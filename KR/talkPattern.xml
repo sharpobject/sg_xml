@@ -336,6 +336,7 @@
 <TALK_PATTERN><ID>c100331</ID><JOIN>여기만 여름이 아닌것 같네요.</JOIN><JOIN>여기 와서 같이 더위를 피해요.</JOIN><FALL_APART>이런 벌써 녹아버렸네요.</FALL_APART><FALL_APART>너무 먹으면 배탈나겠죠?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100332</ID><JOIN>고생해서 찾아온 보람이 있네요.</JOIN><JOIN>모든 피로가 사라지는것 같죠?</JOIN><FALL_APART>들어가서 조금 쉬어야겠어요.</FALL_APART><FALL_APART>하암… 역시 먼만큼 피곤하네요.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100333</ID><JOIN>그럼 잠깐 도와줄까?</JOIN><JOIN>유주선생님의 특별수업이야.</JOIN><FALL_APART>수업은 이걸로 끝!</FALL_APART><FALL_APART>다음에 또 보자.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -688,7 +689,7 @@
 <TALK_PATTERN><ID>f300928</ID><JOIN>마녀에게 심장석은 필수부가결적이라죠?</JOIN><JOIN>세계의 마나와 마력을 연결…</JOIN><FALL_APART>정말 재미있는 물건이죠?</FALL_APART><FALL_APART>다음엔 당신의 심장석을 볼까요?</FALL_APART><ATTACK>당신의 심장석을 찾아볼까요?</ATTACK><COUNTER>어머 그러다 깨질지도 몰라요?</COUNTER><DIRECT>세계의 마나와 마녀의 마력이라면 무서울게 없죠.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300929</ID><JOIN>쨔잔~ 기다렸어?</JOIN><JOIN>그나저나 다른 아이들이 안보이네…</JOIN><FALL_APART>다른 아이들을 찾으러 가봐야겠어!</FALL_APART><FALL_APART>나도 같이 작아져야 하나??</FALL_APART><ATTACK>뮤지시터의 능력은 무궁무진하다고!</ATTACK><COUNTER>작아지면 정말 여러 가지로 편하다니까?</COUNTER><DIRECT>너도 조그맣게 해줄까?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300931</ID><JOIN>동방의 유파는 절대 지지 않습니다!</JOIN><JOIN>왕자의 바람이 불 거에요!</JOIN><FALL_APART>수련을 게을리 할 수 는 없죠!</FALL_APART><FALL_APART>언젠가 모든 대륙을 제패하겠어요!</FALL_APART><ATTACK>전신계열!</ATTACK><COUNTER>천파협란!</COUNTER><DIRECT>동방은 붉게 타오르고 있습니다!</DIRECT></TALK_PATTERN>
-<TALK_PATTERN><ID>f300933</ID><JOIN>드디어 그리운 교국의 품으로!</JOIN><JOIN>모두들 정말 만나고 싶었어요!</JOIN><FALL_APART>그리고 제이나님도…</FALL_APART><FALL_APART>이제는 교국의 방패가 되겠습니다!</FALL_APART><ATTACK>더 이상 망설이지 않겠습니다!</ATTACK><COUNTER>제 신념은 절대 흔들리지 않아요!</COUNTER><DIRECT>곧 새벽이, 새로운 태양이 떠오를겁니다!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f300932</ID><JOIN>드디어 그리운 교국의 품으로!</JOIN><JOIN>모두들 정말 만나고 싶었어요!</JOIN><FALL_APART>그리고 제이나님도…</FALL_APART><FALL_APART>이제는 교국의 방패가 되겠습니다!</FALL_APART><ATTACK>더 이상 망설이지 않겠습니다!</ATTACK><COUNTER>제 신념은 절대 흔들리지 않아요!</COUNTER><DIRECT>곧 새벽이, 새로운 태양이 떠오를겁니다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300934</ID><JOIN>할머니는 말씀하셨지…</JOIN><JOIN>겉모습이 전부가 아니라고!</JOIN><FALL_APART>할머니는 언제나 옳은 말만 했어.</FALL_APART><FALL_APART>이 모습은 비밀임무를 위해서야!</FALL_APART><ATTACK>때릴거야? 때릴거야?</ATTACK><COUNTER>작다고 얕보다간 큰일날걸?</COUNTER><DIRECT>헤헷! 어때? 이 정도로도 충분하다고</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300935</ID><JOIN>이런 나를 보면 뭐라 할까…</JOIN><JOIN>역시 아무도 웃어 주지 않겠지…</JOIN><FALL_APART>역시 나에게는 어울리지 않아…</FALL_APART><FALL_APART>누가 보기전에 갈아 입어야…</FALL_APART><ATTACK>이…이 옷은 그 오… 오해라네!</ATTACK><COUNTER>지금 본 건 잊어주게나.</COUNTER><DIRECT>어…어서 끝내야…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300937</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
@@ -713,4 +714,9 @@
 <TALK_PATTERN><ID>f300961</ID><JOIN>아름다운 석양… 정말 마음에 들어요.</JOIN><JOIN>오늘은 늦었으니 그럼 이만.</JOIN><FALL_APART>슬슬 어두어 지려고 하네요.</FALL_APART><FALL_APART>온 세상이 붉게 물든것 같군요.</FALL_APART><ATTACK>바다마저 붉게 물들이는 석양… 마음에 들어요.</ATTACK><COUNTER>이대로 시간이 멈췄으면 좋겠죠?</COUNTER><DIRECT>조금 더 이 석양빛 바다를 즐기고 싶으니 방해하지마세요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300962</ID><JOIN>그럼 잠시만 쉬도록 할게요.</JOIN><JOIN>으음… 벌써 시간이 이렇게…</JOIN><FALL_APART>제이나님... 오셨나요?</FALL_APART><FALL_APART>모처럼의 휴가인만큼…</FALL_APART><ATTACK>가끔은 이렇게 쉬는것도 괜찮겠죠?</ATTACK><COUNTER>잠시만 쉴테니 방해하지 말아주셨으면 해요.</COUNTER><DIRECT>으음…Zzz…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300963</ID><JOIN>뜨거운 열기가 느껴지는군…</JOIN><JOIN>먼저 들어가보겠네.</JOIN><FALL_APART>너무 분위기에 휩쓸렸나…</FALL_APART><FALL_APART>한 낮의 여름보다 더욱 뜨겁군…</FALL_APART><ATTACK>밤이라는게 믿기지 않을만큼 환하군…</ATTACK><COUNTER>이토록이나 화려하다니… 정말 아름답군…</COUNTER><DIRECT>혼자 보기에는 아까울 정도군.</DIRECT></TALK_PATTERN>
+
+
+
+
+
 </TALK_PATTERN_DATA>

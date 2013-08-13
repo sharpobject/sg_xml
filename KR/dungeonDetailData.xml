@@ -597,9 +597,9 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>언더테이커</NPC_NAME><NPC_TEXT_1>신병이 아니야 마더데몬님의 충실한 부하 언더테이커 루에님이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>루에.K.아트엔드</NPC_NAME><NPC_TEXT_1>신병이 아니야 마더데몬님의 충실한 부하 언더테이커 루에님이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>악의 앞잡이가 이상한 소리를 하는군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>언더테이커</NPC_NAME><NPC_TEXT_1>너야말로 이상한 소리를 하네. 악의 앞잡이라니 우린 친구라고 저번에도 말했는데 말이야~ 그리고 너! 뭔가 잊고 있는거 아니야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>루에.K.아트엔드</NPC_NAME><NPC_TEXT_1>너야말로 이상한 소리를 하네. 악의 앞잡이라니 우린 친구라고 저번에도 말했는데 말이야~ 그리고 너! 뭔가 잊고 있는거 아니야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>말이 통하지 않는군요. 비키시지 않는다면 베겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 

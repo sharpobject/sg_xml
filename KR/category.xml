@@ -151,6 +151,14 @@
 	<CATEGORY>
 		<ACTIVE_SCENE>18</ACTIVE_SCENE>
 		<ID>2</ID>
+		<NAME>테마엘범</NAME>
+		<ICON_FILE>photostudio special.png</ICON_FILE>
+		<TITLE_FILE>photostudio special_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>18</ACTIVE_SCENE>
+		<ID>3</ID>
 		<NAME>명예의전당</NAME>
 		<ICON_FILE>photostudio_fame.png</ICON_FILE>
 		<TITLE_FILE>photostudio_fame_title.png</TITLE_FILE>

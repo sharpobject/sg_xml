@@ -2551,7 +2551,7 @@
 <CARD_SKILL><ID>1968</ID><NAME>탄환준비!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력은 이 카드의 강화수치와 같아진다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1969</ID><NAME>영양섭취</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시:이 카드의 사이즈는 원래 사이즈가 된다. 그랬을경우 변화치 +1 만큼 자신 캐릭터 라이프 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1970</ID><NAME>준비운동</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 3-자신 캐릭터 라이프의 십의 자리 수 만큼 이 카드의 공/방/체, 사이즈 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1971</ID><NAME>물장구</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드가 행동종료 상태일 경우 방어 추종자의 체력 -2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1971</ID><NAME>물장구</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드가 행동종료 상태일 경우 공격 추종자의 체력 -2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1972</ID><NAME>경험의 조언</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방/체합이 공격추종자의 공격력보다 낮을 경우 자신 핸드 랜덤한 제국 소속 추종자 1의 강화수치는 이 카드의 강화수치가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1973</ID><NAME>경험의 지혜</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 체력은 이 카드의 강화수치의 절반(올림)만큼 증가한다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

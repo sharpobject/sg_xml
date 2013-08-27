@@ -672,7 +672,7 @@
 <DUNGEON_BG_IMG>dungeon_lobby_051.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>그래서 말이지! 바람일족에게 우리가 이렇게 콰과광! 하고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>너희 거짓말도 적당히 해라</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>아니야 아니야 정말이야! 시온이랑 같이 아티팩트로 콰과광! 했어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>아니야 아니야 정말이야! 리온이랑 같이 아티팩트로 콰과광! 했어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>바람일족에게 뭐 하는 거야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sirion.png</NPC_IMG><NPC_NAME>시온리온</NPC_NAME><NPC_TEXT_1>정말로 이렇게 이렇게 했다니까! 그러니까 사람이 모였어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rio6.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>아티팩트는 함부로 쓰는 게 아니에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>

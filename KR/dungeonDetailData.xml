@@ -2240,7 +2240,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인|특징 : 특정 조건에서 열리는 던전입니다. 보스에게 패배 시 재도전 불가.</TOOL_TIP_TEXT>
+<ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인 / 특징 : 패배 시 재도전 불가|입장방법1 : 게임에서 승리 시 일정 확률로 열립니다.|입장방법2 : 자신을 친구로 등록한 유저가 게임에서 승리 시 일정 확률로 열립니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>

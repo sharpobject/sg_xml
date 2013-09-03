@@ -389,7 +389,7 @@
 <CARD_SKILL><ID>110034</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤의 랜덤한 스펠카드 1을 주인의 덱 맨 밑으로 이동한다. 자신필드 빈 첫번째 슬롯에 "스카델 시온 플리나"를 배치한 뒤. 해당 추종자의 사이즈 -2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110035</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤의 랜덤한 스펠카드 1을 주인의 덱 맨 밑으로 이동한다. 자신필드 빈 첫번째 슬롯에 "스카델 리온 플리나"를 배치한 뒤. 해당 추종자의 사이즈 -2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110036</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 방어력이 가장 높은 추종자의 방어력은 =0</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110037</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1은 자신의 방어력과 사이즈의 차이의 절반(올림)만큼 공/체가 감소한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110037</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1은 해당 추종자의 방어력과 사이즈의 차이의 절반(올림)만큼 공/체가 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110038</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 카드1의 사이즈 -1 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110039</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 사이즈가 가장 작은카드의 사이즈와 상대필드 사이즈가 가장 큰 카드의 사이즈의 차이만큼 자신필드 사이즈가 가장 낮은 추종자 전체의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110040</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 이 카드와 소속이 다른 랜덤한 상대필드 추종자 카드 1의 공/방/체 -2</span>]]></TEXT></CARD_SKILL>
@@ -1588,7 +1588,7 @@
 <CARD_SKILL><ID>200798</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드와 핸드 카드 이름에 "메이드"가 들어간 추종자 전체 "방어전: 자신 덱 카드이름에 "메이드"가 들어간 랜덤한 추종자 1과 이 카드를 교체한다." 특수능력을 추가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200799</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 카드 1을 상대 필드 랜덤한 빈 슬롯으로 옮긴다. 해당 슬롯이 홀수일 경우 해당 카드는 행동 종료 상태가 된다. 짝수일 경우 해당 카드를 제외한 상대필드 랜덤한 카드 2를 행동 종료 상태로 한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200800</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 랜덤한 추종자 2는 "턴개시시: 이 카드의 사이즈는 원래 사이즈가 된다. 변화된 수치 만큼 이 카드의 공/체 증가." 특수능력을 얻는다. 그랬을경우 해당 카드의 사이즈 = 1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200801</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 공/방/체 수치 중 0미만의 수치를 보유하고 있는 랜덤한 카드 1을 파괴한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200801</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 공/방 수치 중 0미만의 수치를 보유하고 있는 랜덤한 카드 1을 파괴한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200802</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 스펠 카드 1의 사이즈 만큼 상대 필드 랜덤한 추종자 2의 공/체 감소. 상대 라이프 -1. 스펠카드가 없을경우, 상대 덱 맨위의 스펠카드 1을 상대 필드 첫번째 빈 슬롯에 배치한 후, 해당 카드의 사이즈 만큼 상대 캐릭터 라이프 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>

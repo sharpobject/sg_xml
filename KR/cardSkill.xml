@@ -788,7 +788,7 @@
 <CARD_SKILL><ID>120052</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1은 상대 핸드 카드 사이즈의 종류수에 따라 이하의 효과를 모두 적용한다. ●1사이즈: 사이즈 +1. ●2사이즈: 공격력 -1. ●3사이즈: 체력 -1. ●4사이즈: 방어력 -1. ●5사이즈: 공/체 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120053</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 현재 턴 수가 1일경우 자신 덱 카드 전체 사이즈 =2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120054</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 무덤 맨위의 카드 1을 제거한다. 제거한 카드 사이즈만큼 상대 필드 랜덤한 추종자 1의 공/체 감소. 자신 무덤 맨위의 카드 1을 제거한다. 제거한 카드의 사이즈만큼 자신 필드와 핸드 랜덤한 추종자 1의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120055</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120055</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 서로의 덱,핸드에 있는 스펠카드는 선물상자, 추종자카드는 포장이 멋진 선물상자로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 상대필드 추종자 1 체력 4감소. 자신의 캐릭터가 "시타"일 경우 추가로 랜덤한 상대필드 추종자 1의 체력 2감소. 자신 필드카드 수가 상대 필드 카드수 이하일 경우 각각 적용수치가 1씩 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 자신필드 공립 소속 추종자 2 공/체 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>카드이름에 "요리연구부"가 들어간 자신필드 추종자 카드가 있을경우, 랜덤한 자신필드 공립소속 추종자 카드 2의 사이즈+1 공/방/체 +1/+1/+2. 둘 다 "요리연구부"가 들어갈 경우 추가로 공/체 +1.</span>]]></TEXT></CARD_SKILL>

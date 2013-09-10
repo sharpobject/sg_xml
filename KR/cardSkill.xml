@@ -2595,5 +2595,5 @@
 <CARD_SKILL><ID>1998</ID><NAME>인내의 시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격 전 : 이 카드의 공격력-2. 이 카드 공격력의 절대값 절반(올림)만큼 방어추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1999</ID><NAME>고통감내</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어 전 : 이 카드의 방어력-1. 이 카드 방어력의 절대값만큼 방어추종자의 공격력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2000</ID><NAME>급행열차!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 핸드 모든 스펠카드를 상대 덱 맨 밑에 둔다. 옮긴 카드 수의 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2001</ID><NAME>차표 검사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어 전 : 상대 덱 맨 위 스펠카드 1을 상대 핸드 마지막 슬롯으로 옮긴다.상대 핸드 빈슬롯 수 만큼 방어 추종자의 공/체감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2001</ID><NAME>차표 검사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어 전 : 상대 덱 맨 위 스펠카드 1을 상대 핸드 마지막 슬롯으로 옮긴다.상대 핸드 빈슬롯 수 만큼 공격 추종자의 공/체감소.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

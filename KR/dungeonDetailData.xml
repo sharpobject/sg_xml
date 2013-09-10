@@ -2240,6 +2240,23 @@
 
 
 <DUNGEON_DETAIL>
+<ID>55</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 아얌|특징 : 1일 1회 클리어.|카넬은 사실 우주인이였다?</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_055.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_055.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_055.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_kanel.png</NPC_IMG><NPC_NAME>카넬</NPC_NAME><NPC_TEXT_1>I'm On The Moon! 달에서 온 이 몸에게는 대륙의 수준이 맞지 않아</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>카넬 거짓 말은 좋지 않아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_kanel.png</NPC_IMG><NPC_NAME>카넬</NPC_NAME><NPC_TEXT_1>거짓말이라니! 진짜거든! 주인 바보!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>주인으로서 교육이 필요하다고 생각되네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인 / 특징 : 패배 시 재도전 불가|입장방법1 : 게임에서 승리 시 일정 확률로 열립니다.|입장방법2 : 자신을 친구로 등록한 유저가 게임에서 승리 시 일정 확률로 열립니다.</TOOL_TIP_TEXT>
 
 <FLOOR>

@@ -353,6 +353,7 @@
 <CARD_SKILL><ID>100350</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대핸드 스펠 전체를 상대 덱 맨밑으로 옮긴다. 옮긴 수가 2장 이상일경우 추가로 상대 라이프 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100351</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 랜덤한 추종자 2의 체력은 자신 핸드 랜덤한 사립소속 카드의 사이즈 만큼 증가한다.(최대 4)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100352</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 첫번째 크룩스 소속 추종자 1의 사이즈 +1 공/체 +1/+2. 해당 추종자의 사이즈가 본래 사이즈보다 3이상 클 경우 해당 추종자의 사이즈를 절반(내림)하여 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100353</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 추종자가 2장 이상일경우 자신 핸드 추종자 전체 공/체 +1. 3장이상일경우 추가로 자신 셔플 수 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -2592,8 +2593,9 @@
 <CARD_SKILL><ID>1995</ID><NAME>이슈 홍보</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 랜덤한 공립소속 추종자 1의 공/체+5후, 자신 필드 마지막 슬롯에 배치,"턴개시시: 이 카드는 자신 덱 맨 위로 간다." 특수능력을 추가한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1996</ID><NAME>교대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전 : 이 카드의 사이즈가 2이하일 경우 이 카드 사이즈+1 자신의 핸드 마지막 카드와 교체한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1997</ID><NAME>공수반전!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시 : 이 카드의 공격력과 방어력은 절대값이 되고 공격전, 방어전 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1998</ID><NAME>인내의 시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격 전 : 이 카드의 공격력-2. 이 카드 공격력의 절대값 절반(올림)만큼 방어추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1999</ID><NAME>고통감내</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어 전 : 이 카드의 방어력-1. 이 카드 방어력의 절대값만큼 방어추종자의 공격력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1998</ID><NAME>인내의 시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전 : 이 카드의 공격력-2. 이 카드 공격력의 절대값 절반(올림)만큼 방어추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1999</ID><NAME>고통감내</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전 : 이 카드의 방어력-1. 이 카드 방어력의 절대값만큼 방어추종자의 공격력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2000</ID><NAME>급행열차!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 핸드 모든 스펠카드를 상대 덱 맨 밑에 둔다. 옮긴 카드 수의 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2001</ID><NAME>차표 검사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어 전 : 상대 덱 맨 위 스펠카드 1을 상대 핸드 마지막 슬롯으로 옮긴다.상대 핸드 빈슬롯 수 만큼 공격 추종자의 공/체감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2002</ID><NAME>뒹굴뒹굴</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전 : 상대 핸드 첫 번째와 마지막 카드의 종류가 같을경우 방어 추종자의 공/체 -3. 아닐경우 공/체 -1.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

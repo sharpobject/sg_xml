@@ -7,6 +7,14 @@
 		<ICON_FILE>library_sleeve.png</ICON_FILE>
 		<TITLE_FILE>library_sleeve_title.png</TITLE_FILE>
 	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>9</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>코인</NAME>
+		<ICON_FILE>coinflip.png</ICON_FILE>
+		<TITLE_FILE>library_coinflip_title.png</TITLE_FILE>
+	</CATEGORY>
 	
 	<CATEGORY>
 		<ACTIVE_SCENE>13</ACTIVE_SCENE>

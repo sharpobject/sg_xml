@@ -123,7 +123,7 @@
 <CASH_ITEM> <ID>Item143</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>스트럭쳐 덱 - 청십자회</NAME> <ICON_FILE>booster_deck_016.png</ICON_FILE> <PRICE>25000</PRICE> <TEXT>청십자회 스트럭처 덱을 구매합니다.|(덱 슬롯이 확장되어, 빈 슬롯에 저장 됩니다.)|(덱 슬롯은 최대 15개까지 확장 됩니다.)</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item144</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>스트럭쳐 덱 - GS</NAME> <ICON_FILE>booster_deck_017.png</ICON_FILE> <PRICE>25000</PRICE> <TEXT>GS 스트럭처 덱을 구매합니다.|(덱 슬롯이 확장되어, 빈 슬롯에 저장 됩니다.)|(덱 슬롯은 최대 15개까지 확장 됩니다.)</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item152</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>스페셜 슬리브(은색)</NAME> <ICON_FILE>item_152.png</ICON_FILE> <PRICE>1000000</PRICE> <TEXT>뒷면 이미지가| 스페셜 슬리브(은색)으로 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item153</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>스페셜 슬리브(금색)</NAME> <ICON_FILE>item_152.png</ICON_FILE> <PRICE>10000000</PRICE> <TEXT>뒷면 이미지가| 스페셜 슬리브(금색)로 변경됩니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item153</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>스페셜 슬리브(금색)</NAME> <ICON_FILE>item_153.png</ICON_FILE> <PRICE>10000000</PRICE> <TEXT>뒷면 이미지가| 스페셜 슬리브(금색)로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item154</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>탈렌티움 구슬 5매 셋트</NAME> <ICON_FILE>item_154.png</ICON_FILE> <PRICE>9800</PRICE> <TEXT>탈렌티움 구슬 카드 5매 + 마일리지 카드 1매|셋트를 구매합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item155</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>도전의 코인</NAME> <ICON_FILE>item_155.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>현재 층수에 다시 한 번 도전합니다.|도전의 코인은|1일 1회 구매가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item156</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>시즌2 공립 기본 덱</NAME> <ICON_FILE>booster_deck_018.png</ICON_FILE> <PRICE>5000</PRICE> <TEXT>시즌2 공립 스타터 덱을 구매합니다.|(덱 슬롯이 확장되어, 빈 슬롯에 저장 됩니다.)|(덱 슬롯은 최대 15개까지 확장 됩니다.)</TEXT> </CASH_ITEM>

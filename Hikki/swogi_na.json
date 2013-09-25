@@ -2463,6 +2463,7 @@
       "type": "Character"
     },
     "100147": {
+      "can_craft": true,
       "episode": "EP201",
       "faction": "Vita",
       "flavor": "[I woke up to bright sunlight. Everything was a blur. Maybe it was the light? I toss and turn under the sun.] [Did you sleep well?] [A familiar voice called out, but there was nothing. Maybe I'm just hearing things.]",
@@ -2480,6 +2481,7 @@
       "type": "Character"
     },
     "100148": {
+      "can_craft": true,
       "episode": "EP201",
       "faction": "Academy",
       "flavor": "[ I always feel like someone strange is watching me when I open my eyes in the morning. Her eyes are closed, and her feelings are hidden as she whispers. I wonder. \"Those eyes... Whose are they?\"]",
@@ -2497,6 +2499,7 @@
       "type": "Character"
     },
     "100149": {
+      "can_craft": true,
       "episode": "EP201",
       "faction": "Crux",
       "flavor": "[ I had a nightmare at the start of the day. I don't remember how I got here, but I always suffer in loneliness.]",
@@ -2514,6 +2517,7 @@
       "type": "Character"
     },
     "100150": {
+      "can_craft": true,
       "episode": "EP201",
       "faction": "Darklore",
       "flavor": "[The office is always noisy in the morning. Those two vampire kids never sleep. They're always causing a racket, and Esprit is always yelling at them. Their constant attempts to transform always ends with the sound of Esprit's slippers hitting them.]",
@@ -11951,6 +11955,7 @@
       "type": "Spell"
     },
     "200200": {
+      "can_craft": true,
       "episode": "EP201",
       "faction": "Neutral",
       "flavor": "[This Material used to be used to craft Morning Characters. Now it's moldy and gross. Still, if the Morning Characters come back some day, it's worth hanging onto.] [Have you ever... received these? I have, but they didn't make me happy. Those twins are awful... Moldy chocolate is disgusting, and not even Sita will eat it. - Esprit's Complaint]",
@@ -13685,6 +13690,7 @@
       "type": "Spell"
     },
     "200316": {
+      "can_craft": true,
       "episode": "EP8",
       "faction": "Neutral",
       "flavor": "[It's a packaged gift box to give to another person. It's exciting, wondering what's inside. You can really feel the spirit of giving. - Esprit's Memo]",
@@ -28613,6 +28619,7 @@
     },
     "300807": {
       "attack": "7",
+      "can_craft": true,
       "defense": "1",
       "episode": "EP17",
       "faction": "Vita",

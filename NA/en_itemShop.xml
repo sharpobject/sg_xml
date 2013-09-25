@@ -5,14 +5,14 @@
     <NAME>Talentium Pearl</NAME>
     <IMAGE_FILE>item_54.png</IMAGE_FILE>
     <TITLE_CARD>210021</TITLE_CARD>
-    <PRICE>0</PRICE>
+    <PRICE>2000</PRICE>
   </ITEM>
   <ITEM>
     <ID>Item055</ID>
     <NAME>Talentium Ingot</NAME>
     <IMAGE_FILE>item_55.png</IMAGE_FILE>
     <TITLE_CARD>200222</TITLE_CARD>
-    <PRICE>0</PRICE>
+    <PRICE>2000</PRICE>
   </ITEM>
 
 </ITEM_SHOP_DATA>

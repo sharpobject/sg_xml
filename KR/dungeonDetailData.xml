@@ -590,6 +590,128 @@
 
 
 <DUNGEON_DETAIL>
+<ID>56</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep21.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 마녀의 모자 |특징 : 퍼시피카의 저택에 모인 마녀후보생들과 리누스. 리누스는 리니아에게 일련의 이야기를 듣게된다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_darkseven.png</NPC_IMG><NPC_NAME>세븐</NPC_NAME><NPC_TEXT_1>나나이….나나이….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>세븐?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_darkseven.png</NPC_IMG><NPC_NAME>세븐</NPC_NAME><NPC_TEXT_1>느껴져! 느껴진다고! 복수하겠어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_darkseven.png</NPC_IMG><NPC_NAME>세븐</NPC_NAME><NPC_TEXT_1>나나이! 나나이 하이캐슬!!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>모두!내 말을 들어줘!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_peridot.png</NPC_IMG><NPC_NAME>페리도트</NPC_NAME><NPC_TEXT_1>카나니 뭐니 이상한 소리하지마 리누스. </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>모두 속고 있는거야….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_peridot.png</NPC_IMG><NPC_NAME>페리도트</NPC_NAME><NPC_TEXT_1>속고 있다니 우리를 바보같이 말하지마. 리누스 혹시 그 변신 아티펙트 때문에 머리를 다친 거 아니야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>우리는 이용당할 뿐이야 믿어줘!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_peridot.png</NPC_IMG><NPC_NAME>페리도트</NPC_NAME><NPC_TEXT_1>그리고 네 말대로라면 이미 문이 닫힌거면 끝난거잖아?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>무슨 일이 일어날지 모른단 말이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sol.png</NPC_IMG><NPC_NAME>질풍의 마녀후보생</NPC_NAME><NPC_TEXT_1>상관 없어요. 탈렌티움 능력이 없던 우리에게도 희망을 가지게 해줬어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>희망이니 뭐니 그런 감상으로 아무것도 아닌 것처럼 말하지마</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sol.png</NPC_IMG><NPC_NAME>질풍의 마녀후보생</NPC_NAME><NPC_TEXT_1>어느 정도의 일이라면 도와줄 수도 있죠. 여차하면 자리를 뜨면 되는거에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>그 때면 늦을거야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sol.png</NPC_IMG><NPC_NAME>질풍의 마녀후보생</NPC_NAME><NPC_TEXT_1>뮤지시터가 되더니 우릴 너무 얕보는 거 아니야? 그만! 더 이상 듣지 않겠어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>친구들을 설득하지 못한다면 이사장님에게 갈 수밖에 없겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>어머. 리누스양 무슨 일이신가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>이사장님을 만나고 싶습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>리니아님 말씀이신가요? 무슨 볼 일이라도?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>카나와 저희에 관해서 물어보려 합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>웬만하면 제가 대답해드리려 했는데…. 직접 들으시는게 좋겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>이사장님 이미 카나의 문도 열렸었고 이제 저희는 필요 없는 게 아닌가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>어머….재밌는 소리를 하시는 분이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>이미 다 알고 있습니다. 말돌리지 말아주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>그렇게 강하게 소리 쳐주니 더욱 사랑스러워 보이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>대답을 안해주신다면 열쇠에게 물으러 가겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>….좋아요. 얘기해드리도록하죠. 꽤나 긴 이야기가 되겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>….이런 이야기입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>못 믿으시는 건가요? 좋아요. 그럼…..</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>….다른 손님이 왔네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>witch.png</NPC_IMG><NPC_NAME>페이드</NPC_NAME><NPC_TEXT_1>애들에게 팔코가 왔다고 들었어요. 이사장님 저에게 먼저 알려주시기로 하지 않으셨나요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>어머. 페이드양 마침 부르려고 했어요. 리누스랑 다른 아이들을 모아서 지하에 다녀와줘야겠어요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>?! 무슨 소리야 난!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>못 믿으시겠다는 표정이시길래 직접 확인시켜드리려 하는데 문제있으신가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>witch.png</NPC_IMG><NPC_NAME>페이드</NPC_NAME><NPC_TEXT_1>아무 문제 없습니다. 같이 가죠. 리누스</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>6</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>레스 지하까지 안내해주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>네. 알겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>아직도 걱정이신가요? 걱정하지마세요. 리누스양. 리니아님은 화합을 바라신답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>그냥….꺼림칙할 뿐입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>7</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>이번엔 특별히 세븐, 벨티에, 리누스양이 처음이니 조심해주시기 바랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>그럼…. 흡혈귀들을 피해서 잘 다녀오시기 바랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>8</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>witch.png</NPC_IMG><NPC_NAME>페이드</NPC_NAME><NPC_TEXT_1>벨티에 양이요? 갑자기 들어온 아이라 잘 모르겠네요. 기억을 잃었다는 것 정도만 알고 있어요</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>9</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>witch.png</NPC_IMG><NPC_NAME>페이드</NPC_NAME><NPC_TEXT_1>세븐양은 항상 뭔가를 증오하고 있어요. 다들 다가기 싫어한답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>54</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep20.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 고풍스러운 가면|특징 : 의문의 꽃이 개화한 교국의 지하로로 탐사대를 보낸 교국. 그곳에서 기다리고 있는 것은…</TOOL_TIP_TEXT>
 
 <FLOOR>
@@ -597,10 +719,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>루에.K.아트엔드</NPC_NAME><NPC_TEXT_1>신병이 아니야 마더데몬님의 충실한 부하 언더테이커 루에님이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>악의 앞잡이가 이상한 소리를 하는군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>루에.K.아트엔드</NPC_NAME><NPC_TEXT_1>너야말로 이상한 소리를 하네. 악의 앞잡이라니 우린 친구라고 저번에도 말했는데 말이야~ 그리고 너! 뭔가 잊고 있는거 아니야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>말이 통하지 않는군요. 비키시지 않는다면 베겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>루에.K.아트엔드</NPC_NAME><NPC_TEXT_1>신병이 아니야 마더데몬님의 충실한 부하 언더테이커 루에님이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>악의 앞잡이가 이상한 소리를 하는군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_under.png</NPC_IMG><NPC_NAME>루에.K.아트엔드</NPC_NAME><NPC_TEXT_1>너야말로 이상한 소리를 하네. 악의 앞잡이라니 우린 친구라고 저번에도 말했는데 말이야~ 그리고 너! 뭔가 잊고 있는거 아니야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>말이 통하지 않는군요. 비키시지 않는다면 베겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -608,8 +730,8 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>신병 정신 차리세요! 이 앞부터는 꽃의 개화장소입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>(웃으며 고개를 끄덕인다.)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>신병 정신 차리세요! 이 앞부터는 꽃의 개화장소입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>(웃으며 고개를 끄덕인다.)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -617,8 +739,8 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>…말씀하셨지 ……재밌어야한다고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_jaina.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>신병 잡담은 금물이다</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>…말씀하셨지 ……재밌어야한다고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_jaina.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>신병 잡담은 금물이다</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -626,10 +748,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_melissa.png</NPC_IMG><NPC_NAME>멜리사</NPC_NAME><NPC_TEXT_1>왜 우리가 꽃따위 때문에 여기에 있어야하는지 모르겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>기사단이야 몸쓰는 일밖에 모르니까~</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>maknae.png</NPC_IMG><NPC_NAME>로토리</NPC_NAME><NPC_TEXT_1>우리도 왜 도움 받는지 모르겠네요. 책상에만 앉아 계시는 분들은 도움이 안되는데 말이에요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>크크큭.......</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_melissa.png</NPC_IMG><NPC_NAME>멜리사</NPC_NAME><NPC_TEXT_1>왜 우리가 꽃따위 때문에 여기에 있어야하는지 모르겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>기사단이야 몸쓰는 일밖에 모르니까~</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>maknae.png</NPC_IMG><NPC_NAME>로토리</NPC_NAME><NPC_TEXT_1>우리도 왜 도움 받는지 모르겠네요. 책상에만 앉아 계시는 분들은 도움이 안되는데 말이에요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>크크큭.......</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -637,8 +759,8 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>sb.png</NPC_IMG><NPC_NAME>봉선</NPC_NAME><NPC_TEXT_1>정지! 앞에 미확인 생물체 발견! 제가 나서겠습니다! 여러분은 저를 따라와 주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>이제 더 재밌어 지겠어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sb.png</NPC_IMG><NPC_NAME>봉선</NPC_NAME><NPC_TEXT_1>정지! 앞에 미확인 생물체 발견! 제가 나서겠습니다! 여러분은 저를 따라와 주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>이제 더 재밌어 지겠어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -646,8 +768,8 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>conundrum.png</NPC_IMG><NPC_NAME>코넌드럼</NPC_NAME><NPC_TEXT_1>에?! 이쪽 흡혈귀분들의 말과는 다른데요. 논리스럽지 않아요! 여신의 기사라니요.  돌아갈래요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>너는 아직 퇴장할 때가 아니야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>conundrum.png</NPC_IMG><NPC_NAME>코넌드럼</NPC_NAME><NPC_TEXT_1>에?! 이쪽 흡혈귀분들의 말과는 다른데요. 논리스럽지 않아요! 여신의 기사라니요.  돌아갈래요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>너는 아직 퇴장할 때가 아니야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -655,8 +777,8 @@
 <DUNGEON_ICON_IMG>dungeon_icon_054.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_054.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_054.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>너무~ 재밌었어. 하지만 더 이상은 안 돼. 아직 시간이 안 됐어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND></NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>신병?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette.png</NPC_IMG><NPC_NAME>의문의 신병</NPC_NAME><NPC_TEXT_1>너무~ 재밌었어. 하지만 더 이상은 안 돼. 아직 시간이 안 됐어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>신병?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>
@@ -2240,7 +2362,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>55</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 아얌|특징 : 1일 1회 클리어.|카넬은 사실 우주인이였다?</TOOL_TIP_TEXT>
+<ID>55</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 아얌|특징 : 1일 1회 클리어.|카넬은 사실 우주인이였다?</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>1</FLOOR_ID>

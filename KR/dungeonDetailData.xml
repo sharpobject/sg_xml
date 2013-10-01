@@ -648,9 +648,9 @@
 <DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>이사장님 이미 카나의 문도 열렸었고 이제 저희는 필요 없는 게 아닌가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>어머….재밌는 소리를 하시는 분이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>어머….재밌는 소리를 하는 아이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>이미 다 알고 있습니다. 말돌리지 말아주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>그렇게 강하게 소리 쳐주니 더욱 사랑스러워 보이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>그렇게 강하게 소리 쳐주니 사랑스러워 보이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스 팔코</NPC_NAME><NPC_TEXT_1>대답을 안해주신다면 열쇠에게 물으러 가겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아 퍼시피카</NPC_NAME><NPC_TEXT_1>….좋아요. 얘기해드리도록하죠. 꽤나 긴 이야기가 되겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
@@ -705,7 +705,7 @@
 <DUNGEON_ICON_IMG>dungeon_icon_056.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_056.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_056.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>witch.png</NPC_IMG><NPC_NAME>페이드</NPC_NAME><NPC_TEXT_1>세븐양은 항상 뭔가를 증오하고 있어요. 다들 다가기 싫어한답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>witch.png</NPC_IMG><NPC_NAME>페이드</NPC_NAME><NPC_TEXT_1>세븐양은 항상 뭔가를 증오하고 있어요. 다들 다가가기 싫어한답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>

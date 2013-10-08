@@ -7,7 +7,7 @@
 <CARD_SKILL><ID>100004</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 카드 사이즈의 합이 상대보다 높을경우 상대캐릭터 라이프 -1. 던전 등지에서 특별한 힘을 발휘하기도 합니다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100005</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신핸드 카드1의 사이즈 +1. 그 경우 랜덤한 자신필드 사이즈 2이상의 카드1의 사이즈 -1 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100006</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 카드 수 이상의 사이즈의 자신 필드 추종자 전체 공/체 +1/+2</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100007</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 방어력이 가장 높은 추종자의 방어력은 =0</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100007</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 방어력 1이상의 가장 높은 추종자의 방어력 =0</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100008</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 사이즈가 가장 작은카드의 사이즈와 상대필드 사이즈가 가장 큰 카드의 사이즈의 차이만큼 자신필드 사이즈가 가장 낮은 추종자 전체의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100009</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 이 카드와 소속이 다른 랜덤한 상대필드 추종자 카드 1의 공/체 -2, 이카드와 소속이 다른 추종자가 없을경우 소속이 같은 상대필드 추종자 카드 2의 체 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100010</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 카드가 2장 이상일 경우 사이즈가 가장 큰 상대필드 첫번째 추종자의 공/방/체 -2/-1/-2. 카드가 하나일 경우 자신 덱 맨 위의 추종자 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
@@ -40,7 +40,7 @@
 <CARD_SKILL><ID>100037</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1의 공/체 -1.  상대가 NPC일 경우 상대 라이프 -1, 유저일 경우 셔플수가 0일 경우 셔플수=1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100038</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 "크룩스"소속 추종자 1 공/체 +1.  상대가 NPC일 경우 상대 라이프 -1, 유저일 경우 셔플수가 0일 경우 셔플수=1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100039</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 카드 사이즈의 합이 상대보다 높을경우 상대캐릭터 라이프 -1.  상대가 NPC일 경우 상대 라이프 -1, 유저일 경우 셔플수가 0일 경우 셔플수=1</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100040</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 방어력이 가장 높은 추종자의 방어력은 =0</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100040</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 방어력 1이상의 가장높은 추종자 1의 방어력 = 0</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100041</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드에 같은 사이즈의 카드가 2장 이상 있을경우, 그 사이즈의 절반(올림)만큼 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100042</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1은 자신 핸드 추종자만큼 공격력이, 자신 필드 추종자만큼 체력이 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100043</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 랜덤한 추종자 1의 공격력 +2 턴 수가 짝수일 경우 추가로 체력 +1</span>]]></TEXT></CARD_SKILL>
@@ -355,6 +355,12 @@
 <CARD_SKILL><ID>100352</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 첫번째 크룩스 소속 추종자 1의 사이즈 +1 공/체 +1/+2. 해당 추종자의 사이즈가 본래 사이즈보다 3이상 클 경우 해당 추종자의 사이즈를 절반(내림)하여 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100353</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 추종자가 2장 이상일경우 자신 핸드 추종자 전체 공/체 +1. 3장이상일경우 추가로 자신 셔플 수 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100354</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 핸드 4사이즈 이상의 스펠 카드가 있을 경우 상대 필드 랜덤한 추종자1의 공/체 -1/-2. 상대 핸드 랜덤한 스펠 1의 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100355</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신덱 맨 위로 보낸다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100356</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.덱 맨위로 보낸 카드 종류에 따라 이하의 효과를 적용한다. 스펠:상대 필드 방어력이 1이상인 랜덤한 추종자 1의 방어력 =0.추종자: 자신 라이프+1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100357</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.해당 카드의 사이즈 차이만큼 상대 필드 랜덤한 추종자 1의 공/체 증가. (최대 3)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100358</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.해당 카드의 사이즈 차이만큼 자신 필드 랜덤한 추종자 1의 공/체 증가. (최대 3)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100359</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.덱 맨위로 보낸 카드가 다크로어 소속일 경우 추가로 상대 라이프 -1.아닐경우 상대 필드 랜덤한 추종자 1의 공/방/체 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100360</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.덱 맨위로 보낸 카드의 사이즈에 따라 이하의 효과를 적용한다. 홀수:자신 셔플 수 +1 짝수:해당 카드와 자신 핸드 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -390,7 +396,7 @@
 <CARD_SKILL><ID>110033</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 2의 방어력 -2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110034</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤의 랜덤한 스펠카드 1을 주인의 덱 맨 밑으로 이동한다. 자신필드 빈 첫번째 슬롯에 "스카델 시온 플리나"를 배치한 뒤. 해당 추종자의 사이즈 -2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110035</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤의 랜덤한 스펠카드 1을 주인의 덱 맨 밑으로 이동한다. 자신필드 빈 첫번째 슬롯에 "스카델 리온 플리나"를 배치한 뒤. 해당 추종자의 사이즈 -2</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110036</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 방어력이 가장 높은 추종자의 방어력은 =0</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110036</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 방어력 1이상의 가장높은 추종자 1의 방어력 = 0</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110037</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1은 해당 추종자의 방어력과 사이즈의 차이의 절반(올림)만큼 공/체가 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110038</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 카드1의 사이즈 -1 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110039</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 사이즈가 가장 작은카드의 사이즈와 상대필드 사이즈가 가장 큰 카드의 사이즈의 차이만큼 자신필드 사이즈가 가장 낮은 추종자 전체의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
@@ -572,7 +578,7 @@
 <CARD_SKILL><ID>110215</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 1,2,3번슬롯의 추종자의 체력 -1. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110216</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 "크룩스"소속 추종자 1 공/체 +1. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110217</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 카드 사이즈의 합이 상대보다 높을경우 상대캐릭터 라이프 -1. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110218</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 방어력이 가장 높은 추종자의 방어력은 =0. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110218</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 방어력 1이상의 가장높은 추종자 1의 방어력 = 0. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110219</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1은 자신의 방어력과 사이즈의 차이의 절반(올림)만큼 공/체가 감소한다. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110220</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 공격력 +2 턴 수가 짝수일 경우 추가로 체력 +1. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110221</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 "호문클루스 에스코트"를 모두 무덤으로 보낸다. 자신필드 빈 마지막 슬롯에 사이즈 1 공/방/체 5/0/5인 "호문클루스 에스코트"를 배치한다. 자신캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
@@ -1607,7 +1613,7 @@
 <CARD_SKILL><ID>200804</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 랜덤한 추종자 1의 공/체 +3.행동 종료 상태가 된다. 이 카드의 사이즈 =1이 되어 자신 필드 마지막 슬롯에 재생성 된다. 이 카드의 사이즈가 1일경우 자신 필드 랜덤한 추종자 1을 행동가능 상태로 한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200805</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 공립소속일경우 자신 필드 추종자 수 만큼 상대 필드 스펠 카드를 무덤으로 보낸다. 상대 덱 맨위 추종자 3의 공/체는 무덤으로 보낸 카드 수 +1 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200806</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 가장 낮은 체력을 가진 추종자의 사이즈 =1. 감소한 사이즈 만큼 자신 핸드 랜덤한 카드 1의 사이즈 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200807</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립소속일경우 자신 필드 첫번째 추종자를 무덤으로 보낸다. 무덤으로 보낸 카드 사이즈의 +-1와 같은 상대 필드 추종자 전체 무덤으로 보낸다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200807</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립소속일경우 자신 필드 첫번째 추종자를 무덤으로 보낸다. 무덤으로 보낸 카드 사이즈의 -1~+1과 같은 상대 필드 추종자 전체 무덤으로 보낸다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200808</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 첫 번째 추종자의 방어력은 이 카드가 위치한 슬롯 번호와 같아진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200809</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스소속일경우 자신 필드 랜덤한 추종자 2는 자신의 사이즈 만큼 공/체 증가. 해당 추종자 사이즈의 차이 만큼 상대 필드 랜덤한 추종자 1의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200810</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 공/방/체 합이 15이상인 사이즈 2이하의 첫번째 추종자를 파괴한다.</span>]]></TEXT></CARD_SKILL>

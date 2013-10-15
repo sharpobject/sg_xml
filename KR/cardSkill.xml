@@ -357,7 +357,7 @@
 <CARD_SKILL><ID>100354</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 핸드 4사이즈 이상의 스펠 카드가 있을 경우 상대 필드 랜덤한 추종자1의 공/체 -1/-2. 상대 핸드 랜덤한 스펠 1의 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100355</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신덱 맨 위로 보낸다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100356</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.덱 맨위로 보낸 카드 종류에 따라 이하의 효과를 적용한다. 스펠:상대 필드 방어력이 1이상인 랜덤한 추종자 1의 방어력 =0.추종자: 자신 라이프+1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100357</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.해당 카드의 사이즈 차이만큼 상대 필드 랜덤한 추종자 1의 공/체 감소. (최대 3)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100357</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.해당 카드의 사이즈 차이만큼 상대 필드 랜덤한 추종자 1의 공/체 증가. (최대 3)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100358</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.해당 카드의 사이즈 차이만큼 자신 필드 랜덤한 추종자 1의 공/체 증가. (최대 3)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100359</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.덱 맨위로 보낸 카드가 다크로어 소속일 경우 추가로 상대 라이프 -1.아닐경우 상대 필드 랜덤한 추종자 1의 공/방/체 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100360</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 카드 1을 무덤으로 보낸다. 해당 카드와 종류가 다른 랜덤한 무덤 카드 1을 자신 덱 맨 위로 보낸다.덱 맨위로 보낸 카드의 사이즈에 따라 이하의 효과를 적용한다. 홀수:자신 셔플 수 +1 짝수:해당 카드와 자신 핸드 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
@@ -2621,7 +2621,7 @@
 <CARD_SKILL><ID>1997</ID><NAME>공수반전!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 공격력과 방어력은 절대값이 되고 공격전, 방어전 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1998</ID><NAME>인내의 시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력-2. 이 카드 공격력의 절대값 절반(올림)만큼 방어추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1999</ID><NAME>고통감내</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력-1. 이 카드 방어력의 절대값만큼 방어추종자의 공격력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2000</ID><NAME>급행열차!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 핸드 모든 스펠카드를 상대 덱 맨 밑에 둔다. 옮긴 카드 수의 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2000</ID><NAME>급행열차!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 핸드 모든 스펠카드를 상대 덱 맨 밑에 둔다. 옮긴 카드 수 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2001</ID><NAME>차표 검사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어 전: 상대 덱 맨 위 스펠카드 1을 상대 핸드 마지막 슬롯으로 옮긴다.상대 핸드 빈슬롯 수 만큼 공격 추종자의 공/체감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2002</ID><NAME>뒹굴뒹굴</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 핸드 첫 번째와 마지막 카드의 종류가 같을경우 방어 추종자의 공/체 -3. 아닐경우 공/체 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2003</ID><NAME>요리시식</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 자신필드 랜덤한 공립소속 추종자 1의 방어력 +1. 방어력의 절반(내림)만큼 공/체 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
@@ -2638,4 +2638,6 @@
 <CARD_SKILL><ID>2014</ID><NAME>트윌라잇</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 무덤 맨 위에 "GS 전투원" 2장을 생성한다.방어추종자의 공/체는 자신 무덤 "GS 전투원"이 들어간 카드 수 절반(내림)+1만큼 감소한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2015</ID><NAME>전두지휘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 "GS 전투원" 1장을 게임에서 제거한다. 그경우 자신 필드/핸드 "GS"가 들어간 추종자 전체 공/체 +1/2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2016</ID><NAME>회피 기동!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 이 카드의 강화수치보다 낮은 슬롯 번호에 있을 경우 방어추종자의 공격력만큼 이 추종자의 체력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2017</ID><NAME>일의전심</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(올림)만큼 상대 핸드 카드를 무덤으로 보낸다. 보낸 수 만큼 이 카드의 사이즈 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2018</ID><NAME>전심전력</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 강화수치 절반(올림)만큼 상대 무덤 카드를 게임에서 제거한다 제거한 카드 수 만큼 이 카드의 공/방 증가.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

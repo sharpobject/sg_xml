@@ -762,4 +762,5 @@
 <TALK_PATTERN><ID>f300994</ID><JOIN>이 번뜩임…! 분명 이 앞이에요!</JOIN><JOIN>어서 따라오세요!</JOIN><FALL_APART>분명 이 곳이였어요!</FALL_APART><FALL_APART>순간이지만 분명히 보였어요!</FALL_APART><ATTACK>거긴가요!?</ATTACK><COUNTER>우…움직임이 손에 잡힐듯이 보여요!</COUNTER><DIRECT>고작 이정도로는 저를 막을 수 없습니다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300996</ID><JOIN>이제 곧 태양이 떨어진다.</JOIN><JOIN>하지만 곧 만날 수 있을거야…</JOIN><FALL_APART>언제나 후회하고 있어…</FALL_APART><FALL_APART>황혼이 내린다. 이제 곧 시작…</FALL_APART><ATTACK>어둠은 곧 나의 장막이다.</ATTACK><COUNTER>방해물은 신속히 제거할 뿐…</COUNTER><DIRECT>이제 곧 만날 수 있어…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300997</ID><JOIN>레이지온이여 내가 돌아왔다!</JOIN><JOIN>어이쿠, 슬슬 복귀해야겠는걸?</JOIN><FALL_APART>이 바다는 지옥이야…</FALL_APART><FALL_APART>당근은 필요없어…</FALL_APART><ATTACK>선수를 치겠어!</ATTACK><COUNTER>엇!? 제법인걸?</COUNTER><DIRECT>침몰해랏!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f300889</ID><JOIN>나 참 전부 어디로 간거람?</JOIN><JOIN>뭐라고!? 대륙을 건너갔다고?</JOIN><FALL_APART>창문을 막아 놓던지 해야지 원…</FALL_APART><FALL_APART>가서 누나들 좀 찾아볼래?</FALL_APART><ATTACK>다쳐도 난 몰라?</ATTACK><COUNTER>빚진건 배로 갚아주는 주의거든.</COUNTER><DIRECT>어때? 대단하지?</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

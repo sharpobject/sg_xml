@@ -2585,7 +2585,7 @@
 <CARD_SKILL><ID>1961</ID><NAME>굳은 의지</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 원래 방어력과 현재 방어력의 차이만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1962</ID><NAME>방어이용</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력을 상대필드 랜덤한 추종자 1의 방어력과 교환한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1963</ID><NAME>연설</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 "천리교"가 들어간 랜덤한 추종자 1의 공/체 +1. 해당 추종자를 자신 덱 맨 위로 보낸다. 이 추종자의 공/체는 해당 카드의 사이즈 만큼 증가한다.(최대 5)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1964</ID><NAME>현장조사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 사이즈 수만큼 자신 무덤에 "시온 플리나","리온 플리나"카드를 생성한다.(최대 4) 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1964</ID><NAME>현장조사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 사이즈 만큼 자신 무덤에 "시온 플리나","리온 플리나"카드를 생성한다.(최대 4) 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1965</ID><NAME>탐문수사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신무덤 "리온"이 들어가는 추종자 1을 제거한다. 그랬을경우 이 카드의 공/체는 자신 무덤 "시온"이 들어가는 추종자 수 절반(올림) 만큼 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1966</ID><NAME>보급요청</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 방어력이 0이하일 경우 이 카드를 무덤으로 보낸다. 자신 핸드 카드 전체 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1967</ID><NAME>실드블릿!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방어력이 0이상일 경우 이 카드의 방어력-2.그경우 방어 추종자의 공/체는 이 카드 강화수치 절반(내림)+1 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
@@ -2637,7 +2637,11 @@
 <CARD_SKILL><ID>2013</ID><NAME>은신</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드를 무덤으로 보낸다. 상대 필드 랜덤한 카드 1을 행동종료 상태로 한다. 해당 카드의 종류에 따라 이하의 효과를 적용한다. 추종자:이 카드의 사이즈 만큼 해당 추종자의 공/체 감소. 스펠:자신 셔플 수 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2014</ID><NAME>트윌라잇</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 무덤 맨 위에 "GS 전투원" 2장을 생성한다.방어추종자의 공/체는 자신 무덤 "GS 전투원"이 들어간 카드 수 절반(내림)+1만큼 감소한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2015</ID><NAME>전두지휘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 "GS 전투원" 1장을 게임에서 제거한다. 그경우 자신 필드/핸드 "GS"가 들어간 추종자 전체 공/체 +1/2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2016</ID><NAME>회피 기동!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 이 카드의 강화수치보다 낮은 슬롯 번호에 있을 경우 방어추종자의 공격력만큼 이 추종자의 체력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2016</ID><NAME>회피 기동!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 이 카드의 강화수치보다 낮은 슬롯 번호에 있을 경우 공격추종자의 공격력만큼 이 추종자의 체력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2017</ID><NAME>일의전심</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(올림)만큼 상대 핸드 카드를 무덤으로 보낸다. 보낸 수 만큼 이 카드의 사이즈 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2018</ID><NAME>전심전력</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 강화수치 절반(올림)만큼 상대 무덤 카드를 게임에서 제거한다 제거한 카드 수 만큼 이 카드의 공/방 증가.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2019</ID><NAME>학생동원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드를 제외한 자신 필드 카드 이름에 "학생회"가 들어간 미행동상태의 자신필드 랜덤한 추종자 1을 행동종료 상태로 한다. 그경우 해당 추종자의 공격력 +1 만큼 상대필드 사이즈가 가장 큰 추종자 1의 체력감소.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2020</ID><NAME>강요받는 희생</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 "GS"가 들어간 랜덤한 추종자 1을 자신 무덤에 복사한다. 그랬을경우 이 카드 공/체 +1/+2. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2021</ID><NAME>업화</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드/핸드에 "GS"가 들어간 카드가 3장이상일경우, 이 카드의 방어력 +2. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2022</ID><NAME>월하미인</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드를 무덤으로 보낸다. 그랬을경우 자신 덱 랜덤한 제국 소속 카드 1을 자신 필드 마지막 슬롯에 배치한다. 해당 카드의 강화수치는 5가되고, 해당 카드의 강화 수치의 절반(올림)만큼 공/체 증가.(강화수치에 따른 공/방/체는 증가하지 않는다.)</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

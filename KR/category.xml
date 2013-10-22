@@ -108,6 +108,13 @@
 		<ICON_FILE>exchange_dungeon.png</ICON_FILE>
 		<TITLE_FILE>exchange_dungeon_title.png</TITLE_FILE>
 	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>16</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>훈장재료</NAME>
+		<ICON_FILE>exchange_medal.png</ICON_FILE>
+		<TITLE_FILE>exchange_medal_title.png</TITLE_FILE>
+	</CATEGORY>
 
 
 	<CATEGORY>

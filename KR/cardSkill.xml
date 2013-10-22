@@ -2643,5 +2643,5 @@
 <CARD_SKILL><ID>2019</ID><NAME>학생동원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드를 제외한 자신 필드 카드 이름에 "학생회"가 들어간 미행동상태의 자신필드 랜덤한 추종자 1을 행동종료 상태로 한다. 그경우 해당 추종자의 공격력 +1 만큼 상대필드 사이즈가 가장 큰 추종자 1의 체력감소.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2020</ID><NAME>강요받는 희생</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 "GS"가 들어간 랜덤한 추종자 1을 자신 무덤에 복사한다. 그랬을경우 이 카드 공/체 +1/+2. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2021</ID><NAME>업화</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드/핸드에 "GS"가 들어간 카드가 3장이상일경우, 이 카드의 방어력 +2. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2022</ID><NAME>월하미인</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드를 무덤으로 보낸다. 그랬을경우 자신 덱 랜덤한 제국 소속 카드 1을 자신 필드 마지막 슬롯에 배치한다. 해당 카드의 강화수치는 5가되고, 해당 카드의 강화 수치의 절반(올림)만큼 공/체 증가.(강화수치에 따른 공/방/체는 증가하지 않는다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2022</ID><NAME>월하미인</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드를 무덤으로 보낸다. 그랬을경우 자신 덱 랜덤한 제국 소속 카드 1을 자신 필드 마지막 슬롯에 배치한다. 해당 카드는 원본 형태의 공/체에서 원래 강화수치의 절반(올림)만큼 공/체가 증가되고, 강화수치는 5가된다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

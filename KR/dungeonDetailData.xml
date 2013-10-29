@@ -2362,14 +2362,14 @@
 
 
 <DUNGEON_DETAIL>
-<ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인 / 특징 : 패배 시 재도전 불가|입장방법1 : 게임에서 승리 시 일정 확률로 열립니다.|입장방법2 : 자신을 친구로 등록한 유저가 게임에서 승리 시 일정 확률로 열립니다.</TOOL_TIP_TEXT>
+<ID>27</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>4</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 흑사자의 발톱, 금빛/은빛/구리빛 탈렌티움|특징 : 오픈시간동안 얼마든지 재도전이 가능합니다.(오픈:매주 금요일 22시~23시 59분)</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_053.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_053.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_053.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>문이 열리고 전기를 품은 공기가 넘어온다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<DUNGEON_ICON_IMG>dungeon_icon_027.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_027.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_027.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>darksoul_nold.png</NPC_IMG><NPC_NAME>흑사자</NPC_NAME><NPC_TEXT_1>크르르.. 죽을 것이다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>
@@ -2436,6 +2436,20 @@
 <DUNGEON_TITLE_IMG>dungeon_title_049.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_049.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>건물에 들어서자 안쪽에서부터 위압감이 느껴진다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인 / 특징 : 패배 시 재도전 불가|입장방법1 : 게임에서 승리 시 일정 확률로 열립니다.|입장방법2 : 자신을 친구로 등록한 유저가 게임에서 승리 시 일정 확률로 열립니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_053.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_053.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_053.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>문이 열리고 전기를 품은 공기가 넘어온다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>

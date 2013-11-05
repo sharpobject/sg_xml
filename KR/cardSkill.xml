@@ -2680,7 +2680,7 @@
 <CARD_SKILL><ID>2043</ID><NAME>청십자 임명</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신의 필드 특수능력이 없는 추종자 전체 본래 특수능력이 된후, "공격전: 이 카드의 특수능력은 전부 사라진다. 사라진 특수능력 수 만큼 이 카드의 공/체 증가." 특수능력을 추가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2044</ID><NAME>독서중이야…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 핸드 카드 전부 상대 덱 맨 밑으로 보낸다. 옮긴 카드 수 만큼 이 카드의 공/체 증가. 옮긴 카드가 2장 이상일 경우 이 카드의 사이즈 -1. 3장 이상일 경우 추가로 방어력 +1. 4장 이상일 경우 추가로 자신 셔플 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2045</ID><NAME>기원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 라이프 십의 자리수+1 만큼 이 카드의 공/체 증가.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2046</ID><NAME>만월의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 무덤 가장 밑에 있는 카드 1을 상대 덱 아래로 옮긴다.그경우,상대 덱 맨아래 있는 카드 2장을 무덤으로 보낸다.상대 무덤 십의 자리 수 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2046</ID><NAME>만월의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 덱 맨아래 있는 카드 2장을 무덤으로 보낸다.그경우,상대 무덤 가장 밑에 있는 카드 1을 상대 덱 아래로 옮긴다.상대 무덤 십의 자리 수 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2047</ID><NAME>포크</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:자신 캐릭터가 사립소속일 경우, 방어 추종자를 행동 종료 상태로 한 후 강화수치=0, 원래 수치에서 증가한 공/방/체 수치는 원래의 수치 -1이 된다. 그경우 이 특수능력은 “턴 개시시: 본래 특수능력으로 바뀐 후 자신 덱 맨위로 간다.”로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2048</ID><NAME>프로모션</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전:공격 추종자의 감소된 공/방 수치의 절반(올림)만큼 이 카드의 공/방 증가</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2049</ID><NAME>포격준비</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 덱 맨 위 5장중 이 카드의 강화수치 만큼의 추종자는 방어력 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

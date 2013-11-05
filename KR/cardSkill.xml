@@ -232,14 +232,14 @@
 <CARD_SKILL><ID>100229</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대덱 추종자1의 공/체 -1을 2번 실행한다. 턴 수가 짝수일경우 랜덤한 자신무덤 카드 1을 게임에서 제거한다. 그 경우 랜덤한 자신무덤 추종자 1을 자신덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100230</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드슬롯에 빈 공간이 없을 경우 자신핸드 첫번째 카드를 자신덱 맨 위로 옮긴다. 자신핸드 빈 슬롯 수 만큼 자신덱 랜덤한 추종자 1의 공/체 증가(최대2). 턴 수가 짝수일경우 랜덤한 자신무덤 카드 1을 게임에서 제거한다. 그럴경우 랜덤한 자신무덤 추종자 1을 자신덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100231</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드와 핸드 추종자카드 전체 공격력 -1 그 경우 감소치+1만큼 자신덱 맨 위의 추종자 1의 공격력 증가(최대3). 턴 수가 짝수일경우 랜덤한 자신무덤 카드 1을 게임에서 제거한다. 그 경우 랜덤한 자신무덤 추종자 1을 자신덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100232</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 필드 1,2,3번 슬롯 추종자 공/체 -1/-2. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100233</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 필드 랜덤한 추종자 1의 공/체 -2/-3. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100234</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 자신 필드 랜덤한 추종자 1의 공/체 +2/+3. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100235</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 캐릭터 라이프 -1, 랜덤한 상대 필드 추종자 1의 공/체 -1. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100236</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 자신 덱 맨 위의 1,3번째 카드의 사이즈 -1. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100237</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 덱 맨 위의 추종자 2장의 공/체 -1. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100238</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 자신 덱 맨 위의 추종자 2장의 공/체 +1. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100239</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 필드 추종자 전체 공격력 -1, 자신 핸드 첫번째 추종자의 공격력 +2. 라이프가 12 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100232</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 필드 1,2,3번 슬롯 추종자 공/체 -1/-2. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100233</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 필드 랜덤한 추종자 1의 공/체 -2/-3. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100234</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 자신 필드 랜덤한 추종자 1의 공/체 +2/+3. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100235</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 캐릭터 라이프 -1, 랜덤한 상대 필드 추종자 1의 공/체 -1. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100236</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 자신 덱 맨 위의 1,3번째 카드의 사이즈 -1. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100237</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 덱 맨 위의 추종자 2장의 공/체 -1. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100238</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 자신 덱 맨 위의 추종자 2장의 공/체 +1. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100239</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프가 9 이상일 경우 상대 필드 추종자 전체 공격력 -1, 자신 핸드 첫번째 추종자의 공격력 +2. 라이프가 9 미만일 경우 자신 셔플수 =0. (숨겨진 효과가 있습니다.)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100240</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 추종자의 공/방/체 수치에 1이 들어간 추종자 전체 체력 -4</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100241</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신 필드 랜덤한 추종자 1의 공/체 +2/+1. 상대 필드 랜덤한 추종자 1의 체력 -2. 해당 추종자들의 슬롯 번호가 동일할 경우 상대 추종자의 체력 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100242</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 추종자 전체 공/체 +1/-1. 상대 필드 추종자 전체 체력 -1.</span>]]></TEXT></CARD_SKILL>

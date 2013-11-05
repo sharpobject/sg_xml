@@ -2256,8 +2256,8 @@
 <CARD_SKILL><ID>1619</ID><NAME>달의 이름으로!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 본래 공격력과 현재 공격력의 차이만큼 이 카드의 체력 증가</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1620</ID><NAME>책의 화합</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 맨 아래의 6장의 카드 중 스펠 카드수가 자신 필드 전체 카드의 사이즈가 된다(최소 1). 이 특수능력은 사라진다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1621</ID><NAME>소녀의 마음</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 이름에 "레이디"가 들어간 카드 전체 사이즈 -1. 감소치만큼 이카드의 공격력 증가. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1622</ID><NAME>전략요청</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신의 셔플수가 1 이하일 경우 공격력 -2. 그 경우가 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1623</ID><NAME>전략수정</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신의 셔플수가 1 이하일 경우 체력 -2. 그 경우가 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1622</ID><NAME>전략요청</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신의 셔플수가 1 이하일 경우 공격력 -2. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1623</ID><NAME>전략수정</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신의 셔플수가 1 이하일 경우 체력 -2. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1624</ID><NAME>단원정리</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 카드 이름에 "GS"가 들어간 자신 핸드 카드를 모두 자신 덱 밑으로 옮긴다. 그 경우 옮긴 수+1만큼 이 추종자의 공/체 증가</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1625</ID><NAME>단원관리</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 카드 이름에 "GS"가 들어간 자신 덱 맨 아래의 추종자를 자신 핸드 첫번째 빈 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1626</ID><NAME>철판냄비</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방어력만큼 공격력 증가</span>]]></TEXT></CARD_SKILL>
@@ -2670,7 +2670,7 @@
 <CARD_SKILL><ID>2033</ID><NAME>카모플라쥬</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 핸드 강화수치가 3이상인 랜덤한 추종자 1을 자신핸드 마지막 슬롯으로 옮긴다.그랬을경우 이 카드는 무덤으로 간다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2034</ID><NAME>꿈나라로</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈를 -1하여 파괴한다. 자신 필드와 자신 덱 맨위 추종자 2의 공격력 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2035</ID><NAME>기원열람</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/체는 방어 추종자 사이즈 절반(올림)만큼 증가한다.방어 추종자의 사이즈와 같은 사이즈의 공립 카드1을 전체 무덤에서 제거한다.그경우 방어 추종자의 공/방-1.행동종료 상태가 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2036</ID><NAME>삼라만상의 이치</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공/체 +1.공격 추종자가 행동종료 상태일 경우 자신 핸드 사이즈 종류 수+1 만큼 방어 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2036</ID><NAME>삼라만상의 이치</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공/체 +1.공격 추종자가 행동종료 상태일 경우 자신 핸드 사이즈 종류 수+1 만큼 공격 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2037</ID><NAME>역행</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(내림)만큼 이 추종자의 공/체 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2038</ID><NAME>스틸포츈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 강화수치가 1이상일 경우, 상대필드 랜덤한 추종자 1의 첫 번째 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2039</ID><NAME>커스블러드</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 필드 본래 사이즈인 추종자 전체 사이즈 +1.</span>]]></TEXT></CARD_SKILL>

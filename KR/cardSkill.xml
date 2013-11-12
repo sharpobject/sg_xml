@@ -365,7 +365,7 @@
 <CARD_SKILL><ID>100362</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱 맨위 사립 추종자 1의 공/방+1.사이즈 -1,“할로윈” 혹은 “리누스”가 들어간 카드1을 자신 핸드로 가져온다.해당 카드의 사이즈 -1. 공/체 +1/+2. 자신 무덤 “할로윈” 혹은 “리누스”가 들어간 카드가 5장이상 있을경우, 그중 랜덤한 카드 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100363</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱 맨위 크룩스 추종자 1의 공/방+1.사이즈 -1,“할로윈” 혹은 “로제”가 들어간 카드1을 자신 핸드로 가져온다.해당 카드의 사이즈 -1. 공/체 +1/+2. 자신 무덤 “할로윈” 혹은 “로제”가 들어간 카드가 5장이상 있을경우, 그중 랜덤한 카드 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100364</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱 맨위 다크로어 추종자 1의 공/방+1.사이즈 -1,“할로윈” 혹은 “헬레나”가 들어간 카드1을 자신 핸드로 가져온다.해당 카드의 사이즈 -1. 공/체 +1/+2. 자신 무덤 “할로윈” 혹은 “헬레나”가 들어간 카드가 5장이상 있을경우, 그중 랜덤한 카드 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100365</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시:상대 핸드에 스펠 카드가 없을경우,상대 필드 랜덤한 추종자 1의 공/체 -2 해당 추종자의 특수능력은 사라진다. 상대 핸드 랜덤한 스펠카드의 사이즈 -1. 감소치가 없을경우, 해당 스펠카드를 자신 필드 첫 번째 빈 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100365</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시:상대 핸드에 스펠 카드가 없을경우,상대 필드 랜덤한 추종자 1의 공/체 -1/-2. 해당 추종자의 첫번째 특수능력은 사라진다. 상대 핸드 랜덤한 스펠카드의 사이즈 -1. 감소치가 없을경우, 해당 스펠카드를 자신 필드 첫 번째 빈 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>

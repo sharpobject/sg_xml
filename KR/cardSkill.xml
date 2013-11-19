@@ -2702,9 +2702,9 @@
 <CARD_SKILL><ID>2061</ID><NAME>장난준비</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 맨위 스펠 카드 1장을 게임에서 제거한다. 그경우 자신 무덤 맨위에 "드레스업 시온리온" 카드 2장을 생성한다. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2062</ID><NAME>정열의 노래!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 카드이름에 "소드걸스"가 들어가는 자신필드 카드 수에 따라 이하의 이 추종자는 이하의 효과를 얻는다. 1: 방어 =1 체력+1. 2: 방어 =2 공/체 +1. 3이상: 방어 =2 공/체 +1/+2. 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2063</ID><NAME>용기의 노래!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신필드 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2064</ID><NAME>파트 교대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: "소드걸스"가 들어간 자신 덱 맨위 추종자의 특수능력을 본래의 특수능력으로 변경하여, 자신필드 마지막 슬롯에 배치한다. 해당 추종자의 사이즈 -1. 자신 필드 "소드걸스"가 들어간 카드 수+1만큼 방어 추종자의 체력감소. 이 카드는 자신 덱 맨 밑으로 간다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2064</ID><NAME>파트 교대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: "소드걸스"가 들어간 자신 덱 맨위 추종자의 특수능력을 본래의 특수능력으로 변경하여, 자신필드 마지막 슬롯에 배치한다. 해당 추종자의 사이즈 -1. 그랬을경우 자신 필드 "소드걸스"가 들어간 카드 수+1만큼 방어 추종자의 체력감소. 이 카드는 자신 덱 맨 밑으로 간다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2065</ID><NAME>매력발산</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 무덤 또는 핸드에 있는 "소드걸스"가 들어가는 랜덤한 추종자 1을 자신 덱 맨 밑으로 보낸다. 그랬을경우 상대 필드 랜덤한 카드 1을 덱 맨위로 보낸다. 보낸 카드 사이즈 만큼 이 카드의 공/체 증가(최대 3). 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2066</ID><NAME>소드걸스 하모니</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 "소드걸스"가 들어가는 랜덤한 카드 1을 자신 덱 맨 밑으로 보낸다. 그랬을경우 방어추종자를 행동종료 상태로 한다. 상대필드 행동종료 상태인 카드 수 만큼 이 카드의 공/체증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2066</ID><NAME>소드걸스 하모니</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 "소드걸스"가 들어가는 랜덤한 카드 1을 자신 덱 맨 밑으로 보낸다. 그경우 방어추종자를 행동종료 상태로 한다. 상대필드 행동종료 상태인 카드 수 만큼 이 카드의 공/체증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2067</ID><NAME>앵콜</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드를 제외한 자신필드 행동종료 상태의 랜덤한 카드 1을 행동가능 상태로 한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2068</ID><NAME>전기자석파</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 필드 럭키코인1을 행동종료 상태로 한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2069</ID><NAME>코인 셋트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 필드 랜덤한 빈 슬롯에 럭키코인 카드1매를 행동종료 상태로 생성한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

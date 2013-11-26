@@ -161,5 +161,10 @@
 <CASH_ITEM> <ID>Item192</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>수호의 성물(상)</NAME> <ICON_FILE>item_192.png</ICON_FILE> <PRICE>30000</PRICE> <TEXT>2단계 강화 시도 시 부터 사용할 수 있으며,||현재 강화에 필요한 재료 카드 1장이 감소됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item193</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>수호의 성물(고급)(중)</NAME> <ICON_FILE>item_191.png</ICON_FILE> <PRICE>5500</PRICE> <TEXT>2단계 강화 시도 시 부터 사용할 수 있으며,||현재 강화에 필요한 재료 카드 1장이 감소됩니다.||고급 강화장 사용시 확률이 10% 증가 합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item194</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>수호의 성물(고급)(상)</NAME> <ICON_FILE>item_192.png</ICON_FILE> <PRICE>30500</PRICE> <TEXT>2단계 강화 시도 시 부터 사용할 수 있으며,||현재 강화에 필요한 재료 카드 1장이 감소됩니다.||고급 강화장 사용시 확률이 10% 증가 합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item195</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>공립 담요 상품 패키지</NAME> <ICON_FILE>item_195.png</ICON_FILE> <PRICE>35000</PRICE> <TEXT>공립 담요 상품 1EA + 포토그래피 1매 +|마일리지 카드 2매 + 각 색깔 광석 50매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item196</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>사립 담요 상품 패키지</NAME> <ICON_FILE>item_196.png</ICON_FILE> <PRICE>35000</PRICE> <TEXT>사립 담요 상품 1EA + 외출준비 1매 +|마일리지 카드 2매 + 각 색깔 광석 50매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item197</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>크룩스 담요 상품 패키지</NAME> <ICON_FILE>item_197.png</ICON_FILE> <PRICE>35000</PRICE> <TEXT>크룩스 담요 상품 1EA + 결의 1매 +|마일리지 카드 2매 + 각 색깔 광석 50매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item198</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>다크로어 담요 상품 패키지</NAME> <ICON_FILE>item_198.png</ICON_FILE> <PRICE>35000</PRICE> <TEXT>다크로어 담요 상품 1EA + 밤의 축제 1매 +|마일리지 카드 2매 + 각 색깔 광석 50매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item199</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>무소속 담요 상품 패키지</NAME> <ICON_FILE>item_199.png</ICON_FILE> <PRICE>35000</PRICE> <TEXT>무소속 담요 상품 1EA + 나태 1매 +|마일리지 카드 2매 + 각 색깔 광석 50매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

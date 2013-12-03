@@ -659,13 +659,13 @@
 <DUNGEON_ICON_IMG>dungeon_icon_057.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_057.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_057.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>언니! 시니아는! 시니아는 어떻게 된거죠!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>언니! 시니아는! 시니아는 어떻게 된거죠!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>당황하지 마. 심장석이 형성되고 있을 뿐이란다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>레스, 리그를 불러줘요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>그 인형은 왜 부르는 거죠? 시니아가 더 중요하다고요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>그 인형은 왜 부르는 거죠? 시니아가 더 중요하다고요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>모든 것이 시니아를 위해서야. 저주받은 혈통은 시니아에게 어울리지 않으니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>이제 지하로 갈 거야. 원한다면 따라오렴.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>무슨 소린지 하나도 모르겠어요. 언니는 대체 무슨 생각을 하는거죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>무슨 소린지 하나도 모르겠어요. 언니는 대체 무슨 생각을 하는거죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>로제, 이제 이런 언니는 믿지 못 하겠지? 그럼 내가 아닌 시니아에 대한 사랑을 믿어보지 않겠니?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 

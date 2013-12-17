@@ -810,4 +810,5 @@
 <TALK_PATTERN><ID>f301035</ID><JOIN>당신은 도대체…?</JOIN><JOIN>그 눈… 어서 정신 차리세요!</JOIN><FALL_APART>당신은 이미…</FALL_APART><FALL_APART>어째서 제 앞에 나타나신거죠?</FALL_APART><ATTACK>이곳 성역에 자격도 없이 어떻게…?</ATTACK><COUNTER>당신에게 협력할 수 없습니다!</COUNTER><DIRECT>당신은 지금 이용당하고 있어요!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301037</ID><JOIN>잠시동안 협력해드리죠.</JOIN><JOIN>빚은 반드시 갚아드리죠.</JOIN><FALL_APART>다음 작전을 준비하죠.</FALL_APART><FALL_APART>이게 바로 일석이조라는 거죠.</FALL_APART><ATTACK>방해물은 신속히 제거합니다.</ATTACK><COUNTER>주변을 잘 살펴보세요.</COUNTER><DIRECT>이미 당신은 덫에 빠진 생쥐…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301038</ID><JOIN>같이 날아올라볼까요?</JOIN><JOIN>잠시 쉬었다 가야겠어요.</JOIN><FALL_APART>도착했군요.</FALL_APART><FALL_APART>바람을 타고 가볼까요?</FALL_APART><ATTACK>운이 따르는군.</ATTACK><COUNTER>겨우 그 정도로 날 잡아보겠다고?</COUNTER><DIRECT>운이 좋다고? 이건 운명이야.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301039</ID><JOIN>오늘은 어떤 이야기를 들려드릴까요?</JOIN><JOIN>오늘 연주는 어떠셨나요?</JOIN><FALL_APART>다음 이야기는 다음 이 시간에~</FALL_APART><FALL_APART>가만히 귀 기울여 봐요.</FALL_APART><ATTACK>바람에 이야기를 담아…</ATTACK><COUNTER>잡담은 금지!</COUNTER><DIRECT>이제 그만 꿈나라로 갈 시간이에요.</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

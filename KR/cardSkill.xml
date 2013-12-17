@@ -1207,7 +1207,7 @@
 <CARD_SKILL><ID>200370</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>사이즈가 1이 아니고, 이 카드를 제외한 자신캐릭터와 소속이 같은 자신필드 1,2,3번째 카드와 자신핸드 맨 앞 1,2,3번째 카드, 자신덱 맨 위의 1,2,3번째 카드들의 사이즈 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200371</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 상대필드 추종자 2의 공/체 -1/-2. 자신필드에 사이즈 6이상의 카드가 있을경우 이 수치는 2배가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200372</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>카드 이름에 “메이드” “레이디”가 들어가지 않은 랜덤한 자신필드 사립소속추종자 2는 자신의 공격순서에 따라 이하의 효과를 얻는다. 선공 : 공/방/체 +3/+1/+1. 후공 : 공/방/체 +1/+1/+3</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200373</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신캐릭터와 소속이 같은 자신필드 추종자 전체 모든 특수능력은 본래 특수능력이 된 후 공/방/체 수치 중 감소된 수치는 본래 수치+1이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200373</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신캐릭터와 소속이 같은 자신필드/핸드 추종자 전체 모든 특수능력은 본래 특수능력이 된 후 공/방/체 수치 중 감소된 수치는 본래 수치+1이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200374</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>방어력이 1이상인 랜덤한 자신필드 크룩스소속 추종자 2의 방어력은 2배만큼 감소. 그 경우 감소치의 2배만큼 해당 추종자의 공격력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200375</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>카드 이름에 “기사단” “신성연구회”가 들어가지 않은 랜덤한 자신필드 크룩스소속 추종자 2는 자신의 공격순서에 따라 이하의 효과를 얻는다. 선공 : 공/방/체 +3/+1/+1. 후공 : 공/방/체 +1/+1/+3</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200376</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 크룩스소속 추종자 수만큼의 상대필드 추종자는 자신필드 크룩스소속 추종자 수+1로 공/방/체를 나눈다.(내림)</span>]]></TEXT></CARD_SKILL>

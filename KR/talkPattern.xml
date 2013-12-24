@@ -380,6 +380,15 @@
 <TALK_PATTERN><ID>c100376</ID><JOIN>마녀를 실제로 만나본적은 없답니다.</JOIN><JOIN>이번엔 성공할 것 같은 느낌이!</JOIN><FALL_APART>여…역시 폭발해버렸네요…</FALL_APART><FALL_APART>주문이 잘못되었던걸까요?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100377</ID><JOIN>당신의 이정표가 되어드릴게요.</JOIN><JOIN>새로운 출발점에 나란히 서요.</JOIN><FALL_APART>때로는 휴식도 필요한 법이죠.</FALL_APART><FALL_APART>지금은 이것만으로 행복해요.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100378</ID><JOIN>오랜 여행의 끝에 마침내 돌아왔어요.</JOIN><JOIN>내 꿈을 위한 여행의 시작이에요!</JOIN><FALL_APART>너무 오래 돌아다녔나…</FALL_APART><FALL_APART>이건 어쩌다 배웠습니다.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100379</ID><JOIN>산타 할아버지 선물이야?</JOIN><JOIN>크리스마스엔 어떤걸 먹어?</JOIN><FALL_APART>올해에도 착한 일 많이 했어…</FALL_APART><FALL_APART>내년에도 잘 부탁해…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100380</ID><JOIN>붉은색과 하얀색의 조화 어울리죠?</JOIN><JOIN>준비되셨나요?</JOIN><FALL_APART>갑자기 무언가 안좋은 기억이…</FALL_APART><FALL_APART>내년에는 더욱 노력하세요!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+
+
+
+
+
+
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -811,4 +820,5 @@
 <TALK_PATTERN><ID>f301037</ID><JOIN>잠시동안 협력해드리죠.</JOIN><JOIN>빚은 반드시 갚아드리죠.</JOIN><FALL_APART>다음 작전을 준비하죠.</FALL_APART><FALL_APART>이게 바로 일석이조라는 거죠.</FALL_APART><ATTACK>방해물은 신속히 제거합니다.</ATTACK><COUNTER>주변을 잘 살펴보세요.</COUNTER><DIRECT>이미 당신은 덫에 빠진 생쥐…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301038</ID><JOIN>같이 날아올라볼까요?</JOIN><JOIN>잠시 쉬었다 가야겠어요.</JOIN><FALL_APART>도착했군요.</FALL_APART><FALL_APART>바람을 타고 가볼까요?</FALL_APART><ATTACK>운이 따르는군.</ATTACK><COUNTER>겨우 그 정도로 날 잡아보겠다고?</COUNTER><DIRECT>운이 좋다고? 이건 운명이야.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301039</ID><JOIN>오늘은 어떤 이야기를 들려드릴까요?</JOIN><JOIN>오늘 연주는 어떠셨나요?</JOIN><FALL_APART>다음 이야기는 다음 이 시간에~</FALL_APART><FALL_APART>가만히 귀 기울여 봐요.</FALL_APART><ATTACK>바람에 이야기를 담아…</ATTACK><COUNTER>잡담은 금지!</COUNTER><DIRECT>이제 그만 꿈나라로 갈 시간이에요.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301040</ID><JOIN>메리 크리스마스~</JOIN><JOIN>내년에도 잘 부탁드립니다!</JOIN><FALL_APART>해피 뉴이어~</FALL_APART><FALL_APART>올해에는 착한 일 많이 하셨나요?</FALL_APART><ATTACK>행복한 성탄 되세요~</ATTACK><COUNTER>내년에도 행복하세요~</COUNTER><DIRECT>우는 아이에겐 선물을 안주신대요.</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

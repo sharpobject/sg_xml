@@ -2512,6 +2512,409 @@
 
 
 <DUNGEON_DETAIL>
+<ID>15</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>2</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_tower.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인|특징 : 1일 1회 도전제한, 자동저장, 패배시 층 수 하락없음.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>걱정되서 따라왔잖아! 별일은 없는거야? 결국 만났구만. 베르니카는? ....아아 그래. 뭐 둘이서 잘 해봐. 좋은 구경이 될 것 같구만.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015-1.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio3.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>이스프릿이 알려줬다기에 따라왔어요. 이곳은 위험합니다. 끝까지 가는것도, 도중에 돌아가는것도 위험합니다. 이곳에서 당신이 만날 사람들에게 너무 신경쓰지 마세요. 명계의 존재들은 현재를 기반으로 하지만 이면의 존재들입니다. 명심하세요. 우선 당신의 자격을 알아보겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>이런곳에서 만나다니 우연이군요. 정체를 알 수 없는 전학생이라는건 당신인가요? 이 땅은 특별합니다. 제가 바라던 것에 좀 더 가까이 다가갈 수 있는 환경이에요. 이곳에서의 저는 조금 다를겁니다. 히힛.. 시작해볼까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_seven.png</NPC_IMG><NPC_NAME>세븐</NPC_NAME><NPC_TEXT_1>혹시 나나이를 보지못했나요? 이, 이겼다구요? ....용서할 수 없습니다. 당신! 나랑 승부해요! 나나이의 첫 패배는 제것이 되어야 할 것이었거늘!!! 각오하세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_newbie.png</NPC_IMG><NPC_NAME>신입기사단원</NPC_NAME><NPC_TEXT_1>안녕하세요? 신기하네요~ 대단한 분들이 여기저기서 보여요. 이곳에서라면 저는 좀 더 강해질 것 같은 기분이 들어요. 저와 싸워주시지 않겠어요? 당신과 함께라면 좀 더 강해질 수 있을것 같아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015-2.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_prayer.png</NPC_IMG><NPC_NAME>기원의사도</NPC_NAME><NPC_TEXT_1>반갑습니다~ 돌아가실 수 있으실진 모르겠지만, 저희 무스펠헤임에서 즐거운 시간을 보내주세요~ 네? 적색 드릴머리를 한 여자아이요? 못봤는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>6</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_sion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>안녕? 어서와. 힘세고 강한 명계. 만일 내가 누구냐고 묻는다면, 마을의 눈물을 닦아주는 둘이서 하나인 탐정! 혹시 나랑 비슷하게 생겼지만 머리가 짧은 아이 못봤어? 내 치마를 들추고 사라져 버려서 찾고있거든? 호오.. 뭔가 알고있는거 아냐? 어서 실토해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>7</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>혹시 여기 오면서 시온 못봤어? 그저 치마만 들췄을 뿐인데 날 죽일기세로 달려오더라고. 어휴~ 닳는것도 아닌데 너무 민감해. 응? 궁금한게 있으면 이 탐정에게 물어보시라~ 요금은 나랑 놀아주는걸로 대신해줄게. 좋지? 자 선불이야, 놀아줘!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>8</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_flag.png</NPC_IMG><NPC_NAME>프렛</NPC_NAME><NPC_TEXT_1>선배님들은 어디로 가신 걸 까요? 기억이 어지러워요. 정신차려보니 깃대가 부러져 있었어요. 빠.. 빨리 고치지 않으면 제 보직이 위험합니다! 근처에 쓸만한 나무를 보지 못하셨나요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>9</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_odn.png.png</NPC_IMG><NPC_NAME>오디엔</NPC_NAME><NPC_TEXT_1>이 아티펙트를 아시나요? 정말입니까? 처음 뵙는 분이지만 그정도의 지식을 가지고 있을 거라곤 생각도 못했어요. 저와 함께 좀 더 이야기를 나눠 보시지 않겠습니까? 당신의 의견이 듣고싶어요. 그 문신은 뭔가요? 흐.. 흡혈귀?!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>10</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015-3.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ririka.png.png</NPC_IMG><NPC_NAME>리리카</NPC_NAME><NPC_TEXT_1>거기 귀여운 허니~ 날 잠깐만 봐줘. 어때? 귀엽지? 마침 심심하던 참이야, 시간좀 내 줄래? 귀여운 아이랑 즐거운 뭔가를 하고싶어. 그 검은 뭐야? 싸울 줄 알어? 잘됐다! 나랑 싸우지 않을래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>11</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_sera.png.png</NPC_IMG><NPC_NAME>세라</NPC_NAME><NPC_TEXT_1>처음 이 장소에 있다는 사실을 깨달은 순간 저는 혼란스러웠어요. 여기는 어디고 나는 누구인지, 어떻게 이곳으로 오게 된 건지.... 이젠 아무래도 좋습니다. 보는것 만으로도 즐거운 무한의 지식이 이 세계의 지천에 널려있습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>12</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gatt.png.png</NPC_IMG><NPC_NAME>갓트</NPC_NAME><NPC_TEXT_1>지금 집중해서 들고가야 하니깐 말 걸지마, 뭐? 빨간머리? 그게 누구야? 난 잘 모르겠는데? 같은학교? 그게 무슨소리야. 우리학교엔 그런 아이 없어! 수호수인 내가 보증하지. 으, 으악! 너때문에 쏟아졌잖아! 당장 물어내!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>13</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_messenger.png.png</NPC_IMG><NPC_NAME>기사단의 전령</NPC_NAME><NPC_TEXT_1>어떻게 해서 이 세계에 오게 된건지 잘 기억은 나지 않아요. 하지만 이곳 사람들은 다들 멀리 떨어져 있어도 연락 할 수 있는 기계를 가지고 있더군요. 신기하지 않아요? 아무리 멀리 떨어져있어도 번호만 누르면 목소리를 들을 수 있어요! 전... 실업자일까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>14</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_firststar.png.png</NPC_IMG><NPC_NAME>GS 첫번째 별</NPC_NAME><NPC_TEXT_1>이 곳은 뭔가 이상해요, 자꾸 반복되는 느낌입니다. 기억해 두세요, 자신이 어떤 존재인지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>15</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015-4.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_dtd.png</NPC_IMG><NPC_NAME>카나 DTD</NPC_NAME><NPC_TEXT_1>누굴 찾고있나? 일전에 만났던 그 흡혈귀 여자로군. 이런곳까진 무슨일이지? 알려주는건 어렵지 않다. 나와 잠깐어울려준다면 알려주도록 하지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>16</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rotte.png</NPC_IMG><NPC_NAME>롯테</NPC_NAME><NPC_TEXT_1>반가워요. 이 세계는 정말 신기해요. 새로운 장르와 새로운 소재 새로운 글들이 넘쳐나는 세계에요. 어떻게 이곳에 오게된건지는 잘 기억나지 않지만 계속 지내고 싶어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>17</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>conundrum.png</NPC_IMG><NPC_NAME>코넌드럼</NPC_NAME><NPC_TEXT_1>이 프로그램 보셨나요? 이곳에서 하는 퀴즈프로그램인데 정말 웃겨요! 헤헷.. 저도 참가하고 싶어지네요. 네? 여기가 어디냐구요? 저도 잘 몰라요. 하지만 왠지모르게 안심이 되는 장소에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>18</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sb.png</NPC_IMG><NPC_NAME>기사단의 선봉</NPC_NAME><NPC_TEXT_1>삶과 죽음의 틈바구니에 놓여진 자들의 땅입니다. 위험해요, 스스로가 누구인지 잊어버리게 될 겁니다. 정신을 집중하세요. 스스로가 누구인지 끊임없이 질문하세요. 답은 항상 그곳에 있습니다. 자 검을 잡으세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>19</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015-5.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>롯테를 보지 못하셨나요? 아까 서점에서 같이 책을 고르다가 갑자기 사라져 버렸어요. 정말 재밌는책이 너무 많아서 정신을 못차리겠어요. 잠깐 저랑 책을 함께 골라주시지 않겠어요? 당신에게서 왠지 익숙한 느낌이 들어요.. 허, 헌팅 아니에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>20</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>envy.png</NPC_IMG><NPC_NAME>엔비레이디</NPC_NAME><NPC_TEXT_1>이 도시도 마찬가지야. 어딜가나 둘. 둘. 둘. 둘!! 세계는 잘못되어있어! 이 곳에서마저 외로운자가 존재해야하는건가? 난 용서할 수 없습니다. 각오하세요! 모든 둘이 하나가 되는 그 날까지 투쟁할겁니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>21</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>14.png</NPC_IMG><NPC_NAME>포틴</NPC_NAME><NPC_TEXT_1>이곳은 딱히 의뢰같은 의뢰가 들어오진 않더라구. 그냥 저냥 지내게 되버렸어. 음.. 내가 뭔가를 잊고 있는 것 같은데, 혹시 그게 뭔지 알 수 있을까? 너도 잊어버리지 않게 조심하는게 좋을거야. 왜 그래야 하는지에대한 이유도 난 벌써 잊어버렸지만 말야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>22</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sleep.png</NPC_IMG><NPC_NAME>수면부장</NPC_NAME><NPC_TEXT_1>졸립니다.... 졸립니다... 왜 졸린지는 잊어버렸어요. 자고싶어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>23</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luna.png</NPC_IMG><NPC_NAME>루나</NPC_NAME><NPC_TEXT_1>메이드가 많다보니, 주인의 세탁물보다 메이드들의 세탁물이 더 많습니다! 주인을 위해 봉사하는 메이드가 아닌거에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>24</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>maknae.png</NPC_IMG><NPC_NAME>기사단의 막내</NPC_NAME><NPC_TEXT_1>매일 연습과 훈련을 거르지 않습니다. 허드랫일도 가리지않아요. 그런데 전.. 언제 진급하는걸까요..</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>25</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>chirusi.png</NPC_IMG><NPC_NAME>치루시</NPC_NAME><NPC_TEXT_1>전설의 마동용사의 부활! 이 곳에서 그분을 찾을 수 있을거라 믿어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>26</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ragafelt.png</NPC_IMG><NPC_NAME>라가펠트</NPC_NAME><NPC_TEXT_1>이곳의 지배자라는 존재가 있다는 사실이 너무 신기했어요. 이 자유분방한 세계에서 무엇을 다스리고 있는 것 일까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>27</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>winfield.png</NPC_IMG><NPC_NAME>윈필드</NPC_NAME><NPC_TEXT_1>에리슈키갈이란 인물은 참 매력적입니다. 차가우면서도 따듯한 도시의 쿨한 여성.. B E A-UTIFUL! 제 필생의 셔터찬스 였습니다!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>28</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>chris.png</NPC_IMG><NPC_NAME>크리스 플리나</NPC_NAME><NPC_TEXT_1>코넌드럼을 보지 못했나요? 재미있는 문제를 찾았다면서 어디론가 가 버렸어요. 잠시라도 한눈을 팔 수가 없다니깐요.. 여기있는 여자들도 참 예쁜것 같아요. 왠지 불타오른달까 말투도 귀엽네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>29</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ametista.png.png</NPC_IMG><NPC_NAME>아메티스타</NPC_NAME><NPC_TEXT_1>현세의 존재가 아닌 사람, 어딘가에있는 누군가와 같은 존재가 중복을 피하기 위해 있는 장소.. 다들 그걸 알고있는지는 의문이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>30</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>gslana.png.png</NPC_IMG><NPC_NAME>지슬라나</NPC_NAME><NPC_TEXT_1>여긴 어디? 나는... 누구?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>31</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>magicion.png.png</NPC_IMG><NPC_NAME>매지시온</NPC_NAME><NPC_TEXT_1>처음 여기왔을때 역장님을 봤어요. 정말 멋진 분이셨답니다~ 기회가 된다면 만나보실 수 있으면 좋겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>32</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>jainachild.png.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>신비로워요.. 이 검은 대체 뭐죠? 배우지 않았는데 알아버린 느낌이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>33</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>johana.png</NPC_IMG><NPC_NAME>요하나</NPC_NAME><NPC_TEXT_1>당신을 보니 그분이 생각나네예.... 보고싶다 하셨나예? 알려드릴게예.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>34</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>josephina.png</NPC_IMG><NPC_NAME>요세피나</NPC_NAME><NPC_TEXT_1>아 역장님 찾아오셨지예? 잠시만 기다리소....</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>35</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>fool.png.png</NPC_IMG><NPC_NAME>플</NPC_NAME><NPC_TEXT_1>기사단 분이신가요? 아니세요? 그렇다면 암호를 말해보세요. 아빠이름 뭐에요? 네? 몰라요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>36</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>shunenblan.png.png</NPC_IMG><NPC_NAME>슈넨블랑</NPC_NAME><NPC_TEXT_1>흥미있는 생각을 가지고있군.. 배신자. 에리슈키갈을 만나서 어쩔생각이지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>37</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rookie.png</NPC_IMG><NPC_NAME>만복의 사도</NPC_NAME><NPC_TEXT_1>이봐! 금강산도 식후경이라고했어. 먹고 가! 아직 열차시간 될라면 멀었다구.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>38</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sado.png.png</NPC_IMG><NPC_NAME>지명의 사도</NPC_NAME><NPC_TEXT_1>움직이지 마세요. 지금 이 안에서 사건이 일어났습니다. 이건 사건입니다. 움직이는 사람이 범인입니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>39</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>shuru.png.png</NPC_IMG><NPC_NAME>사도 슈르</NPC_NAME><NPC_TEXT_1>여기까지 오셨군요. 제가 역장님을 지키는 보좌 슈르입니다. 어디선가 저를 보신 적이 있으시다면 그건 착각일 겁니다. 명계의 존재에 대해서는 이젠 설명할 필요없지 않습니까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인 / 특징 : 패배 시 재도전 불가|입장방법1 : 친구등록 후 게임에서 승리 시 일정 확률로 열립니다.|입장방법2 : 자신을 친구로 등록한 유저가 게임에서 승리 시 일정 확률로 열립니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_053.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_053.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_053.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>문이 열리고 전기를 품은 공기가 넘어온다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>58</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 붉은 양말,노란 양말|특징 : 페니카가 새로운 보금자리를 가지는 이야기|10회 20회 30회 40회 50회 클리어 시 특별한 보상이 주어집니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_058.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_058.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_058.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>카넬의 친구들이 같이 지내고 있을 거라곤 생각지 못했네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>난? 내가 겨우 저런 귀만 긴 녀석들 때문에 지낼 곳도 없다는거야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>돌아갈래!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>자….잠깐 바로 준비를 못한다는 것 뿐이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_058.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_058.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_058.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>카넬도 이플도 새로운 장소를 받는데 난 왜 아직까지 개인 장소가 없는거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>내가….내가 첫번째라고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>시니아랑 얘기해봐야겠어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_058.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_058.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_058.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>개인장소 말인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>응</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>죽림향에 이미 있지 않나요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_panica.png</NPC_IMG><NPC_NAME>페니카</NPC_NAME><NPC_TEXT_1>그쪽은 온천 때문에 사람들이 많아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>그렇군요….큰언니에게 가보죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_058.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_058.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_058.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia4.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>시니아의 부탁이라 들어주고 싶긴 한데…. 연합국의 높으신 분들이 많이 이용해서 어려울 것 같구나</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia4.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>다른 두 펫에게 가보지 그러니?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>이플~ 이플 어디있죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>snow.png</NPC_IMG><NPC_NAME>이플</NPC_NAME><NPC_TEXT_1>여기야! 놀러온 거지? 놀자!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_058.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_058.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_058.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>이플은 안 되겠네요. 메이드들에게 무슨 피해를 줄지 상상도 못하겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>메이드들은 가더와 라스트액시던트만으로도 힘들답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>카넬에게 가보죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_kanel.png</NPC_IMG><NPC_NAME>카넬</NPC_NAME><NPC_TEXT_1>어….무슨 일이야? 갑자기 이런 숲속까지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>뭔가 시끌벅적하네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_kanel.png</NPC_IMG><NPC_NAME>카넬</NPC_NAME><NPC_TEXT_1>아무 일도 아니야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>47</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 동색 훈장|특징 : 각 연구소의 단서를 획득해 제국의 비밀을 파혜쳐보세요.(오픈 : 매주 월요일, 목요일. 1일 1회 클리어제한)</TOOL_TIP_TEXT>
 
 <FLOOR>
@@ -2572,20 +2975,6 @@
 <DUNGEON_TITLE_IMG>dungeon_title_049.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_049.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>건물에 들어서자 안쪽에서부터 위압감이 느껴진다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-</DUNGEON_DETAIL>
-
-
-<DUNGEON_DETAIL>
-<ID>53</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>6</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인 / 특징 : 패배 시 재도전 불가|입장방법1 : 게임에서 승리 시 일정 확률로 열립니다.|입장방법2 : 자신을 친구로 등록한 유저가 게임에서 승리 시 일정 확률로 열립니다.</TOOL_TIP_TEXT>
-
-<FLOOR>
-<FLOOR_ID>0</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_053.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_053.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_053.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>문이 열리고 전기를 품은 공기가 넘어온다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>
@@ -4056,332 +4445,6 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>당신이 강한것은 알지만 나도 약하지는 않아. 좀 더 최선을 다하도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>그러니까 각오하라는 말이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>탈렌티움 적성자를 시험하는 이곳에 대해서는 대충 이해했어. 남은 건 칠성수인 당신의 진짜 힘에 대한 거야. 나에게 보여주지 않겠어? 뇌랑의 힘을 말이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-</DUNGEON_DETAIL>
-
-
-<DUNGEON_DETAIL>
-<ID>15</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>2</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_tower.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색코인|특징 : 1일 1회 도전제한, 자동저장, 패배시 층 수 하락없음.</TOOL_TIP_TEXT>
-
-<FLOOR>
-<FLOOR_ID>0</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>걱정되서 따라왔잖아! 별일은 없는거야? 결국 만났구만. 베르니카는? ....아아 그래. 뭐 둘이서 잘 해봐. 좋은 구경이 될 것 같구만.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>1</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015-1.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio3.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>이스프릿이 알려줬다기에 따라왔어요. 이곳은 위험합니다. 끝까지 가는것도, 도중에 돌아가는것도 위험합니다. 이곳에서 당신이 만날 사람들에게 너무 신경쓰지 마세요. 명계의 존재들은 현재를 기반으로 하지만 이면의 존재들입니다. 명심하세요. 우선 당신의 자격을 알아보겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>2</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>이런곳에서 만나다니 우연이군요. 정체를 알 수 없는 전학생이라는건 당신인가요? 이 땅은 특별합니다. 제가 바라던 것에 좀 더 가까이 다가갈 수 있는 환경이에요. 이곳에서의 저는 조금 다를겁니다. 히힛.. 시작해볼까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>3</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_seven.png</NPC_IMG><NPC_NAME>세븐</NPC_NAME><NPC_TEXT_1>혹시 나나이를 보지못했나요? 이, 이겼다구요? ....용서할 수 없습니다. 당신! 나랑 승부해요! 나나이의 첫 패배는 제것이 되어야 할 것이었거늘!!! 각오하세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>4</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_newbie.png</NPC_IMG><NPC_NAME>신입기사단원</NPC_NAME><NPC_TEXT_1>안녕하세요? 신기하네요~ 대단한 분들이 여기저기서 보여요. 이곳에서라면 저는 좀 더 강해질 것 같은 기분이 들어요. 저와 싸워주시지 않겠어요? 당신과 함께라면 좀 더 강해질 수 있을것 같아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>5</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015-2.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_prayer.png</NPC_IMG><NPC_NAME>기원의사도</NPC_NAME><NPC_TEXT_1>반갑습니다~ 돌아가실 수 있으실진 모르겠지만, 저희 무스펠헤임에서 즐거운 시간을 보내주세요~ 네? 적색 드릴머리를 한 여자아이요? 못봤는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>6</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_sion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>안녕? 어서와. 힘세고 강한 명계. 만일 내가 누구냐고 묻는다면, 마을의 눈물을 닦아주는 둘이서 하나인 탐정! 혹시 나랑 비슷하게 생겼지만 머리가 짧은 아이 못봤어? 내 치마를 들추고 사라져 버려서 찾고있거든? 호오.. 뭔가 알고있는거 아냐? 어서 실토해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>7</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>혹시 여기 오면서 시온 못봤어? 그저 치마만 들췄을 뿐인데 날 죽일기세로 달려오더라고. 어휴~ 닳는것도 아닌데 너무 민감해. 응? 궁금한게 있으면 이 탐정에게 물어보시라~ 요금은 나랑 놀아주는걸로 대신해줄게. 좋지? 자 선불이야, 놀아줘!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>8</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_flag.png</NPC_IMG><NPC_NAME>프렛</NPC_NAME><NPC_TEXT_1>선배님들은 어디로 가신 걸 까요? 기억이 어지러워요. 정신차려보니 깃대가 부러져 있었어요. 빠.. 빨리 고치지 않으면 제 보직이 위험합니다! 근처에 쓸만한 나무를 보지 못하셨나요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>9</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_odn.png.png</NPC_IMG><NPC_NAME>오디엔</NPC_NAME><NPC_TEXT_1>이 아티펙트를 아시나요? 정말입니까? 처음 뵙는 분이지만 그정도의 지식을 가지고 있을 거라곤 생각도 못했어요. 저와 함께 좀 더 이야기를 나눠 보시지 않겠습니까? 당신의 의견이 듣고싶어요. 그 문신은 뭔가요? 흐.. 흡혈귀?!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>10</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015-3.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ririka.png.png</NPC_IMG><NPC_NAME>리리카</NPC_NAME><NPC_TEXT_1>거기 귀여운 허니~ 날 잠깐만 봐줘. 어때? 귀엽지? 마침 심심하던 참이야, 시간좀 내 줄래? 귀여운 아이랑 즐거운 뭔가를 하고싶어. 그 검은 뭐야? 싸울 줄 알어? 잘됐다! 나랑 싸우지 않을래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>11</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_sera.png.png</NPC_IMG><NPC_NAME>세라</NPC_NAME><NPC_TEXT_1>처음 이 장소에 있다는 사실을 깨달은 순간 저는 혼란스러웠어요. 여기는 어디고 나는 누구인지, 어떻게 이곳으로 오게 된 건지.... 이젠 아무래도 좋습니다. 보는것 만으로도 즐거운 무한의 지식이 이 세계의 지천에 널려있습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>12</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gatt.png.png</NPC_IMG><NPC_NAME>갓트</NPC_NAME><NPC_TEXT_1>지금 집중해서 들고가야 하니깐 말 걸지마, 뭐? 빨간머리? 그게 누구야? 난 잘 모르겠는데? 같은학교? 그게 무슨소리야. 우리학교엔 그런 아이 없어! 수호수인 내가 보증하지. 으, 으악! 너때문에 쏟아졌잖아! 당장 물어내!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>13</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_messenger.png.png</NPC_IMG><NPC_NAME>기사단의 전령</NPC_NAME><NPC_TEXT_1>어떻게 해서 이 세계에 오게 된건지 잘 기억은 나지 않아요. 하지만 이곳 사람들은 다들 멀리 떨어져 있어도 연락 할 수 있는 기계를 가지고 있더군요. 신기하지 않아요? 아무리 멀리 떨어져있어도 번호만 누르면 목소리를 들을 수 있어요! 전... 실업자일까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>14</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_firststar.png.png</NPC_IMG><NPC_NAME>GS 첫번째 별</NPC_NAME><NPC_TEXT_1>이 곳은 뭔가 이상해요, 자꾸 반복되는 느낌입니다. 기억해 두세요, 자신이 어떤 존재인지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>15</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015-4.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_dtd.png</NPC_IMG><NPC_NAME>카나 DTD</NPC_NAME><NPC_TEXT_1>누굴 찾고있나? 일전에 만났던 그 흡혈귀 여자로군. 이런곳까진 무슨일이지? 알려주는건 어렵지 않다. 나와 잠깐어울려준다면 알려주도록 하지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>16</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rotte.png</NPC_IMG><NPC_NAME>롯테</NPC_NAME><NPC_TEXT_1>반가워요. 이 세계는 정말 신기해요. 새로운 장르와 새로운 소재 새로운 글들이 넘쳐나는 세계에요. 어떻게 이곳에 오게된건지는 잘 기억나지 않지만 계속 지내고 싶어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>17</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>conundrum.png</NPC_IMG><NPC_NAME>코넌드럼</NPC_NAME><NPC_TEXT_1>이 프로그램 보셨나요? 이곳에서 하는 퀴즈프로그램인데 정말 웃겨요! 헤헷.. 저도 참가하고 싶어지네요. 네? 여기가 어디냐구요? 저도 잘 몰라요. 하지만 왠지모르게 안심이 되는 장소에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>18</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sb.png</NPC_IMG><NPC_NAME>기사단의 선봉</NPC_NAME><NPC_TEXT_1>삶과 죽음의 틈바구니에 놓여진 자들의 땅입니다. 위험해요, 스스로가 누구인지 잊어버리게 될 겁니다. 정신을 집중하세요. 스스로가 누구인지 끊임없이 질문하세요. 답은 항상 그곳에 있습니다. 자 검을 잡으세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>19</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015-5.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>롯테를 보지 못하셨나요? 아까 서점에서 같이 책을 고르다가 갑자기 사라져 버렸어요. 정말 재밌는책이 너무 많아서 정신을 못차리겠어요. 잠깐 저랑 책을 함께 골라주시지 않겠어요? 당신에게서 왠지 익숙한 느낌이 들어요.. 허, 헌팅 아니에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>20</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>envy.png</NPC_IMG><NPC_NAME>엔비레이디</NPC_NAME><NPC_TEXT_1>이 도시도 마찬가지야. 어딜가나 둘. 둘. 둘. 둘!! 세계는 잘못되어있어! 이 곳에서마저 외로운자가 존재해야하는건가? 난 용서할 수 없습니다. 각오하세요! 모든 둘이 하나가 되는 그 날까지 투쟁할겁니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>21</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>14.png</NPC_IMG><NPC_NAME>포틴</NPC_NAME><NPC_TEXT_1>이곳은 딱히 의뢰같은 의뢰가 들어오진 않더라구. 그냥 저냥 지내게 되버렸어. 음.. 내가 뭔가를 잊고 있는 것 같은데, 혹시 그게 뭔지 알 수 있을까? 너도 잊어버리지 않게 조심하는게 좋을거야. 왜 그래야 하는지에대한 이유도 난 벌써 잊어버렸지만 말야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>22</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sleep.png</NPC_IMG><NPC_NAME>수면부장</NPC_NAME><NPC_TEXT_1>졸립니다.... 졸립니다... 왜 졸린지는 잊어버렸어요. 자고싶어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>23</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luna.png</NPC_IMG><NPC_NAME>루나</NPC_NAME><NPC_TEXT_1>메이드가 많다보니, 주인의 세탁물보다 메이드들의 세탁물이 더 많습니다! 주인을 위해 봉사하는 메이드가 아닌거에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>24</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>maknae.png</NPC_IMG><NPC_NAME>기사단의 막내</NPC_NAME><NPC_TEXT_1>매일 연습과 훈련을 거르지 않습니다. 허드랫일도 가리지않아요. 그런데 전.. 언제 진급하는걸까요..</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>25</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>chirusi.png</NPC_IMG><NPC_NAME>치루시</NPC_NAME><NPC_TEXT_1>전설의 마동용사의 부활! 이 곳에서 그분을 찾을 수 있을거라 믿어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>26</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ragafelt.png</NPC_IMG><NPC_NAME>라가펠트</NPC_NAME><NPC_TEXT_1>이곳의 지배자라는 존재가 있다는 사실이 너무 신기했어요. 이 자유분방한 세계에서 무엇을 다스리고 있는 것 일까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>27</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>winfield.png</NPC_IMG><NPC_NAME>윈필드</NPC_NAME><NPC_TEXT_1>에리슈키갈이란 인물은 참 매력적입니다. 차가우면서도 따듯한 도시의 쿨한 여성.. B E A-UTIFUL! 제 필생의 셔터찬스 였습니다!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>28</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>chris.png</NPC_IMG><NPC_NAME>크리스 플리나</NPC_NAME><NPC_TEXT_1>코넌드럼을 보지 못했나요? 재미있는 문제를 찾았다면서 어디론가 가 버렸어요. 잠시라도 한눈을 팔 수가 없다니깐요.. 여기있는 여자들도 참 예쁜것 같아요. 왠지 불타오른달까 말투도 귀엽네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>29</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ametista.png.png</NPC_IMG><NPC_NAME>아메티스타</NPC_NAME><NPC_TEXT_1>현세의 존재가 아닌 사람, 어딘가에있는 누군가와 같은 존재가 중복을 피하기 위해 있는 장소.. 다들 그걸 알고있는지는 의문이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>30</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>gslana.png.png</NPC_IMG><NPC_NAME>지슬라나</NPC_NAME><NPC_TEXT_1>여긴 어디? 나는... 누구?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>31</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>magicion.png.png</NPC_IMG><NPC_NAME>매지시온</NPC_NAME><NPC_TEXT_1>처음 여기왔을때 역장님을 봤어요. 정말 멋진 분이셨답니다~ 기회가 된다면 만나보실 수 있으면 좋겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>32</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>jainachild.png.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>신비로워요.. 이 검은 대체 뭐죠? 배우지 않았는데 알아버린 느낌이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>33</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>johana.png</NPC_IMG><NPC_NAME>요하나</NPC_NAME><NPC_TEXT_1>당신을 보니 그분이 생각나네예.... 보고싶다 하셨나예? 알려드릴게예.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>34</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>josephina.png</NPC_IMG><NPC_NAME>요세피나</NPC_NAME><NPC_TEXT_1>아 역장님 찾아오셨지예? 잠시만 기다리소....</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>35</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>fool.png.png</NPC_IMG><NPC_NAME>플</NPC_NAME><NPC_TEXT_1>기사단 분이신가요? 아니세요? 그렇다면 암호를 말해보세요. 아빠이름 뭐에요? 네? 몰라요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>36</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>shunenblan.png.png</NPC_IMG><NPC_NAME>슈넨블랑</NPC_NAME><NPC_TEXT_1>흥미있는 생각을 가지고있군.. 배신자. 에리슈키갈을 만나서 어쩔생각이지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>37</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rookie.png</NPC_IMG><NPC_NAME>만복의 사도</NPC_NAME><NPC_TEXT_1>이봐! 금강산도 식후경이라고했어. 먹고 가! 아직 열차시간 될라면 멀었다구.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>38</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sado.png.png</NPC_IMG><NPC_NAME>지명의 사도</NPC_NAME><NPC_TEXT_1>움직이지 마세요. 지금 이 안에서 사건이 일어났습니다. 이건 사건입니다. 움직이는 사람이 범인입니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>39</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_015.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_015.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>shuru.png.png</NPC_IMG><NPC_NAME>사도 슈르</NPC_NAME><NPC_TEXT_1>여기까지 오셨군요. 제가 역장님을 지키는 보좌 슈르입니다. 어디선가 저를 보신 적이 있으시다면 그건 착각일 겁니다. 명계의 존재에 대해서는 이젠 설명할 필요없지 않습니까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>

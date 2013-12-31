@@ -316,7 +316,7 @@
 <CARD_SKILL><ID>100313</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 랜덤한 추종자1 의 공/체는3 - 해당 추종자의 특수능력 보유갯수 만큼 증가한다. 상대 캐릭터가 자신 캐릭터와 소속이 다를경우, 추가로 자신필드 랜덤한 추종자 1의 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100314</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨 밑에 "선동가 디라" 추종자 1을 생성한다. 상대 캐릭터가 자신 캐릭터와 소속이 다를경우, 추가로 자신필드 랜덤한 추종자 1의 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100315</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 랜덤한 추종자1의 특수능력은 원래의 특수능력이 된다. 상대 캐릭터가 자신 캐릭터와 소속이 다를경우, 추가로 자신필드 랜덤한 추종자 1의 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100316</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 카드 이름에 “요리”가 들어가는 첫번째 추종자는 현재 턴수에 따라 아래의 효과를 적용한다. 홀수:사이즈 절반(내림)이 된다. 짝수:첫 번째 특수능력을 추가한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100316</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 카드 이름에 “요리”가 들어가는 첫번째 추종자의 특수능력이 본래 특수능력일 경우 첫번째 특수능력을 추가한다, 아닐 경우 본래 특수능력이 된다. 현재 턴이 짝수일 경우 추가로 사이즈는 절반(내림)이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100317</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드에 추종자가 없을 경우, 자신 덱 맨 위에 있는 카드 이름에 “오컬트”가 들어간 추종자 1을 자신필드 맨 마지막 빈 슬롯부터 배치한다. 그렇지 않을 경우 상대 라이프-1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100318</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 추종자 전체의 특수능력은 “공격전: 이 카드의 공/체+1”이 된다. 해당 카드 이름에 “기사단”이 포함되어 있는 경우, 본래 특수능력 수 만큼 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100319</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 첫 번째 카드를 자신 덱 맨 위로 이동한다. 자신 필드 이름에  "스카델", "크레센트", "플리나"가 들어간 추종자 전체 자신 핸드 빈 공간 수 만큼 체력 증가.사이즈가 4이상일 경우 증가치의 절반(내림)만큼 사이즈 감소.</span>]]></TEXT></CARD_SKILL>
@@ -1584,7 +1584,7 @@
 <CARD_SKILL><ID>200733</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 셔플 수 +1. 상대 셔플 수 -1.현재 턴수에 따라 이하의 능력이 발동한다. 2의 배수: 자신필드 추종자 전체 공격력 +3. 3의 배수: 상대필드 추종자 전체 체력 -5.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200734</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드"스카델","크레센트","플리나"가 들어가는 첫번째 추종자를 자신 덱 맨위로 보낸다. 그경우 자신무덤 맨 위"스카델","크레센트","플리나"가 들어가는 추종자1을 자신필드 첫 번째 빈슬롯에 배치한다. 해당추종자의 체력은 보낸 추종자 체력의 절반(올림)만큼 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200735</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어소속일경우 상대 필드 빈 슬롯에 사이즈 =1 공/방/체= 0/1/5인 "좀비"를 2장을 생성한다. 자신필드 랜덤한 추종자 1의 공/체+5. 이하의 특수능력을 얻는다."공격전:방어추종자의 방/체 합이 이 추종자의 공격력 이하일경우 상대 캐릭터의 라이프 -1.현재 턴이 3의 배수일경우 이 특수능력은 사라진다."</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200736</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신의 필드 공립 추종자 전체 원래 특수능력이 된다. 변화된 특수능력 수만큼 해당 추종자의 사이즈 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200736</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 공립 추종자 전체 본래 특수능력 수 만큼 공/체 증가. 본래 특수능력이 된다. 변화된 특수능력 수만큼 해당 추종자의 사이즈 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200737</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드/무덤에 “오컬트”가 들어간 카드 수에 따라 이하의 추종자 2를 소환한다. 0~4장 : 좀비(1사이즈, 7/0/7), 5~8장 : 미스트 레이디(2사이즈, 9/1/9), 9장 이상 : 악마(3사이즈, 10/3/10)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200738</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대라이프-1. 자신 무덤에 “오컬트”가 들어간 카드가 10장 이상 있을 경우, 추가로 상대 라이프-3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200739</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 “오컬트”가 들어간 첫 번째 카드를 무덤으로 보낸다. 그랬을경우 랜덤한 상대필드 카드 2을 무덤으로 보낸다.</span>]]></TEXT></CARD_SKILL>
@@ -1698,6 +1698,7 @@
 <CARD_SKILL><ID>200847</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우, 상대 필드 방어전 특수능력을 가진 랜덤한 추종자 1의 방어전 특수능력을 자신필드 방어전 특수능력이 없는 추종자에게 이전한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200848</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 무소속 카드가 2장이상 있을경우, 랜덤한 무소속 카드 1을 파괴한다. 자신 라이프는 상대 필드 카드 수 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200849</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 원래 공/방/체 수치보다 높은 공/방/체 수치를 가진 랜덤한 추종자1의 증가된 공/방/체 수치를 각각 절반(내림)만큼 감소시키고, 감소된 수치의 절반(올림)만큼 자신 필드 랜덤한 추종자1의 공/방/체 수치가 증가한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200850</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신의 필드 랜덤한 추종자2의 공/체 +2. 해당 추종자의 공/체가 본래 수치보다 낮을 경우 추가로 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -2122,8 +2123,8 @@
 <CARD_SKILL><ID>1419</ID><NAME>불행의 씨앗</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 체력이 본래 수치이상이고 공격추종자의 특수능력에 "공격전: 이 카드의 공/체 -1"이 없을경우 해당 특수능력을 얻는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1420</ID><NAME>분노의 제어</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 체력이 이 카드의 공격력보다 높을경우 그 차이 +1만큼 이 카드의 체력감소 감소된 수치만큼 이 카드의 공격력 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1421</ID><NAME>마검의 운용</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대필드 추종자 전체 공격력 -1. 감소된 수치의 합만큼 이 카드의 공격력 증가. 이 카드 공격력의 십의 자리 숫자만큼 자신필드 추종자 전체 체력증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1422</ID><NAME>나는 같은편이야.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈가 4이하일경우 이 카드 사이즈 =7.체력 +2.행동종료상태로 상대필드 빈 첫번째 슬롯으로 이동한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1423</ID><NAME>미안. 이건 실수야.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈가 5이상일경우 이 카드이외의 자신필드 추종자 전체 공/체 -2.이 카드 사이즈 =3.행동종료상태로 상대필드 빈 첫번째 슬롯으로 이동한다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1422</ID><NAME>나는 같은편이야.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈가 3일경우 이 카드 사이즈 =7. 행동종료상태로 상대필드 랜덤한 슬롯으로 이동한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1423</ID><NAME>미안. 이건 실수야.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈가 3이 아닐경우 이 카드이외의 자신필드 랜덤한 추종자 1의 공/체 -2.이 카드 사이즈 =3.행동종료상태로 상대필드 랜덤한 슬롯으로 이동한다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1424</ID><NAME>보호막</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신캐릭터와 이 카드의 소속이 같을경우 공격추종자가 "공격전:"특수능력을 보유하고 있으면 공격추종자의 공격력만큼 이 카드의 체력증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1425</ID><NAME>대 방어결계</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자가 특수능력을 보유하고 있으면 공격추종자의 공격력만큼 이 카드의 체력증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1426</ID><NAME>불행</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -2419,9 +2420,9 @@
 <CARD_SKILL><ID>1716</ID><NAME>스카우트 제안</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈를 -1 하여 파괴한다. 그 경우 자신 핸드와 자신 필드 모든 추종자의 체력 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1717</ID><NAME>만월의 힘!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드에 존재하는 "스카델","크레센트","플리나"가 들어간 추종자 전체 체력 +1. 이 추종자의 체력 -2. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1718</ID><NAME>크림슨 팩트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 체력은 이 카드의 사이즈 만큼 감소한다. 이 추종자의 체력은 공격 추종자의 사이즈 만큼 증가한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1719</ID><NAME>태그 콤보!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 추종자를 자신 덱 맨 밑으로 옮긴다."글라시에"가 들어간 자신 덱 맨위 추종자를 자신 필드 마지막 슬롯에 배치한다.그경우 상대 핸드 추종자 전체의 공격력은 이 카드의 강화수치의 절반(올림)만큼 감소한다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1719</ID><NAME>태그 콤보!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 추종자를 자신 덱 맨 밑으로 옮긴다."글라시에"가 들어간 자신 덱 맨위 추종자를 자신 필드 이 카드의 슬롯에 배치한다.그경우 상대 핸드 추종자 전체의 공격력은 이 카드의 강화수치의 절반(올림)만큼 감소한다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1720</ID><NAME>버닝 브레이커</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: "글라시에"가 들어간 자신덱 추종자의 공격력은 이 카드의 강화수치 만큼 증가한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1721</ID><NAME>태그 콤보!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 추종자를 자신 덱 맨 밑으로 옮긴다."코크스"가 들어간 자신 덱 맨위 추종자를 자신 필드 마지막 슬롯에 배치한다.그경우 상대 핸드 추종자 전체의 방어력은 이 카드의 강화수치의 절반(올림)만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1721</ID><NAME>태그 콤보!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 추종자를 자신 덱 맨 밑으로 옮긴다."코크스"가 들어간 자신 덱 맨위 추종자를 자신 필드 이 카드의 슬롯에 배치한다.그경우 상대 핸드 추종자 전체의 방어력은 이 카드의 강화수치의 절반(올림)만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1722</ID><NAME>절대영도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:"코크스"가 들어간 자신덱 추종자의 방어력은 이 카드의 강화수치 만큼 증가한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1723</ID><NAME>실력발휘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/방/체 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1724</ID><NAME>본심발휘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공/방/체 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
@@ -2544,7 +2545,7 @@
 <CARD_SKILL><ID>1841</ID><NAME>조각모음</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신무덤 맨 밑에 “크레센트 퍼즐” 카드 1장을 생성한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1842</ID><NAME>크로우 바</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 방/체 합이 이 추종자의 공격력 이하일경우 상대 캐릭터의 라이프 -1.현재 턴이 3의 배수일경우 이특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1843</ID><NAME>요리 시작!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신필드 추종자 전체 원래 사이즈의 합과 현재 사이즈 합의 차이 만큼 자신필드 추종자 전체 공/체 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1844</ID><NAME>특제 레시피</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신필드 추종자 전체 사이즈 -1. 혹은 사이즈 +2. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1844</ID><NAME>특제 레시피</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드는 원래 사이즈가 된다. 그랬을경우 변화된 사이즈 만큼 자신필드 추종자 전체 공/체 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1845</ID><NAME>강령술</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤에 "오컬트"가 들어간 카드가 5장 이상 있을경우, 이 카드의 공/체 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1846</ID><NAME>기사단의 결의</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱의 "기사단"이 들어간 카드 수의 십의 자리 수 만큼 공/방 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1847</ID><NAME>전우 구조</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤에 "기사단"이 들어간 카드 1장을 자신 덱 맨 밑으로 보낸다. 이 특수능력은 “턴개시시 : 본래 특수능력이된다.”특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
@@ -2626,9 +2627,9 @@
 <CARD_SKILL><ID>1923</ID><NAME>레반틴!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 핸드 빈 슬롯 수만큼 이 카드의 체력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1924</ID><NAME>룬의 마법!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 첫번째 카드를 자신 덱 맨 위로 옮긴다. 자신 핸드 빈 슬롯 수 만큼 이 카드의 공격력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1925</ID><NAME>무기익스퍼트!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 자신필드 랜덤한 추종자1은 다음 특수능력중 랜덤한 1개를 얻는다."공격전: 이 카드의 공격력 +2.","공격전:이 카드의 공/체 +1/+2","방어전: 이 카드의 체력 +3."이 특수능력은 "턴개시시: 본래 공격전 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1926</ID><NAME>대신 싸워줘…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 무덤 “좀비”카드 수 만큼 자신 덱 랜덤한 다크로어 추종자 1의 공/체 증가.(최대 3)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1927</ID><NAME>여의봉</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 “좀비” 카드 1장을 무덤으로 보낸다. 그랬을경우 이 카드의 공/체 +2 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1928</ID><NAME>미끼 투척</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 공격력이 이 카드의 방/체합 이하일경우 자신 덱 맨 밑에 “좀비”카드를 1장 생성한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1926</ID><NAME>대신 싸워줘…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 무덤 “좀비” 카드 수 만큼 이 카드와 자신 덱 랜덤한 다크로어 추종자 1의 공/체 증가.(최대 4)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1927</ID><NAME>여의봉</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 “좀비” 카드 1장을 무덤으로 보낸다. 그랬을경우 이 카드의 공/체 +1 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1928</ID><NAME>미끼 투척</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨 밑에 “좀비”카드를 1장 생성한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1929</ID><NAME>황금의 시간!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 캐릭터가 다크로어 소속일 경우 이 카드의 방어력은 원래 수치가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1930</ID><NAME>칼라드볼그</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력-1 만큼 방어 추종자 체력 감소. 이 카드의 공격력 = 0. 방어력 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1931</ID><NAME>마력 보충</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공격력이 0일경우 이 카드의 방어력 -2. 이 카드의 공격력은 원래 수치가 된다.</span>]]></TEXT></CARD_SKILL>

@@ -1699,6 +1699,14 @@
 <CARD_SKILL><ID>200848</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 무소속 카드가 2장이상 있을경우, 랜덤한 무소속 카드 1을 파괴한다. 자신 라이프는 상대 필드 카드 수 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200849</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 원래 공/방/체 수치보다 높은 공/방/체 수치를 가진 랜덤한 추종자1의 증가된 공/방/체 수치를 각각 절반(내림)만큼 감소시키고, 감소된 수치의 절반(올림)만큼 자신 필드 랜덤한 추종자1의 공/방/체 수치가 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200850</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신의 필드 랜덤한 추종자2의 공/체 +2. 해당 추종자의 공/체가 본래 수치보다 낮을 경우 추가로 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+
+
+
+
+
+
+
+
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -2802,4 +2810,6 @@
 <CARD_SKILL><ID>2098</ID><NAME>마력집중</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:이 카드를 무덤으로 보낸다. 상대 필드 스펠 전부 무덤으로 보낸다. 상대 필드 카드 수 만큼 자신 필드 랜덤한 추종자 1의 사이즈 감소. 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2099</ID><NAME>스플래시 버스트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전:이 카드를 파괴한다. 상대 필드 추종자 전체 체력 -3. 상대 필드 카드 수 만큼 자신 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2100</ID><NAME>제어불가</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전:이 카드의 공격력 만큼 이 카드의 체력 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2101</ID><NAME>소독이다!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방어력이 이 카드의 강화수치 미만일 경우 방어 추종자의 방어력=0. 변화치 만큼 이 카드의 방어력이 증가한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2102</ID><NAME>연료부족</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력은 절반(올림)이 된다. 변화치 만큼 공격 추종자의 공/체 감소.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

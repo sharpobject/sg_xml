@@ -821,10 +821,10 @@
 <TALK_PATTERN><ID>f301038</ID><JOIN>같이 날아올라볼까요?</JOIN><JOIN>잠시 쉬었다 가야겠어요.</JOIN><FALL_APART>도착했군요.</FALL_APART><FALL_APART>바람을 타고 가볼까요?</FALL_APART><ATTACK>운이 따르는군.</ATTACK><COUNTER>겨우 그 정도로 날 잡아보겠다고?</COUNTER><DIRECT>운이 좋다고? 이건 운명이야.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301039</ID><JOIN>오늘은 어떤 이야기를 들려드릴까요?</JOIN><JOIN>오늘 연주는 어떠셨나요?</JOIN><FALL_APART>다음 이야기는 다음 이 시간에~</FALL_APART><FALL_APART>가만히 귀 기울여 봐요.</FALL_APART><ATTACK>바람에 이야기를 담아…</ATTACK><COUNTER>잡담은 금지!</COUNTER><DIRECT>이제 그만 꿈나라로 갈 시간이에요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301040</ID><JOIN>메리 크리스마스~</JOIN><JOIN>내년에도 잘 부탁드립니다!</JOIN><FALL_APART>해피 뉴이어~</FALL_APART><FALL_APART>올해에는 착한 일 많이 하셨나요?</FALL_APART><ATTACK>행복한 성탄 되세요~</ATTACK><COUNTER>내년에도 행복하세요~</COUNTER><DIRECT>우는 아이에겐 선물을 안주신대요.</DIRECT></TALK_PATTERN>
-
-
-
-
-
+<TALK_PATTERN><ID>f301051</ID><JOIN>오늘의 수업은 피겨스케이팅 이랍니다</JOIN><JOIN>다음 시간에 좀 더 배워요.</JOIN><FALL_APART>오늘의 수업은 이걸로 끝.</FALL_APART><FALL_APART>시범을 보일테니 잘 따라하세요.</FALL_APART><ATTACK>좀 더 허리를 펴고.</ATTACK><COUNTER>좀 더 다리를 찢으셔야 되요.</COUNTER><DIRECT>저런 몸이 너무 굳으신것 같네요.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301053</ID><JOIN>힘의 대가는 가혹해.</JOIN><JOIN>시니아…</JOIN><FALL_APART>지금의 모습은 잊어줘.</FALL_APART><FALL_APART>시니아를 위해서라면.</FALL_APART><ATTACK>시니아를 위해서라면 이 정도 댓가쯤은…</ATTACK><COUNTER>이건 날 건드린 대가야…</COUNTER><DIRECT>비켜…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301055</ID><JOIN>무녀님께선 지금 어디에?</JOIN><JOIN>조금이라도 지체했다간…</JOIN><FALL_APART>이 곳을 부탁할게요.</FALL_APART><FALL_APART>무녀님의 신변에 위험이…</FALL_APART><ATTACK>길을 비켜주세요!</ATTACK><COUNTER>통행증같은건 없습니다.</COUNTER><DIRECT>지금은 아무것도 묻지 말아주세요.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301057</ID><JOIN>은은한 달밤 아래</JOIN><JOIN>잠시 눈 좀 붙일게요.</JOIN><FALL_APART>새로운 해가 뜰 거에요.</FALL_APART><FALL_APART>달이 지더라도…</FALL_APART><ATTACK>다 같이 진심으로 바란다면…</ATTACK><COUNTER>조금만 기다려주세요.</COUNTER><DIRECT>부정한 존재는 이 손으로 꼭…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301058</ID><JOIN>크룩스 제1의검 제이나다!</JOIN><JOIN>일의전심…</JOIN><FALL_APART>자신을 믿어라!</FALL_APART><FALL_APART>나의 검은 절대 꺾을 수 없다!</FALL_APART><ATTACK>정의를 집행하겠다!</ATTACK><COUNTER>각오해라!</COUNTER><DIRECT>이 검으로 악을 멸한다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301059</ID><JOIN>불 필요해?</JOIN><JOIN>무…물이 필요해…</JOIN><FALL_APART>으… 덥다 더워…</FALL_APART><FALL_APART>다 태워버리면 되지?</FALL_APART><ATTACK>불만 있냐고? 물은 없는걸!</ATTACK><COUNTER>그렇게 난폭하게 다루면 터진다고!</COUNTER><DIRECT>헤헤~ 불타오르지?</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

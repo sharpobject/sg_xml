@@ -1706,7 +1706,7 @@
 <CARD_SKILL><ID>200855</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 무덤 맨 위 추종자의 사이즈와 같은 사이즈의 자신 필드/핸드 랜덤한 추종자1 사이즈=1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200856</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 추종자 전체 특수능력이 없을 경우 상대 필드 추종자 전체 특수능력은 사라진다. 각 추종자 잃은 수만큼 공/체 감소. 자신 핸드에 “푸념” 카드가 있을 경우 상대 필드 랜덤한 스펠카드1을 제거한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200857</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 추종자 1은 특수능력 보유 수에 따라 이하의 효과를 전부 적용한다. 1개: 공/체 -3. 2개: 사이즈 +1. 3개: 해당 추종자의 첫 번째 특수능력이외 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200858</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 다크로어 소속 카드 수 +2만큼 자신 필드 랜덤한 추종자 1의 공/체 증가. 증가치가 4이상일경우, 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다. 4이하일 경우, 상대 필드 랜덤한 추종자 1의 공/방/체 -1. 해당 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200858</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 다크로어 소속 카드 수+2만큼 자신 필드 랜덤한 추종자 1의 공/체 증가. 증가치가 4이상일경우, 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다. 4이하일 경우, 상대 필드 랜덤한 추종자 1의 공/방/체 -1. 해당 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>

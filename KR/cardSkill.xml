@@ -52,7 +52,7 @@
 <CARD_SKILL><ID>100049</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신핸드 추종자 2의 공/체 +1, 랜덤한 자신 필드 추종자 2의 체력 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100050</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 2번 슬롯 추종자 체력 -2. 상대 필드 첫번째 추종자 체력 -1. 상대 필드 랜덤한 추종자 1의 체력 -2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100051</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1은 자신의 사이즈에 따라 이하의 효과를 적용한다. ●3이상 : 공격력 -2, ●3이하 : 체력 -3</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100052</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 크룩스 소속 추종자 1은 자신의 사이즈에 따라 이하의 효과를 적용한다. ●3이상 : 공격력 +2, ●3이하 : 체력 +3</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100052</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1은 자신의 사이즈에 따라 이하의 효과를 적용한다. ●3이상 : 공격력 +2, ●3이하 : 체력 +3</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100053</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자의 공/체 -1/-2. 자신 핸드 카드수가 짝수일 경우, 추가로 방어력 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100054</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드 2,3,4번 슬롯 추종자의 체력 -2, 랜덤한 상대필드 추종자 1의 체력 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100055</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1의 공/체 -1, 해당 추종자의 방어력이 1 이상일 경우 공/방/체 -1/-1/-1</span>]]></TEXT></CARD_SKILL>
@@ -359,7 +359,7 @@
 <CARD_SKILL><ID>100356</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 랜덤한 카드 1과 다른 종류의 카드가 자신 무덤에 3장 이상일 경우,해당 카드를 무덤으로 보낸다.그경우 랜덤한 무덤카드 1을 자신덱 맨 위로 보낸다.보낸 카드 종류에 따라 이하의 효과를 적용한다.스펠:상대 필드 방어력 1이상인 랜덤한 추종자 1의 방어력 =0.추종자: 자신 라이프+1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100357</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 랜덤한 카드 1과 다른 종류의 카드가 자신 무덤에 3장 이상일 경우,해당 카드를 무덤으로 보낸다.그경우 랜덤한 무덤카드 1을 자신덱 맨 위로 보낸다.해당 카드 사이즈 차이만큼 상대 필드 랜덤한 추종자 1의 공/체 감소.(최대 3)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100358</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 랜덤한 카드 1과 다른 종류의 카드가 자신 무덤에 3장 이상일 경우,해당 카드를 무덤으로 보낸다.그경우 랜덤한 무덤카드 1을 자신덱 맨 위로 보낸다.해당 카드 사이즈 차이만큼 자신 필드 랜덤한 추종자 1의 공/체 증가.(최대 3)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100359</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 랜덤한 카드 1과 다른 종류의 카드가 자신 무덤에 3장 이상일 경우,해당 카드를 무덤으로 보낸다.그경우 랜덤한 무덤카드 1을 자신덱 맨 위로 보낸다.보낸 카드가 다크로어 소속일 경우 추가로 상대라이프-1.아닐경우 상대필드 랜덤한 추종자 1의 공/방/체 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100359</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 랜덤한 카드 1과 다른 종류의 카드가 자신 무덤에 3장 이상일 경우,해당 카드를 무덤으로 보낸다.그경우 랜덤한 무덤카드 1을 자신덱 맨 위로 보낸다.보낸 카드가 다크로어 소속일 경우 상대라이프-1.아닐경우 상대필드 랜덤한 추종자 1의 공/방/체 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100360</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 랜덤한 카드 1과 다른 종류의 카드가 자신 무덤에 3장 이상일 경우,해당 카드를 무덤으로 보낸다.그경우 랜덤한 무덤카드 1을 자신덱 맨 위로 보낸다.보낸 카드 사이즈에 따라 이하의 효과를 적용한다.홀수:자신 셔플 수 +1 짝수:해당 카드와 자신 핸드 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100361</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱 맨 위 공립 추종자 1의 공/방+1.사이즈 -1,“할로윈” 혹은 “아스미스”가 들어간 카드1을 자신 핸드로 가져온다.해당 카드의 사이즈 -1. 공/체 +1/+2. 자신 무덤 “할로윈” 혹은 “아스미스”가 들어간 카드가 5장이상 있을경우, 그중 랜덤한 카드 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100362</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신덱 맨위 사립 추종자 1의 공/방+1.사이즈 -1,“할로윈” 혹은 “리누스”가 들어간 카드1을 자신 핸드로 가져온다.해당 카드의 사이즈 -1. 공/체 +1/+2. 자신 무덤 “할로윈” 혹은 “리누스”가 들어간 카드가 5장이상 있을경우, 그중 랜덤한 카드 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
@@ -1547,7 +1547,7 @@
 <CARD_SKILL><ID>200695</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신의 캐릭터가 공립소속일 경우 이 카드의 사이즈가 2이면 자신의 필드 추종자 공격력 합의 절반(올림)만큼 상대 필드 추종자 순서대로 공격력이 0이 될 때까지 감소한다.사이즈 =1하여 덱 맨위로 올린다. 아닐경우 턴의 수만큼 상대 필드 추종자 순서대로 체력 이 1이 될 때까지 감소한다.이 카드는 게임에서 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200696</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대필드/핸드 추종자 전체는 "공격전: 이 카드는 아무 효과도 발동하지 않는다." 특수능력이 추가된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200697</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 이름에 "메이드"가 들어간 첫 번째 추종자를 게임에서 제거한다. 자신 덱에 "드레스업 가더"를 자신 필드 첫 번째 빈 슬롯에 배치한다. 자신덱에 "드레스업 가더"가 있을경우 해당 카드를 전부 게임에서 제거한다. 그 경우 공/방/체 +1. 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200698</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신캐릭터가 사립소속일 경우 이 카드 사이즈 =1.행동종료 상태로 상대필드 첫 번째 빈 슬롯으로 이동한다. 이 카드의 사이즈가 1일 경우, 자신 캐릭터 라이프 -3. 이 카드와 인접한 추종자 공/체-3. 이 카드는 게임에서 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200698</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신캐릭터가 사립소속일 경우 이 카드 사이즈 =1.행동종료 상태로 상대필드 첫 번째 빈 슬롯으로 이동한다.이 카드의 사이즈가 1일 경우, 자신 캐릭터 라이프 -3. 이 카드와 인접한 추종자 공/체-3. 이 카드는 게임에서 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200699</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 랜덤한 추종자 1의 공/방을 서로 교환한다.(방어력 최대5) 해당 추종자가 크룩스 소속일 경우 추가로 공격력 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200700</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 크룩스 소속이 아닌 랜덤한 추종자 1은 동일한 공/방/체/사이즈/특수능력을 보유한 "청십자회 린다"카드가 된다. 자신필드 이름에 "청십자회"가 들어가는 카드 수만큼 해당 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200701</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우 이 카드의 사이즈에 따라 이하의 특수능력이 적용된다. 1: 자신 덱 사이즈 4이하의 추종자 전체 공/방 +1. 이 카드의 사이즈=4하여 자신 덱 맨위로 올라간다. 2이상: 상대 덱 사이즈 2 이하의 스펠 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
@@ -2750,7 +2750,7 @@
 <CARD_SKILL><ID>2037</ID><NAME>역행</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(내림)만큼 이 추종자의 공/체 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2038</ID><NAME>스틸포츈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 강화수치가 1이상일 경우, 상대필드 랜덤한 추종자 1의 첫 번째 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2039</ID><NAME>커스블러드</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 필드 본래 사이즈인 추종자 전체 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2040</ID><NAME>블러드 스캐터</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 사이즈 -2. 그랬을경우 감소한 사이즈 +1만큼 상대 핸드 랜덤한 카드 1의 사이즈 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2040</ID><NAME>블러드 스캐터</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 사이즈 -2. 감소한 사이즈 +1만큼 상대 핸드 랜덤한 카드 1의 사이즈 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2041</ID><NAME>리치 라이프</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 원래 사이즈와 현재 사이즈의 차이만큼 이 추종자의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2042</ID><NAME>등가교환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 강화수치만큼 이 카드의 사이즈 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2043</ID><NAME>청십자 임명</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신의 필드 특수능력이 없는 추종자 전체 본래 특수능력이 된후, "공격전: 이 카드의 특수능력은 전부 사라진다. 사라진 특수능력 수 만큼 이 카드의 공/체 증가." 특수능력을 추가한다.</span>]]></TEXT></CARD_SKILL>

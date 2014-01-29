@@ -389,6 +389,7 @@
 <CARD_SKILL><ID>100386</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 공/체 +1. 필드에 추종자가 없을 경우, 자신 핸드 랜덤한 추종자 1의 공/체 +1. 핸드에 추종자가 없을 경우, 자신 덱 맨위 추종자 1의 공/체 +1. 해당 추종자가 다크로어 소속일 경우 추가로 자신필드 랜덤한 추종자 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100387</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 공/체 +1. 필드에 추종자가 없을 경우, 자신 핸드 랜덤한 추종자 1의 공/체 +1. 핸드에 추종자가 없을 경우, 자신 덱 맨위 추종자 1의 공/체 +1. 해당 추종자가 무소속일 경우 추가로 상대 필드 랜덤한 추종자 1의 사이즈 +1. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100388</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시 : 자신의 필드 첫 번째 추종자와 마지막 추종자의 슬롯 번호 차이만큼. 두 추종자의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100389</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨 위 추종자의 공/방/체 +1. 턴 수가 2의 배수일때 자신캐릭터의 라이프가 상대캐릭터보다 낮을경우 자신캐릭터의 라이프 +1. 턴 수가 3의 배수일때 자신셔플수가 0이하일경우 자신셔플수 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -1717,6 +1718,7 @@
 <CARD_SKILL><ID>200857</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 추종자 1은 특수능력 보유 수에 따라 이하의 효과를 전부 적용한다. 1개: 공/체 -3. 2개: 사이즈 +1. 3개: 해당 추종자의 첫 번째 특수능력이외 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200858</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 다크로어 소속 카드 수+2만큼 자신 필드 랜덤한 추종자 1의 공/체 증가. 증가치가 4이상일경우, 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다. 4이하일 경우, 상대 필드 랜덤한 추종자 1의 공/방/체 -1. 해당 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200859</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 캐릭터의 희귀도에 따라 이하의 효과를 적용한다.●언커먼 이하:상대 라이프 +1~-3.●레어: 상대 필드 추종자 전체 공/체 -2. 상대 필드 카드 수의 절반(올림) 만큼 상대 라이프 감소.●이벤트:자신 필드 카드 수가 상대 카드 수 이하일 경우 차이만큼 상대 라이프 감소. 자신 필드 랜덤한 추종자 1의 공/체 +3.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200860</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터 라이프+1. 랜덤한 자신 필드 추종자 공/체+1. 자신과 상대 무덤 카드수의 합이 10이하일 경우 전체 무덤 카드 각자 덱으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -2838,8 +2840,8 @@
 <CARD_SKILL><ID>2116</ID><NAME>천리교 선동</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드를 자신 핸드 마지막 슬롯으로 보낸다. 그경우, 자신 덱“선동가”가 들어간 랜덤한 카드 1의 사이즈를 공격 추종자의 사이즈만큼 감소시켜, 자신 필드 랜덤한 슬롯에 배치한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2117</ID><NAME>승천</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈가 2이하일 경우,이 카드를 무덤으로 보낸다. 상대 라이프는 6- 현재 사이즈 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2118</ID><NAME>무녀의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 다크로어 소속일 경우,이 카드의 사이즈보다 낮은 사이즈의 상대 필드 랜덤한 카드 1을 상대 덱 맨 위 보낸다. 그경우 이 카드의 사이즈 -2.보내지 못했을 경우 이 카드의 공/체 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2119</ID><NAME>역전의 호령</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스일 경우,자신 필드 추종자 전체 4-자신 라이프 십의 자리수 만큼 공/체 증가.이 특수능력은"턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2120</ID><NAME>본진급습</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드 공격력의 절반(내림)이하 사이즈의 상대핸드 랜덤한 추종자 1을 제거한다.해당 사이즈의 절반(올림)만큼 상대라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2119</ID><NAME>역전의 호령</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스일 경우,자신 필드 추종자 전체 5-자신 라이프 십의 자리수 만큼 공/체 증가.이 특수능력은"턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2120</ID><NAME>본진급습</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드 사이즈 -1.공격력 절반(내림)이하 사이즈의 상대핸드 랜덤한 카드 1을 제거.그 경우 이 카드 사이즈 만큼 상대라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2121</ID><NAME>프리징</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전 : 방어 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2122</ID><NAME>아이시클</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전 : 공격 추종자의 특수능력 수의 절반(올림)만큼 이 카드의 공/체 증가. 특수능력이 없을 경우 공격추종자의 특수능력은 원래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2123</ID><NAME>청마의 기운</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전 : 이 카드의 공/체 + 4.</span>]]></TEXT></CARD_SKILL>
@@ -2850,4 +2852,5 @@
 <CARD_SKILL><ID>2128</ID><NAME>붉은 연꽃</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 체력 -3.상대 핸드 랜덤한 추종자 1의 방어력 -3.상대 덱 랜덤한 추종자 1의 공격력 -3. 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2129</ID><NAME>기호흡</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨위 크룩스 추종자1의 사이즈 -2. 공/체 +3. 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2130</ID><NAME>축제구경</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈+1 만큼 상대 라이프 감소. 자신 셔플 수 +1. 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2131</ID><NAME>무기력</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:이 카드의 체력 -2. 이 특수능력은 사라진다</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

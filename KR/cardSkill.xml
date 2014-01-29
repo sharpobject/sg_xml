@@ -389,7 +389,7 @@
 <CARD_SKILL><ID>100386</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 공/체 +1. 필드에 추종자가 없을 경우, 자신 핸드 랜덤한 추종자 1의 공/체 +1. 핸드에 추종자가 없을 경우, 자신 덱 맨위 추종자 1의 공/체 +1. 해당 추종자가 다크로어 소속일 경우 추가로 자신필드 랜덤한 추종자 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100387</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 공/체 +1. 필드에 추종자가 없을 경우, 자신 핸드 랜덤한 추종자 1의 공/체 +1. 핸드에 추종자가 없을 경우, 자신 덱 맨위 추종자 1의 공/체 +1. 해당 추종자가 무소속일 경우 추가로 상대 필드 랜덤한 추종자 1의 사이즈 +1. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100388</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시 : 자신의 필드 첫 번째 추종자와 마지막 추종자의 슬롯 번호 차이만큼. 두 추종자의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100389</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨 위 추종자의 공/방/체 +1. 턴 수가 2의 배수일때 자신캐릭터의 라이프가 상대캐릭터보다 낮을경우 자신캐릭터의 라이프 +1. 턴 수가 3의 배수일때 자신셔플수가 0이하일경우 자신셔플수 =1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100389</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 홀수턴이면 자신필드/핸드 랜덤한 추종자 1과 자신덱 맨 위 추종자의 공/체 +1.자신캐릭터 라이프 +1.짝수턴이면 상대필드/핸드 랜덤한 추종자 1과 상대 덱 맨 위 추종자의 공/체 -1.상대캐릭터의 라이프 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>

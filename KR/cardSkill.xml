@@ -1756,6 +1756,8 @@
 <CARD_SKILL><ID>200866</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우 자신 핸드 빈슬롯-1 만큼 자신 덱 랜덤한 스펠을 자신 핸드로 옮긴다. 자신 덱 추종자 전체는 덱 맨 위로 스펠을 맨 밑으로 보낸다. 자신 덱 추종자 전체 공/체+3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200867</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 추종자 전체의 방/체는 자신 무덤 십의 자리수 +1 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200868</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어소속일 경우 상대 캐릭터와 소속이 다른 상대 무덤 카드를 5장까지 자신 무덤으로 옮긴다. 옮긴 카드 수 절반(내림)만큼 자신 무덤 다크로어 소속 카드를 자신 덱 맨 밑으로 옮긴다. 자신 셔플 수+1. 상대 필드 카드 수 2배만큼 상대 필드 추종자 전체 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200869</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200870</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>

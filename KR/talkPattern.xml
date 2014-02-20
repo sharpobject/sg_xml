@@ -398,6 +398,15 @@
 <TALK_PATTERN><ID>c100394</ID><JOIN>행동으로 옮겨야 할때이다.</JOIN><JOIN>여기서 마냥 기다릴순 없지.</JOIN><FALL_APART>별의 지식으로도 알 수 없는 일…</FALL_APART><FALL_APART>진실을 밝혀내겠어.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100395</ID><JOIN>임무 시작이다.</JOIN><JOIN>이런건 또 오랜만이군.</JOIN><FALL_APART>간단한 일이지.</FALL_APART><FALL_APART>거기… 보고 있구나.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100396</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+
+
+
+
+
+
+
+
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -846,7 +855,7 @@
 <TALK_PATTERN><ID>f301067</ID><JOIN>붉은빛의 드레스, 마음에 들어요.</JOIN><JOIN>이 드레스, 제법 마음에 드네요.</JOIN><FALL_APART>오필리어양에게 안부 전해주세요.</FALL_APART><FALL_APART>좋아요. 특별히 함께 해드리죠.</FALL_APART><ATTACK>잠깐, 그렇게 날뛰시면 곤란해요.</ATTACK><COUNTER>너무 들떠 계신 거 아닌가요?</COUNTER><DIRECT>거기서 머리 좀 식히고 계세요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301068</ID><JOIN>이곳의 공기는 정말 상쾌하네요.</JOIN><JOIN>새로운 경지가 보이는듯해요!</JOIN><FALL_APART>머릿속이 맑아지는 기분이에요.</FALL_APART><FALL_APART>오늘 하루 모든 게 잘 될 것 같아요.</FALL_APART><ATTACK>우선 가볍게 몸 풀기 운동부터</ATTACK><COUNTER>자…잠깐 어딜 보고 계신 건가요!?</COUNTER><DIRECT>벌써 지치신 건가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301069</ID><JOIN>잠깐만이라면…</JOIN><JOIN>오늘은 먼저 가보겠네…</JOIN><FALL_APART>오늘은 금방 피곤해지는군…</FALL_APART><FALL_APART>오래는 못 도와주겠군…</FALL_APART><ATTACK>이 정도쯤이라면야…</ATTACK><COUNTER>사색이 너무 깊었나…</COUNTER><DIRECT>빨리 끝내고 돌아가봐야겠네.</DIRECT></TALK_PATTERN>
-<TALK_PATTERN><ID>f301071</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301071</ID><JOIN>잠시만 기다려주시겠어요?</JOIN><JOIN>필요할 때 불러주세요.</JOIN><FALL_APART>인형옷을 벗으니 좀 낫군요.</FALL_APART><FALL_APART>인형옷을 챙겨야겠네요.</FALL_APART><ATTACK>구조가 필요해보이는군요.</ATTACK><COUNTER>당신을 도우려는 겁니다.</COUNTER><DIRECT>구원해드리겠습니다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301073</ID><JOIN>이런 도구따위 필요없는걸요.</JOIN><JOIN>저 혼자서도 충분했어요.</JOIN><FALL_APART>두 번 다시 이런 도구따위에…</FALL_APART><FALL_APART>이번뿐이에요.</FALL_APART><ATTACK>이런게 없더라도 충분해요.</ATTACK><COUNTER>역겹군요.</COUNTER><DIRECT>저를 화나게 하지 말았으면 하네요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301075</ID><JOIN>시간이 모든걸 해결해줄거에요.</JOIN><JOIN>잠시 정리할 시간이 필요해요.</JOIN><FALL_APART>그래… 결정했어!</FALL_APART><FALL_APART>이 길의 끝에 분명 답이 있을거야.</FALL_APART><ATTACK>순탄한 여정은… 힘들겠군요.</ATTACK><COUNTER>죄송합니다. 비켜주세요!</COUNTER><DIRECT>그런건없습니다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301077</ID><JOIN>더러운 피 따위…</JOIN><JOIN>더 이상 나눌 이야기는 없습니다.</JOIN><FALL_APART>불결하군요…</FALL_APART><FALL_APART>고작 이런일로…</FALL_APART><ATTACK>고작 그 정도의 힘 따위…</ATTACK><COUNTER>옷이 더러워졌군요…</COUNTER><DIRECT>너무 방심하신거 아닌가요?</DIRECT></TALK_PATTERN>

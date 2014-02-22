@@ -61,7 +61,7 @@ if new_ts > old_ts:
         if len(entries) < len(hikki_schema):
             print "Failed to parse hikki line:\n%r"%line
             continue
-        card = {"recipe": None, "base_recipe": None}
+        card = {}
         for k,v in entries:
             card[k]=v
         skills = [x for x in map(int,[card["s1"], card["s2"], card["s3"]]) if x]

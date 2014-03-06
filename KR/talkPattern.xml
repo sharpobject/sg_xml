@@ -867,5 +867,9 @@
 <TALK_PATTERN><ID>f301082</ID><JOIN>두근두근…</JOIN><JOIN>분명 기뻐하겠죠?</JOIN><FALL_APART>기뻐해줄까요?</FALL_APART><FALL_APART>저 신경쓰여요!</FALL_APART><ATTACK>이 기분… 분명 전해지겠죠?</ATTACK><COUNTER>앗… 아무것도 아니에요!</COUNTER><DIRECT>방금건 잊어주세요!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301083</ID><JOIN>자 초콜릿 선물이에요!</JOIN><JOIN>편지는 나중에 읽어보세요!</JOIN><FALL_APART>마음에 드셨나요?</FALL_APART><FALL_APART>스페셜 프레젠트 랍니다!</FALL_APART><ATTACK>초콜릿 받으세요!</ATTACK><COUNTER>저희 공장 특제 리미티드 초콜릿이에요!</COUNTER><DIRECT>사탕. 기대할게요!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301084</ID><JOIN>꺄악! 와…완벽하다면서요!?</JOIN><JOIN>언제 멈추는건가요오오오…</JOIN><FALL_APART>어디로 데려가는거에요오오오…</FALL_APART><FALL_APART>머…멈춰주세요!</FALL_APART><ATTACK>나…날아간다아아아…</ATTACK><COUNTER>다시는 날개 달라고 안할래요…</COUNTER><DIRECT>하늘을 나는건 쉬운 일이 아니었어…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301086</ID><JOIN>암리타 이게 도대체 어떻게 된거야?</JOIN><JOIN>이제는 검객탐정이라 불러줘!</JOIN><FALL_APART>수라의 길을 걷겠어!는 농담이야.</FALL_APART><FALL_APART>난 검술에는 소질이 없는데…</FALL_APART><ATTACK>탈렌티움의 각성과는 다른 느낌이야.</ATTACK><COUNTER>나 혹시 검술에도 소질 있을지도?</COUNTER><DIRECT>일도양단!...헤헷 평소부터 해보고 싶었어.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301088</ID><JOIN>으… 악몽을 꾼 기분이 들어요…</JOIN><JOIN>나나이… 우선 나나이 부터…</JOIN><FALL_APART>이…이사장을 만나봐야 겠어요.</FALL_APART><FALL_APART>여긴 어디지… 나나이는 어디에?</FALL_APART><ATTACK>아직도 혼란스럽네요. 우선 정리부터…</ATTACK><COUNTER>더 이상 다가오지 마세요.</COUNTER><DIRECT>당신도 나의 적인가요? 사라지세요.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301090</ID><JOIN>좋은 기백이다.</JOIN><JOIN>날이 무뎌졌군.</JOIN><FALL_APART>악을 멸할때까지 멈출 수 없다.</FALL_APART><FALL_APART>따라올 수 있겠나?</FALL_APART><ATTACK>내 앞에 선 용기는 칭찬해주마.</ATTACK><COUNTER>제법이군… 허나 마무리가 어설프군!</COUNTER><DIRECT>제법 하는구나! 허나 거기까지다.</DIRECT></TALK_PATTERN>
+
 <TALK_PATTERN><ID>f301093</ID><JOIN>영광으로 알도록. 잠시 도와주지.</JOIN><JOIN>여기서 그대를 지켜보겠노라.</JOIN><FALL_APART>시시한 장난… 나쁘진 않구나.</FALL_APART><FALL_APART>만월이 떠오르는군…</FALL_APART><ATTACK>무릎을 꿇어라.</ATTACK><COUNTER>기대할 가치도 없구나.</COUNTER><DIRECT>안심해라 죽음은 누구에게나 공평하다.</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

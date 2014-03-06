@@ -105,6 +105,107 @@
 
 
 <DUNGEON_DETAIL>
+<ID>64</ID><DIFFICULTY>1</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep23.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 단말기 |특징 : 현자 사무소를 습격한 마더데몬. [책의 내용]던전과 내용이 이어집니다</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_064.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_064.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_064.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>(키워드가 부족해 결국엔….위험을 감수해야하나.)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>마지막이군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>그래. 끝이지 이 문을 여는 걸로 끝이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>하? 별의 책방으로 가는 문인가요? 당신에게 책의 내용을 바꾸는 건 불가능해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>그래. 난 열람자고 직접적인 수정은 불가능하지!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>넌. 이 세계의 마녀들에 대해서 알고 있나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>무슨 소릴 하는지 모르겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>카나에 대해서는 알고 있겠지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>그야. 당연히</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>왜 시공경찰이 있다고 생각하지? 왜?별의서고 같은 게 있다고 생각해? 어째서 다른 차원과의 간섭이 가능한지 생각해본 적 있어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>내가 이 세계에 있는 건 그 이유를 밝히기 위해서라고.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>이 세계의 마녀들은 존재 자체가 시간축에서 어긋나 있거든</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>대체…. 무슨 소릴?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>내가 여는 문은 평범한 문. 이 집에서 나가는 문. 이 세계와 이어지는 문이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>과연 문을 열면 어떤 세계일까? 궁금하지 않아?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>승산 없는 도박을 하는군요. 당신은 너무 작아요. 제가 바꿔놓은 세상에서 당신은 아무것도 모르는 세계의 노이즈일 뿐이라고요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>넌 날 잘 알고 있을텐데. 나의 능력은 알고 싶은 걸 알 수 있는 능력이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>넌 시간을 너무 끌었어. 체크메이트다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>이스프릿!!!!!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_064.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_064.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_064.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rio.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>변했다니 뭘 말하는 거에요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>미래 말이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>별의 책방이 빛나고 있었잖아 아무래도 정보가 새로운 정보로 덮어씌워진 것 같아</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>아마 네가 읽은 부분은 이미 덮어씌워 진 부분이겠지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>내가 읽던 책들은 덮어쓰는 도중이였어. 그러니까 아이리 서….고……….해서………....너……….카나..…...니아…….이겨………………데몬…….문……</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>(이스프릿의 이야기가 길어진다)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>응? 리액션이 없다고 생각했더니….잠들었나.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>하긴 여러 책을 동시에 읽는 바보짓을 하니….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>?!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_064.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_064.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_064.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오</NPC_NAME><NPC_TEXT_1>안녕.이 몸으로는 두 번째인가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>무….무슨!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>게임을 끝내러 왔지. 체크메이트야. 너의 말은 이제 없다고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>마더데몬? 설마! 그럴리가!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>현자 언니 도망쳐!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>시온!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_064.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_064.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_064.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>어머….어지간히 급한 모양이네? 이런 말이나 쓰고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>   </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>왜 그래? 말도 없이 멍하니 서서? 설마? 공포에 질렸다거나 그런 건 아니지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>언니! 현자 언니!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>하….그럴…리가 공포? 그저 생각하고 있었을 뿐이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>리온 시간 좀 벌어봐</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_064.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_064.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_064.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>무슨 일이 있어서 이렇게 됐는지는 모르겠지만 뭔가 문제가 있었겠지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>문제가 있었을리가. 그냥 너의 말이 약했을 뿐이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>동시에 덤볐다면 봐 줄 만 했을 텐데….너무 쉽던걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>그래? 그럼 이 말은 어때? 무려 외제라고?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>오필리어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_op.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>에…에?! 저요? 무서워요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>시간만 끌어! 너 꼬맹이들 시끄러울 때 잘하는 거 있잖아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_064.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_064.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_064.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>(시간이 부족해! 이정도 키워드로는 능력을 쓰기 전에 당해버릴거야. 다른….키워드가 더 필요해)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>마더데몬! 넌 여기에 와서 체크메이트라고 말했지? 그 말 그대로 돌려주지!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>마지막엔 허세인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>내 마지막 체스말이다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>에이가! 밥값 해라!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_demonrio.png</NPC_IMG><NPC_NAME>특이점 리오(마더데몬)</NPC_NAME><NPC_TEXT_1>하….마지막까지? 나름 인정했는데…. 실망이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>52</ID><DIFFICULTY>1</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 백색광석|특징 : 노블엔진에서 발매한 소설 몬스★패닉의 캐릭터가 등장합니다.</TOOL_TIP_TEXT>
 
 <FLOOR>

@@ -691,6 +691,158 @@
 
 
 <DUNGEON_DETAIL>
+<ID>65</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep24.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 수수께기의 고서 |특징 :[책의 내용]던전과 내용이 이어집니다.|이곳의 적은 강력한 추종자를 사용합니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>어째서 이렇게 큰 일이 될 때까지 아무도 모른거라 생각하죠? 어째서 현자나 제국이 개입하지 않은거라 생각하죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>카나의 문이 한 번 닫히고 전 오로지 이 순간만을 준비해 왔습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>종족의 차별이 없는 세계? 당연히 바랬답니다! 시니아가 마녀로 살더라도 아무 문제 없는 세상을 말이죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>그러니 저 문은 이 검으로 닫혀야 합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>시니아의 심장석을 대가로 문을 닫을겁니다. 시니아는 이 더럽디더러운 피로 속박된 채로 살게하지 않겠어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>가문의 문헌만 봐도 알 수 있어요. 이번의 당신들은 너무 달라요. 당신들도 아직 잠들고 싶지 않은거죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>amrita_adult.png</NPC_IMG><NPC_NAME>암리타</NPC_NAME><NPC_TEXT_1>….그런 걸로 물고 늘어지지마</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>암리타…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>한명은 카나의 직전까지 다녀왔고. 다른 한 명은 마녀라고요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>자물쇠와 책으로 봉인하더라도! 마법소녀가 되더라도 결국엔!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>amrita_adult.png</NPC_IMG><NPC_NAME>암리타</NPC_NAME><NPC_TEXT_1>소마! 노빅을 불러야 해</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>soma_adult.png</NPC_IMG><NPC_NAME>소마</NPC_NAME><NPC_TEXT_1>으…응….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>저기….소마?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>soma_adult.png</NPC_IMG><NPC_NAME>소마</NPC_NAME><NPC_TEXT_1>미안….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>리오에게 큰 소리 쳐두긴 했는데…. 내 쪽이 문제인가</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>하긴 내가 아니라 다른 아이들인가……자! 어떻게 될지 확인해볼까</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mdemon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>작은 마석도 무녀 아이도 아무 것도 못 했네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mdemon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>첫번째 카드라고 했던가요? 다음 카드도 있겠죠? 좋아요. 더 해보세요. 절망을 맛보게 해드리죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>나머지 카드도 필요하다면 쓰겠죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>하지만 지금은 필요 없어보이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mdemon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>정말….아까부터의 그 자신감은 어디서 오는지 모르겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>네. 그녀는 자신을 마더데몬이라고 말했습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>이사장은….그걸 알면서 마녀 후보생들을 여기로 보냈던 걸까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>리니아 퍼시피카? 위치퀸 말인가요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>너희는 언제까지 떠들거지? 하긴 너흰 이쪽 시공으로만 넘어오면 그만이었던가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>난 일이 있어서 먼저 가지. 차원이 이어지면 일이 커져서 말이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>잠깐만요! 그 이야기 다시!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>amrita.png</NPC_IMG><NPC_NAME>암리타</NPC_NAME><NPC_TEXT_1>소마는 역시 바보구나?….그렇게 말한다고 정말 올리가 없잖아</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>소마? 소마인거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>에?! 레이나? 정말? 뭐야?! 어떻게 나타나는 거야? 암리타 저거 소마의 힘이야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>너희는?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>그런가 자기 차원의 일은 알아서 처리할 수 있다는 건가.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>soma.png</NPC_IMG><NPC_NAME>소마</NPC_NAME><NPC_TEXT_1>봐! 이렇게 왔잖아! 암리타 바보!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>거기 너희 둘! 해야 하는 일은 알고 있겠지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>amrita.png</NPC_IMG><NPC_NAME>암리타</NPC_NAME><NPC_TEXT_1>시공경찰이 하는 말이니 나와 소마 말이겠지? 멍청한 소마라면 몰라도 나는 알고 있어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>우리는 어째….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>들러리인 느낌이죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ragafelt.png</NPC_IMG><NPC_NAME>라가펠트</NPC_NAME><NPC_TEXT_1>그러게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>소마 이야기 같은데 저도 무슨 이야기인지 모르겠는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>탐정인 나도 모르겠는데. 차원이 어쩌고 마더데몬이 어쩌고 시공경찰이 어쩌고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>마치 이야기 자체가 맥거핀과 복선으로만 이루어진 것 같아</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>너희가 다 이해할 필요는 없지. 너희는 평범한 생활로 돌아간다. 이거면 충분하지 않나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>빨리 움직이기나 해. 차원이 이어지면 큰일이라고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>6</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>리니아님. 한 번 더 가겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>나도…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>헬레나양 됬어요. 시타양도 그만하세요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>마더데몬. 이제 슬슬 당신의 역량이 보이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mdemon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>당신의 잣대로 감히 이 몸을 재는 건가요? 웃기는군요. </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>마더데몬!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>이사장님!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mdemon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>어머….루에에게 맡겨놨던 아이들이네요. 그 아이도 참 칠칠치 못하다니까요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mdemon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>그건 그렇고 꽤나 많은 분들이 왔네요. 다수로 어떻게 해보겠다는 속셈인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>카드는 많을 수록 좋은 법이죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>7</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>거기 계시죠? 시그마님. 도와주시겠어요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma2.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>얼굴을 비추기 어려운 이유가 있는데 그런 식으로 불리니 곤란하구먼. </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>음….이 모습이면 상관 없겠구나</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>잠시 교대 부탁드리겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>자. 여러분~ 묻고 싶은 말이 많겠지만 나중에 해주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>이런 일에 휘말리게 만든 제가 이런 말을 하는 것도 웃기지만 다들 저를 따라주시면 고맙겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>8</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>amrita.png</NPC_IMG><NPC_NAME>암리타</NPC_NAME><NPC_TEXT_1>우린 알아서 하겠어. 아스미스 소마 가자. 거기! 레이나라고 했던가? 너도 이리와</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>저기...암리타?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>저도 위치퀸이랑 함께할 마음은 없네요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>좋아요. 그래도 이건 기억해두세요. 레이나, 결국엔 당신도 마녀라는 걸.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>자. 저쪽과의 이야기는 나쁘게 끝났지만. 여러분만 있어도 충분합니다. 너무 걱정하지 마세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>9</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_065.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_065.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_065.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>끝…난 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>대단한걸. 새로운 세계를 만들어낸 뒤 그 안에 봉인하다니. 하지만 결국엔 죽인게 아니라 봉인일 뿐이지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>그런고로 아직 저 문이 남아있다고. 저건 어쩔 생각이지? 이번에 난 차원이 이어지기 전까지 아무것도 안 할거야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_dkd2.png</NPC_IMG><NPC_NAME>DKD</NPC_NAME><NPC_TEXT_1>이 동네는 워낙 이상한 일이 많이 벌어져서 개인적으로는 사라져줬으면 해서 말이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>물론. 닫을 겁니다. 시니아의 검을 써서 말이죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>안돼</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>그 검은 쓰면 안 된다고 하지 않았나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>사용하는 시기의 문제죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>amrita_adult.png</NPC_IMG><NPC_NAME>암리타</NPC_NAME><NPC_TEXT_1>그 검이 또 다른 열쇠라는 건 알지만 저 문은 우리가 닫아야해. </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>soma_adult.png</NPC_IMG><NPC_NAME>소마</NPC_NAME><NPC_TEXT_1>원래부터 우리 일이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>죄송하지만 그렇게는 안 되겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>이 문은 시니아의 검으로 닫혀야 합니다. 방해한다면 용서치 않겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>57</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep22.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 책갈피 |특징 : 별의 책방을 통해 소녀들의 이야기를 엿봅니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
@@ -2795,6 +2947,121 @@
 <DUNGEON_TITLE_IMG>dungeon_title_006.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_006.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>뭐지 이 공간은? 그림자? 도플갱어의 일종인가? 수호자들의 복제라니 귀찮게 됐어. 이 꼬맹이들, 잡히면 슬리퍼로 때려줄테다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>66</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 3주년 기념 케이크,녹색광석|이 곳은 각자의 명예를 걸고 싸우는 전장! 패션쇼-2부!|특징 : 50회 클리어 시 탈렌티움 구슬이 지급됩니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_066.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_066.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_066.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>아스미스야! 탐정….이 아니라 해결사지!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>펭귄선생님에게 이야기를 들은게 있어서 시타에게 옷을 전해주러 온 것 뿐이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>절대 범죄자가 아니라구!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>네. 다음 범죄자</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_066.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_066.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_066.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>역시 시온 교수님! 설명이 능숙하네요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>그럼 참가자 대기실에 몰래 숨어 들어온 분들을 모셔볼까요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>많은 야유 부탁드리겠습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>67</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 3주년 기념 케이크,적색광석|이 곳은 각자의 명예를 걸고 싸우는 전장! 패션쇼-2부!|특징 : 50회 클리어 시 탈렌티움 구슬이 지급됩니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_067.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_067.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_067.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>안한다니까! 플로라 자…잠깐 밀지마 </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>지금까지의 참가자와는 다르게 정상적인 반응을 보이며 등장하네요. 원래 저게 정상이죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>뮤…뮤지시터에서는 이런 옷보다 더 귀여운 옷을 입을 수 있어요. 계약해주시지 않으시겠어요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>빼더니만 생각보다 잘하네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>이…이미 나온거니까! 어쩔 수 없잖아</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_067.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_067.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_067.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>자. 범죄자분들은 정리했으니 복장콘테스트에 대해서 설명하도록하죠. 리온 조수 설명하게나</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>알겠습니다. 시온 교수님.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>복장콘테스트는 참가자 대기실에 몰래 숨어 들어온 분들을 반 협박으로 모셔서</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>수치플레이를 시키는 겁니다!!!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>조수의 상태가 아까부터 이상하네요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>수치 플레이가 아니라. 각 참가자 분들의 복장을 강제로 입히는 거랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>68</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 3주년 기념 케이크,청색광석|이 곳은 각자의 명예를 걸고 싸우는 전장! 패션쇼-2부!|특징 : 50회 클리어 시 탈렌티움 구슬이 지급됩니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_068.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_068.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_068.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>안녕하세요. 퍼시피카가의 차녀 로제퍼시피카라고 합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>잠깐 오해가 있었던 것 같아 오해를 풀기 위해 저택에서 급히 오게 되었답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>잠시 교국의 기사단에 머물렀던 적이 있어 루티카양과 이야기를 나누었을 뿐입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>퍼시피카가의 차녀가 기사단에 머물렀던 적이 있다고 하는군요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>마침 교국의 참가자가 기사단원이기도 하니 기사단복을 입혀보도록하죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_068.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_068.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_068.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>2부가 복장 테스트라면 3부는 무엇일지 예상이 가시겠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>몸매를 보는 건가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>오오오! 설마 알몸은 아니겠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>리온의 텐션이 너무 올라가 있어서! 꿀밤을 줘야겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>나체를 생각하신 분들은 모두 앞에 있는 은팔찌를 착용해주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
+<ID>69</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 3주년 기념 케이크,흑색광석|이 곳은 각자의 명예를 걸고 싸우는 전장! 패션쇼-2부!|특징 : 50회 클리어 시 탈렌티움 구슬이 지급됩니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_069.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_069.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_069.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>헬레나라고 합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>아이리양에게 할 말이 있어서 들어갔다가 참가하게 되었습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>천리교도 분들도 보이네요. 교도 분들 앞에서 창피를 당할 수도 없으니 열심히 해보겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_069.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_069.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_069.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>2부로 넘어가기 전에! 1부 진행 중에 집계된 표의 중간집계 순위를 확인해보죠</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>1위는~~~현자 사무소의 자랑! 아이리 플리나양이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온</NPC_NAME><NPC_TEXT_1>그럼 이제 2부로 넘어가 볼까요</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온</NPC_NAME><NPC_TEXT_1>2부는! 복장 콘테스트 입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>

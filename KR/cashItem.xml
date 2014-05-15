@@ -176,5 +176,15 @@
 <CASH_ITEM> <ID>Item213</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>츄파츄파족 아이잉</NAME> <ICON_FILE>item_213.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>츄파츄파족 아이잉의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item214</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>최후의 목격자 카나GLS</NAME> <ICON_FILE>item_214.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>최후의 목격자 카나GLS의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item171</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>슬리브 랜덤 셀렉트</NAME> <ICON_FILE>item_171.png</ICON_FILE> <PRICE>0</PRICE> <TEXT>자신이 보유한 | 슬리브가 매 게임마다 랜덤으로| 선택 됩니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item223</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>봉인해제 암리타</NAME> <ICON_FILE>item_223.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>봉인해제 암리타의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item224</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>마스터 빌로사</NAME> <ICON_FILE>item_224.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>마스터 빌로사의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item225</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>시니아의 각성</NAME> <ICON_FILE>item_225.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>시니아의 각성의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item226</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>리니아 퍼시피카</NAME> <ICON_FILE>item_226.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>리니아 퍼시피카의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item227</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>루티카 돌입</NAME> <ICON_FILE>item_227.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>루티카 돌입의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item228</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>제이나 프리벤터</NAME> <ICON_FILE>item_228.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>제이나 프리벤터의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item229</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>장난</NAME> <ICON_FILE>item_229.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>장난의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item230</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>루나플리나</NAME> <ICON_FILE>item_230.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>루나플리나의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item231</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>DKD</NAME> <ICON_FILE>item_231.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>DKD의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item232</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>가디언 노빅</NAME> <ICON_FILE>item_232.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>가디언 노빅의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

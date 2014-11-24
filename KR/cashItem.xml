@@ -7,21 +7,21 @@
 <CASH_ITEM> <ID>Item004</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>수호의 성물(일반)</NAME> <ICON_FILE>item_05.png</ICON_FILE> <PRICE>200</PRICE> <TEXT>2단계 강화 시도 시 부터 사용할 수 있으며,||현재 강화에 필요한 재료 카드 1장이 감소됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item005</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>고급강화장열쇠</NAME> <ICON_FILE>item_04.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>고급 강화장에서 강화 시도시 필요합니다.||일반 강화장에 비해 강화 확률이 10% 증가 합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item006</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>마법의 금시계</NAME> <ICON_FILE>item_06.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>탐사 완료 시에 총 탐사시간을 2배로 계산.|매 탐사마다 1회 적용 가능.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item007</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>추천도서</NAME> <ICON_FILE>item_07.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>지성 소량 증가.||지성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item008</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>추천도서세트</NAME> <ICON_FILE>item_08.png</ICON_FILE> <PRICE>250</PRICE> <TEXT>지성 대량 증가.||지성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item009</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>장미꽃</NAME> <ICON_FILE>item_09.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>감성 소량 증가.||감성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item010</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>장미꽃다발</NAME> <ICON_FILE>item_10.png</ICON_FILE> <PRICE>250</PRICE> <TEXT>감성 대량 증가.||감성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item011</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>머리띠</NAME> <ICON_FILE>item_11.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>개성 소량 증가.||개성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item012</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>고양이귀머리띠</NAME> <ICON_FILE>item_12.png</ICON_FILE> <PRICE>250</PRICE> <TEXT>개성 대량 증가.||개성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item013</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>팬티</NAME> <ICON_FILE>item_13.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>매력 소량 증가.||매력이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item014</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>속옷세트</NAME> <ICON_FILE>item_14.png</ICON_FILE> <PRICE>250</PRICE> <TEXT>매력 대량 증가.||매력이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item015</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>뿅망치</NAME> <ICON_FILE>item_15.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>지성 2 감소.||지성이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item016</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>목장갑</NAME> <ICON_FILE>item_16.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>감성 2 감소.||감성이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item017</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>추리닝</NAME> <ICON_FILE>item_17.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>개성 2 감소.||개성이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item018</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>아프로가발</NAME> <ICON_FILE>item_18.png</ICON_FILE> <PRICE>50</PRICE> <TEXT>매력 2 감소.||매력이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item019</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>특제 파르페</NAME> <ICON_FILE>item_19.png</ICON_FILE> <PRICE>200</PRICE> <TEXT>임의의 수치 대량 증가.||모든수치가 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item020</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>금반지</NAME> <ICON_FILE>item_20.png</ICON_FILE> <PRICE>200</PRICE> <TEXT>호감도 소량 증가.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item021</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>다이아반지</NAME> <ICON_FILE>item_21.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>호감도 대량 증가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item007</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>추천도서</NAME> <ICON_FILE>item_07.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>지성 소량 증가.||지성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item008</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>추천도서세트</NAME> <ICON_FILE>item_08.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>지성 대량 증가.||지성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item009</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>장미꽃</NAME> <ICON_FILE>item_09.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>감성 소량 증가.||감성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item010</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>장미꽃다발</NAME> <ICON_FILE>item_10.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>감성 대량 증가.||감성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item011</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>머리띠</NAME> <ICON_FILE>item_11.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>개성 소량 증가.||개성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item012</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>고양이귀머리띠</NAME> <ICON_FILE>item_12.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>개성 대량 증가.||개성이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item013</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>팬티</NAME> <ICON_FILE>item_13.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>매력 소량 증가.||매력이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item014</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>속옷세트</NAME> <ICON_FILE>item_14.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>매력 대량 증가.||매력이 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item015</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>뿅망치</NAME> <ICON_FILE>item_15.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>지성 2 감소.||지성이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item016</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>목장갑</NAME> <ICON_FILE>item_16.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>감성 2 감소.||감성이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item017</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>추리닝</NAME> <ICON_FILE>item_17.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>개성 2 감소.||개성이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item018</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>아프로가발</NAME> <ICON_FILE>item_18.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>매력 2 감소.||매력이 0인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item019</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>특제 파르페</NAME> <ICON_FILE>item_19.png</ICON_FILE> <PRICE>400</PRICE> <TEXT>임의의 수치 대량 증가.||모든수치가 500인 경우 구매 불가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item020</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>금반지</NAME> <ICON_FILE>item_20.png</ICON_FILE> <PRICE>400</PRICE> <TEXT>호감도 소량 증가.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item021</ID> <ITEM_TYPE>Present</ITEM_TYPE> <NAME>다이아반지</NAME> <ICON_FILE>item_21.png</ICON_FILE> <PRICE>1000</PRICE> <TEXT>호감도 대량 증가.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item022</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>공립 기본덱</NAME> <ICON_FILE>booster_deck_001(S1).png</ICON_FILE> <PRICE>5000</PRICE> <TEXT>공립 기본덱을 구매합니다. |(덱 슬롯이 확장되어, 빈 슬롯에 저장 됩니다.)|(덱 슬롯은 최대 25개까지 확장 됩니다.)</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item023</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>사립 기본덱</NAME> <ICON_FILE>booster_deck_002(S1).png</ICON_FILE> <PRICE>5000</PRICE> <TEXT>사립 기본덱을 구매합니다. |(덱 슬롯이 확장되어, 빈 슬롯에 저장 됩니다.)|(덱 슬롯은 최대 25개까지 확장 됩니다.)</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item024</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>크룩스 기본덱</NAME> <ICON_FILE>booster_deck_003(S1).png</ICON_FILE> <PRICE>5000</PRICE> <TEXT>크룩스 기본덱을 구매합니다. |(덱 슬롯이 확장되어, 빈 슬롯에 저장 됩니다.)|(덱 슬롯은 최대 25개까지 확장 됩니다.)</TEXT> </CASH_ITEM>
@@ -186,5 +186,15 @@
 <CASH_ITEM> <ID>Item230</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>루나플리나</NAME> <ICON_FILE>item_230.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>루나플리나의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item231</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>DKD</NAME> <ICON_FILE>item_231.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>DKD의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item232</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>가디언 노빅</NAME> <ICON_FILE>item_232.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>가디언 노빅의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item233</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>웨딩드레스의 리안나</NAME> <ICON_FILE>item_233.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>웨딩드레스의 리안나의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item234</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>아스미스</NAME> <ICON_FILE>item_234.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>아스미스의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item235</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>학생회장 시니아</NAME> <ICON_FILE>item_235.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>학생회장 시니아의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item236</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>리누스</NAME> <ICON_FILE>item_236.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>리누스의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item237</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>웨딩드레스의 클라리스</NAME> <ICON_FILE>item_237.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>웨딩드레스의 클라리스의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item238</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>로제</NAME> <ICON_FILE>item_238.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>로제의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item239</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>웨딩드레스의 아이리</NAME> <ICON_FILE>item_239.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>웨딩드레스의 아이리의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item240</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>헬레나</NAME> <ICON_FILE>item_240.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>헬레나의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item241</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>카넬</NAME> <ICON_FILE>item_241.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>카넬의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item242</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>제2황녀 하노벨</NAME> <ICON_FILE>item_242.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>제2황녀 하노벨의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

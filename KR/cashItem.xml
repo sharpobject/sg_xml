@@ -196,5 +196,7 @@
 <CASH_ITEM> <ID>Item240</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>헬레나</NAME> <ICON_FILE>item_240.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>헬레나의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item241</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>카넬</NAME> <ICON_FILE>item_241.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>카넬의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item242</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>제2황녀 하노벨</NAME> <ICON_FILE>item_242.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>제2황녀 하노벨의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item243</ID> <ITEM_TYPE>LimitedEdition</ITEM_TYPE> <NAME>담요 상품 패키지A</NAME> <ICON_FILE>item_243.png</ICON_FILE> <PRICE>40000</PRICE> <TEXT>소드걸스 담요 상품 1EA + 포토그래피 1매 +|마일리지 카드 4매 + 각 색깔 광석 100매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item244</ID> <ITEM_TYPE>LimitedEdition</ITEM_TYPE> <NAME>담요 상품 패키지B</NAME> <ICON_FILE>item_244.png</ICON_FILE> <PRICE>40000</PRICE> <TEXT>소드걸스 담요 상품 1EA + 외출준비 1매 +|마일리지 카드 2매 + 각 색깔 광석 50매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

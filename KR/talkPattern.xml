@@ -451,6 +451,7 @@
 
 
 
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -997,4 +998,9 @@
 <TALK_PATTERN><ID>f301229</ID><JOIN>이곳의 '시계'는 제가 지배한답니다.</JOIN><JOIN>모자같은거 안팔아요!</JOIN><FALL_APART>이 코트는 파는게 아니에요!</FALL_APART><FALL_APART>이 세계의 모든걸 지배하겠어요.</FALL_APART><ATTACK>이곳의 여왕은 어디에 있죠?</ATTACK><COUNTER>당장 길을 안내하세요!</COUNTER><DIRECT>이곳의 여왕이 누구인지 알려드리죠.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301230</ID><JOIN>토끼는 이런 옷을 입지 않아요!</JOIN><JOIN>설마 평생 이 옷만 입게 되는건…</JOIN><FALL_APART>느긋하게 차 마실 시간 없는데…</FALL_APART><FALL_APART>전 토끼가 아니라니까요!</FALL_APART><ATTACK>이런 옷을 입고서는 토끼처럼 뛸 수 없어요!</ATTACK><COUNTER>그쪽 지퍼는… 건들지 마세요!!</COUNTER><DIRECT>무슨 일 있어도 돌아가야 합니다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301231</ID><JOIN>네가 본건 고양이가 아니라네…</JOIN><JOIN>사실 웃는건… 잘 못한다네…</JOIN><FALL_APART>원래대로 돌아가면 웃을지도…</FALL_APART><FALL_APART>항상 웃을 수는 없으니까…</FALL_APART><ATTACK>무언가 나랑은 어울리지 않는군…</ATTACK><COUNTER>그런 천박한 행동은 하지 않는다.</COUNTER><DIRECT>불행하군… 너나 나나…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301236</ID><JOIN>그 동안 밀린 책좀 읽고 있었어요.</JOIN><JOIN>내일 아침까지 읽어도 괜찮아요.</JOIN><FALL_APART>어라라… 문이 잠겨버렸네요…</FALL_APART><FALL_APART>한동안 도서실에서 살아야겠네요.</FALL_APART><ATTACK>이 작가분은 아직도 휴재중이신건가요?</ATTACK><COUNTER>어서 일좀 했으면 좋겠는데 말이죠…</COUNTER><DIRECT>어서 일하세요!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301237</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301238</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301239</ID><JOIN>울음소리가 마치 아이같네…</JOIN><JOIN>어서 돌려주던가 해야겠어.</JOIN><FALL_APART>계륵이 따로 없네 이것 참…</FALL_APART><FALL_APART>너무 시끄럽네… 그냥 버릴까…</FALL_APART><ATTACK>어떻게 해야 얘가 그만 울까…</ATTACK><COUNTER>배가 고픈걸까? 저 피는 어떻니?</COUNTER><DIRECT>영문을 모르겠네… 그냥 버려버릴까.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301240</ID><JOIN>형…아니 평화가 찾아올거에요!</JOIN><JOIN>태양이 지고 달님이 찾아오네요.</JOIN><FALL_APART>제 마음 전해졌을까요?</FALL_APART><FALL_APART>모두가 사이좋게 지낼 수 있다면…</FALL_APART><ATTACK>태양의 이름으로 용서치 않겠어요!</ATTACK><COUNTER>더 이상 우물에 갇혀 지낼 순 없어요!</COUNTER><DIRECT>우리 모두는 친구가 될 수 있어요 분명!</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

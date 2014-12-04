@@ -691,6 +691,142 @@
 
 
 <DUNGEON_DETAIL>
+<ID>74</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ex09.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 도시락 |특징 : 베르니카와 루카 두 소녀가 들려주는 이야기.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_esel.png</NPC_IMG><NPC_NAME>도서부 고문 에셀</NPC_NAME><NPC_TEXT_1>다들 왜 이렇게 시끄러운 건가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>선생님! 긴급사태에요! 흡혈귀가 나타났어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_esel.png</NPC_IMG><NPC_NAME>도서부 고문 에셀</NPC_NAME><NPC_TEXT_1>아! 벌써 만났나요. 그 아이 전학생이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>전학생요…?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_esel.png</NPC_IMG><NPC_NAME>도서부 고문 에셀</NPC_NAME><NPC_TEXT_1>응? 시타가 말 안 했나요? 시타! 거기 숨지마세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rotte.png</NPC_IMG><NPC_NAME>롯테</NPC_NAME><NPC_TEXT_1>선생님은 제정신이세요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>이건 특종이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_reia.png</NPC_IMG><NPC_NAME>레이아</NPC_NAME><NPC_TEXT_1>그런 걸 왜 혼자서 결정하는 거죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_esel.png</NPC_IMG><NPC_NAME>도서부 고문 에셀</NPC_NAME><NPC_TEXT_1>다…다른 선생님들이랑도 이야기해서 결정한 거에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>저희와는 말 한마디 안하셨잖아요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>선생님! 벌 받으셔야겠어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_esel.png</NPC_IMG><NPC_NAME>도서부 고문 에셀</NPC_NAME><NPC_TEXT_1>어…어째서! 이야기가 그렇게 되는 건가요! 자…잠깐! 신입생 앞이에요! 위엄이 사라진단 말이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>음…. 이게 무슨 상황이죠? 왜 다들 오신 건가요? 루카는 왜 또 그런 복장인거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ruka.png</NPC_IMG><NPC_NAME>루카</NPC_NAME><NPC_TEXT_1>죄송해요. 선배님.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>루카가 안 알려줘서 너에게 물어보러 왔어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>네? 뭘 말씀이시죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rotte.png</NPC_IMG><NPC_NAME>롯테</NPC_NAME><NPC_TEXT_1>기사단 때 이야기말이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>거기! 도서관에선 조용히 하세요! 게다가 교국의 복장은 뭔가요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>흐음…그런 이야기인가요? 좋아요. 계속이야기해도 좋아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rs.png</NPC_IMG><NPC_NAME>레이나</NPC_NAME><NPC_TEXT_1>대신! 저도 듣겠습니다. 저도 한동안 자리를 비워서 대륙의 이야기가 궁금했는데 잘됐군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ruka.png</NPC_IMG><NPC_NAME>루카</NPC_NAME><NPC_TEXT_1>선배님들 잠시만요! 저희는 기사단에서 지냈어요! 보안이라는게 있단 말이에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>루카. 말해선 안되는 이야기 말고 다른 이야기를 하면 문제없지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ruka.png</NPC_IMG><NPC_NAME>루카</NPC_NAME><NPC_TEXT_1>저 표정을 보세요! 그런 걸로 만족할 리가 없잖아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>그래도 안 해줘서 시달리는 것보단 낫지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ritana.png</NPC_IMG><NPC_NAME>리타나</NPC_NAME><NPC_TEXT_1>베르니카 내가 하나 물어도 될까? 매장도서관 일로 개인적으로 흥미가 있는 사람이 있어서 말이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ruka.png</NPC_IMG><NPC_NAME>루카</NPC_NAME><NPC_TEXT_1>어….그 때 일은 넘어가면 안될까요? 생각하고 싶지 않은데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>리타나와 씨와 일이 있었던 분이면…. 루키프씨 말인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>루키프 란벨. 계급은 상병으로 교국 기사단에 맞지 않는 체형과 롤헤어가 특징인 분이죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ritana.png</NPC_IMG><NPC_NAME>리타나</NPC_NAME><NPC_TEXT_1>체형과 롤헤어를 생각하면 그 사람이 맞겠군.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ritana.png</NPC_IMG><NPC_NAME>리타나</NPC_NAME><NPC_TEXT_1>흐응~ 체형가지고 놀리는 걸 그렇게 싫어한단 말이지? 좋아. 기억해두겠어</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rotte.png</NPC_IMG><NPC_NAME>롯테</NPC_NAME><NPC_TEXT_1>나도! 나도! 기사단에는 정말 전우조라는게 있는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rotte.png</NPC_IMG><NPC_NAME>롯테</NPC_NAME><NPC_TEXT_1>정말! 정말로!!!! 언제나 어디서나 함께 있는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>롯테 선배가 생각하는 게 뭔지는 알겠어요. 실망 시켜서 죄송하지만 단언컨대 그런 일은 없어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ruka.png</NPC_IMG><NPC_NAME>루카</NPC_NAME><NPC_TEXT_1>맞아요. 그런 일은 없어요! 저도 선배랑 로제님이랑 다닐 때 그런 생각은 단 한 번도 해본 적 없어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>로제 퍼시피카! 나 그 사람에게 관심 있어! 아니 그 가문에 관심 있어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>그 가문에 여성밖에 태어나지 않는 이유가 적힌 책! 신청했는데 안 오길래 찾아보니까. 책과 관련된 사람도 출판사도 사라졌었어!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>로제님에 대해서는 저도 잘 모르겠네요. 가문 이야기만 나오면 슬픈 눈을 하셔서요….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>serie.png</NPC_IMG><NPC_NAME>세리에</NPC_NAME><NPC_TEXT_1>뭐…. 그만한 집안이면 복잡하겠지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>6</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>그럼 이번엔 내 차례! 선배! GS단이랑 SS흥신소에 대해서 아는 거 있으시죠? 기사단원이셨잖아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>음…. 그쪽은 보안에 문제로 이야기 해드리기 곤란하네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>SS단만의 이야기라면 모르겠지만 GS단이라면 우리 학교도 연관되어 있다고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>맞아….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>엣?! 시타? 언제 온 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>….방금</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>7</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>그럼…. GS단 이야기를 살짝해볼까? GS단은 말이지! 교국의 교리가 잘못됐다고 말하는 사람들이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>….그런 이야기 말고 좀 더 재밌는 이야기!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>음….어떤 이야기 좋을까? 그래! 교국의 검이라는 제이나님 알지? 그 분과 같은 성을 쓰는 루티카라는 기사단원이 있는데</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>무려 GS단에 스파이로 잠입했던 적이 있는 것 같아. 일곱 번째 별이라는 간부까지 올라서 많은 정보를 알아냈다고 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>이제 소탕되는 것도 시간문제 아닐까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>오옷. 신문에 나올만한 내용인데 안 나온 걸 보면 교국도 신중한가보네. 고마워요. 선배!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>8</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_reia.png</NPC_IMG><NPC_NAME>레이아</NPC_NAME><NPC_TEXT_1>저도! 물어보고 싶은 것 있어요. 선배! 기사단원이면 흡혈귀들이랑 싸워보셨죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_reia.png</NPC_IMG><NPC_NAME>레이아</NPC_NAME><NPC_TEXT_1>이런 말 해도 좋을지 모르겠는데…. 전! 흡혈귀들이 그렇게 나쁘다고 생각하지 않아요. 선배님은 어떻게 생각하세요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>대답하기 곤란하네. 내가 흡혈귀랑 싸웠을 때는…. 미안. 이야기하기 곤란하네. 어쩌면 나도 아직….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>베르니카….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>9</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_074.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_074.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_074.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_maze2.png</NPC_IMG><NPC_NAME>메이즈</NPC_NAME><NPC_TEXT_1>응? 흡혈귀가 뭐?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_reia.png</NPC_IMG><NPC_NAME>레이아</NPC_NAME><NPC_TEXT_1>어?! 넌 그때의 흡혈귀잖아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_maze2.png</NPC_IMG><NPC_NAME>메이즈</NPC_NAME><NPC_TEXT_1>그냥 평범한 흡혈귀인 듯 부르지 마! 메이즈 라는 이름이 있다고! 게다가 제대로 직업도 있다고! 미로 제작가!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>레이아 저녀석 정말 흡혈귀야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_maze2.png</NPC_IMG><NPC_NAME>메이즈</NPC_NAME><NPC_TEXT_1>(허벅지를 보여준다) 여기 보이지 난 흡혈귀라고. 그리고 너보다 오래살았어! 저 녀석이라고 부르지마!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_maze2.png</NPC_IMG><NPC_NAME>메이즈</NPC_NAME><NPC_TEXT_1>신기한 동물 보듯 보지도 마! 며칠 전까지 있던 아이리 라는 하프녀석이 더 신기하다고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
+<DUNGEON_DETAIL>
 <ID>73</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ue7.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 백색광석|특징 : 유저 공모전 글게시판 부문에 당선된 소설 '어머니와 약속'의 던전입니다.</TOOL_TIP_TEXT>
 
 <FLOOR>

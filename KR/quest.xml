@@ -176,7 +176,7 @@
 		<TEXT>아주 오래전에 어딘가에 묻어둔|명주가 하나 있는데 말이다…|조금 찾아봐 주겠느냐?|찾지 못해도 좋은걸 주마.|</TEXT>
 		<MISSION>던전에서 1승하기||</MISSION>
 		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
-		<HELPER_CARD_NO>100049</HELPER_CARD_NO>
+		<HELPER_CARD_NO>100088</HELPER_CARD_NO>
 		<MISSION_IMG>quest_n_01.png</MISSION_IMG>
 		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
 	</QUEST>
@@ -187,7 +187,7 @@
 		<TEXT>네녀석 요즘 나태한 것 아닌가?|이몸의 주인이 될 자격에 대해|다시 확인해 봐야 할 것 같군.|어서 다녀오도록 해.|이 정도는 할 수 있겠지?</TEXT>
 		<MISSION>FIGHT에서 1게임하기|(D랭크이상 획득)|</MISSION>
 		<REWARD>청색코인 1매|(코인은 LAB->코인샵에서 다른 카드로|교환할 수 있습니다.)</REWARD>
-		<HELPER_CARD_NO>100088</HELPER_CARD_NO>
+		<HELPER_CARD_NO>100049</HELPER_CARD_NO>
 		<MISSION_IMG>quest_n_02.png</MISSION_IMG>
 		<REWARD_IMG>quest_prize_card.png</REWARD_IMG>
 	</QUEST>

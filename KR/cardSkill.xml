@@ -3417,7 +3417,7 @@
 <CARD_SKILL><ID>2400</ID><NAME>할로윈의 천사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 카드 이름에"할로윈"이 들어가는 카드와 다크로어소속 카드 수만큼 방어 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2401</ID><NAME>나쁜음모</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 행동종료 상태인 카드가 있을 경우, 자신 무덤 "할로윈" 혹은 다크로어소속 랜덤한 카드 1을 제거한다. 그경우 자신 필드 카드 전체 행동 가능 상태가 된다. 이 특수능력은 턴 개시시 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2402</ID><NAME>정열의 댄스</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 "시니아"가 들어가는 랜덤한 카드 1의 사이즈는 절반(올림)이 된다. 감소한 수치만큼 방어 추종자의 공/체 감소. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2403</ID><NAME>정열의 무대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 사립 소속 카드 수만큼 방어 추종자의 체력 감소. 추가로"시니아"가 들어가는 카드 수만큼 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2403</ID><NAME>정열의 무대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 사립 소속 카드 수만큼 공격 추종자의 체력 감소. 추가로"시니아"가 들어가는 카드 수만큼 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2404</ID><NAME>그림자 죽이기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈를 본래 수치로 하여, 자신 덱 맨 밑으로 보낸다. 증감된 수치만큼 상대 라이프 감소. 자신 셔플 수 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2405</ID><NAME>인챈트 웨폰</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 -1. 공/체 +1. 상대 캐릭터가 NPC일 경우 이 카드의 강화수치의 절반(올림)+1만큼 상대 라이프 감소 후 이 카드의 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2406</ID><NAME>공멸</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드를 무덤으로 보낸다. 공격 추종자를 파괴한다.</span>]]></TEXT></CARD_SKILL>

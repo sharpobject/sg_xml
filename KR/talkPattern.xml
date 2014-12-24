@@ -447,11 +447,12 @@
 <TALK_PATTERN><ID>c100447</ID><JOIN>마…말투가 왜이러는거냥!?</JOIN><JOIN>부…부끄럽다냥…!</JOIN><FALL_APART>다…다시는 안 입을거에요!</FALL_APART><FALL_APART>정말 고약한 취미군요…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100448</ID><JOIN>귀여워요 코넌드럼 후후… 귀여워요.</JOIN><JOIN>혼자서도 먹을 수 있는걸요…</JOIN><FALL_APART>크리스님께 교육을 잘 받았네요.</FALL_APART><FALL_APART>사…살려주세요!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100449</ID><JOIN>동생들의 고통은 제가 다 짊어지겠어요.</JOIN><JOIN>설령 악마라고 불린다 할지라도…</JOIN><FALL_APART>그 누구에게도 양보할 수 없어요.</FALL_APART><FALL_APART>그 무엇을 희생한다 할지라도…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
-
-
-
-
-
+<TALK_PATTERN><ID>c100450</ID><JOIN>여긴 참 신기한 곳이야.</JOIN><JOIN>다들 신기한 옷을 입고 있어…</JOIN><FALL_APART>모두와 함께 돌아가야 해…</FALL_APART><FALL_APART>온통 신기한 친구들뿐이야.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100451</ID><JOIN>이곳의 '시계'는 제가 지배한답니다.</JOIN><JOIN>이 세계의 모든걸 지배하겠어요.</JOIN><FALL_APART>이 코트는 파는게 아니에요!</FALL_APART><FALL_APART>모자같은거 안팔아요!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100452</ID><JOIN>토끼는 이런 옷을 입지 않아요!</JOIN><JOIN>전 토끼가 아니라니까요!</JOIN><FALL_APART>느긋하게 차 마실 시간 없는데…</FALL_APART><FALL_APART>설마 평생 이 옷만 입게 되는건…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100453</ID><JOIN>네가 본건 고양이가 아니라네…</JOIN><JOIN>항상 웃을 수는 없으니까…</JOIN><FALL_APART>원래대로 돌아가면 웃을지도…</FALL_APART><FALL_APART>사실 웃는건… 잘 못한다네…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100454</ID><JOIN>선생님 들어갑니다!</JOIN><JOIN>선생님한테 인사!</JOIN><FALL_APART>하교 시간이에요!</FALL_APART><FALL_APART>똑바로 인사!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100455</ID><JOIN>저들의 고통을 해방시킬때입니다.</JOIN><JOIN>새하얗게 불태워 드리죠.</JOIN><FALL_APART>나의 희망은 어디에…</FALL_APART><FALL_APART>나의 죄… 나의 숙명… 나의 절망!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1007,4 +1008,5 @@
 <TALK_PATTERN><ID>f301242</ID><JOIN>올해도 정말 고생 많으셨어요.</JOIN><JOIN>내년에도 잘 부탁드릴게요.</JOIN><FALL_APART>마음에 들었을까요?</FALL_APART><FALL_APART>모두들 기뻐했으면 좋겠네요.</FALL_APART><ATTACK>이…이 선물들은 산타씨가 두고 간 거예요!</ATTACK><COUNTER>지금 건 못 본 걸로 해주시겠어요?</COUNTER><DIRECT>착한 어린이는 일찍 자야 한답니다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301243</ID><JOIN>지금부터 제설작전을 시작한다!</JOIN><JOIN>이제부터 시작이다!</JOIN><FALL_APART>좀처럼 그칠 생각을 않는군…</FALL_APART><FALL_APART>눈삽이랑 넉가래들 들고 집합!</FALL_APART><ATTACK>으으… 이 저주받을 악마의 X가루…</ATTACK><COUNTER>염화칼슘! 아직 멀었나?</COUNTER><DIRECT>어이 거기 너! 가서 핀테일 잡아 와!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301244</ID><JOIN>그 꼬맹이들한테까지 선물을 주라뇨?</JOIN><JOIN>아직 선물 돌릴 곳이 남았다뇨!?</JOIN><FALL_APART>내년엔 철 좀 들었으면…</FALL_APART><FALL_APART>전 이 선물 반대입니다.</FALL_APART><ATTACK>제발 어른들 말씀 좀 잘 들어주세요.</ATTACK><COUNTER>애들 깨기전에 서둘러야 해요!</COUNTER><DIRECT>자꾸 조르면 선물 안 줄거예요!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301245</ID><JOIN>저기 이 눈 먹어봐도 돼?</JOIN><JOIN>다음에는 좀 더 편한 옷으로…</JOIN><FALL_APART>역시 이런 옷은 불편해…</FALL_APART><FALL_APART>밤인데도 전혀 어둡지 않아…</FALL_APART><ATTACK>이상하게 포근한 기분이야…</ATTACK><COUNTER>하늘에서 내리는 선물이야.</COUNTER><DIRECT>아무런 맛도 안나…</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

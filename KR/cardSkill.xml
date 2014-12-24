@@ -3478,5 +3478,5 @@
 <CARD_SKILL><ID>2456</ID><NAME>깜짝선물</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 랜덤한 다크로어 카드 1을 자신 덱 맨위로 옮긴다. 그경우 자신 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2457</ID><NAME>새하얀 마음</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 "시타"가 들어가는 카드 수만큼 자신 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2458</ID><NAME>눈의 날개</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방어력 만큼 방어 추종자의 체력 감소. 자신 라이프가 상대 보다 적을 경우 추가로 방어 추종자의 방어력 =0.</span>]]></TEXT></CARD_SKILL>
-
+<CARD_SKILL><ID>2459</ID><NAME>온기의 전달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 라이프 -1. 자신 필드 “시타”가 들어가는 카드 수 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

@@ -1325,7 +1325,7 @@
 <CARD_SKILL><ID>200302</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 카드 사이즈의 합을 자신필드의 카드수로 나눈 값만큼(내림) 상대 필드 추종자 전체 체력 감소</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200303</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 덱에 있는 공립 소속 추종자는 위에서부터 5장까지 순서대로 공/체가 5,4,3,2,1씩 증가한다. 자신 캐릭터의 셔플 수 +1. 이 카드는 게임에서 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200304</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>상대필드에 스펠카드가 있을경우 랜덤한 상대필드 추종자 1의 방어 -4</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200305</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>이 카드의 사이즈가 3일 경우, 이 카드의 사이즈=1 행동종료 상태로 하여, 상대 필드 랜덤한 빈 슬롯으로 옮긴다. 이 카드의 사이즈가 1일 경우, 상대 필드 사이즈가 가장 높은 추종자 1을 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200305</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>이 카드의 사이즈가 2일 경우, 이 카드의 사이즈=1 행동종료 상태로 하여, 상대 필드 랜덤한 빈 슬롯으로 옮긴다. 이 카드의 사이즈가 1일 경우, 상대 필드 사이즈가 가장 높은 추종자 1을 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200306</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립소속이고 자신필드카드의 사이즈 합이 3 이상일 경우 전체필드 카드를 랜덤하게 각각 재배치한다. 재배치 되는 카드의 수는 이 카드의 발동시 각자 필드카드 수의 합을 넘지 않는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200307</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>카드이름에 "성역"이 들어가는 자신덱 맨 위의 카드 1을 자신덱 맨 위로 옮긴다. 그 경우 해당 카드의 사이즈 절반(내림)만큼 자신캐릭터의 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200308</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 스펠카드 수만큼 랜덤한 자신필드 추종자 2의 사이즈 감소. 감소치만큼 체력 증가.</span>]]></TEXT></CARD_SKILL>

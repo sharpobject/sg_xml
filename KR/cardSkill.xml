@@ -2179,8 +2179,8 @@
 <CARD_SKILL><ID>1157</ID><NAME>물귀신</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 추종자를 무덤으로 보낸다. 그 경우 이 추종자의 사이즈 이상의 사이즈를 가진 랜덤한 상대필드 카드 1을 무덤으로 보낸다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1158</ID><NAME>사교회모임</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 카드이름에 "레이디"가 들어간 자신덱 맨 위의 추종자를 자신핸드 빈 첫번째 슬롯으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1159</ID><NAME>동료이용</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 카드이름에 "레이디"가 들어간 자신핸드 첫번째 카드를 자신덱 맨 밑으로 옮긴다. 그 경우 이 추종자의 공/체 +1/+2</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1160</ID><NAME>충격!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈+1. 사이즈 절반(올림)만큼 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1161</ID><NAME>충격!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: ▶방어전: 이 카드 사이즈 절반(올림)만큼 자신 라이프 증가. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1160</ID><NAME>충격!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈+1.사이즈 절반(올림)만큼 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1161</ID><NAME>충격!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드 사이즈 절반(올림)만큼 자신 라이프 증가.이 특수능력은"턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1162</ID><NAME>청십자의 환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신핸드 카드가2 이하일경우 이 추종자의 공격력 -4. 4 이상일 경우 이 특수능력은 사라진다.  </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1163</ID><NAME>연구회소환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 카드이름에 "신성연구회"가 들어간 자신덱 맨 위의 추종자를 자신핸드 빈 첫번째 슬롯으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1164</ID><NAME>전우이용</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 카드이름에 "신성연구회"가 들어간 자신핸드 첫번째 카드를 자신덱 맨 밑으로 옮긴다. 그 경우 이 추종자의 공/체 +1/+2</span>]]></TEXT></CARD_SKILL>

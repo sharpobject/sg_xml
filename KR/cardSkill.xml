@@ -2508,7 +2508,7 @@
 <CARD_SKILL><ID>1486</ID><NAME>치명적매력</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 체력 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1487</ID><NAME>입고</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "도서부"가 들어간 자신필드 랜덤한 추종자 2의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1488</ID><NAME>강타!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신필드에 이 카드 이외에 추종자가 있을경우 상대캐릭터 라이프 -3. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1489</ID><NAME>혼란</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 카드 전체의 본래 사이즈에서 증가된 사이즈의 절반(올림)만큼 자신 라이프 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1489</ID><NAME>혼란</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대핸드 랜덤한 카드 1을 상대 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1490</ID><NAME>드레스 장착</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신필드 사립소속 추종자 전체 방어력 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1491</ID><NAME>HP드레인</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 체력이 본래수치보다 증가한 공격추종자의 체력을 본래대로 한다. 그 경우 변화된 수치만큼 이 카드의 체력 증가. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1492</ID><NAME>결과 보고</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방/체 합이 공격추종자의 공격력 이하일경우 자신핸드 첫번째 추종자의 공/체 +3.</span>]]></TEXT></CARD_SKILL>
@@ -3479,6 +3479,7 @@
 <CARD_SKILL><ID>2457</ID><NAME>새하얀 마음</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 "시타"가 들어가는 카드 수만큼 자신 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2458</ID><NAME>눈의 날개</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방어력 만큼 방어 추종자의 체력 감소. 자신 라이프가 상대 보다 적을 경우 추가로 방어 추종자의 방어력 =0.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2459</ID><NAME>온기의 전달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 라이프 -1. 자신 필드 “시타”가 들어가는 카드 수 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2460</ID><NAME>월야의무희!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 랜덤한 추종자2의 사이즈는 본래 사이즈가 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2461</ID><NAME>최선의 공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈 +1 이 카드의 공격력은 이 카드의 체력 +2가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2460</ID><NAME>제자리</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 랜덤한 추종자2의 사이즈는 본래 사이즈가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2461</ID><NAME>성장</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈 +1 이 카드의 공격력은 이 카드의 체력 +2가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2462</ID><NAME>애프터 서비스</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 카드 전체의 본래 사이즈에서 증가된 사이즈의 절반(올림)만큼 자신 라이프 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

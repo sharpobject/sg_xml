@@ -2484,7 +2484,7 @@
 <CARD_SKILL><ID>1458</ID><NAME>지식의 전달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨 위 추종자의 공/방/체 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1459</ID><NAME>동물적인 회복력</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 체력은 2배가 된다. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1460</ID><NAME>쉬는 시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 첫번째 특수능력은 "방어전: 이 카드의 체력 -2. 자신필드에 이 카드이외에 추종자가 있을경우 이 특수능력은 "이 카드를 제외한 랜덤한 추종자에게 이전된다."가 된다. </span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1461</ID><NAME>감상하기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 방어 추종자의 사이즈 +2. 자신 라이프 +2. 상대 라이프 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1461</ID><NAME>감상하기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 방어 추종자의 사이즈 +2. 자신 캐릭터가 사립소속일 경우 추가로 자신 라이프 +3. 상대 라이프 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1462</ID><NAME>몸이 커졌다!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력이 방어추종자의 방/체 합 이상일경우 이 카드의 사이즈 +1. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1463</ID><NAME>살이 찐건가!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈 절반(내림)만큼 이 카드의 공/체증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1464</ID><NAME>비밀공유</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신필드 랜덤한 추종자 1의 사이즈 -1. 해당카드의 사이즈만큼 이 카드의 공/체증가.(최대 2)</span>]]></TEXT></CARD_SKILL>

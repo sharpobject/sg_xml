@@ -1014,4 +1014,5 @@
 <TALK_PATTERN><ID>f301248</ID><JOIN>우왓 비켜~! 비켜~! 급하단 말야!</JOIN><JOIN>아직도 배달해야할 우편물이…</JOIN><FALL_APART>자…자전거만으로는 무리야…</FALL_APART><FALL_APART>공휴일은 좀 봐주라…</FALL_APART><ATTACK>사랑은 연필로 쓰세요~</ATTACK><COUNTER>잉크로 쓰면 번진거든요!</COUNTER><DIRECT>이 편지는 영국에서 시작된… 전통의…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301249</ID><JOIN>오늘은 어떻게 귀여워 해줄까나~?</JOIN><JOIN>더…더는 무리에요…</JOIN><FALL_APART>하핫~ 오늘은 여기까지 할까나?</FALL_APART><FALL_APART>하읏… 지금은 참아야만…</FALL_APART><ATTACK>건방지구나. 벌이 필요하겠어.</ATTACK><COUNTER>교육의 성과를 보여주려무나?</COUNTER><DIRECT>옳지…옳지… 그래야 착한 아이지.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301250</ID><JOIN>무엇을 어찌 입든 무슨 상관이지?</JOIN><JOIN>뭐지? 아직 볼일이 남은건가?</JOIN><FALL_APART>좋아 허가한다. 합격이다.</FALL_APART><FALL_APART>자아 그럼 한 번 시험해볼까?</FALL_APART><ATTACK>어디 한 번 시험해볼까? 집중하거라.</ATTACK><COUNTER>조금이라도 정신을 놓았다간 재가 될것이다.</COUNTER><DIRECT>집중하거라. 아직 시험은 끝나지 않았다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301251</ID><JOIN>늦잠 자느라 늦었어요오…</JOIN><JOIN>음냐… 음냐…</JOIN><FALL_APART>그럼 안녕히 주무세요오~</FALL_APART><FALL_APART>올해에는 느긋하게~</FALL_APART><ATTACK>싸우는건 좋지 않아요오…</ATTACK><COUNTER>쉿! 이 아이가 깰지도 몰라요오…</COUNTER><DIRECT>모두 다 잘 될거에요오…</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

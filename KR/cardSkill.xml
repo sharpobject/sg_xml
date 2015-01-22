@@ -2335,8 +2335,8 @@
 <CARD_SKILL><ID>1309</ID><NAME>빛나는 별!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 방/체 합이 이 카드의 공격력 이하일 경우 상대 캐릭터 라이프 -1. 초과일경우 이 카드의 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1310</ID><NAME>내 짐을 받아줘!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력은 자신과 상대필드 카드중 가장 높은 체력수치 +1과 같아진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1311</ID><NAME>걸리적 거려!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대필드 첫번째 스펠을,없을경우 상대핸드 첫번째 스펠 1을 상대 덱 밑으로 보낸다. 보낸 카드 사이즈 만큼 이 카드의 체력증가.이 특수능력은“턴개시시: 본래 특수능력이 된다.”가 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1312</ID><NAME>용의 포효</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 방/체 -1. 사이즈 +1. 이 카드의 사이즈 +2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1313</ID><NAME>용의 기운</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 공/방 -1. 사이즈 +1. 이 카드의 사이즈 +2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1312</ID><NAME>용의 포효</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 방/체 -1.사이즈 +1.이 카드의 사이즈 +2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1313</ID><NAME>용의 기운</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 공/방 -1.사이즈 +1.이 카드의 사이즈 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1314</ID><NAME>함께 해요</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력은 방어추종자의 공격력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1315</ID><NAME>소원의 동전</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신무덤에 "럭키코인"카드를 5장 생성한 후 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1316</ID><NAME>오늘의 행운</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신무덤의 "럭키코인" 1장을 게임에서 제거한다. 그 경우 자신필드 빈 첫번째 슬롯으로 이 카드를 행동종료상태로 이동시킨다.</span>]]></TEXT></CARD_SKILL>
@@ -2408,8 +2408,8 @@
 <CARD_SKILL><ID>1382</ID><NAME>저주</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신무덤 맨 위의 카드가 다크로어소속일경우 해당 카드를 게임에서 제거한다. 그 경우 공격추종자의 공격력은 제거된 카드의 사이즈 절반(올림)만큼 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1383</ID><NAME>흡혈귀 헌팅</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신무덤 맨 위에 "크레센트 나이팀버"를 1장 생성한다. 자신무덤의 추종자 수가 10이상일 경우 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1384</ID><NAME>전장의 지배자</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신캐릭터가 다크로어소속일경우 자신무덤 맨 아래 카드1제거. 이 카드의 공/체는 전체무덤의 카드 수의 절반(올림)과 같아진다. 이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1385</ID><NAME>성수의 힘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/체 +1. 사이즈 -1. 상대 덱 랜덤한 추종자 1의 공/체 -1. 자신 덱 랜덤한 추종자의 공격력 +1을 5번 실행한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1386</ID><NAME>성수의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 체력 +2. 상대 덱 랜덤한 추종자 1의 공/체 -1. 자신 덱 랜덤한 추종자의 체력 +1을 5번 실행한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1385</ID><NAME>성수의 힘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/체 +1.사이즈 -1.상대 덱 랜덤한 추종자 1의 공/체 -1.자신 덱 랜덤한 추종자의 공격력 +1을 5번 실행한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1386</ID><NAME>성수의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 체력 +2.상대 덱 랜덤한 추종자 1의 공/체 -1.자신 덱 랜덤한 추종자의 체력 +1을 5번 실행한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1387</ID><NAME>1주년 축하 파워!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 방/체 합이 이 카드의 공격력 이하일경우 "감사합니다" 1장을 상대 덱 맨 위에 생성한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1388</ID><NAME>감정조절</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 사이즈가 본래 사이즈가 아닐경우 변화된 사이즈 수치만큼 이 카드의 공/체 증가. 이 카드의 사이즈는 본래 수치가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1389</ID><NAME>진리탐구</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 특수능력은 모두 사라진다. 그 경우 이 추종자의 공/체 +2</span>]]></TEXT></CARD_SKILL>
@@ -3497,8 +3497,8 @@
 <CARD_SKILL><ID>2471</ID><NAME>배달물 확인</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/체는 원래수치 +1이 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2472</ID><NAME>덧없는 꿈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈만큼 상대 라이프 증가.이 카드를 제거한다.그경우 상대 필드 랜덤한 카드 1을 파괴한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2473</ID><NAME>용의 분노</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈가 8이상일 경우, 이 카드와 자신 덱/핸드 랜덤한 추종자 1의 사이즈 =1. 이 카드의 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2474</ID><NAME>성수의 도움</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 필드 혹은 핸드 랜덤한 추종자 1의 공/체 -5.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2474</ID><NAME>성수의 도움</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대필드 혹은 핸드 랜덤한 추종자 1의 공/체 -5.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2475</ID><NAME>기면증</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 공/방/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2476</ID><NAME>청양의 각성</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 체력과 공격력을 교환한다.방어추종자의 사이즈만큼 이 카드의 공격력 감소.감소치의 2배만큼 체력 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2477</ID><NAME>스위트 드림</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력 -1.이 카드의 공격력이 10이상일 경우,공격력 -2.체력이 10이상일 경우,체력 -2.감소치만큼 이 카드의 사이즈와 방어추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2477</ID><NAME>스위트 드림</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력 +1.이 카드의 공격력이 10이상일 경우,공격력 -2.체력이 10이상일 경우,체력 -2.감소치만큼 이 카드의 사이즈와 방어추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

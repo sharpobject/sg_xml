@@ -1548,7 +1548,7 @@
 <CARD_SKILL><ID>200525</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>상대필드 3번째 슬롯의 카드는 상대 덱 맨 밑으로 이동한다. 상대 덱 맨 위에서 3번째 추종자를 상대필드 3번째 슬롯으로 옮긴다. 자신 캐릭터가 공립 소속일 경우 해당추종자의 사이즈 +3. 체력 -3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200526</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 사립추종자 수만큼 상대필드 랜덤한 추종자 2의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200527</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드/핸드 카드 중 사립소속이 아닌 랜덤한 카드 1은 무덤으로 간다. 그 경우 상대필드 랜덤한 추종자 1은 무덤으로 간다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200528</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신핸드 카드 수만큼 상대필드 추종자 전체 공격력 감소. 자신핸드 사립카드 수 만큼 자신필드 추종자 전체 방어력 증가. 자신핸드 사립카드 수+1 만큼 자신필드 추종자 전체 방어력 증가. 자신 필드 추종자 전체 자신 핸드 카드 수 +1 만큼 체력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200528</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신핸드 카드 수만큼 상대필드 추종자 전체 공격력 감소. 자신핸드 사립카드 수+1 만큼 자신필드 추종자 전체 방어력 증가. 자신 필드 추종자 전체 자신 핸드 카드 수 +1 만큼 체력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200529</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>상대필드 랜덤한 추종자 1의 방어력 -3. 해당추종자의 방어력이 0이상일경우 추가로 방어력 -2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200530</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 랜덤한 추종자 1을 행동종료상태로 한다. 그 경우 상대필드 랜덤한 추종자 1을 상대 덱 맨 위로 보낸다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200531</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드 첫번째 추종자를 사이즈 =1, 체력 =1하여 상대필드 마지막 슬롯에 배치한다. 해당카드의 감소된 체력만큼 상대필드 추종자 전체 체력 감소(최대 5). 감소된 사이즈만큼 자신캐릭터의 라이프 감소. 자신 캐릭터 카드가 크룩스 소속일 경우 최대값은 8이 된다.</span>]]></TEXT></CARD_SKILL>

@@ -30,7 +30,7 @@ new_ts = 0
 
 (username, password) = open("password.conf").read().split(" ")
 gc = gspread.login(username, password)
-sh = gc.open_by_key("0ArCz3yAJlMXkdEhzbjBySGl6Qkg4dWJLVHNKV0pmcHc")
+sh = gc.open_by_key("1ECdAfHs8Z-80gmt0Aj7dhHSuAyPndCS1LoEIsAGp3lo")
 ws1 = sh.get_worksheet(1)
 ws2 = sh.get_worksheet(2)
 new_ts = max(tf_from_timestamp(ws1.updated),

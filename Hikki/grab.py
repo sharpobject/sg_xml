@@ -84,8 +84,9 @@ if new_ts > old_ts:
     def skill_replace(id):
         return '"'+skill_text[id.group(1)[1:]]+'"'
 
-    for k,v in skill_text.iteritems():
-        skill_text[k] = re.sub(r"(\$\d\d\d\d)", skill_replace, skill_text[k])
+    for x in xrange(10):
+        for k,v in skill_text.iteritems():
+            skill_text[k] = re.sub(r"(\$\d\d\d\d)", skill_replace, skill_text[k])
 
     for k,v in name_to_ids.iteritems():
         name_to_ids[k] = sorted(list(v))

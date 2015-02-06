@@ -3516,7 +3516,7 @@
 <CARD_SKILL><ID>2478</ID><NAME>눈토끼의 소원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신필드 카드 사이즈의 합에 따라 다음 효과를 얻는다.5이상: 자신필드 랜덤한 공립소속 추종자 1의 사이즈 -1.공/체 +1. 5이하: 이 카드의 공/체 +1.방어 =2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2479</ID><NAME>고서해독</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 체력은 본래 수치가 된다. 변경된 수치의 절반(올림)만큼 해당 추종자의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2480</ID><NAME>고서의 지혜</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 방어력이 0이하일 경우, 해당 추종자의 방어력= 0. 증가치 +1만큼 해당 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2481</ID><NAME>배불러…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 공립소속이고,이 카드의 방/체합이 공격 추종자의 공격력보다 낮을 경우,이 카드의 방/체 +1.방어 추종자를 파괴한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2481</ID><NAME>배불러…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 공립소속이고,이 카드의 방/체합이 공격 추종자의 공격력보다 낮을 경우,이 카드의 방/체 +1.공격 추종자를 파괴한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2482</ID><NAME>디저트 감상</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 특수능력 수만큼 이 카드의 공/체 증가.방어 추종자의 마지막 특수능력을 이 추종자에게 더한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2483</ID><NAME>청양의 인사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 방어력만큼 이 카드의 공격력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2484</ID><NAME>단결의 방패</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 공격력이 자신 덱 "리누스"가 들어가는 추종자 수 이하일 경우, 이 카드를 행동가능 상태로 하여, 자신 필드 랜덤한 빈 슬롯으로 이동한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
@@ -3535,7 +3535,7 @@
 <CARD_SKILL><ID>2497</ID><NAME>악몽의 확산</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 전체 필드 행동종료 상태인 카드 수 만큼 이 카드의 공/체 증가.(최대 3) </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2498</ID><NAME>결투준비</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드는 행동종료 상태가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2499</ID><NAME>속사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자를 상대 덱 맨 위로 보낸다.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2500</ID><NAME>신속한 장전</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 다크로어 소속일 경우,방어 추종자의 체력은 이 카드의 사이즈만큼 감소.이 카드는 행동가능 상태가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2500</ID><NAME>신속한 장전</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 다크로어 소속일 경우,공격 추종자의 체력은 이 카드의 사이즈만큼 감소.이 카드는 행동가능 상태가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2501</ID><NAME>클리어쉴드</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 방어력 =0.이 된다. 변화치의 절반(내림)만큼 체력 증가. 이 특수능력은 사라진다</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2502</ID><NAME>다이어트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈는 절반(올림)이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2503</ID><NAME>귀소본능</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:이 카드는 본래 특수능력으로 상대 필드 마지막 빈 슬롯으로 이동한다. </span>]]></TEXT></CARD_SKILL>

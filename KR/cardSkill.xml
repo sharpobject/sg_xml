@@ -3546,9 +3546,9 @@
 <CARD_SKILL><ID>2506</ID><NAME>신년다짐</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신덱 아래 2장의 카드중 "도서”가 들어간 카드 수 만큼 이 카드의 공/체 증가 사이즈 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2507</ID><NAME>암리타의 추천</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 “도서”가 들어가는 카드 수-1 만큼 공격 추종자의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2508</ID><NAME>궁녀가 되는 방법</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 "메이드"가 들어가는 랜덤한 추종자 1의 체력 -2. 해당 추종자의 마지막 특수능력을 자신 필드 랜덤한 추종자 1에게 복사한다.</span>]]></TEXT></CARD_SKILL>
-
-
-
-
-
+<CARD_SKILL><ID>2509</ID><NAME>메이드가 되는 방법</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 "메이드"가 들어가는 랜덤한 추종자 1의 체력 -1. 해당 추종자의 사이즈 만큼 이 카드의 체력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2510</ID><NAME>신년약주</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 덱 맨 위 스펠 1을 상대 덱 맨 밑으로 옮긴다. 이 카드를 제외한 자신 필드 랜덤한 추종자 1의 공/체 +2. 해당 카드 이름에 "기사단"이 들어갈 경우, 이 카드의 공/체 +2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2511</ID><NAME>신년약속</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 덱 맨 밑 추종자를 상대 덱 맨 위로 옮긴다. 해당 카드의 사이즈만큼, 공격 추종자의 공격력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2512</ID><NAME>달님에게 닿기를…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 무덤 랜덤한 카드 1을 제거한다.그 경우 자신 무덤”시온 플리나””리온 플리나”를 각각 1장씩 생성한다. 방어 추종자의 방어력 =0.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2513</ID><NAME>널뛰기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 “시온”과”리온”이 들어가는 카드를 1장씩 제거한다. 그경우 자신 필드/핸드 다크로어 소속 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

@@ -460,10 +460,10 @@
 <CARD_SKILL><ID>100457</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 카드가 사립 소속일 경우 추가로 방/체 +1.턴 수가 2의 배수이고 자신 필드 추종자가 없을 경우,상대필드 랜덤한 추종자 1의 특수능력은 사라진다.턴 수가 3의 배수일 경우, 상대 무덤 랜덤한 카드 1을 제거한다.그경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100458</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 카드가 크룩스 소속일 경우 추가로 방/체 +1.턴 수가 2의 배수이고 자신 필드 추종자가 없을 경우,상대필드 랜덤한 추종자 1의 특수능력은 사라진다.턴 수가 3의 배수일 경우,상대 무덤 랜덤한 카드 1을 제거한다.그경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100459</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 카드가 다크로어 소속일 경우 추가로 방/체 +1.턴 수가 2의 배수이고 자신 필드 추종자가 없을 경우,상대필드 랜덤한 추종자 1의 특수능력은 사라진다.턴 수가 3의 배수일 경우,상대 무덤 랜덤한 카드 1을 제거한다.그경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-
-
-
-
+<CARD_SKILL><ID>100460</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 5이하일 경우 턴 수 만큼 이 캐릭터의 라이프 감소. 상대캐릭터의 라이프 10의 자리 수 만큼 상대 캐릭터 라이프 감소. 감소치의 절반(내림)만큼 이 캐릭터의 라이프 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100461</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨 위 추종자 1의 공/체 +2.해당 카드가 사립소속일 경우,자신 필드 랜덤한 추종자 1의 공/방/체 +1.현재 턴 수가 홀수일 경우, 자신 덱 랜덤한 카드 1 사이즈 -1.짝수일경우, 자신 필드 방어전 특수능력이 없는, 사립소속 추종자를 자신 덱 맨 위로 옮긴다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100462</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨 위 추종자 1의 공/체 +2.해당 카드가 사립소속일 경우,자신 필드 랜덤한 추종자 1의 공/방/체 +1.현재 턴 수가 홀수일 경우, 자신 덱 랜덤한 카드 1 사이즈 -1.짝수일경우, 자신 필드 방어전 특수능력이 없는, 사립소속 추종자를 자신 덱 맨 위로 옮긴다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100463</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨 위 추종자 1의 공/체 +2.해당 카드가 사립소속일 경우,자신 필드 랜덤한 추종자 1의 공/방/체 +1.현재 턴 수가 홀수일 경우, 자신 덱 랜덤한 카드 1 사이즈 -1.짝수일경우, 자신 필드 방어전 특수능력이 없는, 사립소속 추종자를 자신 덱 맨 위로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>

@@ -196,5 +196,15 @@
 <CASH_ITEM> <ID>Item240</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>헬레나</NAME> <ICON_FILE>item_240.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>헬레나의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item241</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>카넬</NAME> <ICON_FILE>item_241.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>카넬의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item242</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>제2황녀 하노벨</NAME> <ICON_FILE>item_242.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>제2황녀 하노벨의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item245</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>비타의 수호자 갓트</NAME> <ICON_FILE>item_245.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>비타의 수호자 갓트의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item246</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>로일의 수호자 놀드</NAME> <ICON_FILE>item_246.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>로일의 수호자 놀드의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item247</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>독선의 시그마</NAME> <ICON_FILE>item_247.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>독선의 시그마의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item248</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>앤즈 이니엠</NAME> <ICON_FILE>item_248.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>앤즈 이니엠의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item249</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>롯테와 세리에</NAME> <ICON_FILE>item_249.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>롯테와 세리에의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item250</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>치프와 몹메이드</NAME> <ICON_FILE>item_250.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>치프와 몹메이드의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item251</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>핀테일과 프렛</NAME> <ICON_FILE>item_251.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>핀테일과 프렛의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item252</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>코넌드럼과 크리스</NAME> <ICON_FILE>item_252.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>코넌드럼과 크리스의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item253</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>소녀들의 화합</NAME> <ICON_FILE>item_253.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>소녀들의 화합의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item254</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>자매</NAME> <ICON_FILE>item_254.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>자매의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

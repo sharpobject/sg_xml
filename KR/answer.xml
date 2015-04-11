@@ -1,163 +1,49 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <ANSWER_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<ANSWER>
-		<INDEX>1</INDEX>
-		<TEXT>시타 빌로사</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>2</INDEX>
-		<TEXT>시니아 퍼시피카</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>3</INDEX>
-		<TEXT>루티카 프리벤터</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>4</INDEX>
-		<TEXT>아이리 플리나</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>5</INDEX>
-		<TEXT>신제품개발실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>6</INDEX>
-		<TEXT>원료가공실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>7</INDEX>
-		<TEXT>재료분류실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>8</INDEX>
-		<TEXT>제품포장실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>9</INDEX>
-		<TEXT>원료가공실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>10</INDEX>
-		<TEXT>재료분류실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>11</INDEX>
-		<TEXT>제품포장실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>12</INDEX>
-		<TEXT>베르니카를 따라간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>13</INDEX>
-		<TEXT>신제품개발실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>14</INDEX>
-		<TEXT>재료분류실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>15</INDEX>
-		<TEXT>제품포장실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>16</INDEX>
-		<TEXT>로제를 따라간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>17</INDEX>
-		<TEXT>신제품개발실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>18</INDEX>
-		<TEXT>원료가공실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>19</INDEX>
-		<TEXT>제품포장실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>20</INDEX>
-		<TEXT>클라리스를 구하러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>21</INDEX>
-		<TEXT>신제품개발실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>22</INDEX>
-		<TEXT>원료가공실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>23</INDEX>
-		<TEXT>재료분류실</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>24</INDEX>
-		<TEXT>시온.리온 자매를 구하러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>25</INDEX>
-		<TEXT>사장실을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>26</INDEX>
-		<TEXT>다른 구역을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>27</INDEX>
-		<TEXT>가던 방향으로 계속 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>28</INDEX>
-		<TEXT>시타를 구하러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>29</INDEX>
-		<TEXT>사장실을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>30</INDEX>
-		<TEXT>다른 구역을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>31</INDEX>
-		<TEXT>가던 방향으로 계속 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>32</INDEX>
-		<TEXT>시니아를 따라간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>33</INDEX>
-		<TEXT>사장실을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>34</INDEX>
-		<TEXT>다른 구역을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>35</INDEX>
-		<TEXT>가던 방향으로 계속 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>36</INDEX>
-		<TEXT>루티카를 찾으러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>37</INDEX>
-		<TEXT>사장실을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>38</INDEX>
-		<TEXT>다른 구역을 보러 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>39</INDEX>
-		<TEXT>가던 방향으로 계속 간다</TEXT>
-	</ANSWER>
-	<ANSWER>
-		<INDEX>40</INDEX>
-		<TEXT>아이리를 따라간다</TEXT>
-	</ANSWER>
+
+<ANSWER><INDEX>1</INDEX><TEXT>시타 빌로사</TEXT></ANSWER>
+<ANSWER><INDEX>2</INDEX><TEXT>시니아 퍼시피카</TEXT></ANSWER>
+<ANSWER><INDEX>3</INDEX><TEXT>루티카 프리벤터</TEXT></ANSWER>
+<ANSWER><INDEX>4</INDEX><TEXT>아이리 플리나</TEXT></ANSWER>
+<ANSWER><INDEX>5</INDEX><TEXT>신제품개발실</TEXT></ANSWER>
+<ANSWER><INDEX>6</INDEX><TEXT>원료가공실</TEXT></ANSWER>
+<ANSWER><INDEX>7</INDEX><TEXT>재료분류실</TEXT></ANSWER>
+<ANSWER><INDEX>8</INDEX><TEXT>제품포장실</TEXT></ANSWER>
+<ANSWER><INDEX>9</INDEX><TEXT>원료가공실</TEXT></ANSWER>
+<ANSWER><INDEX>10</INDEX><TEXT>재료분류실</TEXT></ANSWER>
+<ANSWER><INDEX>11</INDEX><TEXT>제품포장실</TEXT></ANSWER>
+<ANSWER><INDEX>12</INDEX><TEXT>베르니카를 따라간다</TEXT></ANSWER>
+<ANSWER><INDEX>13</INDEX><TEXT>신제품개발실</TEXT></ANSWER>
+<ANSWER><INDEX>14</INDEX><TEXT>재료분류실</TEXT></ANSWER>
+<ANSWER><INDEX>15</INDEX><TEXT>제품포장실</TEXT></ANSWER>
+<ANSWER><INDEX>16</INDEX><TEXT>로제를 따라간다</TEXT></ANSWER>
+<ANSWER><INDEX>17</INDEX><TEXT>신제품개발실</TEXT></ANSWER>
+<ANSWER><INDEX>18</INDEX><TEXT>원료가공실</TEXT></ANSWER>
+<ANSWER><INDEX>19</INDEX><TEXT>제품포장실</TEXT></ANSWER>
+<ANSWER><INDEX>20</INDEX><TEXT>클라리스를 구하러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>21</INDEX><TEXT>신제품개발실</TEXT></ANSWER>
+<ANSWER><INDEX>22</INDEX><TEXT>원료가공실</TEXT></ANSWER>
+<ANSWER><INDEX>23</INDEX><TEXT>재료분류실</TEXT></ANSWER>
+<ANSWER><INDEX>24</INDEX><TEXT>시온.리온 자매를 구하러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>25</INDEX><TEXT>사장실을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>26</INDEX><TEXT>다른 구역을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>27</INDEX><TEXT>가던 방향으로 계속 간다</TEXT></ANSWER>
+<ANSWER><INDEX>28</INDEX><TEXT>시타를 구하러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>29</INDEX><TEXT>사장실을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>30</INDEX><TEXT>다른 구역을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>31</INDEX><TEXT>가던 방향으로 계속 간다</TEXT></ANSWER>
+<ANSWER><INDEX>32</INDEX><TEXT>시니아를 따라간다</TEXT></ANSWER>
+<ANSWER><INDEX>33</INDEX><TEXT>사장실을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>34</INDEX><TEXT>다른 구역을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>35</INDEX><TEXT>가던 방향으로 계속 간다</TEXT></ANSWER>
+<ANSWER><INDEX>36</INDEX><TEXT>루티카를 찾으러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>37</INDEX><TEXT>사장실을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>38</INDEX><TEXT>다른 구역을 보러 간다</TEXT></ANSWER>
+<ANSWER><INDEX>39</INDEX><TEXT>가던 방향으로 계속 간다</TEXT></ANSWER>
+<ANSWER><INDEX>40</INDEX><TEXT>아이리를 따라간다</TEXT></ANSWER>
+<ANSWER><INDEX>41</INDEX><TEXT>시타 빌로사</TEXT></ANSWER>
+<ANSWER><INDEX>42</INDEX><TEXT>시니아 퍼시피카</TEXT></ANSWER>
+<ANSWER><INDEX>43</INDEX><TEXT>루티카 프리벤터</TEXT></ANSWER>
+<ANSWER><INDEX>44</INDEX><TEXT>아이리 플리나</TEXT></ANSWER>
+
 </ANSWER_DATA>

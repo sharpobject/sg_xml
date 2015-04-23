@@ -3673,6 +3673,6 @@
 <CARD_SKILL><ID>2566</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 공립 추종자 1의 공/방/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2567</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 사립 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2568</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 크룩스 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2569</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 크룩스 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2569</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 다크로어 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2570</ID><NAME>재현</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 사이즈가 증가한 랜덤한 추종자 1의 사이즈는 본래 수치가 된다. 감소된 수치만큼 공격 추종자의 방/체 감소.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

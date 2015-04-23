@@ -219,7 +219,7 @@
 <CASH_ITEM> <ID>flip011</ID> <ITEM_TYPE>Flip</ITEM_TYPE> <NAME>리누스 코인 플립</NAME> <ICON_FILE>flip011.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>순서를 정하는 코인의 이미지가|리누스 엠블럼으로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>flip012</ID> <ITEM_TYPE>Flip</ITEM_TYPE> <NAME>로제 코인 플립</NAME> <ICON_FILE>flip012.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>순서를 정하는 코인의 이미지가|로제 엠블럼으로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>flip013</ID> <ITEM_TYPE>Flip</ITEM_TYPE> <NAME>헬레나 코인 플립</NAME> <ICON_FILE>flip013.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>순서를 정하는 코인의 이미지가|헬레나 엠블럼으로 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat001</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>랜덤 매트</NAME> <ICON_FILE>gamebg_mat_001</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 현재 보유하고 있는 매트중 랜덤으로 보여줍니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat001</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>랜덤 매트</NAME> <ICON_FILE>gamebg_mat_001</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 현재 보유하고 있는 매트중 |랜덤으로 선택합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat002</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>클래식 매트</NAME> <ICON_FILE>gamebg_mat_002</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 클래식 매트로 변경합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat003</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>EX 매트</NAME> <ICON_FILE>gamebg_mat_003</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 EX 매트로 변경합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat004</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>밤의 축제</NAME> <ICON_FILE>gamebg_mat_004</ICON_FILE> <PRICE>5000</PRICE> <TEXT>밤의 축제의 매트를 구매합니다.|게임배경을 밤의 축제로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>

@@ -469,6 +469,10 @@
 <TALK_PATTERN><ID>c100469</ID><JOIN>펭…</JOIN><JOIN>펭귄…</JOIN><FALL_APART>페엥…Zzz</FALL_APART><FALL_APART>Zzz…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100470</ID><JOIN>흠흠… 그럼 에또 이건 누구역이죠?</JOIN><JOIN>천성의 배우! 오필리어에요~!</JOIN><FALL_APART>역시 목소리만으로는 어렵네요…</FALL_APART><FALL_APART>역시 연기력이 중요하네요!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100471</ID><JOIN>아직 까지 안타고 뭐하는기고?</JOIN><JOIN>마 내릴역을 잘못 찾아왔다꼬?</JOIN><FALL_APART>장난하나? 가스나야!</FALL_APART><FALL_APART>내는 모른데이.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+
+
+
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1052,4 +1056,8 @@
 <TALK_PATTERN><ID>f301293</ID><JOIN>파~업~이~에~요!</JOIN><JOIN>지…진정하세요! </JOIN><FALL_APART>이런다고 들어줄 사람이 없어요!</FALL_APART><FALL_APART>이건 폭동 수준이라고요!</FALL_APART><ATTACK>법정 근로 시간을 준수하라!</ATTACK><COUNTER>더는 버틸 수가 없습니다!</COUNTER><DIRECT>이 바닥은 지옥입니다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301294</ID><JOIN>좋아 준비는 완벽해!</JOIN><JOIN>단 둘만의 도피의 시작이야!</JOIN><FALL_APART>루티카 구출 완료!</FALL_APART><FALL_APART>기다려 루티카! 내가 구해줄게!</FALL_APART><ATTACK>루티카 내가 왔어! </ATTACK><COUNTER>쉿! 들키면 큰일나니까…</COUNTER><DIRECT>이쪽이야 루티카! 어서 도망가자!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301295</ID><JOIN>리온에겐 비밀이에요!</JOIN><JOIN>리온이 알면 다 뺏어갈테니…</JOIN><FALL_APART>이걸 전부 어디다 숨기지.</FALL_APART><FALL_APART>사탕이 한가득이야! 행복해요!</FALL_APART><ATTACK>리온에겐 비밀이에요!</ATTACK><COUNTER>비밀을 안 이상 조용히 처리해야겠어요!</COUNTER><DIRECT>하…하나 정도는 드리죠. 대신 비밀이에요.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301296</ID><JOIN>벌써 아침이야…?</JOIN><JOIN>그럼 잘 자…</JOIN><FALL_APART>조금만 더 잘게…</FALL_APART><FALL_APART>배고파…</FALL_APART><ATTACK>5분만…</ATTACK><COUNTER>응…</COUNTER><DIRECT>응 일어날게… Zzz…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301297</ID><JOIN>엣… 여긴…?</JOIN><JOIN>참…이젠 일어나야 해요…</JOIN><FALL_APART>이러시면 곤란해요…</FALL_APART><FALL_APART>분명 우리 집은 맞는데…</FALL_APART><ATTACK>너…너무 가까워요…</ATTACK><COUNTER>그보다 어떻게 오신건가요!?</COUNTER><DIRECT>저기 어서 일어나세요! 차암…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301298</ID><JOIN>저… 이건 꿈일까요?</JOIN><JOIN>정말 신기한 꿈이네요.</JOIN><FALL_APART>꿈이라면 조금 더 있어도 되겠죠?</FALL_APART><FALL_APART>어떻게 된건지…기억이 안나요…</FALL_APART><ATTACK>당신과 함께라면…</ATTACK><COUNTER>에… 부끄럽지만… 그래도 기뻐요.</COUNTER><DIRECT>10분…아니 5분만 더 잘게요…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301299</ID><JOIN>장난이 지나치구나.</JOIN><JOIN>이젠 자네 맘대로 하게나.</JOIN><FALL_APART>조금 만 더 자도록 하지…</FALL_APART><FALL_APART>어서 풀어주게나.</FALL_APART><ATTACK>이런 유치한 놀이에 어울릴 생각 없다네.</ATTACK><COUNTER>시시하군…</COUNTER><DIRECT>자넨 지치지도 않는건가…?</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

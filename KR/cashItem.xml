@@ -219,17 +219,18 @@
 <CASH_ITEM> <ID>flip011</ID> <ITEM_TYPE>Flip</ITEM_TYPE> <NAME>리누스 코인 플립</NAME> <ICON_FILE>flip011.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>순서를 정하는 코인의 이미지가|리누스 엠블럼으로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>flip012</ID> <ITEM_TYPE>Flip</ITEM_TYPE> <NAME>로제 코인 플립</NAME> <ICON_FILE>flip012.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>순서를 정하는 코인의 이미지가|로제 엠블럼으로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>flip013</ID> <ITEM_TYPE>Flip</ITEM_TYPE> <NAME>헬레나 코인 플립</NAME> <ICON_FILE>flip013.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>순서를 정하는 코인의 이미지가|헬레나 엠블럼으로 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat001</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>001 매트</NAME> <ICON_FILE>gamebg_mat_001</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat002</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>002 매트</NAME> <ICON_FILE>gamebg_mat_002</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat003</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>003 매트</NAME> <ICON_FILE>gamebg_mat_003</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat004</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>004 매트</NAME> <ICON_FILE>gamebg_mat_004</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat005</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>005 매트</NAME> <ICON_FILE>gamebg_mat_005</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat006</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>006 매트</NAME> <ICON_FILE>gamebg_mat_006</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat007</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>007 매트</NAME> <ICON_FILE>gamebg_mat_007</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat008</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>008 매트</NAME> <ICON_FILE>gamebg_mat_008</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat009</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>009 매트</NAME> <ICON_FILE>gamebg_mat_009</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat010</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>010 매트</NAME> <ICON_FILE>gamebg_mat_010</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat011</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>011 매트</NAME> <ICON_FILE>gamebg_mat_011</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat012</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>012 매트</NAME> <ICON_FILE>gamebg_mat_012</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Mat013</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>013 매트</NAME> <ICON_FILE>gamebg_mat_013</ICON_FILE> <PRICE>4000</PRICE> <TEXT>게임 배경이 변경됩니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat001</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>랜덤 매트</NAME> <ICON_FILE>gamebg_mat_001</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 현재 보유하고 있는 매트중 랜덤으로 보여줍니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat002</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>클래식 매트</NAME> <ICON_FILE>gamebg_mat_002</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 클래식 매트로 변경합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat003</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>EX 매트</NAME> <ICON_FILE>gamebg_mat_003</ICON_FILE> <PRICE>0</PRICE> <TEXT>게임의 배경을 EX 매트로 변경합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat004</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>밤의 축제</NAME> <ICON_FILE>gamebg_mat_004</ICON_FILE> <PRICE>5000</PRICE> <TEXT>밤의 축제의 매트를 구매합니다.|게임배경을 밤의 축제로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat005</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>소녀들의 화합</NAME> <ICON_FILE>gamebg_mat_005</ICON_FILE> <PRICE>5000</PRICE> <TEXT>소녀들의 화합의 매트를 구매합니다.|게임배경을 소녀들의 화합로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat006</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>시타와 베르니카</NAME> <ICON_FILE>gamebg_mat_006</ICON_FILE> <PRICE>5000</PRICE> <TEXT>시타와 베르니카의 매트를 구매합니다.|게임배경을 시타와 베르니카로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat007</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>아스미스와 리누스</NAME> <ICON_FILE>gamebg_mat_007</ICON_FILE> <PRICE>5000</PRICE> <TEXT>아스미스와 리누스의 매트를 구매합니다.|게임배경을 아스미스와 리누스로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat008</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>결의</NAME> <ICON_FILE>gamebg_mat_008</ICON_FILE> <PRICE>5000</PRICE> <TEXT>결의의 매트를 구매합니다.|게임배경을 결의로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat009</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>증명의 순례</NAME> <ICON_FILE>gamebg_mat_009</ICON_FILE> <PRICE>5000</PRICE> <TEXT>증명의 순례의 매트를 구매합니다.|게임배경을 증명의 순례로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat010</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>코넌드럼</NAME> <ICON_FILE>gamebg_mat_010</ICON_FILE> <PRICE>5000</PRICE> <TEXT>코넌드럼의 매트를 구매합니다.|게임배경을 코넌드럼로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat011</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>아이리와 베르니카</NAME> <ICON_FILE>gamebg_mat_011</ICON_FILE> <PRICE>5000</PRICE> <TEXT>아이리와 베르니카의 매트를 구매합니다.|게임배경을 아이리와 베르니카로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat012</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>시니아</NAME> <ICON_FILE>gamebg_mat_012</ICON_FILE> <PRICE>5000</PRICE> <TEXT>시니아의 매트를 구매합니다.|게임배경을 시니아로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat013</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>카넬과 후우</NAME> <ICON_FILE>gamebg_mat_013</ICON_FILE> <PRICE>5000</PRICE> <TEXT>카넬과 후우의 매트를 구매합니다.|게임배경을 카넬과 후우로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+
 </CASH_ITEM_DATA>

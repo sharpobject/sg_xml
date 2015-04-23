@@ -472,6 +472,10 @@
 <CARD_SKILL><ID>100469</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 교장선생님과 함께 잠이 든다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100470</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 본래 사이즈가 2이하인 추종자 전체의 공/체 +1/+2. 해당 카드의 사이즈가 본래 사이즈가 아닐경우 추가로 공/방/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100471</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 덱 맨위 추종자 1의 방어력 =0. 해당 카드의 소속에 따라 다음 효과를 적용한다.●공립:해당 추종자의 체력 -2.●사립: 해당 추종자의 사이즈 +1. ●크룩스: 자신 덱 맨위 추종자 1의 공/체 +1/+2.●다크로어: 상대 라이프 -1.●그외: 해당 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100472</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 공립 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2. 현재 턴 수가 홀수일 경우,자신 무덤 공립 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100473</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 사립 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 사립 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100474</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 크룩스 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 크룩스 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100475</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 다크로어 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 다크로어 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -2094,6 +2098,10 @@
 <CARD_SKILL><ID>201036</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스소속일 경우, 사이즈가 가장 큰 상대 필드 추종자 1의 사이즈 만큼 자신 라이프 증가.(최대 5) 증가치의 절반(올림)만큼 상대 덱 맨위 스펠 카드를 상대 덱 맨 밑으로 옮긴다. 절반(내림)만큼 자신 덱 랜덤한 추종자의 공/체 증가. 상대 핸드 카드 전체 상대 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201037</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 무덤 랜덤한 추종자 1을 자신 필드 마지막 슬롯에 복사한다. 해당 카드의 소속이 다크로어 소속일 경우 추가로 자신 덱 랜덤한 스펠 1을 자신 핸드 마지막 빈 슬롯에 복사한다. 해당 카드가 다크로어 소속일 경우, 자신 필드 랜덤한 추종자 1의 공/체는 자신 핸드 카드 수만큼 증가한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201038</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>전체 필드 카드 수만큼 상대 필드 추종자 전체 공/체 감소. 전체 필드 소속 수만큼 상대 무덤 카드를 제거한다. 제거한 수가 4이하일 경우, 상대 필드 랜덤한 스펠 1을 제거한다. 4이상일 경우, 자신 라이프 +3. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201039</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 공립 소속일 경우,자신 필드/핸드 카드 전체 해당 슬롯의 절반(올림)만큼 사이즈 감소.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(올림)만큼 상대 필드 추종자 전체 체력 감소.현재 턴수가 짝수일 경우,자신 필드 추종자 전체 체력 증가.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201040</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우,상대 필드/핸드 카드 전체 해당 슬롯의 절반(올림)만큼 사이즈 증가.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(올림)만큼 자신 필드 추종자 전체 체력 증가.현재 턴수가 짝수일 경우,상대 필드 추종자 전체 체력 감소.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201041</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우,자신 필드/핸드 추종자 전체 해당 슬롯 번호만큼 공/체 증가.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(내림)만큼 상대 필드 추종자 전체 공격력 감소.현재 턴수가 짝수일 경우,자신 필드 추종자 전체 공격력 증가.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201042</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우,상대 필드/핸드 추종자 전체 해당 슬롯 번호만큼 공/체 감소.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(내림)만큼 자신 필드 추종자 전체 공격력 증가.현재 턴수가 짝수일 경우,상대 필드 추종자 전체 공격력 감소.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -3662,4 +3670,9 @@
 <CARD_SKILL><ID>2563</ID><NAME>탈옥성공</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방/체 합이 공격 추종자의 공격력 이하일 경우,공격 추종자의 방어력 =0.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2564</ID><NAME>사탕 숨기기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드를 무덤으로 보낸다. 그 경우 자신 핸드/덱/무덤에 있는 “드레스업 시온리온” 1의 사이즈를 절반(내림)하여 자신필드 마지막 빈 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2565</ID><NAME>캔디홀릭</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 “시온”이 들어가는 카드 수 만큼 방어 추종자의 방어력 감소. “리온”이 들어가는 카드 수만큼 이 카드의 공격력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2566</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 공립 추종자 1의 공/방/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2567</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 사립 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2568</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 크룩스 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2569</ID><NAME>몽환</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 공격추종자의 증가된 공/방/체 수치를 절반(내림)만큼 감소 시킨 후, 감소된 수치만큼 이 카드와 자신 덱 랜덤한 크룩스 추종자 1의 공/체 증가. 그 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2570</ID><NAME>재현</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 사이즈가 증가한 랜덤한 추종자 1의 사이즈는 본래 수치가 된다. 감소된 수치만큼 공격 추종자의 방/체 감소.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

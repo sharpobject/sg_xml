@@ -17,6 +17,14 @@
 	</CATEGORY>
 
 	<CATEGORY>
+		<ACTIVE_SCENE>9</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>매트</NAME>
+		<ICON_FILE>library_mat.png</ICON_FILE>
+		<TITLE_FILE>library_mat_title.png</TITLE_FILE>
+	</CATEGORY>
+	
+	<CATEGORY>
 		<ACTIVE_SCENE>13</ACTIVE_SCENE>
 		<ID>1</ID>
 		<NAME>부스터</NAME>

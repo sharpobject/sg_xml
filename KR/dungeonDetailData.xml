@@ -3478,7 +3478,7 @@
 </DUNGEON_DETAIL>
 
 <DUNGEON_DETAIL>
-<ID>76</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>4</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : ???|특징 : 던전 오픈 시간 동안, 몇 번이든 도전하실 수 있습니다.</TOOL_TIP_TEXT>
+<ID>76</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>7</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : ???|특징 : 던전 오픈 시간 동안, 몇 번이든 도전하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>

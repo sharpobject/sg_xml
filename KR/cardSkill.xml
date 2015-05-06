@@ -476,6 +476,7 @@
 <CARD_SKILL><ID>100473</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 사립 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 사립 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100474</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 크룩스 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 크룩스 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100475</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 다크로어 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 다크로어 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
+
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -999,6 +1000,23 @@
 <CARD_SKILL><ID>110521</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤 카드 전체 자신 덱 맨 밑으로 옮긴다. 자신과 상대 덱을 랜덤하게 섞는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110522</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 전체 필드 주종자 전체의 방어력은 두배만큼 감소한다. 자신 필드 추종자 전체 "방어전: 이 카드의 방어력은 본래 방어력이 된다." 효과를 추가한다. 자신 무덤 랜덤한 추종자 1을 자신 덱 맨밑으로 옮긴다. 턴 수가 4의 배수일 경우 상대 라이프 -4.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110523</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 랜덤한 추종자 2을 자신 무덤에 복사한다. "블루문"이 들어가는 전체 필드 카드 수만큼 자신 필드 추종자 전체 체력 증가. "레드문"이 들어가는 전체 필드 카드 수만큼 자신 필드 추종자 전체 공격력 증가.</span>]]></TEXT></CARD_SKILL>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <CARD_SKILL><ID>120001</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 모든 추종자의 사이즈 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 사이즈 3 이하 자신필드 추종자 전체 공/체 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 카드 1을 행동종료상태로 한다.</span>]]></TEXT></CARD_SKILL>
@@ -1075,6 +1093,11 @@
 <CARD_SKILL><ID>120074</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤 카드 전체 자신 덱 맨 밑으로 옮긴다. 자신 덱 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120075</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 3사이즈 이상의 추종자 전체 자신 사이즈 만큼 공/체 감소. 상대 무덤 3사이즈 이하의 랜덤한 추종자1의 사이즈=1 로 하여 자신 필드 마지막 빈 슬롯에 배치한다. 자신 무덤 카드 전체 자신 덱 맨밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120076</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 미궁의 출구를 찾고 있나? 헛된일이다.(상대 필드 랜덤한 추종자 2의 공/방/체는 서로의 공/방/체 중 낮은쪽의 공/방/체가 된다. 상대 필드 추종자가 1장뿐일 경우, 해당 추종자를 파괴한다. 상대 셔플로 핸드에 들어온 추종자는 행동종료 상태가 된다.)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120077</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 라이프 -3. 상대 무덤과 상대 덱 랜덤한 카드 1을 제거한다. 상대 필드 랜덤한 추종자 1의 방어력 =0. 해당 추종자의 방어력이 0일 경우, 해당 추종자의 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120078</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120079</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120080</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120081</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 상대필드 추종자 1 체력 4감소. 자신의 캐릭터가 "시타"일 경우 추가로 랜덤한 상대필드 추종자 1의 체력 2감소. 자신 필드카드 수가 상대 필드 카드수 이하일 경우 각각 적용수치가 1씩 증가한다.
 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 자신필드 공립 소속 추종자 2 공/체 +2</span>]]></TEXT></CARD_SKILL>

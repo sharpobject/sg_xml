@@ -3477,6 +3477,18 @@
 
 </DUNGEON_DETAIL>
 
+<DUNGEON_DETAIL>
+<ID>76</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>4</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : ???|특징 : 던전 오픈 시간 동안, 몇 번이든 도전하실 수 있습니다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_076.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_076.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_076.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio3.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>희미하지만 빛이 보여요! 출구인 것 같아요. 잠깐… 사람…? 누군가가 있는것 같아요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
 
 <DUNGEON_DETAIL>
 <ID>27</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>4</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 흑사자의 발톱, 금빛/은빛/구리빛 탈렌티움|특징 : 오픈시간동안 얼마든지 재도전이 가능합니다.(오픈:매주 금요일 22시~23시 59분) (카드포인트 1000이상 도전가능)</TOOL_TIP_TEXT>
@@ -3507,7 +3519,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>75</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>3</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep25.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 종이공예품,백합,수혈팩, 칭찬도장 |특징 : 시즌 1 검과 소녀의 이야기 2부입니다.</TOOL_TIP_TEXT>
+<ID>75</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>3</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep25.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 백색광석,백합,수혈팩, 칭찬도장, 나선의 파편 |특징 : 시즌 1 검과 소녀의 이야기 2부입니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3520,11 +3532,11 @@
 <FLOOR>
 <FLOOR_ID>1</FLOOR_ID>
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>blank.png</DUNGEON_TITLE_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_075.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075_q.png</DUNGEON_BG_IMG>
 <QUESTIONER_NAME>오필리어</QUESTIONER_NAME>
 <QUESTION>충분히 쉬셨나요?| 지금부터는 등장인물별로 이야기해드릴게요.|누구의 이야기를 들으시겠어요?</QUESTION>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그 전에! 이야기가 길어지는 만큼 충분히 쉬셨는지 확인하고 갈게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그 전에! 이야기가 길어지는 만큼 충분히 쉬셨는지 확인하고 갈게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3532,12 +3544,12 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>리니아는 시타양에게 시니아양이 가진 검에는 과거와 현재를 바꿀 수 있는 힘이 있다고 알려줬어요. 어때요. 굉장하죠? 리니아는 어떻게 그런 걸 알고 있는 걸까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>시니아. 미안…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>네? 무슨 말씀을 혹시 작은언니에 대해서….엇?! 시타양 뭐하는 건가요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>미안….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그리고 시타양은 검을 가지고 그대로 흡혈귀로 땅으로 향했어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>리니아는 시티양에게 시니아양이 가진 검에는 과거와 현재를 바꿀 수 있는 힘이 있다고 알려줬어요. 어때요. 굉장하죠? 리니아는 어떻게 그런 걸 알고 있는 걸까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>시니아. 미안…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>네? 무슨 말씀을 혹시 작은언니에 대해서….엇?! 시타양 뭐하는 건가요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>미안….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그리고 시타양은 검을 가지고 그대로 흡혈귀로 땅으로 향했어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3545,11 +3557,11 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>베르니카! 베르니카!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 베르니카를 아냐고 물으며 흡혈귀들을 베고 베고 또 베고 계속 베던 중에</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어느 흡혈귀가 "붉은 드릴 머리에 이어서 이런 재앙이..."라는 소리를 듣고 </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>드릴 머리 어디 있어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루나플리나의 저택으로 향해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>베르니카! 베르니카!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 베르니카를 아냐고 물으며 흡혈귀들을 베고 베고 또 베고 계속 베던 중에</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어느 흡혈귀가 "붉은 드릴 머리에 이어서 이런 재앙이..."라는 소리를 듣고 </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>드릴 머리 어디 있어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루나플리나의 저택으로 향해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3557,10 +3569,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 저택에 도착하고 베르니카와 만나요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>베르니카. 왜 그런 모습으로 있는거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>시타… 어서와.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>내가 베르니카를 원래대로 되돌리겠어. 눈이든 팔이든 다 가져가.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 저택에 도착하고 베르니카와 만나요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>베르니카. 왜 그런 모습으로 있는거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>시타… 어서와.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>내가 베르니카를 원래대로 되돌리겠어. 눈이든 팔이든 다 가져가.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3568,14 +3580,14 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그렇게 시타는 시니아의 검을 사용해요. 하지만 시니아의 검은 시타가 생각한 것이 아니었어요! 그 검은 처음으로 되돌리는 힘이었던거죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>안돼! 그만…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 그 힘의 정체를 알게 되자 황급히 정지했지만 이미 주변은 무너졌어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>날뛰던 검이 멈추고 베르니카를 찾아 헤매길 수 시간. 시타는 베르니카의 안경을 발견해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>또 다시 안경 앞에서 멈춰 있길 수 시간 시타는 담담히 안경을 주워들었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>안경에 모든 감정을 담은듯 시타는 평상시로 되돌아왔어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그렇게 시타는 시니아의 검을 사용해요. 하지만 시니아의 검은 시타가 생각한 것이 아니었어요! 그 검은 처음으로 되돌리는 힘이었던거죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>안돼! 그만…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 그 힘의 정체를 알게 되자 황급히 정지했지만 이미 주변은 무너졌어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>날뛰던 검이 멈추고 베르니카를 찾아 헤매길 수 시간. 시타는 베르니카의 안경을 발견해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>또 다시 안경 앞에서 멈춰 있길 수 시간 시타는 담담히 안경을 주워들었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>안경에 모든 감정을 담은듯 시타는 평상시로 되돌아왔어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3583,12 +3595,12 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 비타학교로 돌아왔어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>불행인지 다행이지 비타학교는 축제기간이었고 시타는 조용히 학교에 녹아들었답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이렇게 시타양의 이야기는 끝이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>네? 정말로 끝이냐고요? 실은 이 뒤에 살짝 더 남아있지만!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>오늘은 이만 쉬도록 할까요? 저도 이 아티팩트로 여러 사람의 목소리를 냈더니 목이 아프네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>내일은 별의 책방에서 책을 가져다 줄게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시타는 비타학교로 돌아왔어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>불행인지 다행이지 비타학교는 축제기간이었고 시타는 조용히 학교에 녹아들었답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이렇게 시타양의 이야기는 끝이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>네? 정말로 끝이냐고요? 실은 이 뒤에 살짝 더 남아있지만!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>오늘은 이만 쉬도록 할까요? 저도 이 아티팩트로 여러 사람의 목소리를 냈더니 목이 아프네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>내일은 별의 책방에서 책을 가져다 줄게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3596,9 +3608,9 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아는 마법학회가 끝나고 잠시 만났던 로제에 대해서 생각해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>작은언니…. 무슨 일인 걸까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아는 마법학회가 끝나고 잠시 만났던 로제에 대해서 생각해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>작은언니…. 무슨 일인 걸까요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3606,10 +3618,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>큰언니는 아무말도 안 해주시고….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>맞아요! 분명 작은언니는 서재에서 자주 책을 읽었죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>자리를 비운 것과 이번 학회의 일, 모두 알 수 있을지도 모르겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>캐리! 어디있나요. 지금 바로 서재로 가겠어요. 준비해주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>큰언니는 아무말도 안 해주시고….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>맞아요! 분명 작은언니는 서재에서 자주 책을 읽었죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>자리를 비운 것과 이번 학회의 일, 모두 알 수 있을지도 모르겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>캐리! 어디있나요. 지금 바로 서재로 가겠어요. 준비해주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3617,12 +3629,12 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아는 서재에서 로제가 읽었던 책을 읽고 가문에 관해 알게 돼요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>마녀….?이 이야기가 진실인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>하… 하하… 작은 언니도 지금 나와 같았겠죠? 이제 작은언니를 이해할 수 있어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>아무도 믿지 않을거에요. 몸에 흐르는 이 피마저 역겹습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>시니아님 계신가요? 캐리에게 연락받았습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>가까이 오지 마세요. 죽여버릴 테니깐…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아는 서재에서 로제가 읽었던 책을 읽고 가문에 관해 알게 돼요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>마녀….?이 이야기가 진실인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>하… 하하… 작은 언니도 지금 나와 같았겠죠? 이제 작은언니를 이해할 수 있어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>아무도 믿지 않을거에요. 몸에 흐르는 이 피마저 역겹습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ressnoa.png</NPC_IMG><NPC_NAME>레스노아</NPC_NAME><NPC_TEXT_1>시니아님 계신가요? 캐리에게 연락받았습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>가까이 오지 마세요. 죽여버릴 테니깐…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3630,7 +3642,7 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아는 진실을 확인하고자 리니아에게 찾아가요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아는 진실을 확인하고자 리니아에게 찾아가요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>지금 당장 리니아를 찾아가 물을겁니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rinia2.png</NPC_IMG><NPC_NAME>리니아</NPC_NAME><NPC_TEXT_1>어머! 시니아 어서와요. 갑자기 무슨 일인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>말해봐요. 저 진짜 생각많이 해봤는데, 정말모르겠어요. 말해봐요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3645,12 +3657,12 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아를 제압하기엔 증오가 너무 너무 강했기에 리니아는 결국 시니아의 정신을 지배해버려요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그리고 어딘가 쫓기듯 무언가를 준비하는 리니아의 모습만 남게 되었죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이렇게 시니아양의 이야기는 끝이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>네? 정말로 끝이냐고요? 당연히 이 뒤에 남은 이야기가 있지만!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>오늘은 이만 쉬도록 할까요? 저도 이 아티팩트로 여러 사람의 목소리를 냈더니 목이 아프네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>내일은 별의 책방에서 책을 가져다 줄게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>시니아를 제압하기엔 증오가 너무 너무 강했기에 리니아는 결국 시니아의 정신을 지배해버려요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그리고 어딘가 쫓기듯 무언가를 준비하는 리니아의 모습만 남게 되었죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이렇게 시니아양의 이야기는 끝이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>네? 정말로 끝이냐고요? 당연히 이 뒤에 남은 이야기가 있지만!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>오늘은 이만 쉬도록 할까요? 저도 이 아티팩트로 여러 사람의 목소리를 냈더니 목이 아프네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>내일은 별의 책방에서 책을 가져다 줄게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3658,10 +3670,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루티카는 마법학회가 끝나고 어떤 이유에서인진 모르겠지만 공립학교의 특정인물을 조사하라는 명령을 수행하며 지내고 있었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그러던 어느날 제이나와 누군가 하고 있는 말을 우연히 듣게되죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_silhouette2.png</NPC_IMG><NPC_NAME>???</NPC_NAME><NPC_TEXT_1>루티카를 정치적 제물로 삼으셔야 합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루티카는 마법학회가 끝나고 어떤 이유에서인진 모르겠지만 공립학교의 특정인물을 조사하라는 명령을 수행하며 지내고 있었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그러던 어느날 제이나와 누군가 하고 있는 말을 우연히 듣게되죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_silhouette2.png</NPC_IMG><NPC_NAME>???</NPC_NAME><NPC_TEXT_1>루티카를 정치적 제물로 삼으셔야 합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>거, 거짓말…. 제이나님이 나를? 아냐 진정해. 내가 잘못들었을 꺼야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3670,10 +3682,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>하지만 현실은 참 잔혹하죠……. 애써 잘못 들었다는 생각으로 넘겼던 일이 현실로 일어나게 돼요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_sinclair.png</NPC_IMG><NPC_NAME>싱클레어</NPC_NAME><NPC_TEXT_1>흡혈귀와 접촉, 민간인의 피해를 방조한 혐의로 당신을 체포합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>하지만 현실은 참 잔혹하죠……. 애써 잘못 들었다는 생각으로 넘겼던 일이 현실로 일어나게 돼요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sinclair.png</NPC_IMG><NPC_NAME>싱클레어</NPC_NAME><NPC_TEXT_1>흡혈귀와 접촉, 민간인의 피해를 방조한 혐의로 당신을 체포합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>무슨 소리를 하시는 건가요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_sinclair.png</NPC_IMG><NPC_NAME>싱클레어</NPC_NAME><NPC_TEXT_1>알만한 분이 왜 그러실까~ 하프뱀파이어와 같이 행동한 걸로 알고 있습니다만… 설마 단장님의 부관씩이나 되는 분이 몰랐다고 하지는 않겠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sinclair.png</NPC_IMG><NPC_NAME>싱클레어</NPC_NAME><NPC_TEXT_1>알만한 분이 왜 그러실까~ 하프뱀파이어와 같이 행동한 걸로 알고 있습니다만… 설마 단장님의 부관씩이나 되는 분이 몰랐다고 하지는 않겠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>그런…! 믿을 수 없습니다! 제이나님! 제이나님을 불러주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3682,10 +3694,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루티카의 소식을 들은 클라리스는 탈출계획을 세워요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>루티카를 그곳에서 꺼내주고 싶어.. 무언가 방법이 없을까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>….이젠 클라리스의 모습까지 하는 건가요? 교국은 이리도 더러운 곳이었던 거군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>루티카….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루티카의 소식을 들은 클라리스는 탈출계획을 세워요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>루티카를 그곳에서 꺼내주고 싶어.. 무언가 방법이 없을까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>….이젠 클라리스의 모습까지 하는 건가요? 교국은 이리도 더러운 곳이었던 거군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>루티카….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>루티카는 클라리스의 도움으로 탈출하고 교국으로 향해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3694,13 +3706,13 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>루티카! 정말로 가는거야? 교국이 코앞이라고! 복수같은 건 의미 없는 짓이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>…? …음!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>교국이 불타고 있어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>불타는 교국에서 두 사람을 맞이한 건 자신을 GS단의 첫번째 별이라 소개한 여성이었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_first.png</NPC_IMG><NPC_NAME>첫 번째 별</NPC_NAME><NPC_TEXT_1>남십자성의 여신. 그 거짓을 밝힐겁니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>교국 그 자체가 거짓이었던 건가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_first.png</NPC_IMG><NPC_NAME>첫 번째 별</NPC_NAME><NPC_TEXT_1>관심 있나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>루티카! 정말로 가는거야? 교국이 코앞이라고! 복수같은 건 의미 없는 짓이야</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>…? …음!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>교국이 불타고 있어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>불타는 교국에서 두 사람을 맞이한 건 자신을 GS단의 첫번째 별이라 소개한 여성이었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_first.png</NPC_IMG><NPC_NAME>첫 번째 별</NPC_NAME><NPC_TEXT_1>남십자성의 여신. 그 거짓을 밝힐겁니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>교국 그 자체가 거짓이었던 건가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_first.png</NPC_IMG><NPC_NAME>첫 번째 별</NPC_NAME><NPC_TEXT_1>관심 있나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3708,12 +3720,12 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>복수를 다짐했던 교국은 이미 GS의 공격으로 불타버렸고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>갈 길을 잃은 감정을 어떻게 해야 할지 모르는 루티카는 클라리스와 함께 발 가는 데로 여행을 떠나요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이렇게 루티카양의 이야기는 끝이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>네? 정말로 끝이냐고요? 당연히 이 뒤에 다른 이야기로 이어지지만!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>오늘은 이만 쉬도록 할까요? 저도 이 아티팩트로 여러 사람의 목소리를 냈더니 목이 아프네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>내일은 별의 책방에서 책을 가져다 줄게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>복수를 다짐했던 교국은 이미 GS의 공격으로 불타버렸고</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>갈 길을 잃은 감정을 어떻게 해야 할지 모르는 루티카는 클라리스와 함께 발 가는 데로 여행을 떠나요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이렇게 루티카양의 이야기는 끝이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>네? 정말로 끝이냐고요? 당연히 이 뒤에 다른 이야기로 이어지지만!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>오늘은 이만 쉬도록 할까요? 저도 이 아티팩트로 여러 사람의 목소리를 냈더니 목이 아프네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>내일은 별의 책방에서 책을 가져다 줄게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3721,11 +3733,11 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_4.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>아이리양은 고민을 하고 있었어요. 자기가 한 짓이 올바른 짓인지 말이죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>내가 한 선택은 올바른 것인가? 흡혈귀가 된 베르니카는 내가 바라던 알던 베르니카일까? 그 때의 베르니카는……</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>흡혈귀를 사랑한 아버지는 어땠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>인간을 사랑한 어머니는 어땠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>어디까지 이야기 해었었죠? 음…그러니까…. 아!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>아이리양은 고민을 하고 있었어요. 자기가 한 짓이 올바른 짓인지 말이죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>내가 한 선택은 올바른 것인가? 흡혈귀가 된 베르니카는 내가 바라던 알던 베르니카일까? 그 때의 베르니카는……</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>흡혈귀를 사랑한 아버지는 어땠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>인간을 사랑한 어머니는 어땠죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3733,10 +3745,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_4.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>아이리양은 아버지인 엘몬드의 집에서 엘몬드 집안의 저주 받은 마안으로 만든 검을 보고 결심해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>베르니카….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그렇게 아이리양도 흡혈귀의 땅으로 떠나요. 정확히는 루나 플리나가 있는 저택으로 가는 거지만요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>아이리양은 루나 플리나라면 흡혈귀에 관한 일은 다 알고 있을 거라 생각한거에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>아이리양은 아버지인 엘몬드의 집에서 엘몬드 집안의 저주 받은 마안으로 만든 검을 보고 결심해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>베르니카….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그렇게 아이리양도 흡혈귀의 땅으로 떠나요. 정확히는 루나 플리나가 있는 저택으로 가는 거지만요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>아이리양은 루나 플리나라면 흡혈귀에 관한 일은 다 알고 있을 거라 생각한거에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3744,10 +3756,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_075.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_075_4.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_075.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>쓰러진 흡혈귀들과 교국의 기사단을 본 아이리는 심상치 않은 기운을 느끼고 더욱 속도를 내요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>조금이라도 더 빨리 루나플리나를 만나려 하는 아이리. 그런 아이리를 하늘이 막는지. 교국의 검.검제 제이나와 맞닥뜨리고 싸우게되죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>비켜. 난 베르니카를 찾아야해</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_jaina.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>넌…. 그래. 네가 그 하프 뱀파이어인가? 너에겐 좀 악감정이 있지. 편하게 죽을 수 있을 거라 생각하지 마라</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>쓰러진 흡혈귀들과 교국의 기사단을 본 아이리는 심상치 않은 기운을 느끼고 더욱 속도를 내요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>조금이라도 더 빨리 루나플리나를 만나려 하는 아이리. 그런 아이리를 하늘이 막는지. 교국의 검.검제 제이나와 맞닥뜨리고 싸우게되죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>비켜. 난 베르니카를 찾아야해</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_jaina.png</NPC_IMG><NPC_NAME>제이나</NPC_NAME><NPC_TEXT_1>넌…. 그래. 네가 그 하프 뱀파이어인가? 너에겐 좀 악감정이 있지. 편하게 죽을 수 있을 거라 생각하지 마라</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3789,7 +3801,7 @@
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>이거 말인가요? 목소리를 바꾸는 아티팩트에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>흐응~ 그래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>꺅! 이스프릿 뭐하는거에요! 벗겨진다고요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>보고 있지만 말고 좀 도와주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ophelia.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>보고 있지만 말고 좀 도와주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>

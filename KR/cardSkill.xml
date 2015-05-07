@@ -63,7 +63,7 @@
 <CARD_SKILL><ID>100060</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 9-자신필드 카드 사이즈 이하의 사이즈를 가진 첫번째 사립소속 자신핸드 스펠카드를 자신필드 빈 첫번째 슬롯에 배치한다. 그 경우 해당카드의 사이즈만큼 랜덤한 상대필드 추종자 1의 공/체 감소 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100061</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1의 공격력 -1, 랜덤한 자신필드 추종자 1의 공격력 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100062</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1을 자신 덱 맨 위로 옮긴다. 옮긴 후 필드에 추종자카드가 있을경우 랜덤한 추종자 카드 1과 옮긴 카드의 공격력 +2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>100063</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 사이즈가 같은 카드가 2장 이상 자신핸드에 존재할 경우 해당 카드를 자신의 덱 맨 밑으로 옮긴다. 그 경우 해당 카드의 사이즈의 절반(올림) 만큼 최대 4까지 자신캐릭터의 라이프가 증가한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100063</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 사이즈가 같은 카드가 2장 이상 자신핸드에 존재할 경우 해당 카드를 자신의 덱 맨 밑으로 옮긴다. 그 경우 해당 카드의 사이즈의 절반(올림) 만큼 최대 3까지 자신캐릭터의 라이프가 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100064</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 첫번째 카드를 덱 맨 밑으로 옮긴다. 그 경우 해당 카드 사이즈의 절반(내림)만큼 랜덤한 자신필드 추종자 1의 공/체 증가(최대 4)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100065</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 "공립"소속 추종자 1 공/체 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100066</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 카드 사이즈의 합이 상대보다 높을경우 상대캐릭터 라이프 -1. </span>]]></TEXT></CARD_SKILL>
@@ -1094,10 +1094,10 @@
 <CARD_SKILL><ID>120075</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 3사이즈 이상의 추종자 전체 자신 사이즈 만큼 공/체 감소. 상대 무덤 3사이즈 이하의 랜덤한 추종자1의 사이즈=1 로 하여 자신 필드 마지막 빈 슬롯에 배치한다. 자신 무덤 카드 전체 자신 덱 맨밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120076</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 미궁의 출구를 찾고 있나? 헛된일이다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120077</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 라이프 -3. 상대 무덤과 상대 덱 랜덤한 카드 1을 제거한다. 상대 필드 랜덤한 추종자 1의 방어력 =0. 해당 추종자의 방어력이 0일 경우, 해당 추종자의 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120078</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120079</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120080</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120081</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 "어린이"가 들어간 추종자 전체 공/체 +1. 자신 무덤 랜덤한 카드 1을 자신 덱 맨밑으로 옮긴다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120078</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120079</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120080</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120081</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 상대필드 추종자 1 체력 4감소. 자신의 캐릭터가 "시타"일 경우 추가로 랜덤한 상대필드 추종자 1의 체력 2감소. 자신 필드카드 수가 상대 필드 카드수 이하일 경우 각각 적용수치가 1씩 증가한다.
 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>랜덤한 자신필드 공립 소속 추종자 2 공/체 +2</span>]]></TEXT></CARD_SKILL>
@@ -2141,7 +2141,7 @@
 <CARD_SKILL><ID>201040</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우,상대 필드/핸드 카드 전체 해당 슬롯의 절반(올림)만큼 사이즈 증가.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(올림)만큼 자신 필드 추종자 전체 체력 증가.현재 턴수가 짝수일 경우,상대 필드 추종자 전체 체력 감소.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201041</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우,자신 필드/핸드 추종자 전체 해당 슬롯 번호만큼 공/체 증가.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(내림)만큼 상대 필드 추종자 전체 공격력 감소.현재 턴수가 짝수일 경우,자신 필드 추종자 전체 공격력 증가.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201042</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우,상대 필드/핸드 추종자 전체 해당 슬롯 번호만큼 공/체 감소.이 카드의 사이즈=1 이 되어,자신 덱 맨위로 이동한다.이 카드의 사이즈 = 1이고 현재 턴수가 홀수일 경우,턴수의 절반(내림)만큼 자신 필드 추종자 전체 공격력 증가.현재 턴수가 짝수일 경우,상대 필드 추종자 전체 공격력 감소.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>201043</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 카드 1을 행동종료 상태로 한다.그경우 상대 필드 랜덤한 카드 1을 상대 덱 맨위로 옮긴다.상대 필드 카드 수만큼 자신 필드 추종자 전체 체력 증가.자신 무덤“현장목격”카드를 제거한다. 그경우,자신 필드 공립 소속 카드 수+1.만큼 상대 필드 추종자 전체 체력 감소.마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201043</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 카드 1을 행동종료 상태로 한다.그경우 상대 필드 랜덤한 카드 1을 상대 덱 맨위로 옮긴다.상대 필드 카드 수만큼 자신 필드 추종자 전체 체력 증가.자신 무덤“현장체포”카드를 제거한다. 그경우,자신 필드 공립 소속 카드 수+1.만큼 상대 필드 추종자 전체 체력 감소.마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201044</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립이고 이카드의 사이즈가 2이상일 경우 이 카드의 사이즈-1. 이 카드는 자신덱 맨 위로 간다. 이 카드의 사이즈가 1일 경우 상대 덱 맨 밑 카드1의 사이즈 +2하여 행동종료 상태로 상대필드 마지막 빈 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201045</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신의 캐릭터가 크룩스 소속이고 이 카드의 사이즈가 2일 경우 이 카드와 상대 필드 랜덤한 스펠1을 행동 종료시킨다. 이 카드의 사이즈는 해당 카드와 같아진다. 이 카드의 사이즈가 2가 아닐 경우 자신의 이 카드의 사이즈만큼 자신의 필드 랜덤한 추종자2의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201046</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우, 자신 셔플 수 +1만큼 자신 필드 추종자 전체 공/체 증가. 자신 캐릭터에 “플리나”가 들어갈 경우 추가로 상대 필드 추종자 전체 상대 셔플 수 만큼 공/체 감소. </span>]]></TEXT></CARD_SKILL>

@@ -3723,7 +3723,7 @@
 <CARD_SKILL><ID>2572</ID><NAME>리로드</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드 강화수치의 절반(올림)만큼 이 카드와 자신 덱 랜덤한 추종자1의 체력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2573</ID><NAME>열정적인 응원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 강화수치 -1.혹은 이 카드의 강화수치 -1. 그경우 방어 추종자의 방어력 =0. 변화치의 절반(올림)만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2574</ID><NAME>응원단 지휘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 랜덤한 공립 카드 2를 자신 덱 맨밑으로 옮긴다. 그경우 공격 추종자의 마지막 특수능력은 사라진다. 옮긴 카드가 없을 경우 이 카드의 강화수치 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2575</ID><NAME>마녀의 마법</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 사립 소속일 경우 이 카드의 사이즈 절반(올림)만큼 상대 덱 맨 위 추종자의 방어력 감소. 이 카드의 사이즈-1. 이 특수능력은 "턴 개시시 본래 특수능력이 된다"가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2575</ID><NAME>마녀의 마법</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 사립 소속일 경우 이 카드의 사이즈 절반(올림)만큼 상대 덱 맨 위 추종자의 방어력 감소.이 카드의 사이즈-1. 이 특수능력은 "턴 개시시 본래 특수능력이 된다"가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2576</ID><NAME>고통분담</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 방어력이 가장 낮은 추종자1의 방어력의 절대값만큼 공격 추종자의 공/체 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2577</ID><NAME>허영의 아티팩트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전 : 이 카드의 공격력(절반) 올림만큼 이 카드의 체력 증가. 이 카드는 자신의 필드 랜덤한 빈 슬롯으로 간다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2578</ID><NAME>아티팩트 전개</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전 : 이 카드의 변화된 체력만큼 공격 추종자의 체력감소. 감소치의 절반(올림)만큼 이 카드의 체력 증가.</span>]]></TEXT></CARD_SKILL>

@@ -3731,9 +3731,9 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>이 세계는 평행세계…… 저의 심상입니다. 제 마음대로 할 수 있는 겁니다.</NPC_TEXT_1><NPC_TEXT_2>이 세계는 저뿐만이 아닌 많은 사람들의 염원으로 만들어진 세계예요. 여러분은 제 분신들을 쓰러뜨려 포인트를 모으지 않으면 안되요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>거기 계신 고양이님. 저희들을 원래 세계로 보내주시지 않겠어요?</NPC_TEXT_1><NPC_TEXT_2>포인트 라고요?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>들어올 때도 나갈때도 제 마음대로인 겁니다. 앗! 저기 세계 최고의 어린이가…!</NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 아무래도 싸움을 피하지 못할 것 같습니다.</NPC_TEXT_1><NPC_TEXT_2>포인트가 높으면 도대체 무슨 이득이 있는 거죠?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 아무래도 싸움을 피하지 못할 것 같습니다.</NPC_TEXT_1><NPC_TEXT_2>포인트가 높으면 도대체 무슨 이득이 있는 거죠?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>욕망을 숨길 필요는 없어요. 하늘은 푸르고 어린이는 최고인걸요!</NPC_TEXT_1><NPC_TEXT_2>포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>옵니다!</NPC_TEXT_1><NPC_TEXT_2>피할 수 없는 싸움이군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>옵니다!</NPC_TEXT_1><NPC_TEXT_2>피할 수 없는 싸움이군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3743,8 +3743,8 @@
 <DUNGEON_BG_IMG>dungeon_lobby_080.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 당신도 이 세계에 갇히셨군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>혹시 로제 님인가요? 모습이…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>정신차려 보니, 이 이상한 공간에 갇혀버렸습니다. 모습은 부끄럽지만 이렇게… 루티카님은 괜찮으신 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>이 모습도 문제지만 빨리 원흉을 찾아 해치우지 않으면 큰 일이 벌어질 것 같은 느낌입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>정신차려 보니, 이 이상한 공간에 갇혀버렸습니다. 모습은 부끄럽지만 이렇게… 루티카님은 괜찮으신 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>이 모습도 문제지만 빨리 원흉을 찾아 해치우지 않으면 큰 일이 벌어질 것 같은 느낌입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>동감이예요. 지금은 힘을 합쳐 이곳을 빠져나가는 데에 집중하도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3754,7 +3754,7 @@
 <DUNGEON_TITLE_IMG>dungeon_title_080.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_080.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>???</NPC_NAME><NPC_TEXT_1>후후후. 그래요. 이것이 제가 바라던 세계입니다. 어린이 들이 잔뜩…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>아무래도 사건의 원흉인 모양입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>아무래도 사건의 원흉인 모양입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>여신의 이름을 걸고 이런 파렴치한 세계를 만든 범인을 처벌해야겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3772,7 +3772,7 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>이 세계는 평행세계…… 저의 심상입니다. 제 마음대로 할 수 있는 겁니다.</NPC_TEXT_1><NPC_TEXT_2>이 세계는 저뿐만이 아닌 많은 사람들의 염원으로 만들어진 세계예요. 여러분은 제 분신들을 쓰러뜨려 포인트를 모으지 않으면 안되요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>네가 사건의 원흉인가? 빨리 베르니카도 이곳으로 데려오…는게 아니라 우리를 원래 세계로 되돌려 보내.</NPC_TEXT_1><NPC_TEXT_2>포인트 라고?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>helenachild.png</NPC_IMG><NPC_NAME>헬레나 어린이</NPC_NAME><NPC_TEXT_1>의미심장한 발언을 들은 것 같지만 기분탓이라고 믿을게요.</NPC_TEXT_1><NPC_TEXT_2>수상한 느낌의 포인트로군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>뭐죠? 완벽한 어린이들의 세상을 방해하려는 건가요? 앗! 저기 세계 최고의 어린이가…! 나갈때도 제 마음대로인 겁니다. 앗! 저기 세계 최고의 어린이가…!</NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다! 포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>뭐죠? 완벽한 어린이들의 세상을 방해하려는 건가요? 앗! 저기 세계 최고의 어린이가…! 나갈때도 제 마음대로인 겁니다. </NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다! 포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>helenachild.png</NPC_IMG><NPC_NAME>헬레나 어린이</NPC_NAME><NPC_TEXT_1>꺄악?</NPC_TEXT_1><NPC_TEXT_2>기다리세요!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>욕망을 숨길 필요는 없어요. 하늘은 푸르고 어린이는 최고인걸요!</NPC_TEXT_1><NPC_TEXT_2>기다린다고 서는 고양이는 없답니다~</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>helenachild.png</NPC_IMG><NPC_NAME>헬레나 어린이</NPC_NAME><NPC_TEXT_1>아이리, 도와주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>

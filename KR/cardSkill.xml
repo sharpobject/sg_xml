@@ -1000,23 +1000,23 @@
 <CARD_SKILL><ID>110521</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤 카드 전체 자신 덱 맨 밑으로 옮긴다. 자신과 상대 덱을 랜덤하게 섞는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110522</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 전체 필드 주종자 전체의 방어력은 두배만큼 감소한다. 자신 필드 추종자 전체 "방어전: 이 카드의 방어력은 본래 방어력이 된다." 효과를 추가한다. 자신 무덤 랜덤한 추종자 1을 자신 덱 맨밑으로 옮긴다. 턴 수가 4의 배수일 경우 상대 라이프 -4.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110523</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 랜덤한 추종자 2을 자신 무덤에 복사한다. "블루문"이 들어가는 전체 필드 카드 수만큼 자신 필드 추종자 전체 체력 증가. "레드문"이 들어가는 전체 필드 카드 수만큼 자신 필드 추종자 전체 공격력 증가.</span>]]></TEXT></CARD_SKILL>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<CARD_SKILL><ID>110524</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈와 공/방/체 -1. 해당 추종자의 사이즈가 1일 경우 해당 추종자의 사이즈는 본래사이즈로 변경하여 파괴한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110525</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 랜덤한 추종자 1의 공/체 -1. 랜덤한 자신필드 랜덤한 추종자 1의 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110526</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 마지막 특수능력은 사라진다. 해당 추종자가 특수능력이 없을 경우, 상대 라이프 -2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110527</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 방어력 만큼 해당 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110528</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴 개시시:  상대 추종자 전체 방어력 -2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110529</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 핸드 랜덤한 카드 1을 상대 무덤으로 보낸다. 해당 카드가 스펠일 경우, 상대 필드 추종자 전체 방어력 =0. 추종자일 경우,이 카드의 라이프 +2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110530</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자1의 특수능력은 "공격전: 이 카드의 공격력+3"이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110531</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 모든 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110532</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 카드 수만큼 상대 덱 맨위 카드를 상대 무덤으로 보낸다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110533</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 추종자 전체 해당 추종자가 위치한 슬롯번호 만큼 체력 감소. 자신 필드 "시타"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110534</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 덱 맨위 카드가 스펠일 경우 해당 카드의 사이즈 +1. 추종자일경우 자신 덱 맨위 카드 1의 사이즈 -1. 자신 필드 "아스미스"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110535</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 2의 사이즈 +1. 자신 필드 "시니아"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110536</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대덱 추종자1의 공/체 -1을 2번 실행한다. 자신 필드 "리누스"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110537</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 2의 사이즈 -1. 자신 필드 "루티카"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110538</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 첫 번째 카드를 자신 덱 맨위로 옮긴다. 자신 핸드 빈 슬롯 수만큼 자신 덱 랜덤한 추종자 1의 공/체 증가.(최대 2) 자신 필드 "로제"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110539</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 현재 턴수의 절반(내림)만큼 상대 필드 랜덤한 추종자 2의 공격력 감소. 자신필드 "아이리" 들어간 자신 필드 추종자1의 공/체+1</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110540</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드와 핸드 추종자 전체 공격력 -1. 감소치 +1만큼 자신 덱 맨위 추종자 1의 공격력 증가. 자신 필드 "헬레나"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120001</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 모든 추종자의 사이즈 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 사이즈 3 이하 자신필드 추종자 전체 공/체 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 카드 1을 행동종료상태로 한다.</span>]]></TEXT></CARD_SKILL>

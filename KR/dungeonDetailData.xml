@@ -3635,7 +3635,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>78</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 공립ver</TOOL_TIP_TEXT>
+<ID>78</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 녹색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3678,7 +3678,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>79</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 사립ver</TOOL_TIP_TEXT>
+<ID>79</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 적색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3721,7 +3721,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>80</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 크룩스ver</TOOL_TIP_TEXT>
+<ID>80</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3762,7 +3762,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>81</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 다크로어ver</TOOL_TIP_TEXT>
+<ID>81</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 흑색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>

@@ -1013,7 +1013,7 @@
 <CARD_SKILL><ID>110534</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 덱 맨위 카드가 스펠일 경우 해당 카드의 사이즈 +1. 추종자일경우 자신 덱 맨위 카드 1의 사이즈 -1. 자신 필드 "아스미스"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110535</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 2의 사이즈 +1. 자신 필드 "시니아"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110536</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대덱 추종자1의 공/체 -1을 2번 실행한다. 자신 필드 "리누스"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110537</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 2의 사이즈 -1. 자신 필드 "루티카"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110537</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 2의 사이즈 -1. 자신 필드 "루티카"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110538</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 첫 번째 카드를 자신 덱 맨위로 옮긴다. 자신 핸드 빈 슬롯 수만큼 자신 덱 랜덤한 추종자 1의 공/체 증가.(최대 2) 자신 필드 "로제"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110539</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 현재 턴수의 절반(내림)만큼 상대 필드 랜덤한 추종자 2의 공격력 감소. 자신필드 "아이리" 들어간 자신 필드 추종자1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110540</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드와 핸드 추종자 전체 공격력 -1. 감소치 +1만큼 자신 덱 맨위 추종자 1의 공격력 증가. 자신 필드 "헬레나"가 들어간 랜덤한 추종자 1 공/체 +1.</span>]]></TEXT></CARD_SKILL>

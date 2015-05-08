@@ -114,17 +114,17 @@
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>던전 보스</QUESTION>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>진저. 지금 이 상황은 뭔가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>하아... 난 잘 모르겠는데. 저 녀석한테 물어보지 그래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>에….그러니까 SS라는 곳에서 교국 신도들이 공격 받았는데</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>아까 도망친 녀석이 교국 사람들을 지켜준 것 같아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물치고는 제법이던걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>우리를 제물이라고는 하는데, 나쁜 녀석은 아닌 것 같아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi</NPC_IMG><NPC_NAME>교국의 순례자</NPC_NAME><NPC_TEXT_1>구해주셔서 감사합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>너희는 제물이 아니니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ten</NPC_IMG><NPC_NAME>SS 텐</NPC_NAME><NPC_TEXT_1>어머….이게 어떻게된 일일까나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ten</NPC_IMG><NPC_NAME>SS 텐</NPC_NAME><NPC_TEXT_1>모두 당한거야?…SS의 이름이 울겠네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>하아... 난 잘 모르겠는데. 저 녀석한테 물어보지 그래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>에….그러니까 SS라는 곳에서 교국 신도들이 공격 받았는데</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>아까 도망친 녀석이 교국 사람들을 지켜준 것 같아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물치고는 제법이던걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>우리를 제물이라고는 하는데, 나쁜 녀석은 아닌 것 같아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>교국의 순례자</NPC_NAME><NPC_TEXT_1>구해주셔서 감사합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>너희는 제물이 아니니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ten.png</NPC_IMG><NPC_NAME>SS 텐</NPC_NAME><NPC_TEXT_1>어머….이게 어떻게된 일일까나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ten.png</NPC_IMG><NPC_NAME>SS 텐</NPC_NAME><NPC_TEXT_1>모두 당한거야?…SS의 이름이 울겠네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>방금 제압이 다 끝났다고 하지 않았나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ten</NPC_IMG><NPC_NAME>SS 텐</NPC_NAME><NPC_TEXT_1>보수 보다 많은 일을 하게 됐잖아. 기분이 나빠졌어. 너희 모두 죽여줄게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ten.png</NPC_IMG><NPC_NAME>SS 텐</NPC_NAME><NPC_TEXT_1>보수 보다 많은 일을 하게 됐잖아. 기분이 나빠졌어. 너희 모두 죽여줄게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -133,10 +133,10 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>진저</QUESTION>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>저기 마스터. 어디 가는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>저기 마스터. 어디 가는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>계속 남에게 의지하면 벽에 갇혀버리기 마련이지. 혼자 생각해보는 건 어떤가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>음… 그냥 잠깐의 호기심이었을 뿐이야. 깊이 생각하고 싶지 않아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>마스터를 따라간다.' 이 선택지라면 굶을 일은 없겠지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>음… 그냥 잠깐의 호기심이었을 뿐이야. 깊이 생각하고 싶지 않아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>마스터를 따라간다.' 이 선택지라면 굶을 일은 없겠지</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -146,13 +146,13 @@
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>???</QUESTION>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>여기라네. 교국의 지성이 전승되는 곳이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>학교라는 곳인가 봐?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>그런데 여기 문이 닫혔잖아. 어떻게 들어갈 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>비켜비켜비켜!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>아… 문이….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>학교라는 곳인가 봐?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>그런데 여기 문이 닫혔잖아. 어떻게 들어갈 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>비켜비켜비켜!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>아… 문이….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>실례하겠네. 이 학교의 학생으로 보이는군... 교장에게 안내 좀 해줬으면 하네만, 괜찮은가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>…!!! 아! 괜찮아. 별로 실례까지야 아닌걸.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>…!!! 아! 괜찮아. 별로 실례까지야 아닌걸.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -161,13 +161,13 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>트리애나</QUESTION>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>교장선생님. 손님 찾아왔어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_triena</NPC_IMG><NPC_NAME>트리애나</NPC_NAME><NPC_TEXT_1>손님이요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>교장선생님. 손님 찾아왔어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_triena.png</NPC_IMG><NPC_NAME>트리애나</NPC_NAME><NPC_TEXT_1>손님이요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>오랜만에 뵙겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_triena</NPC_IMG><NPC_NAME>트리애나</NPC_NAME><NPC_TEXT_1>제국의 조사관님이시군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_triena.png</NPC_IMG><NPC_NAME>트리애나</NPC_NAME><NPC_TEXT_1>제국의 조사관님이시군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>이번엔 정식 조사로 왔습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_triena</NPC_IMG><NPC_NAME>트리애나</NPC_NAME><NPC_TEXT_1>흠… 저번 변경유적과 같은 일이 생길지도 모르니… 준비를…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>알았어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_triena.png</NPC_IMG><NPC_NAME>트리애나</NPC_NAME><NPC_TEXT_1>흠… 저번 변경유적과 같은 일이 생길지도 모르니… 준비를…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>알았어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -176,14 +176,14 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>시타</QUESTION>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>여기가 균열이야. 옆은 그 유명한 비타학교의 도서관이고.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>아스미스 등장! 제국의 조사관이 왔다고 해서 들렸는데… 제국은 익인 아니었어? 왜 개가 여기 있는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>실례군. 늑대다! 어둠의 오기 전에 황혼에서 끝을 고하는 고귀한 황혼늑대란 말이다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>시타가 보기엔 어때?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…개.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>……마스터 나 화내도 될까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>여기가 균열이야. 옆은 그 유명한 비타학교의 도서관이고.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>아스미스 등장! 제국의 조사관이 왔다고 해서 들렸는데… 제국은 익인 아니었어? 왜 개가 여기 있는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>실례군. 늑대다! 어둠의 오기 전에 황혼에서 끝을 고하는 고귀한 황혼늑대란 말이다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu2.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>시타가 보기엔 어때?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…개.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>……마스터 나 화내도 될까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>진정하게나. 그것보다 시타라고 했던가? 자네, 잠깐 여기에 손대어 보지 않겠나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>???</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>???</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -192,13 +192,13 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>???</QUESTION>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>아무 일도 안 일어나는데?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>아무 일도 안 일어나는데?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>소문이 신경 쓰였을 뿐이라네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>어떤 소문? 손대면 뭐 있기라도 한 거야? 나도 해볼래!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>어떤 소문? 손대면 뭐 있기라도 한 거야? 나도 해볼래!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG></NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>(쩌적쩌저적)</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>...어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물들, 안녕? 모두 오랜만이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>이 곳에서 책을 읽다보니 나와 같은 생각을 가진 인간들에 대해 알게되었어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>...어?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물들, 안녕? 모두 오랜만이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>이 곳에서 책을 읽다보니 나와 같은 생각을 가진 인간들에 대해 알게되었어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -207,13 +207,13 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>베르니카</QUESTION>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>그럼 이제 나는 그분들을 만나러 가봐야겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>마스터. 저 녀석 잡으면 되는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>그럼 이제 나는 그분들을 만나러 가봐야겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>마스터. 저 녀석 잡으면 되는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>묻기 전에 일단 따라가주면 고맙겠군.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_magician.png</NPC_IMG><NPC_NAME>루베르</NPC_NAME><NPC_TEXT_1>자네도 같이 가주면 좋겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>응? 나? 난 관계 없지 않아? 몬스터라면 옆에 헌터하고 있는 녀석도 있잖아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…나? 가는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>시타, 가지 마. 이런 일에 말려드는 건 이미 충분하잖아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>응? 나? 난 관계 없지 않아? 몬스터라면 옆에 헌터하고 있는 녀석도 있잖아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…나? 가는 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_bernica.png</NPC_IMG><NPC_NAME>베르니카</NPC_NAME><NPC_TEXT_1>시타, 가지 마. 이런 일에 말려드는 건 이미 충분하잖아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -222,12 +222,12 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>SS 나인</QUESTION>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>너희는 뭐야? 제물이 아닌 인간은 관심 없어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>잔말 말고 기다려. 따라잡자 마자 네녀석의 인생은 클라이막스일 테니까!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>음? 저기 뭔가 폭발한 것 같은데? 아. 다 따라잡았어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi</NPC_IMG><NPC_NAME>교국의 순례자</NPC_NAME><NPC_TEXT_1>도와주세요! 누군가! 누군가 좀 도와주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_theology</NPC_IMG><NPC_NAME>신학생도</NPC_NAME><NPC_TEXT_1>어서 피하세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_saint</NPC_IMG><NPC_NAME>성도검사</NPC_NAME><NPC_TEXT_1>제가 시간을 벌겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>너희는 뭐야? 제물이 아닌 인간은 관심 없어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>잔말 말고 기다려. 따라잡자 마자 네녀석의 인생은 클라이막스일 테니까!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>음? 저기 뭔가 폭발한 것 같은데? 아. 다 따라잡았어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>교국의 순례자</NPC_NAME><NPC_TEXT_1>도와주세요! 누군가! 누군가 좀 도와주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_theology.png</NPC_IMG><NPC_NAME>신학생도</NPC_NAME><NPC_TEXT_1>어서 피하세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_saint.png</NPC_IMG><NPC_NAME>성도검사</NPC_NAME><NPC_TEXT_1>제가 시간을 벌겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -236,12 +236,12 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>SS 아이스</QUESTION>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물은 많을수록 좋아. 죽이고 싶지 않은데 물러나 줄래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ice</NPC_IMG><NPC_NAME>SS 아이스</NPC_NAME><NPC_TEXT_1>그쪽이야 말로 누군지 모르겠습니다만, 저희가 SS라는 걸 알고는 있으신가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물은 제물일 뿐이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>nic_nine</NPC_IMG><NPC_NAME>SS 나인</NPC_NAME><NPC_TEXT_1>우리가 제물이라는 건가요? 거기 있는 사람들도 마찬가지라고 생각하는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>쟤네들은 제물이 아니야. 남십자의 인간들. 보면 알 수 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ice</NPC_IMG><NPC_NAME>SS 아이스</NPC_NAME><NPC_TEXT_1>흐응…모습만 보고 괴물이라고 생각했더니 수호수에 가까운 자로군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물은 많을수록 좋아. 죽이고 싶지 않은데 물러나 줄래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ice.png</NPC_IMG><NPC_NAME>SS 아이스</NPC_NAME><NPC_TEXT_1>그쪽이야 말로 누군지 모르겠습니다만, 저희가 SS라는 걸 알고는 있으신가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물은 제물일 뿐이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>nic_nine.png</NPC_IMG><NPC_NAME>SS 나인</NPC_NAME><NPC_TEXT_1>우리가 제물이라는 건가요? 거기 있는 사람들도 마찬가지라고 생각하는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>쟤네들은 제물이 아니야. 남십자의 인간들. 보면 알 수 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ice.png</NPC_IMG><NPC_NAME>SS 아이스</NPC_NAME><NPC_TEXT_1>흐응…모습만 보고 괴물이라고 생각했더니 수호수에 가까운 자로군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -250,11 +250,11 @@
 <DUNGEON_TITLE_IMG>dungeon_title_077.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_077.png</DUNGEON_BG_IMG>
 <QUESTION>SS 케이시</QUESTION>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>…이거 무슨 상황이야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>어느 쪽을 제압해야 마스터에게 칭찬을 받을까? 아. 지금 말한 건 마스터에게 말하지 마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>엣… 저쪽에 있는 사람들은 교국의 신도들은 같은데 일단 저기를 돕는게 좋지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>시끄러. 좋아. 결정. 모두 제압한다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>뭐어어어어엇???</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>…이거 무슨 상황이야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>어느 쪽을 제압해야 마스터에게 칭찬을 받을까? 아. 지금 말한 건 마스터에게 말하지 마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>엣… 저쪽에 있는 사람들은 교국의 신도들은 같은데 일단 저기를 돕는게 좋지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ginger.png</NPC_IMG><NPC_NAME>진저</NPC_NAME><NPC_TEXT_1>시끄러. 좋아. 결정. 모두 제압한다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>비타학생</NPC_NAME><NPC_TEXT_1>뭐어어어어엇???</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>
@@ -3635,7 +3635,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>78</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 공립ver</TOOL_TIP_TEXT>
+<ID>78</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 녹색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3678,7 +3678,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>79</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 사립ver</TOOL_TIP_TEXT>
+<ID>79</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 적색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3721,7 +3721,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>80</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 크룩스ver</TOOL_TIP_TEXT>
+<ID>80</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 청색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3731,9 +3731,9 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>이 세계는 평행세계…… 저의 심상입니다. 제 마음대로 할 수 있는 겁니다.</NPC_TEXT_1><NPC_TEXT_2>이 세계는 저뿐만이 아닌 많은 사람들의 염원으로 만들어진 세계예요. 여러분은 제 분신들을 쓰러뜨려 포인트를 모으지 않으면 안되요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>거기 계신 고양이님. 저희들을 원래 세계로 보내주시지 않겠어요?</NPC_TEXT_1><NPC_TEXT_2>포인트 라고요?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>들어올 때도 나갈때도 제 마음대로인 겁니다. 앗! 저기 세계 최고의 어린이가…!</NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 아무래도 싸움을 피하지 못할 것 같습니다.</NPC_TEXT_1><NPC_TEXT_2>포인트가 높으면 도대체 무슨 이득이 있는 거죠?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 아무래도 싸움을 피하지 못할 것 같습니다.</NPC_TEXT_1><NPC_TEXT_2>포인트가 높으면 도대체 무슨 이득이 있는 거죠?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>욕망을 숨길 필요는 없어요. 하늘은 푸르고 어린이는 최고인걸요!</NPC_TEXT_1><NPC_TEXT_2>포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>옵니다!</NPC_TEXT_1><NPC_TEXT_2>피할 수 없는 싸움이군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>옵니다!</NPC_TEXT_1><NPC_TEXT_2>피할 수 없는 싸움이군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3743,8 +3743,8 @@
 <DUNGEON_BG_IMG>dungeon_lobby_080.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 당신도 이 세계에 갇히셨군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>혹시 로제 님인가요? 모습이…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>정신차려 보니, 이 이상한 공간에 갇혀버렸습니다. 모습은 부끄럽지만 이렇게… 루티카님은 괜찮으신 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>이 모습도 문제지만 빨리 원흉을 찾아 해치우지 않으면 큰 일이 벌어질 것 같은 느낌입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>정신차려 보니, 이 이상한 공간에 갇혀버렸습니다. 모습은 부끄럽지만 이렇게… 루티카님은 괜찮으신 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>이 모습도 문제지만 빨리 원흉을 찾아 해치우지 않으면 큰 일이 벌어질 것 같은 느낌입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>동감이예요. 지금은 힘을 합쳐 이곳을 빠져나가는 데에 집중하도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3754,7 +3754,7 @@
 <DUNGEON_TITLE_IMG>dungeon_title_080.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_080.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>???</NPC_NAME><NPC_TEXT_1>후후후. 그래요. 이것이 제가 바라던 세계입니다. 어린이 들이 잔뜩…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>enpress</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>아무래도 사건의 원흉인 모양입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>아무래도 사건의 원흉인 모양입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>여신의 이름을 걸고 이런 파렴치한 세계를 만든 범인을 처벌해야겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3762,7 +3762,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>81</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 미정 |특징 : 어린이날 다크로어ver</TOOL_TIP_TEXT>
+<ID>81</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 흑색광석 |특징 : 던전 클리어 수에 따라 이벤트 페이지에서 다양한 보상과 투표에 참여하실 수 있습니다.</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3772,7 +3772,7 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>이 세계는 평행세계…… 저의 심상입니다. 제 마음대로 할 수 있는 겁니다.</NPC_TEXT_1><NPC_TEXT_2>이 세계는 저뿐만이 아닌 많은 사람들의 염원으로 만들어진 세계예요. 여러분은 제 분신들을 쓰러뜨려 포인트를 모으지 않으면 안되요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>네가 사건의 원흉인가? 빨리 베르니카도 이곳으로 데려오…는게 아니라 우리를 원래 세계로 되돌려 보내.</NPC_TEXT_1><NPC_TEXT_2>포인트 라고?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>helenachild.png</NPC_IMG><NPC_NAME>헬레나 어린이</NPC_NAME><NPC_TEXT_1>의미심장한 발언을 들은 것 같지만 기분탓이라고 믿을게요.</NPC_TEXT_1><NPC_TEXT_2>수상한 느낌의 포인트로군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>뭐죠? 완벽한 어린이들의 세상을 방해하려는 건가요? 앗! 저기 세계 최고의 어린이가…! 나갈때도 제 마음대로인 겁니다. 앗! 저기 세계 최고의 어린이가…!</NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다! 포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>뭐죠? 완벽한 어린이들의 세상을 방해하려는 건가요? 앗! 저기 세계 최고의 어린이가…! 나갈때도 제 마음대로인 겁니다. </NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다! 포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>helenachild.png</NPC_IMG><NPC_NAME>헬레나 어린이</NPC_NAME><NPC_TEXT_1>꺄악?</NPC_TEXT_1><NPC_TEXT_2>기다리세요!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>욕망을 숨길 필요는 없어요. 하늘은 푸르고 어린이는 최고인걸요!</NPC_TEXT_1><NPC_TEXT_2>기다린다고 서는 고양이는 없답니다~</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>helenachild.png</NPC_IMG><NPC_NAME>헬레나 어린이</NPC_NAME><NPC_TEXT_1>아이리, 도와주세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>

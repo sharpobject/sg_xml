@@ -1093,7 +1093,7 @@
 <CARD_SKILL><ID>120074</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 무덤 카드 전체 자신 덱 맨 밑으로 옮긴다. 자신 덱 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120075</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 3사이즈 이상의 추종자 전체 자신 사이즈 만큼 공/체 감소. 상대 무덤 3사이즈 이하의 랜덤한 추종자1의 사이즈=1 로 하여 자신 필드 마지막 빈 슬롯에 배치한다. 자신 무덤 카드 전체 자신 덱 맨밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120076</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 미궁의 출구를 찾고 있나? 헛된일이다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120077</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 라이프 -3. 상대 무덤과 상대 덱 랜덤한 카드 1을 제거한다. 상대 필드 랜덤한 추종자 1의 방어력 =0. 해당 추종자의 방어력이 0일 경우, 해당 추종자의 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120077</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 라이프 -2. 상대 무덤 랜덤한 카드 1을 제거한다. 상대 필드 랜덤한 추종자 1의 방어력 =0. 해당 추종자의 방어력이 0일 경우, 해당 추종자의 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120078</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120079</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120080</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>어리다고 우습게 보다간 큰 코 다칠거에요! 어린이의 위대함을 알려드리죠!</span>]]></TEXT></CARD_SKILL>

@@ -105,7 +105,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>77</ID><DIFFICULTY>1</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ep26.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 뼈 목걸이 |특징 : 루베르와 진저가 균열을 조사하는 과정에서 일어나는 사건이 일어나게 되는데….</TOOL_TIP_TEXT>
+<ID>77</ID><DIFFICULTY>1</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><TOOL_TIP_ICON>dungeon_ex10.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 뼈 목걸이 |특징 : 루베르와 진저가 균열을 조사하는 과정에서 일어나는 사건이 일어나게 되는데….</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -239,7 +239,7 @@
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물은 많을수록 좋아. 죽이고 싶지 않은데 물러나 줄래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ice.png</NPC_IMG><NPC_NAME>SS 아이스</NPC_NAME><NPC_TEXT_1>그쪽이야 말로 누군지 모르겠습니다만, 저희가 SS라는 걸 알고는 있으신가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>제물은 제물일 뿐이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nine.png</NPC_IMG><NPC_NAME>SS 나인</NPC_NAME><NPC_TEXT_1>우리가 제물이라는 건가요? 거기 있는 사람들도 마찬가지라고 생각하는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>nic_nine.png</NPC_IMG><NPC_NAME>SS 나인</NPC_NAME><NPC_TEXT_1>우리가 제물이라는 건가요? 거기 있는 사람들도 마찬가지라고 생각하는데요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>이계의 방문자</NPC_NAME><NPC_TEXT_1>쟤네들은 제물이 아니야. 남십자의 인간들. 보면 알 수 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ice.png</NPC_IMG><NPC_NAME>SS 아이스</NPC_NAME><NPC_TEXT_1>흐응…모습만 보고 괴물이라고 생각했더니 수호수에 가까운 자로군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
@@ -3731,9 +3731,9 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>이 세계는 평행세계…… 저의 심상입니다. 제 마음대로 할 수 있는 겁니다.</NPC_TEXT_1><NPC_TEXT_2>이 세계는 저뿐만이 아닌 많은 사람들의 염원으로 만들어진 세계예요. 여러분은 제 분신들을 쓰러뜨려 포인트를 모으지 않으면 안되요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>거기 계신 고양이님. 저희들을 원래 세계로 보내주시지 않겠어요?</NPC_TEXT_1><NPC_TEXT_2>포인트 라고요?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>들어올 때도 나갈때도 제 마음대로인 겁니다. 앗! 저기 세계 최고의 어린이가…!</NPC_TEXT_1><NPC_TEXT_2>세계 최고의 어린이를 가리기 위한 점수랍니다!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>loli_rose.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 아무래도 싸움을 피하지 못할 것 같습니다.</NPC_TEXT_1><NPC_TEXT_2>포인트가 높으면 도대체 무슨 이득이 있는 거죠?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 아무래도 싸움을 피하지 못할 것 같습니다.</NPC_TEXT_1><NPC_TEXT_2>포인트가 높으면 도대체 무슨 이득이 있는 거죠?</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>코인 어린이</NPC_NAME><NPC_TEXT_1>욕망을 숨길 필요는 없어요. 하늘은 푸르고 어린이는 최고인걸요!</NPC_TEXT_1><NPC_TEXT_2>포인트가 가장 높은 팀만 이 세계를 빠져나갈 수 있답니다. 그럼 분발해 주세요, 여러분!</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>loli_rose.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>옵니다!</NPC_TEXT_1><NPC_TEXT_2>피할 수 없는 싸움이군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>옵니다!</NPC_TEXT_1><NPC_TEXT_2>피할 수 없는 싸움이군요.</NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3741,10 +3741,10 @@
 <DUNGEON_ICON_IMG>dungeon_icon_080.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_080.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_080.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>loli_rose.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 당신도 이 세계에 갇히셨군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>루티카님. 당신도 이 세계에 갇히셨군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>혹시 로제 님인가요? 모습이…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>loli_rose.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>정신차려 보니, 이 이상한 공간에 갇혀버렸습니다. 모습은 부끄럽지만 이렇게… 루티카님은 괜찮으신 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>loli_rose.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>이 모습도 문제지만 빨리 원흉을 찾아 해치우지 않으면 큰 일이 벌어질 것 같은 느낌입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>정신차려 보니, 이 이상한 공간에 갇혀버렸습니다. 모습은 부끄럽지만 이렇게… 루티카님은 괜찮으신 것 같군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>이 모습도 문제지만 빨리 원흉을 찾아 해치우지 않으면 큰 일이 벌어질 것 같은 느낌입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>동감이예요. 지금은 힘을 합쳐 이곳을 빠져나가는 데에 집중하도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -3754,7 +3754,7 @@
 <DUNGEON_TITLE_IMG>dungeon_title_080.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_080.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>coinchild.png</NPC_IMG><NPC_NAME>???</NPC_NAME><NPC_TEXT_1>후후후. 그래요. 이것이 제가 바라던 세계입니다. 어린이 들이 잔뜩…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>loli_rose.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>아무래도 사건의 원흉인 모양입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>rosechild.png</NPC_IMG><NPC_NAME>로제 어린이</NPC_NAME><NPC_TEXT_1>아무래도 사건의 원흉인 모양입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>여신의 이름을 걸고 이런 파렴치한 세계를 만든 범인을 처벌해야겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 

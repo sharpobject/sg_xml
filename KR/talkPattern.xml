@@ -1073,4 +1073,5 @@
 <TALK_PATTERN><ID>f301312</ID><JOIN>모든 예절의 기본은 식사부터란다.</JOIN><JOIN>앗…아니에요! 맛있었어요!</JOIN><FALL_APART>한 입 먹기가 이렇게 힘들줄은…</FALL_APART><FALL_APART>이렇게 썰면 되는걸까요?</FALL_APART><ATTACK>저 훌륭한 언니가 될거에요!</ATTACK><COUNTER>시니에게도 알려줄게요!</COUNTER><DIRECT>나이프를 바른손에 포크는…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301313</ID><JOIN>어서요~ 벌써 시작했어!</JOIN><JOIN>아직 축제는 한참 남았어!</JOIN><FALL_APART>다음엔 어디를 가볼까?</FALL_APART><FALL_APART>어서~어서~ 불꽃놀이 끝나겠어!</FALL_APART><ATTACK>정말 예쁘다~ 그치?</ATTACK><COUNTER>빨리~ 조금 더 가까이서 보자~</COUNTER><DIRECT>이크… 불장난 하면 안된다고 했는데…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301314</ID><JOIN>우유 맛있어…이건 바나나맛?</JOIN><JOIN>응 조금 더 있다 갈게…</JOIN><FALL_APART>몸이 나른해 져…</FALL_APART><FALL_APART>응…? 뭔가 묻었어?</FALL_APART><ATTACK>응… 맛있어…</ATTACK><COUNTER>이건 무슨 맛이야…?</COUNTER><DIRECT>이것만 마시고… </DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301315</ID><JOIN>안내가 필요하신가요?</JOIN><JOIN>다음 탐사때도 불러주세요.</JOIN><FALL_APART>휴식도 중요하답니다.</FALL_APART><FALL_APART>오랜만에 힘내볼께요.</FALL_APART><ATTACK>보물상자 발견!</ATTACK><COUNTER>도…도굴이 아니에요!</COUNTER><DIRECT>던전의 상자는 모험가에게 주는 선물인걸요!</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

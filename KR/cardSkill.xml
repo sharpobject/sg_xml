@@ -478,6 +478,10 @@
 <CARD_SKILL><ID>100475</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 추종자 1의 공/체 +1.해당 추종자가 다크로어 소속일 경우,자신 필드 랜덤한 추종자 1의 공/체 +2.현재 턴 수가 홀수일 경우,자신 무덤 다크로어 소속 카드 1을 자신 덱 맨밑으로 옮긴다.그경우 자신 무덤 랜덤한 카드 1을 제거한다.턴 수가 짝수일 경우,자신 덱 랜덤한 카드 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100476</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드 랜덤한 사립 카드 1을 자신 덱 맨밑으로 보낸다. 그경우 자신 필드 랜덤한 추종자 1의 공/체 +1/+2. 자신 라이프가 10이하일 경우, 추가로 사이즈 -1. 자신 핸드 카드가 없을 경우, 상대 필드 랜덤한 추종자 1의 특수능력은 전부 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100477</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 핸드 빈 슬롯수의 절반(올림)만큼 상대 필드 랜덤한 추종자 1의 공격력 감소.상대 필드 추종자가 없을 경우,자신 필드 랜덤한 추종자 1의 사이즈 -1. 턴 수가 짝수일 경우, 상대 필드 랜덤한 추종자 1의 사이즈 +1. 상대 필드 추종자가 없을 경우,상대 무덤 랜덤한 카드 2를 제거한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100478</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>슬슬 활동해야 할 부를 찾아야 할 것 같은데… 그럼 집에 늦게 가게 되는 거잖아? 역시 귀찮을 것 같아.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100479</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>장미의 낙인에서 도망칠 수 없어! 한 번 찔린 가시를 쉽게 뽑을 수 있을거라 생각하지 마!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100480</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>순례여행은 처음이지만… 저 열심히 해볼게요!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100481</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>제물 후보가 잔뜩이라 누구 부터 데려갈지 정말 고민 되는 걸.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>

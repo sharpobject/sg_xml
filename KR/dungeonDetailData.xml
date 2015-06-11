@@ -3871,7 +3871,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>76</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>7</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 나침반, 시즌 3 파이트 재료 |특징 : 오픈시간동안 미궁을 탐험하여 다양한 보상을 획득하실 수 있습니다.(오픈:매주 토요일 18시~19시 59분)</TOOL_TIP_TEXT>
+<ID>76</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>7</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 나침반, 시즌 3 파이트 재료 |특징 : 오픈시간동안 미궁을 탐험하여 다양한 보상을 획득하실 수 있습니다.(오픈:매주 주말 18시~19시 59분)</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>

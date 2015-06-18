@@ -1083,4 +1083,8 @@
 <TALK_PATTERN><ID>f301318</ID><JOIN>여기는 제가!</JOIN><JOIN>부디 무사하시길…</JOIN><FALL_APART>한발짝도 물러 설 수 없습니다!</FALL_APART><FALL_APART>임무를 완수할때까지!</FALL_APART><ATTACK>물러사라! 더는 지나갈 수 없다!</ATTACK><COUNTER>여기서 쓰러질 순 없어!</COUNTER><DIRECT>고작 이 정도인가!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301319</ID><JOIN>이른 밤부터 이게 무슨 무례지?</JOIN><JOIN>흥 미천한 것…</JOIN><FALL_APART>교육이 필요하겠구나.</FALL_APART><FALL_APART>예의라는걸 모르는거냐?</FALL_APART><ATTACK>천한것 여기가 어디라고 감히!</ATTACK><COUNTER>예의를 모르는건가?</COUNTER><DIRECT>내가 직접 사라지게 해야겠구나.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301320</ID><JOIN>명계로 가는 법이 궁금하다고?</JOIN><JOIN>언제든지 기다리고 있겠어.</JOIN><FALL_APART>운이 좋았구나.</FALL_APART><FALL_APART>룰은 간단해.</FALL_APART><ATTACK>명계로 데려가 줄까?</ATTACK><COUNTER>고통에서 해방시켜 줄까?</COUNTER><DIRECT>고통은 순간이지.</DIRECT></TALK_PATTERN>
+
+
+
+
 </TALK_PATTERN_DATA>

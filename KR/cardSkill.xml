@@ -3775,4 +3775,6 @@
 <CARD_SKILL><ID>2613</ID><NAME>태양을 피해서…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 크룩스 소속일 경우,이 카드의 사이즈 +1.체력 -3.하여 자신 덱 맨위로 옮긴다.자신 덱 랜덤한 크룩스 소속 추종자 1의 공/체는 이 카드의 사이즈만큼 증가한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2614</ID><NAME>다 함께 바다로~</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 자신 필드 랜덤한 다크로어 소속 추종자 1의 위치를 교체한다.교체된 슬롯 차이의 절반(올림)만큼 해당 추종자의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2615</ID><NAME>태양을 피해서…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 다크로어 소속일 경우,이 카드의 사이즈 +1.체력 -3.하여 자신 덱 맨위로 옮긴다.자신 덱 랜덤한 다크로어 소속 추종자 1의 공/체는 이 카드의 사이즈만큼 증가한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2616</ID><NAME>스쿠어 다이빙</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:상대 캐릭터가 NPC 일경우, 5 - 자신 게임 수 천의 자리 수 만큼 상대 라이프 감소.(최소 1) 감소치가 1이하일 경우 방어 추종자의 사이즈 +2. 이 특수능력은 턴개시시: 본래 특수능력이 된다.”로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2617</ID><NAME>해저탐사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전:이 카드의 사이즈가 방어추종자의 사이즈보다 낮을 경우, 상대 라이프 -1. </span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

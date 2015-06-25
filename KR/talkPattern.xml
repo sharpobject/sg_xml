@@ -1087,4 +1087,5 @@
 <TALK_PATTERN><ID>f301322</ID><JOIN>하암… 따분하군…</JOIN><JOIN>잘 발랐뒀니? </JOIN><FALL_APART>한 숨 자고 있을테니 가서 놀다 와.</FALL_APART><FALL_APART>노닥거릴 시간 없는데…</FALL_APART><ATTACK>등에 자국이 남으면 곤란하니까.</ATTACK><COUNTER>구석구석 꼼꼼히 발라 줘.</COUNTER><DIRECT>저질… 뭘 그리 빤히 쳐다보는거지?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301323</ID><JOIN>바다에는 안들어가냐고요?</JOIN><JOIN>아차.. 순례… 순례…</JOIN><FALL_APART>아… 전부 허물어져버렸네요…</FALL_APART><FALL_APART>이런 교회를 짓는게 꿈이랍니다.</FALL_APART><ATTACK>따…딱히 수영을 못하는건 아니에요.</ATTACK><COUNTER>그렇다고 강제로 끌고가시면…</COUNTER><DIRECT>물놀이 보단 그래도 모래사장쪽이 더…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301324</ID><JOIN>이 시간대면 아무도 없을줄 알았는데.</JOIN><JOIN>그냥 혼자 있고 싶을 뿐이야.</JOIN><FALL_APART>조용히 해. 소금물 마시기 싫으면.</FALL_APART><FALL_APART>파도소리가 사라져버렸잖아.</FALL_APART><ATTACK>너 때문에 파도소리가 사라졌잖아.</ATTACK><COUNTER>이 바다에 같이 가라앉게 해줄까?</COUNTER><DIRECT>혼자 있고 싶은데… 사라져줄래?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301325</ID><JOIN>잠수라면 자신 있어.</JOIN><JOIN></JOIN><FALL_APART>사실 맥주병이야…</FALL_APART><FALL_APART></FALL_APART><ATTACK>두 눈 크게 뜨고 찾아봐야 해.</ATTACK><COUNTER>진주 발견!... 이아니라 그냥 구슬…?</COUNTER><DIRECT>그…그런데 어떻게 올라가는 거지…?</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

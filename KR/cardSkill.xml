@@ -1010,7 +1010,7 @@
 <CARD_SKILL><ID>110525</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 랜덤한 추종자 1의 공/체 -1. 랜덤한 자신필드 랜덤한 추종자 1의 공/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110526</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 마지막 특수능력은 사라진다. 해당 추종자가 특수능력이 없을 경우, 상대 라이프 -2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110527</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 방어력 만큼 해당 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110528</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴 개시시:  상대 추종자 전체 방어력 -2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110528</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴 개시시: 상대 추종자 전체 방어력 -2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110529</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 핸드 랜덤한 카드 1을 상대 무덤으로 보낸다. 해당 카드가 스펠일 경우, 상대 필드 추종자 전체 방어력 =0. 추종자일 경우,이 카드의 라이프 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110530</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자1의 특수능력은 "공격전: 이 카드의 공격력+3"이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110531</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 모든 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
@@ -1030,7 +1030,7 @@
 <CARD_SKILL><ID>110545</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 라이프 +1. 상대 덱 랜덤한 추종자 1의 마지막 특수능력은 사라진다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110546</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 사이즈 =1. 공/방/체 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110547</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 덱 추종자 전체는 행동종료 상태가 된다. 상대 셔플 수 -1. 자신 셔플 수 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110548</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 마지막 빈 슬롯에 사이즈 =2. 공/방/체= 4/2/4 "방어전: 자신 덱 추종자 전체 공격력 -1." 특수능력을 보유한 묘족 정보원 카드 1을 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110548</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 마지막 빈 슬롯에 사이즈 =2. 공/방/체= 4/2/4 "공격전: 자신 덱 추종자 전체 공격력 -1." 특수능력을 보유한 묘족 정보원 카드 1을 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110549</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 마지막 빈 슬롯에 사이즈 =2. 공/방/체= 4/2/4. "공격전: 자신 필드 추종자 전체 행동종료 상태가 된다." 특수능력을 보유한 묘족 정보원 카드 1을 배치한다. 상대 무덤 묘족 정보원 수만큼 자신 필드 랜덤한 추종자 1의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120001</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 모든 추종자의 사이즈 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 사이즈 3 이하 자신필드 추종자 전체 공/체 +2</span>]]></TEXT></CARD_SKILL>

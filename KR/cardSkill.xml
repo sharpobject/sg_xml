@@ -3810,5 +3810,5 @@
 <CARD_SKILL><ID>2630</ID><NAME>약점발견이댜냐.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 추종자 전체 공격력 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2631</ID><NAME>민폐다냐.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 추종자 전체 행동종료 상태가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2632</ID><NAME>빛의 소집</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치만큼 자신 캐릭터와 같은 소속의 자신 덱 랜덤한 카드를 사이즈 -2 하여,자신 덱 맨위로 옮긴다.옮긴 카드 수만큼 이 카드의 공/체 증가.이 특수능력은 사라진다. </span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2633</ID><NAME>빛의 말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 강화수치가 1이상일 경우,공격 추종자의 턴개시시 특수능력은 사라진다.해당 특수능력이 없을 경우,방어 추종자의 체력 -3.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2633</ID><NAME>빛의 말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 강화수치가 1이상일 경우,공격 추종자의 턴개시시 특수능력은 사라진다.해당 특수능력이 없을 경우,공격 추종자의 체력 -3.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

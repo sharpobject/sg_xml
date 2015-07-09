@@ -2174,6 +2174,7 @@
 <CARD_SKILL><ID>201057</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우, 자신 핸드 다크로어 카드 수만큼 자신 필드 랜덤한 추종자 1의 사이즈 감소. 해당 추종자가 다크로어 소속일 경우 추가로 자신 핸드 카드 수의 절반(내림)만큼 랜덤한 상대 무덤 카드를 자신 무덤으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201058</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 첫 번째 카드를 제거한다. 10 - 자신 필드 카드의 수의 두배만큼 상대 필드 첫 번째 슬롯 추종자의 체력 감소. 자신 덱 맨 아래 있는 카드를 자신 필드 마지막 슬롯에 사이즈 =1.로 하여 복사한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201059</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201060</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 랜덤한 추종자 1의 공/체 +3. 상대 캐릭터가 NPC일 경우 추가로 사이즈 -2. 자신 게임 수가 5000 이하일 경우, 자신 필드 첫번째 빈 슬롯에 시즌 3이하의 랜덤한 추종자 1을 사이즈 =1하여 생성한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -3808,4 +3809,6 @@
 <CARD_SKILL><ID>2629</ID><NAME>정보수집중이다냐.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 추종자 전체 체력 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2630</ID><NAME>약점발견이댜냐.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 추종자 전체 공격력 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2631</ID><NAME>민폐다냐.</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 추종자 전체 행동종료 상태가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2632</ID><NAME>빛의 소집</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치만큼 자신 캐릭터와 같은 소속의 자신 덱 랜덤한 카드를 사이즈 -2 하여,자신 덱 맨위로 옮긴다.옮긴 카드 수만큼 이 카드의 공/체 증가.이 특수능력은 사라진다. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2633</ID><NAME>빛의 말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 강화수치가 1이상일 경우,공격 추종자의 턴개시시 특수능력은 사라진다.해당 특수능력이 없을 경우,방어 추종자의 체력 -3.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

@@ -1093,4 +1093,5 @@
 <TALK_PATTERN><ID>f301327</ID><JOIN>이런 거짓된 피는 이제 지긋지긋해.</JOIN><JOIN>네 피라면 언제든 해줄게.</JOIN><FALL_APART>순혈이 필요해. 네 피라도 좋아.</FALL_APART><FALL_APART>이런 거짓된 피로 날 속이지 마.</FALL_APART><ATTACK>너도 한 잔 해보겠나?</ATTACK><COUNTER>너의 피라면 나를 만족시킬 수 있을 것 같아.</COUNTER><DIRECT>그럼 너의 그 신선한 피 잘.먹.겠.어.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301328</ID><JOIN>직접 나서야만 하는건가요?</JOIN><JOIN></JOIN><FALL_APART>진리를 외면하지 말아 주세요.</FALL_APART><FALL_APART>싸움은… 좋지 않아요…</FALL_APART><ATTACK>이단은 용서할 수 없습니다.</ATTACK><COUNTER>늦지 않았습니다. 회개하세요.</COUNTER><DIRECT>당신의 죄를 정화하겠습니다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301329</ID><JOIN>하암.. 슬슬 질리던 참이었어.</JOIN><JOIN>어깨 좀 주물러 줄래? 아니면…</JOIN><FALL_APART>오랜만에 움직였더니 피곤한걸?</FALL_APART><FALL_APART>나… 더는 참을 수 없어…</FALL_APART><ATTACK>너는… 나를 만족 시켜줄 수 있는거야?</ATTACK><COUNTER>슬슬 재밌어지는데? 그렇지?</COUNTER><DIRECT>어라 벌써? 고작 이 정도? 아하핫!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301330</ID><JOIN>빛을 찾아먄 해…</JOIN><JOIN>빛을…용서할 수 없어…</JOIN><FALL_APART>모든 빛을 말살할때 까지…</FALL_APART><FALL_APART>나의 빛은 어디에…</FALL_APART><ATTACK>너의 빛도 곧…</ATTACK><COUNTER>나의 어둠을 걷어가버린 빛…</COUNTER><DIRECT>이 세계는 이미 왜곡되버렸어…</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

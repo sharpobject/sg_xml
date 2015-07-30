@@ -252,5 +252,10 @@
 <CASH_ITEM> <ID>Mat022</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>당주 루나플리나</NAME> <ICON_FILE>gamebg_mat_022</ICON_FILE> <PRICE>5000</PRICE> <TEXT>당주 루나플리나의 매트를 구매합니다.|게임배경을 당주 루나플리나로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat023</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>이스펠트</NAME> <ICON_FILE>gamebg_mat_023</ICON_FILE> <PRICE>5000</PRICE> <TEXT>이스펠트의 매트를 구매합니다.|게임배경을 이스펠트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat024</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>카넬</NAME> <ICON_FILE>gamebg_mat_024</ICON_FILE> <PRICE>5000</PRICE> <TEXT>카넬의 매트를 구매합니다.|게임배경을 카넬로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat025</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>시타 빌로사</NAME> <ICON_FILE>gamebg_mat_025</ICON_FILE> <PRICE>5000</PRICE> <TEXT>시타 빌로사의 매트를 구매합니다.|게임배경을 시타 빌로사로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat026</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>학생회장 시니아</NAME> <ICON_FILE>gamebg_mat_026</ICON_FILE> <PRICE>5000</PRICE> <TEXT>학생회장 시니아의 매트를 구매합니다.|게임배경을 학생회장 시니아로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat027</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>제이나의 부관 루티카</NAME> <ICON_FILE>gamebg_mat_027</ICON_FILE> <PRICE>5000</PRICE> <TEXT>제이나의 부관 루티카의 매트를 구매합니다.|게임배경을 제이나의 부관 루티카로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat028</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>감춰진 힘의 개방</NAME> <ICON_FILE>gamebg_mat_028</ICON_FILE> <PRICE>5000</PRICE> <TEXT>감춰진 힘의 개방의 매트를 구매합니다.|게임배경을 감춰진 힘의 개방로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat029</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>편익의 에델펠트</NAME> <ICON_FILE>gamebg_mat_029</ICON_FILE> <PRICE>5000</PRICE> <TEXT>편익의 에델펠트의 매트를 구매합니다.|게임배경을 편익의 에델펠트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

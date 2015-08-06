@@ -2180,6 +2180,10 @@
 <CARD_SKILL><ID>201058</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 첫 번째 카드를 제거한다. 10 - 자신 필드 카드의 수의, 두배만큼 상대 필드 첫 번째 슬롯 추종자의 체력 감소. 자신 덱 맨 아래 있는 카드를 자신 필드 마지막 슬롯에 사이즈 =1.로 하여 복사한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201059</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201060</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 랜덤한 추종자 1의 공/체 +3. 상대 캐릭터가 NPC일 경우 추가로 사이즈 -2. 자신 게임 수가 5000 이하일 경우, 자신 필드 첫번째 빈 슬롯에 시즌 3이하의 랜덤한 추종자 1을 사이즈 =1하여 생성한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201061</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 공립소속일 경우, 상대 필드 추종자 전체 턴개시시 특수능력은 사라진다. 전체 필드 추종자 전체의 공격력 =0. 방어력 =0. “턴개시시: 이 카드의 공격력과 방어력은 본래 수치가 된다. 이 특수능력은 사라진다” 특수능력을 얻는다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201062</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우, 자신과 상대 핸드 빈슬롯 수의 합만큼, 상대 필드 랜덤한 추종자 2의 체력 감소. 해당 추종자는 행동 종료 상태가 된다. 이 카드의 사이즈가 2이하일 경우, 추가로 자신 셔플 수 +2. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201063</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 셔플 수 +1이하의 사이즈를 가지는 상대 필드 랜덤한 카드 1을 상대 무덤으로 보낸다. 해당 카드 사이즈 이하의 사이즈를 가지는 자신 무덤 랜덤한 다크로어 추종자 1을 자신 필드 마지막 슬롯에 배치한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201064</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -3817,4 +3821,17 @@
 <CARD_SKILL><ID>2632</ID><NAME>빛의 말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 강화수치가 1이상일 경우,공격 추종자의 턴개시시 특수능력은 사라진다.해당 특수능력이 없을 경우,공격 추종자의 체력 -3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2633</ID><NAME>수분보충</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 핸드 빈 공간수의 절반(내림)만큼 자신 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2634</ID><NAME>광란의 연주</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 첫 번째 카드를 자신 덱 맨밑으로 보낸다.옮긴 카드가 다크로어 소속일 경우 이 카드의 공/체 +1/+2. 옮긴 카드 종류에 따라 다음 효과를 적용한다. ●스펠: 방어 추종자의 마지막 특수능력은 사라진다.●추종자: 방어 추종자의 체력 -3. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2635</ID><NAME>사상관찰</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 방어력 =0. 변화치의 절반(올림)만큼 자신 덱 랜덤한 추종자 1의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2636</ID><NAME>사상간섭</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 전체 필드 방어력= 0인 카드 수의 두 배 만큼 방어 추종자의 체력 감소. 공격력 =0인 카드 수만큼 방어 추종자의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2637</ID><NAME>거짓된 가면</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 핸드 랜덤한 추종자 1과 이 카드의 방어력을 교환한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2638</ID><NAME>악마의 수</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 캐릭터가 사립 소속일 경우, 이 카드의 사이즈와 공/방/체 +1. 이 카드의 사이즈가 6이상일 경우, 이 카드를 제거한다. 상대 덱 추종자 전체 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2639</ID><NAME>피의 향연</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈 +1. 이 카드의 사이즈의 절반(내림)만큼 공격 추종자의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2640</ID><NAME>이단말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력과 방어추종자의 방어력 차이의 절반(내림)만큼 방어추종자를 제외한 상대필드 추종자 전체 체력 감소.이 특수능력은 "턴개시시:본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2641</ID><NAME>여신의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 카드 수 -1 만큼 이 카드의 체력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2642</ID><NAME>정찰활동</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 핸드 카드 전체 다크로어 소속일 경우,상대 셔플 수 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2643</ID><NAME>천리교의 비기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 라이프가 20이상일 경우,이 카드의 사이즈 =1. 공/체 +2. 30이상일 경우,추가로 상대 라이프 -3.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2644</ID><NAME>그림자 수사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 다크로어 소속 카드 수 만큼 공격 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2645</ID><NAME>수호자의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드와 자신 덱/핸드 원래 공/방/체 이하의 공/방/체를 가진 추종자 전체의 공/방/체는 원래 공/방/체 +1.이 된다.이 특수능력은 사라지지도 변경되지도 않는다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2646</ID><NAME>카나의 검</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 마지막 특수능력은 사라진다.방어 추종자의 공격전 특수능력을 이 카드에게 이전한다.해당 특수능력이 없을 경우,방어 추종자의 체력 -4.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2647</ID><NAME>헤롱헤롱</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 공격력과 방어력은 본래 수치가 된다. 이 특수능력은 사라진다</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

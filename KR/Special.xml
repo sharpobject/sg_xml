@@ -2,9 +2,9 @@
 <ALBUM_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 <ALBUM>
-<ID>108_4</ID>
+<ID>110_1</ID>
 <NAME><![CDATA[게임룰:EX, 캐릭터와 동일소속 카드만,더블레어+이벤트 카드5↓,레어 카드 9↓, 트리플레어X, 0강화고정]]></NAME>
-<IMAGE_FILE>Ladder108_4.png</IMAGE_FILE>
+<IMAGE_FILE>Ladder110_1.png</IMAGE_FILE>
 <TITLE_CARD>100379</TITLE_CARD>
 <CARD_NO>100379</CARD_NO>
 <CARD_NO>300002</CARD_NO>
@@ -37,10 +37,12 @@
 <CARD_NO>200861</CARD_NO>
 <CARD_NO>200974</CARD_NO>
 <CARD_NO>200997</CARD_NO>
+</ALBUM>
+
 <ALBUM>
-<ID>108_4</ID>
+<ID>25_1</ID>
 <NAME><![CDATA[게임룰:EX, 덱 포인트 600↓, 캐릭터와 동일소속 카드만, 짝수 사이즈만, 이벤트,트리플레어X]]></NAME>
-<IMAGE_FILE>Ladder108_4.png</IMAGE_FILE>
+<IMAGE_FILE>Ladder25_1.png</IMAGE_FILE>
 <TITLE_CARD>100379</TITLE_CARD>
 <CARD_NO>100379</CARD_NO>
 <CARD_NO>300246</CARD_NO>

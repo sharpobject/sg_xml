@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CASH_ITEM_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CASH_ITEM>
+		<ID>Item001</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>テント</NAME>
+		<ICON_FILE>item_01.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>現在の階数を保存します。||次のプレイ時、保存した階層からプレイすることが出来ます。|プレイと同時に保存データは削除されます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item003</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>高級修行場の鍵</NAME>
+		<ICON_FILE>item_02.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>高級修行場で修行を始めます。||高級修行場は一般修行場同じ修行値が適用|一般修行場と一緒に使用時、同時に|二人の行場をする事が出来ます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item002</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>魔法の銀時計</NAME>
+		<ICON_FILE>item_03.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>残り修行時間を５０％減少させます。||重複して使用できます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item004</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>守護の聖物(一般)</NAME>
+		<ICON_FILE>item_05.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>強化回数2回以上の時に使用可能。||材料カード1枚を保護し強化を行います。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item029</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>守護の聖物(高級)</NAME>
+		<ICON_FILE>item_05.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<TEXT>強化回数2回以上の時に使用可能。||材料カード1枚を保護し強化を行います。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item005</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>高級強化場の鍵</NAME>
+		<ICON_FILE>item_04.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>高級強化上から強化する為に必要です。||強化成功確立が一般強化上の２倍です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item006</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>魔法の金時計</NAME>
+		<ICON_FILE>item_06.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>探査時間を２倍に計算。||探査完了時の探査時間を２倍に計算します|探査ごとに１回適用可能。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item007</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>推薦図書</NAME>
+		<ICON_FILE>item_07.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>知性が少し上がる。||知性が５００の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item008</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>推薦図書セット</NAME>
+		<ICON_FILE>item_08.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>知性が大きく上がる。||知性が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item009</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>薔薇</NAME>
+		<ICON_FILE>item_09.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>感性が少し上がる。.||感性が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item010</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>薔薇の花束</NAME>
+		<ICON_FILE>item_10.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>感性が大きく上がる。.||感性が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item011</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>ヘアバンド</NAME>
+		<ICON_FILE>item_11.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>個性が少し上がる。.||個性が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item012</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>猫耳ヘアバンド</NAME>
+		<ICON_FILE>item_12.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>個性が大きく上がる。.||個性が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item013</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>パンツ</NAME>
+		<ICON_FILE>item_13.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>魅力が少し上がる。.||魅力が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item014</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>下着セット</NAME>
+		<ICON_FILE>item_14.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>魅力が大きく上がる。.||魅力が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item015</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>ピコハンマー</NAME>
+		<ICON_FILE>item_15.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>知性2下がる||知性が0の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item016</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>軍手</NAME>
+		<ICON_FILE>item_16.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>感性2下がる||感性が0の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item017</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>モンペ</NAME>
+		<ICON_FILE>item_17.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>個性2下がる||個性が0の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item018</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>アフロヘアー</NAME>
+		<ICON_FILE>item_18.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>魅力2下がる||魅力が0の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item019</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>特製パフェ</NAME>
+		<ICON_FILE>item_19.png</ICON_FILE>
+		<PRICE>800</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>ランダムな数値がが大きく上がる。.||全ての数値が500の場合購買不可。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item020</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>金の指輪</NAME>
+		<ICON_FILE>item_20.png</ICON_FILE>
+		<PRICE>800</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>好感度が少し上がる。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item021</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>ダイヤの指輪</NAME>
+		<ICON_FILE>item_21.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<PRESENT_NO>1</PRESENT_NO>
+		<TEXT>好感度が大きく上がる。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item022</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>公立基本デッキ</NAME>
+		<ICON_FILE>booster_deck_001.png</ICON_FILE>
+		<PRICE>8000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>公立基本デッキ + 材料カードをボーナス</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item023</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>私立基本デッキ</NAME>
+		<ICON_FILE>booster_deck_002.png</ICON_FILE>
+		<PRICE>8000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>私立基本デッキ + 材料カードをボーナス</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item024</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>クルックス基本デッキ</NAME>
+		<ICON_FILE>booster_deck_003.png</ICON_FILE>
+		<PRICE>8000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>クルックス基本デッキ + 材料カードをボーナス</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item025</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>ダークロア基本デッキ</NAME>
+		<ICON_FILE>booster_deck_004.png</ICON_FILE>
+		<PRICE>8000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>ダークロア基本デッキ + 材料カードをボーナス</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item026</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>鉱石変換許可書</NAME>
+		<ICON_FILE>item_26.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>鉱石変換可能回数を|初期化します。|USEをクリックすると直ちに|購買、適用されます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item027</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>材料変換許可書</NAME>
+		<ICON_FILE>item_27.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>材料変換可能回数を|初期化します。|USEをクリックすると直ちに|購買、適用されます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item028</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>魔法の地図</NAME>
+		<ICON_FILE>item_28.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>魔法の森で探査を行います。|シーズン１のファイト材料カードを獲得できます。|最小2時間から、最大24時間まで|時間が経つほど、より沢山の材料を|獲得できます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item030</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>保管箱の鍵</NAME>
+		<ICON_FILE>item_29.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>期間：無制限|使用出来るデッキスロットが１個|増加します。最大10個まで|増やすことが出来ます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item031</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>機会のコイン</NAME>
+		<ICON_FILE>item_30.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>もう一度ボスに挑戦できます。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item032</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 緑スリーブ</NAME>
+		<ICON_FILE>item_32.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>裏側のイメージが|「緑スリーブ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item033</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 赤スリーブ</NAME>
+		<ICON_FILE>item_33.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>裏側のイメージが|「赤スリーブ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item034</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 青スリーブ</NAME>
+		<ICON_FILE>item_34.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>裏側のイメージが|「青スリーブ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item035</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 黒スリーブ</NAME>
+		<ICON_FILE>item_35.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>裏側のイメージが|「黒スリーブ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item036</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / ソードガールズ スペシャル</NAME>
+		<ICON_FILE>item_36.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<TEXT>裏側のイメージが|「ソードガールズ スペシャル」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item037</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 基本スリーブ</NAME>
+		<ICON_FILE>item_37.png</ICON_FILE>
+		<PRICE>0</PRICE>
+		<TEXT>裏側のイメージが|「基本スリーブ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item038</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / シタ・ヴィロサ</NAME>
+		<ICON_FILE>item_38.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<TEXT>裏側のイメージが|「シタ・ヴィロサ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item039</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / シニア・パシフィカ</NAME>
+		<ICON_FILE>item_39.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<TEXT>裏側のイメージが|「シニア・パシフィカ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item040</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / ルティカ・プリベンター</NAME>
+		<ICON_FILE>item_40.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<TEXT>裏側のイメージが|「ルティカ・プリベンター」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item041</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / アイリ・プリナ</NAME>
+		<ICON_FILE>item_41.png</ICON_FILE>
+		<PRICE>2000</PRICE>
+		<TEXT>裏側のイメージが|「アイリ・プリナ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item042</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 秘奥義・疾風一閃</NAME>
+		<ICON_FILE>item_42.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「秘奥義・疾風一閃」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item043</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 私立ロイル学園</NAME>
+		<ICON_FILE>item_43.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「私立ロイル学園」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item044</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 捲土重來</NAME>
+		<ICON_FILE>item_44.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「捲土重來」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item045</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / ヴェルニカの世界</NAME>
+		<ICON_FILE>item_45.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「ヴェルニカの世界」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item046</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 戦場のシタ</NAME>
+		<ICON_FILE>item_46.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「戦場のシタ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item047</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 真紅の魔女シニア</NAME>
+		<ICON_FILE>item_47.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「真紅の魔女 シニア」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item048</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ /  教国の敵ルティカ</NAME>
+		<ICON_FILE>item_48.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「 教国の敵 ルティカ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item049</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / バンパイアハンターアイリ</NAME>
+		<ICON_FILE>item_49.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「バンパイアハンター アイリ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item050</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / ペンギンの着ぐるみ</NAME>
+		<ICON_FILE>item_50.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「ペンギンの着ぐるみ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item051</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 熱血パンダ</NAME>
+		<ICON_FILE>item_51.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「熱血パンダ」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item052</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 飮酒聖獣</NAME>
+		<ICON_FILE>item_52.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「飮酒聖獣」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item053</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>スリーブ / 血液配達</NAME>
+		<ICON_FILE>item_53.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>裏側のイメージが|「血液配達」に換わります。|購入後、何度でも変更可能です。</TEXT>
+	</CASH_ITEM>
+
+
+	<CASH_ITEM>
+		<ID>Item054</ID>
+		<ITEM_TYPE>SingleCard</ITEM_TYPE>
+		<NAME>タレンチウムの玉</NAME>
+		<ICON_FILE>item_54.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>「タレンチウムの玉」カードを購入します。||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item055</ID>
+		<ITEM_TYPE>SingleCard</ITEM_TYPE>
+		<NAME>タレンチウムのインゴット</NAME>
+		<ICON_FILE>item_55.png</ICON_FILE>
+		<PRICE>4000</PRICE>
+		<TEXT>「タレンチウムのインゴット」カードを購入します。||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item056</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>生徒会 ストラクチャーデッキ</NAME>
+		<ICON_FILE>booster_deck_005.png</ICON_FILE>
+		<PRICE>20000</PRICE>
+		<TEXT>生徒会 ストラクチャーデッキを購入します。||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item057</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>メイド ストラクチャーデッキ</NAME>
+		<ICON_FILE>booster_deck_006.png</ICON_FILE>
+		<PRICE>20000</PRICE>
+		<TEXT>メイド ストラクチャーデッキを購入します。||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item058</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>神聖研究会 ストラクチャーデッキ</NAME>
+		<ICON_FILE>booster_deck_007.png</ICON_FILE>
+		<PRICE>20000</PRICE>
+		<TEXT>神聖研究会 ストラクチャーデッキを購入します。||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item059</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>魔女 ストラクチャーデッキ</NAME>
+		<ICON_FILE>booster_deck_008.png</ICON_FILE>
+		<PRICE>20000</PRICE>
+		<TEXT>魔女 ストラクチャーデッキを購入します。||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item064</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>少女の部屋の鍵</NAME>
+		<ICON_FILE>item_64.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>少女の部屋で探査を行います。|シーズン２のファイト材料カードを獲得できます。|最小2時間から、最大24時間まで|時間が経つほど、より沢山の材料を|獲得できます。.</TEXT>
+	</CASH_ITEM>
+
+
+	<CASH_ITEM>
+		<ID>Item065</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>ニックネーム変更券</NAME>
+		<ICON_FILE>item_65.png</ICON_FILE>
+		<PRICE>5000</PRICE>
+		<TEXT>ニックネームを変更します。</TEXT>
+	</CASH_ITEM>
+<CASH_ITEM>  <ID>Item079</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 探偵 アスミス</NAME>  <ICON_FILE>item_79.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「探偵 アスミス」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item080</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / リヌス・ファルコ</NAME>  <ICON_FILE>item_80.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「リヌス・ファルコ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item081</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 騎士団のロゼ</NAME>  <ICON_FILE>item_81.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「騎士団のロゼ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item082</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / ヘレナ・K・シンク</NAME>  <ICON_FILE>item_82.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「ヘレナ・K・シンク」換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item083</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / リオの結界</NAME>  <ICON_FILE>item_83.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「リオの結界」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item084</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / セリエ</NAME>  <ICON_FILE>item_84.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「セリエ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item085</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / メイドのルナ</NAME>  <ICON_FILE>item_85.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「メイドのルナ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item086</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / サードインパクト</NAME>  <ICON_FILE>item_86.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「サードインパクト」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item087</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / クレセントのコナンドラム</NAME>  <ICON_FILE>item_87.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「クレセントのコナンドラム」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item094</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 紀元閲覧者</NAME>  <ICON_FILE>item_94.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「紀元閲覧者」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item095</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / チルシ</NAME>  <ICON_FILE>item_95.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「チルシ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item096</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / ロトリ</NAME>  <ICON_FILE>item_96.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「ロトリ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item097</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / リオン・フリナ</NAME>  <ICON_FILE>item_97.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「リオン・フリナ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item098</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / エリシュキガル</NAME>  <ICON_FILE>item_98.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「エリシュキガル」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item099</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 黄金の獅子、ノルド</NAME>  <ICON_FILE>item_99.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが|「黄金の獅子、ノルド」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item100</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 聖見鳥、ガット</NAME>  <ICON_FILE>item_100.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが|「聖見鳥、ガット」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item101</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 黄昏の狼、ジンジャ</NAME>  <ICON_FILE>item_101.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが|「黄昏の狼、ジンジャ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item102</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 微旋風の精、カネル</NAME>  <ICON_FILE>item_102.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが|「微旋風の精、カネル」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item103</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 天馬、シグマ</NAME>  <ICON_FILE>item_103.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが|「天馬、シグマ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item104</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 片翼のエデルペルト</NAME>  <ICON_FILE>item_104.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「片翼のエデルペルト」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item105</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 特異点リオ</NAME>  <ICON_FILE>item_105.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「特異点リオ」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item106</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 漆黒猫キット</NAME>  <ICON_FILE>item_106.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「漆黒猫キット」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+<CASH_ITEM>  <ID>Item107</ID>  <ITEM_TYPE>CardBackground</ITEM_TYPE>  <NAME>スリーブ / 百鯨クレバス</NAME>  <ICON_FILE>item_107.png</ICON_FILE>  <PRICE>4000</PRICE>  <TEXT>裏側のイメージが| 「百鯨クレバス」に換わります。|購入後、何度でも変更可能です。</TEXT> </CASH_ITEM>
+
+<CASH_ITEM> <ID>Item116</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>ビギナーズ・エディション(公立)</NAME> <ICON_FILE>booster_deck_010.png</ICON_FILE> <PRICE>10000</PRICE> <TEXT>ビギナー向けの公立エディション</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item117</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>ビギナーズ・エディション(私立)</NAME> <ICON_FILE>booster_deck_011.png</ICON_FILE> <PRICE>10000</PRICE> <TEXT>ビギナー向けの私立エディション</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item118</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>ビギナーズ・エディション(クルックス)</NAME> <ICON_FILE>booster_deck_012.png</ICON_FILE> <PRICE>10000</PRICE> <TEXT>ビギナー向けのクルックスエディション</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item119</ID> <ITEM_TYPE>Deck</ITEM_TYPE> <NAME>ビギナーズ・エディション(ダークロア)</NAME> <ICON_FILE>booster_deck_013.png</ICON_FILE> <PRICE>10000</PRICE> <TEXT>ビギナー向けのダークロアエディション</TEXT> </CASH_ITEM>
+
+</CASH_ITEM_DATA>

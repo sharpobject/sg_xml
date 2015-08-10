@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ITEM_SHOP_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+  <ITEM>
+    <ID>Item054</ID>
+    <NAME>タレンチウムの玉</NAME>
+    <IMAGE_FILE>item_54.png</IMAGE_FILE>
+    <TITLE_CARD>210021</TITLE_CARD>
+    <PRICE>4000</PRICE>
+  </ITEM>
+  <ITEM>
+    <ID>Item055</ID>
+    <NAME>タレンチウムのインゴット</NAME>
+    <IMAGE_FILE>item_55.png</IMAGE_FILE>
+    <TITLE_CARD>0200222</TITLE_CARD>
+    <PRICE>4000</PRICE>
+  </ITEM>
+
+</ITEM_SHOP_DATA>

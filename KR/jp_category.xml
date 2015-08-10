@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CATEGORY_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CATEGORY>
+		<ACTIVE_SCENE>9</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>スリーブ</NAME>
+		<ICON_FILE>library_sleeve.png</ICON_FILE>
+		<TITLE_FILE>JP_library_sleeve_title.png</TITLE_FILE>
+	</CATEGORY>
+	
+	<CATEGORY>
+		<ACTIVE_SCENE>13</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>ブースター</NAME>
+		<ICON_FILE>shop_booster.png</ICON_FILE>
+		<TITLE_FILE>JP_shop_booster_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>13</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>デッキ</NAME>
+		<ICON_FILE>shop_deck.png</ICON_FILE>
+		<TITLE_FILE>JP_shop_deck_title.png</TITLE_FILE>
+	</CATEGORY>
+	
+	<CATEGORY>
+		<ACTIVE_SCENE>13</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>アイテム</NAME>
+		<ICON_FILE>shop_item.png</ICON_FILE>
+		<TITLE_FILE>JP_shop_item_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>17</ACTIVE_SCENE>
+		<ID>4</ID>
+		<NAME>メダルショップ</NAME>
+		<ICON_FILE>coinshop.png</ICON_FILE>
+		<TITLE_FILE>JP_coinshop_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>10</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>一般強化場</NAME>
+		<ICON_FILE>enchant_normal.png</ICON_FILE>
+		<TITLE_FILE>jp_title_normalenchant.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>10</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>高級強化場</NAME>
+		<ICON_FILE>enchant_premium.png</ICON_FILE>
+		<TITLE_FILE>jp_title_premiumenchant.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>14</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>鉱石交換</NAME>
+		<ICON_FILE>alchemy_stone.png</ICON_FILE>
+		<TITLE_FILE>jp_alchemy_stone_title.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>14</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>材料交換</NAME>
+		<ICON_FILE>alchemy_meterial.png</ICON_FILE>
+		<TITLE_FILE>jp_alchemy_meterial_title.png</TITLE_FILE>
+	</CATEGORY>	
+	<CATEGORY>
+		<ACTIVE_SCENE>14</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>ダブルレア交換</NAME>
+		<ICON_FILE>alchemy_double.png</ICON_FILE>
+		<TITLE_FILE>jp_alchemy_double_title.png</TITLE_FILE>
+	</CATEGORY>
+
+	<CATEGORY>
+		<ACTIVE_SCENE>16</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>交換事務局</NAME>
+		<ICON_FILE>exchange.png</ICON_FILE>
+		<TITLE_FILE>jp_exchane_title.png</TITLE_FILE>
+	</CATEGORY>
+
+
+	<CATEGORY>
+		<ACTIVE_SCENE>8</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>一般修行場</NAME>
+		<ICON_FILE>training_normal.png</ICON_FILE>
+		<TITLE_FILE>jp_title_normaltraning.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>8</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>高級修行場</NAME>
+		<ICON_FILE>training_high.png</ICON_FILE>
+		<TITLE_FILE>jp_title_premiumtraining.png</TITLE_FILE>
+	</CATEGORY>
+	
+
+	<CATEGORY>
+		<ACTIVE_SCENE>12</ACTIVE_SCENE>
+		<ID>1</ID>
+		<NAME>鉱山</NAME>
+		<ICON_FILE>camping_01.png</ICON_FILE>
+		<TITLE_FILE>jp_campingtitle_01.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>12</ACTIVE_SCENE>
+		<ID>2</ID>
+		<NAME>魔法の森</NAME>
+		<ICON_FILE>camping_02.png</ICON_FILE>
+		<TITLE_FILE>jp_campingtitle_02.png</TITLE_FILE>
+	</CATEGORY>
+	<CATEGORY>
+		<ACTIVE_SCENE>12</ACTIVE_SCENE>
+		<ID>3</ID>
+		<NAME>少女の部屋</NAME>
+		<ICON_FILE>camping_03.png</ICON_FILE>
+		<TITLE_FILE>jp_campingtitle_03.png</TITLE_FILE>
+	</CATEGORY>
+
+
+</CATEGORY_DATA>

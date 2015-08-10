@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TUTORIAL_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TUTORIAL_PAGE>
+		<ID>0</ID>
+		<TITLE>ようこそ!</TITLE>
+		<IMAGE_FILE>.</IMAGE_FILE>
+		<STATE>0</STATE>
+		<MSG><![CDATA[ソード・ガールズの世界へようこそ！<br></br>ゲームを初めてプレイする方のためにチュートリアルを<br></br>提供しています。<br></br><br></br>チュートリアルを完了した方には<br></br>プレゼントも用意されています。<br></br>チュートリアルへ進行しますか？]]></MSG>
+	</TUTORIAL_PAGE>
+	
+	<TUTORIAL_PAGE>
+		<ID>1</ID>
+		<TITLE>カードの種類</TITLE>
+		<IMAGE_FILE>jp_tuto_1_rule.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[ソード・ガールズのカードは<br></br><span fontWeight="bold" color="#0ba8f9">キャラクター、スペル、フォロワー</span>に区分されます。<br></br><span fontWeight="bold" color="#0ba8f9">キャラクター</span>は中心となるカードで、<br></br><span fontWeight="bold" color="#0ba8f9">スペル</span>は特別な能力を持つ１回用のカード、<br></br><span fontWeight="bold" color="#0ba8f9">フォロワー</span>は直接戦闘を行うカードです。]]></MSG>
+	</TUTORIAL_PAGE>
+	
+	<TUTORIAL_PAGE>
+		<ID>2</ID>
+		<TITLE>カードのサイズ</TITLE>
+		<IMAGE_FILE>tuto_2_rule.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[スペルカードとフォロワーカードには <span fontWeight="bold" color="#0ba8f9">サイズ</span>が存在します。<br></br>毎ターン スペルカードとフォロワーカードを選択し<br></br>クリックするとフィールドに乗せることが出来ます。<br></br>この時フィールドに乗せるカードの<span fontWeight="bold" color="#0ba8f9">サイズ</span><br></br>の合計は<span fontWeight="bold" color="#0ba8f9">10</span>を超えることが出来ません。]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>3</ID>
+		<TITLE>先頭の始め</TITLE>
+		<IMAGE_FILE>tuto_3_fight.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[1. カードを  <span fontWeight="bold" color="#0ba8f9">10サイズ</span>以内で選択します。<br></br><br></br>2. <span fontWeight="bold" color="#0ba8f9">READY</span>をクリックします。<br></br><br></br>これで戦闘が始まります。<br></br><br></br> ※行動制限時間は<span fontWeight="bold" color="#0ba8f9">３０秒</span>です。]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>4</ID>
+		<TITLE>戦闘の進行</TITLE>
+		<IMAGE_FILE>tuto_4_fight.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[READYをクリックするとコインを投げて先攻を定めた後、<br></br>交替で攻撃を始めます。<br></br>この際、攻撃の順番と攻撃ターゲットはランダムで定められます。<br></br>1. フォロワーカードが破壊されたとか<br></br>2. 防御するフォロワーが無い場合<br></br>キャラクターの<span fontWeight="bold" color="#0ba8f9">ライフ</span>が減少し、<br></br>相手のキャラクターの<span fontWeight="bold" color="#0ba8f9">ライフ</span>が<br></br>が０になると戦闘での勝利となります。]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>5</ID>
+		<TITLE>各メニュー説明</TITLE>
+		<IMAGE_FILE>jp_tuto_5_menu.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[<span fontWeight="bold" color="#0ba8f9">DUNGEON</span> - NPCと対戦します。<br></br><span fontWeight="bold" color="#0ba8f9">FIGHT</span> - ランダムにユーザと対戦します<br></br><span fontWeight="bold" color="#0ba8f9">SHOP</span> - 有料アイテムを購入します。.<br></br><span fontWeight="bold" color="#0ba8f9">DECK</span> - 対戦で使うカードを選択します。<br></br><span fontWeight="bold" color="#0ba8f9">LAB</span> - 様々なコンテンツが集まっています。<br></br>各メニューの機能は左上の「？」に<br></br>カーソルを上げると詳しい説明を<br></br>確認することが出来ます。]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>6</ID>
+		<TITLE>チュートリアル完了</TITLE>
+		<IMAGE_FILE>.</IMAGE_FILE>
+		<STATE>2</STATE>
+		<MSG><![CDATA[チュートリアル完了、おめでとうございます！お祝いの心を込め、<br></br>プレゼントを用意しました。<br></br>プレゼントはDECKで確認出来ます。又、LAB→科学室で<br></br>新しいカードに調合することが出来ます。<br></br><br></br>ダンジョンに入場して今まで習った内容を<br></br>直接活用して見てください。]]></MSG>
+	</TUTORIAL_PAGE>
+</TUTORIAL_DATA>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ENCHANT_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ENCHANT_ROOM>
+		<ID>1</ID>
+		<NAME>Normal</NAME>
+		<ICON_FILE>en_normalenchant.png</ICON_FILE>
+		<TITLE_FILE>en_title_normalenchant.png</TITLE_FILE>
+	</ENCHANT_ROOM>
+
+	<ENCHANT_ROOM>
+		<ID>2</ID>
+		<NAME>Advanced</NAME>
+		<ICON_FILE>en_premiumenchant.png</ICON_FILE>
+		<TITLE_FILE>en_title_premiumenchant.png</TITLE_FILE>
+	</ENCHANT_ROOM>
+</ENCHANT_DATA>

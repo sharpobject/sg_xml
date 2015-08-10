@@ -1,0 +1,2348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DUNGEON_DETAIL_DATA>
+
+
+	<DUNGEON_DETAIL>
+		<ID>1</ID>
+		<DIFFICULTY>1</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+		<TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: White Ore, Nold|Rio will teach you how to play and give you a few useful tips.|Clearing all 10 floors will unlock the other Dungeons.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Prepare for a difficult challenge! You're about to face Gold Lion Nold, and she won't go easy on you! You'll need to make sure you use your best cards. If you can beat any boss ten times, you'll get a special boss Character!</NPC_TEXT_1>
+				<NPC_TEXT_2>It's always good to train. Keep it up! I'll always be here for you.</NPC_TEXT_2>
+				<NPC_TEXT_3>Oh, hello. You must be pretty familiar with this dungeon now. It's good to see you again, but why not try some of the other dungeons? They're pretty fun!</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Welcome to your first battle! Each turn, you draw up to five cards to your Hand. Click cards in your Hand to play them to the Field Slots. They will be placed in order from I-V. The Field has a maximum SIZE of 10, and each card has a SIZE at the upper-right.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>  
+		<FLOOR>
+			<FLOOR_ID>2</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Next tip! There are three numbers at the bottom of each Follower card. ATK is the damage they deal, DEF subtracts from incoming damage, and STA is what they lose if attacked. A Follower with 0 STA is defeated, and its SIZE is subtracted from the Character's LIFE.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>3</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Let's move on. Followers attack enemy Followers of their own choosing. If they survive an attack, they'll always counterattack! Followers attack the enemy Character when there are no enemy Followers left. The Character will take damage equal to the attacking Follower's SIZE.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>4</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Now for Spells! Your Spells always activate before your Followers attack. They can increase the ATK, DEF, or STA of your Followers. Make sure you try using Followers and Spells together.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>5</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>You might want to spend some time and get to know your cards after this match. To browse your collection, go back to the Lobby and go to Deck. When you leave the Dungeon, your progress will be saved for 15 minutes. You can also buy a Gold Tent to save your progress until your next visit.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>6</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>If you don't like what you've been dealt, use a Shuffle! In each match, you can use Shuffle up to two times. This sends the cards in your Hand to the bottom of your Deck. For each card sent, you draw a replacement. You only get two Shuffles, so use them wisely.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>7</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>One key strategy is to focus your effort on improving just one or two Followers. A few powerful Followers will usually conquer many weak ones, inflicting massive damage on your opponent. Spells are a great way to get your Followers up to speed.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>8</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>It's tempting to play all of your strongest cards at once, but try holding back. Just because you can fill your Field doesn't mean you have to; in fact, completely filling your Field with Followers means that you're less able to adapt if the situation changes.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>9</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_001.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_001.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_001.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Random chance means you'll never play the same game twice, but don't think that means you can get lazy. Strategy is very important. Play cards that work well together to create powerful combos. After this match, you'll get to face the boss. Use everything you've learned. You can do it!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>2</ID>
+		<DIFFICULTY>1</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: White Ore, Cannelle|Test your strength against the Wind Clan|as Esprit teaches you more techniques.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_002.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_002.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_002.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>So, you finally made it. This boss is no pushover. After all, she's the Breeze Queen of the Wind Clan. She makes the rules.</NPC_TEXT_1>
+				<NPC_TEXT_2>You really are tenacious. Well, I'm only supposed to guide you, but if I were you, I'd challenge something new. Weirdo.</NPC_TEXT_2>
+				<NPC_TEXT_3>Okay, stop. There's nothing left here to take. I'm tired of seeing you over and over again. Why do you keep coming back to this rabbit hole...? I can't believe you.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_002.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_002.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_002.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>I'm Esprit, the sage. You're now in Wind Clan territory. I hope you remember what Rio taught you in the Beginner Dungeon... in her annoying way. By now, you need to be familiar with your cards. If not, have a closer look at their stats and skills by visiting DECK.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>2</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_002.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_002.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_002.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>So far, everything's been so easy that you're passing out from boredom, right? No? If it's too hard, then improve your Deck! Adding better cards is not only important, but half the fun. You can get almost any card by crafting it in SCI. LAB. Be sure to take a look later.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>3</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_002.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_002.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_002.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>Aside from beating those silly rabbits, do you know other ways to get Materials? In the CAMPSITE, you can send Characters to gather Materials. How do I know this? I'm a sage! I know everything. If you don't know everything, click HELP in the Lobby to read the full game guide.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>4</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_002.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_002.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_002.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>You can explore by yourself from here on in, right? Don't worry, I'm not going to leave without giving you one last tip. In the ALCHEMY ROOM, you can transmute unwanted Materials into the ones you need. Okay, I'll wait for you on the 15th floor, as will Breeze Queen Cannelle.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>3</ID>
+		<DIFFICULTY>1</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: White Ore, Gart|By clearing this dungeon, you can prove you are|ready to challenge even tougher ones.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_003.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_003.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_003.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio2.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Congratulations! You can finally battle against Gart. Are you ready? Review each of the steps that you took to get here. Now is the time to put your hard work to use.</NPC_TEXT_1>
+				<NPC_TEXT_2>Just hold on a little longer. The end is in sight. Don't get too far ahead of yourself.  You're familiar with this, but you can't exactly say you're good at it yet, right? If you want to be excellent, you'd better be prepared to give it your all. Hard work pays off.</NPC_TEXT_2>
+				<NPC_TEXT_3>Hey, you aren't a bad explorer. Are you starting to get a little bored? The next Dungeon is waiting for you. I'm sure you'll find that challenge much more exciting. Go to the next Dungeon. The world is big, and it's waiting for you. Starting to feel a little excited?</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_003.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_003.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_003.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio2.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>Hello again! Did you have fun with Esprit in the Medium Dungeon? You've gone through the Beginner Dungeon and fought the guardian of the Royle Academy, Nold. The guardian of Vita Public School, Gart, would also like to challenge you. She's waiting on the 20th floor.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>2</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_003.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_003.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_003.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio2.png</NPC_IMG>
+				<NPC_NAME>Dungeon Guide Rio</NPC_NAME>
+				<NPC_TEXT_1>It looks like you have a doppelganger. If you win a battle against yourself, that means you're stronger than yourself, which means you're improving! Remember that every turn is about preparing for multiple possibilities. Managing your risks against the rewards is crucial! Play your cards well.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>14</ID>
+		<DIFFICULTY>1</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Spiral Fragments, Office Chief Esprit|An island of dreams. Is this real life? Is this just fantasy?|Either way, it's a relaxing way to get Spiral Fragments.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_014.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_014.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_014.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>A strong will can make the world a little bit better. Don't overthink it. Just look around and enjoy the view.</NPC_TEXT_1>
+				<NPC_TEXT_2>Take it easy. This place holds both interest and meaning. Are you enjoying it? This dream might not be the one you were hoping for, though.</NPC_TEXT_2>
+				<NPC_TEXT_3>What...? You don't like it. You don't want it. Then why are you doing all of this? Weirdo.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_014.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_014.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_014.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>An island of dreams, full of dreams, hope, and romance... Hmph. What's the point of romance? It's a waste of time!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>5</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_014.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_014.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_014.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>Ugh... I don't know why I'm in such a bad mood. Only people like Rio can be so blissfully... cheerful. Whatever. I need a break.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>8</ID>
+		<DIFFICULTY>1</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ex01.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Bamboo, Panica|Explore the Bamboo Garden.|See if you can defeat some of the Followers in their new roles.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_008.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_008.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_008.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>If you are not busy, perhaps you can play with Panica for a while. She says she's been gaining weight and needs the exercise. It won't take much time.</NPC_TEXT_1>
+				<NPC_TEXT_2>Panica has been on a diet. Maybe that is why she's been so stressed. Hah... Anyway, please try to understand.</NPC_TEXT_2>
+				<NPC_TEXT_3>It's a miracle! Panica became even cuter! She's the perfect combination of agility and adorability! Please witness the Miracle of Panica!</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_008.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_008.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_008.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>Oh dear. Hah! What a coincidence I just came out here on a walk with my lovely pet, and just happened to run into you! This is an interesting place, is it not? These trees are so unusual. Thankfully, Panica loves them.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_008.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_008.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_008.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>This is the best place to have a rest, isn't it? It might be a tough place, but isn't the breeze lovely?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+
+
+	<DUNGEON_DETAIL>
+		<ID>16</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep07.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>"Unique Rewards: Aletheia Brick, L Red Sun|The new religion, Aletheia, begins to spread its teachings. They worship the God of Truth, but what truth do they seek?"</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_016.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_016.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_016.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_redsun.png</NPC_IMG>
+				<NPC_NAME>L Red Sun</NPC_NAME>
+				<NPC_TEXT_1>We Aletheians aim to better the world by spreading God's teachings about how to live proper lives. Miss Helena was the first to receive the teachings, and she has made it her mission to spread them throughout the world. Wait. You're a denizen of the night, aren't you?</NPC_TEXT_1>
+				<NPC_TEXT_2>There are no lies in God's teachings. We stand with determination against those who seek to exploit the faithful.</NPC_TEXT_2>
+				<NPC_TEXT_3>Why don't you listen to God's teachings, too? The choice is yours.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_016.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_016.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_016.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio.png</NPC_IMG>
+				<NPC_NAME>Rio</NPC_NAME>
+				<NPC_TEXT_1>These are the Catacombs, an underground place where the Aletheians worship. The believers who follow the teachings of the God of Truth are pure, but those who lead them seem to be up to something. Be careful.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+	<DUNGEON_DETAIL>
+		<ID>13</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ex02.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Spiral Fragments, Vernika Answer|Kana, the world created by Vernika. Who are these investigators|from another world, and what is their true purpose?</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_013.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_013.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_013.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_bernica.png</NPC_IMG>
+				<NPC_NAME>Vernika Answer</NPC_NAME>
+				<NPC_TEXT_1>When I woke up, I saw a strange platform with a train running. They wouldn't let me on because I didn't have a ticket. I didn't want to go back, so I came here. This place is empty, but I like the silence.</NPC_TEXT_1>
+				<NPC_TEXT_2>Why did you come here? I just wanted to be left alone in peace. I don't want to return to your world. Sometime I just wish I could forget everything... Would you mind listening to me?</NPC_TEXT_2>
+				<NPC_TEXT_3>If anyone likes me, I'll return that feeling with genuine love... It doesn't matter who. All that matters is that anyone likes me at all. No one's ever liked me before, and I'm afraid that no one ever will.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_013.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_013.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_013.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_bernica.png</NPC_IMG>
+				<NPC_NAME>Vernika Answer</NPC_NAME>
+				<NPC_TEXT_1>Sometimes, I get the feeling that this place is falling apart. Isn't  there even enough time for me to have a rest?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_013.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_013.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_013.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_bernica.png</NPC_IMG>
+				<NPC_NAME>Vernika Answer</NPC_NAME>
+				<NPC_TEXT_1>It won't be long now. I can feel it. The world is dying... The world... called Kana.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+
+	<DUNGEON_DETAIL>
+		<ID>12</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep06.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Seals of Approval, Vita Principal Treanna|Vita Public School is holding a festival! What does the principal|really look like, and why is she wearing that penguin suit?</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_012.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_012.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_012.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_magician.png</NPC_IMG>
+				<NPC_NAME>Scarlet Mage</NPC_NAME>
+				<NPC_TEXT_1>It's hard to make someone tell you what you need to know. That pointy-eared lady is tight-lipped. She has to know something about the visitors. Crux is dangerous. I can sense a certain presence.</NPC_TEXT_1>
+				<NPC_TEXT_2>She's no young lady. She has pointed ears and has been living for hundreds of years without aging... What do you think? The Empire told me nothing of this... Interesting.</NPC_TEXT_2>
+				<NPC_TEXT_3>I can't get any more information here, so all I can report is that the Vita principal must know something, but she isn't talking. I'm out of here. The teachers in this place are strange... And I sense a battle approaching.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_012.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_012.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_012.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_magician.png</NPC_IMG>
+				<NPC_NAME>Scarlet Mage</NPC_NAME>
+				<NPC_TEXT_1>What a strange atmosphere. Is this some kind of ceremony? Oh. It's you again? You didn't see anything, got that? I need to look into something...</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_012.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_012.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_012.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_magician.png</NPC_IMG>
+				<NPC_NAME>Scarlet Mage</NPC_NAME>
+				<NPC_TEXT_1>You followed me here? I... see. Listen. That place over there looks like it may interest you far more than this one, so you may want to go there. Now, I really need to be off.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+	<DUNGEON_DETAIL>
+		<ID>10</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep05.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Blood Packs, Linking Shaman Nexia|The shaman Nexia, who has a connection to the Goddess of Crux,|tests her visitors.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_010.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_010.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_010.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>This power... Could this be the guardian of the vampires? This is going to be tough, but you can do this! The lessons you've learned will carry you through.</NPC_TEXT_1>
+				<NPC_TEXT_2>This land is starting to smell like blood. Sorry, but I really have to get out of here.</NPC_TEXT_2>
+				<NPC_TEXT_3>Look for some other place. There's nothing more to be gained here.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_010.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_010.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_010.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>The battle with Crux has begun. This is all being done in the name of punishing those outside the flow. However, all that girl wants is to rescue Vernika.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_010.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_010.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_010.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>Even if we assume that Sita's choice based on Linia's advice is correct, the results can't be guaranteed. She might have to pay a heavy price.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+	<DUNGEON_DETAIL>
+		<ID>9</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep04.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Lilies, Lig Nijes|Something strange is happening in Linia's Mansion.|What's going on? What is Linia up to?</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_009.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_009.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_009.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rinia2.png</NPC_IMG>
+				<NPC_NAME>Linia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>I agree with Jaina that vampires should be driven out of this land. To achieve this goal, I will make any sacrifice. They say that you must fight fire with fire, so I hired a genius alchemist who just barely made the deadline.</NPC_TEXT_1> 
+				<NPC_TEXT_2>A mistake was made, but not every mistake can be easily fixed. Where would we even begin? If it were not already too late, then...</NPC_TEXT_2>
+				<NPC_TEXT_3>Cinia... Please... Please come back.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_009.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_009.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_009.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rinia2.png</NPC_IMG>
+				<NPC_NAME>Linia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>Who are you? No one may enter without my permission. However, since you are already here, I suppose there is not much that can be done about the situation.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_009.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_009.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_009.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rinia2.png</NPC_IMG>
+				<NPC_NAME>Linia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>My wish is very simple; I only want Cinia's affection. Now, please go. I want to be alone.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>7</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep03.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Holy Beast Tears, Sigma|The beautiful and valiant knights of Crux train here,|where you can also find the Holy Beast that protects Crux.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_007.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_007.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_007.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rinia.png</NPC_IMG>
+				<NPC_NAME>Linia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>Congratulations! This is the final level. Here, you will find the Holy Beast Tears, as well as Sigma's home. If you overcome this trial, you may wear a knight's epaulets, the ultimate symbol of a knight's honor. Now let us begin.</NPC_TEXT_1>
+				<NPC_TEXT_2>How do you like Crux? I love the atmosphere. Have you met my little sister, Cinia? I haven't seen her for some time. If you happen to see her, tell her I said hello.</NPC_TEXT_2>
+				<NPC_TEXT_3>There is much to be gained in Crux. However, Jaina's heavy repression of the Others may be cause for some feelings of discomfort.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_007.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_007.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_007.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rinia.png</NPC_IMG>
+				<NPC_NAME>Linia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>Oh, are you here from the outside? Visitors here are quite rare. Allow me to introduce myself. My name is Linia Pacifica. Seeing as how you are finally here, let us put your power to the test.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_007.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_007.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_007.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rinia.png</NPC_IMG>
+				<NPC_NAME>Linia Pacifica</NPC_NAME>
+				<NPC_TEXT_1>Amazing work! I don't suppose you would mind working for me personally? Haha... The job may be difficult, though.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>5</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep02.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Heart Stones, Laevateinn|Sita encounters witches at the Magic Society meeting,|but what is their true purpose?</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_005.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_005.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_005.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_jaina.png</NPC_IMG>
+				<NPC_NAME>Jaina Preventer</NPC_NAME>
+				<NPC_TEXT_1>It looks like all the witches escaped. How could a place like this exist under such a tiny house? Ugh. Such negligence. Be on your guard! It looks like the Darklore have left a present for us!</NPC_TEXT_1>
+				<NPC_TEXT_2>The creatures of Darklore have no right to life, and should be driven to extinction. I will not be kind to those who violate the will of Crux. The will of Crux is my own.</NPC_TEXT_2>
+				<NPC_TEXT_3>This land belongs to human beings. There is no place that those Outsiders deserve.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_005.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_005.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_005.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_jaina.png</NPC_IMG>
+				<NPC_NAME>Jaina Preventer</NPC_NAME>
+				<NPC_TEXT_1>It's good to see another human face. We can use your help in driving out the creatures of Darklore. I know Luthica has had some kind of contact with them, but I'll overlook it since I still need her to punish them.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_005.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_005.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_005.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_jaina.png</NPC_IMG>
+				<NPC_NAME>Jaina Preventer</NPC_NAME>
+				<NPC_TEXT_1>Huh? I feel something... strange. Could the witch leader have summoned something? Everyone into formation! Prepare for battle!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+	<DUNGEON_DETAIL>
+		<ID>4</ID>
+		<DIFFICULTY>2</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_ep01.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Ruins Fragments, Ginger|Once Sita passed the barrier, she encountered none other than|Twilight Wolf Ginger. What is the Scarlet Mage's true purpose?</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_004.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_004.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_004.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_magician.png</NPC_IMG>
+				<NPC_NAME>Scarlet Mage</NPC_NAME>
+				<NPC_TEXT_1>Sorry, but my duty here is done. Now, I'll leave you with a friend who can test your true power. Can you win?</NPC_TEXT_1>
+				<NPC_TEXT_2>It was good to teach you that walls that can't be climbed do, in fact, exist. Looks like this is going to be a real challenge. Don't wear out your welcome.</NPC_TEXT_2>
+				<NPC_TEXT_3>You're back? You aren't tired of this place? The first ultimate truth in life is to know when to give up. Alright. Let's start the game, and I'll teach you how important it is to know when to call it quits.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_004.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_004.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_004.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_magician.png</NPC_IMG>
+				<NPC_NAME>Scarlet Mage</NPC_NAME>
+				<NPC_TEXT_1>What? Who are you? Investigators from Crux? What a pity that you came all the way here. You couldn't pass through this door, even if you had a ticket. I'm too busy to deal with you right now, so instead, I'll call someone to play with you.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_004.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_004.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_004.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_magician.png</NPC_IMG>
+				<NPC_NAME>Scarlet Mage</NPC_NAME>
+				<NPC_TEXT_1>How did you get through that barrier? You couldn't break it just by using talentium... I was careless. However, things are going to be a little different now.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+
+
+
+
+	<DUNGEON_DETAIL>
+		<ID>11</ID>
+		<DIFFICULTY>3</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Blood Packs, Anj Inyghem|The knights who isolated the vampires are making their move.|In response, the vampires unveil their ultimate weapon…</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_011.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_011.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_011.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_jaina.png</NPC_IMG>
+				<NPC_NAME>Head Knight Jaina Preventer</NPC_NAME>
+				<NPC_TEXT_1>It wasn't easy to come here. What did you see on the way?...Well, just by standing here, I must admit you have conquered every obstacle in your path. Now come. The shaman of the Goddess is waiting for you.</NPC_TEXT_1>
+				<NPC_TEXT_2>Your performance wasn't perfect, but just being able to make it this far is amazing.</NPC_TEXT_2>
+				<NPC_TEXT_3>Why purpose do you have in coming so high up this tower? You aren't just coming up here to visit the shaman, are you?</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_011.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_011.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_011.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_jaina.png</NPC_IMG>
+				<NPC_NAME>Head Knight Jaina Preventer</NPC_NAME>
+				<NPC_TEXT_1>The Goddess likes to test her visitors. Reflect on the path that brought you here. Can you overcome her trials?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>20</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_011.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_011.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_011.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_jaina.png</NPC_IMG>
+				<NPC_NAME>Head Knight Jaina Preventer</NPC_NAME>
+				<NPC_TEXT_1>The circumstances of the past have created the present, and they will create the future as well. There is little time left.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+	<DUNGEON_DETAIL>
+		<ID>6</ID>
+		<DIFFICULTY>3</DIFFICULTY>
+		<DUNGEON_TYPE>1</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Heart Stones, Sisters Sion+Rion|The vampire twins, Sion and Rion, play a prank on Rio.|Esprit makes her appearance! Can she tame the terrible twins?</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_006.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_006.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_006.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>Hey there! Don't just sneak away like that... Ugh. Well, there's nowhere they could have run. Hey, you! Did you see a couple vampire brats run by? You did? Go and catch them! Now!</NPC_TEXT_1>
+				<NPC_TEXT_2>These brats are stubborn. We'll have to teach them a lesson.</NPC_TEXT_2>
+				<NPC_TEXT_3>You've come so far... You have an incredibly strong will. Remind me to never get on your bad side.</NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_006.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_006.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_006.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>Oh, you're here! Good timing! Those brats have really been bugging me. I need you to help me teach them a lesson.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>20</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_006.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_006.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_006.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>What is this place? Is that a Shadow? One of those doppelgangers? Oh, those brats! Once I get my hands on them, I'll hit them with my slippers!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+
+
+	<DUNGEON_DETAIL>
+		<ID>19</ID>
+		<DIFFICULTY>4</DIFFICULTY>
+		<DUNGEON_TYPE>3</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: White Ore, Henlifei|In this Story Dungeon, explore the origins of the Sword Girls.|Select a pre-built Deck to prove your mastery of talentium.</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_IMG></NPC_IMG>
+				<NPC_NAME></NPC_NAME>
+				<NPC_TEXT_1></NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019_q.png</DUNGEON_BG_IMG>
+                        <QUESTIONER_NAME>Leilang Henlifei</QUESTIONER_NAME>
+			<QUESTION>A visitor to the Exam Hall? Fascinating.|Please step inside. You are not known to me.|Who might you be?</QUESTION>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Welcome. I am the Lightning Wolf, Leilang Henlifei.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Perhaps you have heard of me? I do not mean to boast, but I am one of the Holy Beasts. How are Nold and Gart?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>If you have met with Nold and Gart, I assume you are familiar with talentium; this place just happens to test Talentium Adepts. You may have entered freely, but you may only leave after being tested.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Do not worry. No one starts off facing Henlifei. That would be ridiculous. First, others will determine your worth. Are you ready for your first test?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>What was your name again?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>2</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>I passed. So you're Henlifei? I'm Sita Vilosa. You mentioned talentium. That's what this sword's made of, right?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>Oh yeah. Master lost some stuff. Have you seen it? I've got to look for Master's things, but maybe I'll stay here a while...</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>There's not much time before dinner, though. Let's hurry.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>3</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>So that was an Adept test? Normally, such things are below me, but I do admit to being curious about the rest of the test.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>Allow me to introduce myself. I am Cinia, of the house of Pacifica. It is a pleasure to meet you, Leilang Henlifei. I look forward to demonstrating my excellence.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>However, if you are only as powerful as the others, that would be too easy! Completely unforgiveable unless you were merely a child! Ahahaha!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>4</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>How was that? I didn't realize I'd be tested, but I never refuse a challenge.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>			
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>Crux Knight Luthica, at your service. It's good to meet you. I never knew a place like this existed.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>	
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>Since I'm already being tested, I might as well try my best. I know I must eventually face you, Holy Beast, but I won't back down. Let's begin.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>	
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>5</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>Maybe this place isn't so bad. Tests like this separate the real Talentium Adepts from the amateurs, and one of the Holy Beasts is here too. This could get interesting.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>My name? ... Iri Flina.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>So, you think I need to be taught about talentium? I've read up a little on it myself. Maybe I can teach YOU something about talentium.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>6</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>Not bad. Your fundamentals are excellent. I guess you already know that talentium is a metal found near the rifts to that other dimension.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>When brought to high temperatures, talentium becomes extremely durable; not to mention, extremely useful. Now, are you ready for your next test?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>7</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>Not bad. Your fundamentals are excellent. I guess you already know that talentium is a metal found near the rifts to that other dimension.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>When brought to high temperatures, talentium becomes extremely durable; not to mention, extremely useful. Now, are you ready for your next test?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>8</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>Not bad. Your fundamentals are excellent. I guess you already know that talentium is a metal found near the rifts to that other dimension.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>When brought to high temperatures, talentium becomes extremely durable; not to mention, extremely useful. Now, are you ready for your next test?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>9</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>Not bad. Your fundamentals are excellent. I guess you already know that talentium is a metal found near the rifts to that other dimension.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_iris.png</NPC_IMG>
+				<NPC_NAME>Proctor Iris</NPC_NAME>
+				<NPC_TEXT_1>When brought to high temperatures, talentium becomes extremely durable; not to mention, extremely useful. Now, are you ready for your next test?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Excellent work... Now, Iris told you that talentium is highly durable, but that is not its defining trait.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Talentium awakens its user's spiritual power, allowing them to absorb and control mystical energy. People who use talentium are called Adepts.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>However, talentium is a relatively new technology; we don't know the effects of long-term use. Talentium Adepts need to pay attention to their physical and mental health.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready? I'm your next opponent, so don't hold back.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>11</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Excellent work... Now, Iris told you that talentium is highly durable, but that is not its defining trait.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Talentium awakens its user's spiritual power, allowing them to absorb and control mystical energy. People who use talentium are called Adepts.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>However, talentium is a relatively new technology; we don't know the effects of long-term use. Talentium Adepts need to pay attention to their physical and mental health.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready? I'm your next opponent, so don't hold back.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>12</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Excellent work... Now, Iris told you that talentium is highly durable, but that is not its defining trait.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Talentium awakens its user's spiritual power, allowing them to absorb and control mystical energy. People who use talentium are called Adepts.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>However, talentium is a relatively new technology; we don't know the effects of long-term use. Talentium Adepts need to pay attention to their physical and mental health.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready? I'm your next opponent, so don't hold back.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>13</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Excellent work... Now, Iris told you that talentium is highly durable, but that is not its defining trait.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Talentium awakens its user's spiritual power, allowing them to absorb and control mystical energy. People who use talentium are called Adepts.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>However, talentium is a relatively new technology; we don't know the effects of long-term use. Talentium Adepts need to pay attention to their physical and mental health.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_maga.png</NPC_IMG>
+				<NPC_NAME>Proctor Margaret</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready? I'm your next opponent, so don't hold back.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>14</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>Talentium sounds complicated. I don't get that kind of thing, but I guess I can still use it.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>Oh yeah... Can I find Master's things here?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>...I'm hungry. Vernika said she'd treat me to lunch, so I can't be late. I'm serious!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>15</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>Your lectures on talentium are adequate, but I tire of hearing things I already know.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>When you told me to be careful, was that merely in jest?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>Do not underestimate my ability. I will not be taken for a fool.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>16</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>I think I understand the basics of talentium well enough.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>	
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>I was fighting my hardest this whole time, but it looks like you were holding back. I need to improve.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>I guess that's enough of a breather. I'm ready for the next test.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>	
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>17</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>You keep rambling on about the basics. Tell me something I don't know.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>You've been telling me to be careful. Do you really want to see my full power?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>Do you know who you're talking to? Is this some kind of joke?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>18</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>Wait, what? How did... It looks like I've underestimated you. You're pretty strong.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>If you've gotten this far, you must really know your way around talentium.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>I still have to test you, though. If you earn my recognition, you also earn the right to face Leilang Henlifei herself.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>19</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>Wait, what? How did... It looks like I've underestimated you. You're pretty strong.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>If you've gotten this far, you must really know your way around talentium.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>I still have to test you, though. If you earn my recognition, you also earn the right to face Leilang Henlifei herself.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>20</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>Wait, what? How did... It looks like I've underestimated you. You're pretty strong.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>If you've gotten this far, you must really know your way around talentium.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>I still have to test you, though. If you earn my recognition, you also earn the right to face Leilang Henlifei herself.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>21</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>Wait, what? How did... It looks like I've underestimated you. You're pretty strong.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>If you've gotten this far, you must really know your way around talentium.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_koi.png</NPC_IMG>
+				<NPC_NAME>Proctor Coy</NPC_NAME>
+				<NPC_TEXT_1>I still have to test you, though. If you earn my recognition, you also earn the right to face Leilang Henlifei herself.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>22</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>You have done well to get this far, but your knowledge of talentium is only barely scratching the surface.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Talentium holds more mysteries than you realize. That is why this test is necessary.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready to face me?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>23</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>You have done well to get this far, but your knowledge of talentium is only barely scratching the surface.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Talentium holds more mysteries than you realize. That is why this test is necessary.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready to face me?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>24</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>You have done well to get this far, but your knowledge of talentium is only barely scratching the surface.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Talentium holds more mysteries than you realize. That is why this test is necessary.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready to face me?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>25</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>You have done well to get this far, but your knowledge of talentium is only barely scratching the surface.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Talentium holds more mysteries than you realize. That is why this test is necessary.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>1</NPC_STAND>
+				<NPC_IMG>npc_hen.png</NPC_IMG>
+				<NPC_NAME>Leilang Henlifei</NPC_NAME>
+				<NPC_TEXT_1>Now, are you ready to face me?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>26</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>So hungry...</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>This is getting serious... I'm a little nervous, but I just need to beat you to end this, right?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sita.png</NPC_IMG>
+				<NPC_NAME>Sita</NPC_NAME>
+				<NPC_TEXT_1>Let's finish this. Vernika and lunch are waiting.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>27</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>This is the final test, is it not? The prospect excites me. I have come to a decision.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>Holy Beast Leilang Henlifei... How would you like to become my pet? A Lightning Wolf would be a welcome addition to my menagerie.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>cinia.png</NPC_IMG>
+				<NPC_NAME>Cinia</NPC_NAME>
+				<NPC_TEXT_1>When you accept my gracious offer, look for me. A cornucopia of treats awaits you.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>28</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>Teach me, Miss Leilang! Please show me everything you have. As a Crux Knight, I must know how powerful I really am.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>If I lose, it only means I have room to improve and I can learn from my mistakes.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luthica.png</NPC_IMG>
+				<NPC_NAME>Luthica</NPC_NAME>
+				<NPC_TEXT_1>If I can defeat you, it would mean I've grown. Please don't hold anything back.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+                <FLOOR>
+			<FLOOR_ID>29</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_019.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_019.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_019.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>Now I understand this place that tests Talentium Adepts. All that's left is to learn about your true power. You're not too bad. Of course, neither am I.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>Why don't you drop the charade and give me your best? By which I mean "Try not to get hurt too badly." Is your body ready?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>iri.png</NPC_IMG>
+				<NPC_NAME>Iri</NPC_NAME>
+				<NPC_TEXT_1>Show it to me, Leilang Henlifei. Show me the power of the Lightning Wolf!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+	<DUNGEON_DETAIL>
+		<ID>15</ID>
+		<DIFFICULTY>4</DIFFICULTY>
+		<DUNGEON_TYPE>2</DUNGEON_TYPE>
+                <TOOL_TIP_ICON>dungeon_tooltip_tower.png</TOOL_TIP_ICON>
+		<TOOL_TIP_TEXT>Unique Rewards: Blue Coins |Iri searches the Netherworld for Vernika.1 match per day. |Auto-save. No progress lost if defeated. The ultimate challenge!</TOOL_TIP_TEXT>
+		<FLOOR>
+			<FLOOR_ID>0</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_isprit.png</NPC_IMG>
+				<NPC_NAME>Esprit</NPC_NAME>
+				<NPC_TEXT_1>There you are, Iri. I was worried about you, so I tagged along!  Now that I've finally caught up with you, is everything alright? How is the search for Vernika going? I'm sure you and Esprit are doing a great job, so keep up the good work! While you're here, why don't you go sightseeing when you have the time?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>1</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>en_dungeon_lobby_015-1.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rio3.png</NPC_IMG>
+				<NPC_NAME>Rio</NPC_NAME>
+				<NPC_TEXT_1>I followed you because Esprit told me what happened. This place is dangerous. Seeing this through to the end and quitting halfway are both about as dangerous. Don't pay attention to or worry about anything you see here. The underworld is a replica of the living world, but everything is made of darkness. Never forget that. Now let's see if you have what it takes to enter.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>2</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_nanai.png</NPC_IMG>
+				<NPC_NAME>Nanai</NPC_NAME>
+				<NPC_TEXT_1>Interesting coincidence meeting you here. Aren't you that new transfer student? This is a very special place where we have a clear view of what we've always wanted to see. I'm a little... different here. Heh... Now, are you ready to start?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>3</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_seven.png</NPC_IMG>
+				<NPC_NAME>Seven</NPC_NAME>
+				<NPC_TEXT_1>Have you seen Nanai? You didn't get into a fight and beat her, did you? If you did, I will never forgive you! I was supposed to be the one to defeat her! The time for words is over! Prepare to be crushed!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>4</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_newbie.png</NPC_IMG>
+				<NPC_NAME>New Knight</NPC_NAME>
+				<NPC_TEXT_1>Ah, hello? It's good to meet you. This place is amaaaziiing! I can definitely become stronger here. Could you fight with me? If I train with you, I'll definitely grow stronger.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>5</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>en_dungeon_lobby_015-2.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_prayer.png</NPC_IMG>
+				<NPC_NAME>Medic Knight</NPC_NAME>
+				<NPC_TEXT_1>Pleasure to meet you. I don't know if you'll return safely, but I wish you a pleasant journey through Muspelheim! Now, you were looking for a red-haired girl? Sorry. I can't say I've seen her.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>6</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_sion.png</NPC_IMG>
+				<NPC_NAME>Sion Flina</NPC_NAME>
+				<NPC_TEXT_1>Welcome to the amazing underworld! Who am I? I'm the detective that wipes away the city's tears! Have you seen a kid that looks just like me, but with shorter hair? She messed up my skirt and ran away! Say... You aren't hiding something from me, are you? Spit it out!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>7</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_rion.png</NPC_IMG>
+				<NPC_NAME>Rion Flina</NPC_NAME>
+				<NPC_TEXT_1>Did you run into Sion on your way here? I can't believe she started chasing me just because I lifted her skirt. It's not like I tore it or anything. She's way too sensitive. Now, if you have any questions, ask a detective! Like me! The only price is playing with me. Isn't that great? Now play with me! It's advance payment!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>8</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_flag.png</NPC_IMG>
+				<NPC_NAME>Frett</NPC_NAME>
+				<NPC_TEXT_1>Where did everybody go? I can barely remember anything. When I woke up, I saw this broken flagpole. If it isn't fixed, I'll be fired! Have you seen any trees we can use?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>9</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_odn.png</NPC_IMG>
+				<NPC_NAME>Odien</NPC_NAME>
+				<NPC_TEXT_1>You really know about this artifact? Really? You don't look like someone who would know about these things. Could we talk some more? I want to know what you think. Wait, what's that tattoo? Are you a ... v-vampire?!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>10</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>en_dungeon_lobby_015-3.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_ririka.png</NPC_IMG>
+				<NPC_NAME>Lyrica</NPC_NAME>
+				<NPC_TEXT_1>Hey honeeey. Look at me. Aren't I lovely? Ah, I'm bored now. Want to play with me? I could have lots of fun with a cute kid like you. Hey, is that a sword you've got with you? Great! Can we fight?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>11</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_sera.png</NPC_IMG>
+				<NPC_NAME>Sarah</NPC_NAME>
+				<NPC_TEXT_1>When I found myself here, I was confused. I didn't know where I was or how I got here... But now I feel different. This world has so much knowledge that can bring people happiness.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>12</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_gatt.png</NPC_IMG>
+				<NPC_NAME>Gart</NPC_NAME>
+				<NPC_TEXT_1>I can't carry these unless I concentrate... You were looking for a red-haired girl? I don't know anyone with red hair. You said she goes to the same school as me, but we don't have anyone with red hair in our school. I swear as a guardian beast that- Ack! I dropped them! You broke my concentration! You're going to pay!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>13</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_messenger.png</NPC_IMG>
+				<NPC_NAME>Messenger Knight</NPC_NAME>
+				<NPC_TEXT_1>I don't remember how I got here, but the locals have machines they can use to talk to other people, no matter how far away they are. Isn't that amazing? Just by touching numbers, people can hear each other... Am I out of a job?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>14</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_firststar.png</NPC_IMG>
+				<NPC_NAME>GS First Star</NPC_NAME>
+				<NPC_TEXT_1>This is a strange land. I feel like every place I go to is the same. It's important to affirm your existence and remember who you are.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>15</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>en_dungeon_lobby_015-4.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>npc_dtd.png</NPC_IMG>
+				<NPC_NAME>Kana DTD</NPC_NAME>
+				<NPC_TEXT_1>Who are you looking for? Hey, you're that vampire girl I met the other day. What's up? If you play with me a while, I'll tell you what you want to know.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>16</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>rotte.png</NPC_IMG>
+				<NPC_NAME>Lotte</NPC_NAME>
+				<NPC_TEXT_1>Welcome! This world is so magical. It's full of inspiration. I don't remember how I got here, but I love living here.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>17</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>conundrum.png</NPC_IMG>
+				<NPC_NAME>Conundrum</NPC_NAME>
+				<NPC_TEXT_1>Have you seen this show? It's a local quiz show, and it's hilarious! Hee hee! I'd love to go on it and compete. Anyway, you wanted to know where you are? I don't know, but this place feels really relaxing.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>18</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sb.png</NPC_IMG>
+				<NPC_NAME>Head Knight</NPC_NAME>
+				<NPC_TEXT_1>This is the land of the dead. The underworld is a dangerous place. You run the danger of forgetting who you are  unless you focus. You need to ask yourself who you are all the time, but the answer is always there. Now, take your sword!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>19</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>en_dungeon_lobby_015-5.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>serie.png</NPC_IMG>
+				<NPC_NAME>Serie</NPC_NAME>
+				<NPC_TEXT_1>Have you seen Lotte? We were looking through a bookstore, then she vanished. I don't blame her, though. There are so many fascinating books. Can you help me pick some out? Say, I think I've seen you before... Wait! Are you that hunter?!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>20</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>envy.png</NPC_IMG>
+				<NPC_NAME>Envy Lady</NPC_NAME>
+				<NPC_TEXT_1>This city isn't any different from anywhere else! Everyone is paired up! This world is wrong! Just wrong! I can't forgive this. Prepare yourself! I'll fight until the day when everyone is alone!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>21</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>14.png</NPC_IMG>
+				<NPC_NAME>Fourteen</NPC_NAME>
+				<NPC_TEXT_1>There aren't any decent jobs here. There's no work to do all day. Hm. I think I'm forgetting something. What could it be? You'd better be careful. I don't remember why I told you that, though.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>22</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sleep.png</NPC_IMG>
+				<NPC_NAME>Sleep Club President</NPC_NAME>
+				<NPC_TEXT_1>I feel sleepy... So sleepy... I don't remember why I feel so sleepy. I want to sleep.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>23</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>luna.png</NPC_IMG>
+				<NPC_NAME>Luna</NPC_NAME>
+				<NPC_TEXT_1>We have so many maids that we actually wash more maid outfits than the master's outfits! Shouldn't maids spend most of their time serving their masters?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>24</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>maknae.png</NPC_IMG>
+				<NPC_NAME>Youngest Knight</NPC_NAME>
+				<NPC_TEXT_1>I train hard day and night. I don't mind all this work, but when will I get promoted?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>25</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>chirusi.png</NPC_IMG>
+				<NPC_NAME>Chirushi</NPC_NAME>
+				<NPC_TEXT_1>The Elemental Lord of Wind will return! I bet I'll find him here.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>26</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>ragafelt.png</NPC_IMG>
+				<NPC_NAME>Ragafelt</NPC_NAME>
+				<NPC_TEXT_1>I can't believe that this land actually has a ruler. It's so wild and free. How can anyone govern it?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>27</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>winfield.png</NPC_IMG>
+				<NPC_NAME>Winfield</NPC_NAME>
+				<NPC_TEXT_1>Ereshkigal is so charming. She's kind, but also cool. Tres beau!</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>28</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>chris.png</NPC_IMG>
+				<NPC_NAME>Kris Flina</NPC_NAME>
+				<NPC_TEXT_1>Have you seen Conundrum? She said she found an interesting problem, then just ran off. She's so easily distracted... My, this place has a lot of lovely ladies. They might be short-tempered and speak in that weird dialect, but they're still cute.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>29</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>ametista.png</NPC_IMG>
+				<NPC_NAME>Amethystar</NPC_NAME>
+				<NPC_TEXT_1>Someone like that doesn't belong in this world. That person is here to avoid  meeting that duplicate in the other world... I wonder if anyone knows that.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>30</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>gslana.png</NPC_IMG>
+				<NPC_NAME>Zislana</NPC_NAME>
+				<NPC_TEXT_1>Where am I? Who... am I?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>31</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>magicion.png</NPC_IMG>
+				<NPC_NAME>Magician</NPC_NAME>
+				<NPC_TEXT_1>I met the stationmaster when I first arrived. She was so cool! If you ever get the chance, you should meet her.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>32</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>jainachild.png</NPC_IMG>
+				<NPC_NAME>Jaina</NPC_NAME>
+				<NPC_TEXT_1>Unbelievable... What is this sword? I already feel like I can master it.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>33</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>johana.png</NPC_IMG>
+				<NPC_NAME>Johanna</NPC_NAME>
+				<NPC_TEXT_1>Hey youse... Ya kinda remind me of this one fella... Ya wanna meet him? I think I might have some info for ya. Capice?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>34</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>josephina.png</NPC_IMG>
+				<NPC_NAME>Josefina</NPC_NAME>
+				<NPC_TEXT_1>Ya wanna meet the stationmaster? Yeah, sure buddy. Just wait a moment.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>35</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>fool.png</NPC_IMG>
+				<NPC_NAME>Fool</NPC_NAME>
+				<NPC_TEXT_1>Are you one of the knights? If you are, tell me the password. Who is your father, and what does he do? ... Do you not even know your father's name?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>36</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>shunenblan.png</NPC_IMG>
+				<NPC_NAME>Chenin Blanc</NPC_NAME>
+				<NPC_TEXT_1>Interesting idea there... Traitor. What do you plan to do if you meet Ereshkigal?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>37</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>rookie.png</NPC_IMG>
+				<NPC_NAME>Disciple of Abundance</NPC_NAME>
+				<NPC_TEXT_1>There is a saying that a loaf of bread is better than the song of many birds. You should really eat something. The train won't be leaving for a while.</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>38</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>sado.png</NPC_IMG>
+				<NPC_NAME>Apostle of Eminence</NPC_NAME>
+				<NPC_TEXT_1>Nobody move. There's been an incident. If you move, you're a criminal! </NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+		<FLOOR>
+			<FLOOR_ID>39</FLOOR_ID>
+			<DUNGEON_ICON_IMG>en_dungeon_icon_015.png</DUNGEON_ICON_IMG>
+			<DUNGEON_TITLE_IMG>en_dungeon_title_015.png</DUNGEON_TITLE_IMG>
+			<DUNGEON_BG_IMG>dungeon_lobby_015.png</DUNGEON_BG_IMG>
+			<NPC>
+				<NPC_STAND>0</NPC_STAND>
+				<NPC_IMG>shuru.png</NPC_IMG>
+				<NPC_NAME>Apostle Shur</NPC_NAME>
+				<NPC_TEXT_1>Welcome. I am Shur, and I protect the stationmaster. If you think you've seen me before, it's just your mind playing tricks on you. Now, do you want me to tell you about the underworld?</NPC_TEXT_1>
+				<NPC_TEXT_2></NPC_TEXT_2>
+				<NPC_TEXT_3></NPC_TEXT_3>
+			</NPC>
+		</FLOOR>
+	</DUNGEON_DETAIL>
+
+
+
+</DUNGEON_DETAIL_DATA>

@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CASH_ITEM_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CASH_ITEM>
+		<ID>Item001</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Tent</NAME>
+		<ICON_FILE>item_01.png</ICON_FILE>
+		<PRICE>2</PRICE>
+		<TEXT>Save your current Dungeon level progress.|The next time you visit the Dungeon,|you can continue from where you left off.</TEXT>
+	</CASH_ITEM>
+	
+	<CASH_ITEM>
+		<ID>Item002</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Magical Silver Watch</NAME>
+		<ICON_FILE>item_03.png</ICON_FILE>
+		<PRICE>25</PRICE>
+		<TEXT>This item will cut the current training time in half!|This item can be used multiple times in a single|training period.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item003</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Advanced Training Room Key</NAME>
+		<ICON_FILE>item_02.png</ICON_FILE>
+		<PRICE>25</PRICE>
+		<TEXT>Unlocks the Advanced Classroom.|(This is a single-use item)</TEXT>
+	</CASH_ITEM>
+
+
+	<CASH_ITEM>
+		<ID>Item005</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Advanced Gym Key</NAME>
+		<ICON_FILE>item_04.png</ICON_FILE>
+		<PRICE>100</PRICE>
+		<TEXT>Unlocks the Advanced Gym and increases|the success rate of your next upgrade.|(This is a single-use item)</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item006</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Magical Golden Watch</NAME>
+		<ICON_FILE>item_06.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>This item will double your effective exploration|time. It will appear in Exploration Equipment|when purchased.|Usable once per exploration.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item007</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Book</NAME>
+		<ICON_FILE>item_07.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Raises Wisdom. (500 max)|[Recommended reading, but by whom?]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item008</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Book Set</NAME>
+		<ICON_FILE>item_08.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Greatly raises Wisdom. (500 max)|[7,000,000 Habits of Highly Effective People]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item009</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Rose</NAME>
+		<ICON_FILE>item_09.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Raises Sensitivity. (500 max)|[A token of love, or something like it.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item010</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Rose Bouquet</NAME>
+		<ICON_FILE>item_10.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Greatly raises Sensitivity. (500 max)|[Does this mean "I love you" or "I'm sorry"?]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item011</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Headband</NAME>
+		<ICON_FILE>item_11.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Raises Personality. (500 max)|[Simple, but charming.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item012</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Cat Ears</NAME>
+		<ICON_FILE>item_12.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Greatly raises Personality. (500 max)|[Mew can't go wrong with a classic.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item013</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Panties</NAME>
+		<ICON_FILE>item_13.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Raises Glamour. (500 max)|[Don't leave home without it.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item014</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Underwear Set</NAME>
+		<ICON_FILE>item_14.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Greatly raises Glamour. (500 max)|[Overwear set not included.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item015</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Toy Mallet</NAME>
+		<ICON_FILE>item_15.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Lowers Wisdom.|[Squeak!]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item016</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Work Gloves</NAME>
+		<ICON_FILE>item_16.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Lowers Sensitivity.|[Overuse may result in dullness.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item017</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Sweatpants</NAME>
+		<ICON_FILE>item_17.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Lowers Personality.|[To the unambitious, comfy and easy to wear.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item018</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Afro Wig</NAME>
+		<ICON_FILE>item_18.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<TEXT>Lowers Glamour.|[We won't ask. We don't want to know.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item019</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Parfait</NAME>
+		<ICON_FILE>item_19.png</ICON_FILE>
+		<PRICE>40</PRICE>
+		<TEXT>Greatly raises Wisdom, Sensitivity,|Personality, or Glamour. (500 max)|[Surprise Parfait with surprise ingredients.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item020</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Gold Ring</NAME>
+		<ICON_FILE>item_20.png</ICON_FILE>
+		<PRICE>40</PRICE>
+		<TEXT>Raises Liking.|[How precious!]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item021</ID>
+		<ITEM_TYPE>Present</ITEM_TYPE>
+		<NAME>Diamond Ring</NAME>
+		<ICON_FILE>item_21.png</ICON_FILE>
+		<PRICE>125</PRICE>
+		<TEXT>Greatly raises Liking.|[And they said money can't buy you love.]</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item022</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Vita Starter Deck</NAME>
+		<ICON_FILE>en_booster_deck_001.png</ICON_FILE>
+		<PRICE>500</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Vita Starter Deck,|with 10 bonus Cat Dolls and 10 bonus Books.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item023</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Academy Starter Deck</NAME>
+		<ICON_FILE>booster_deck_002.png</ICON_FILE>
+		<PRICE>500</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Academy Starter Deck,|with 10 bonus Cat Dolls and 10 bonus Books.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item024</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Crux Starter Deck</NAME>
+		<ICON_FILE>booster_deck_003.png</ICON_FILE>
+		<PRICE>500</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Crux Starter Deck,|with 10 bonus Cat Dolls and 10 bonus Books.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item025</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Darklore Starter Deck</NAME>
+		<ICON_FILE>booster_deck_004.png</ICON_FILE>
+		<PRICE>500</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Darklore Starter Deck,|with 10 bonus Cat Dolls and 10 bonus Books.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item056</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Council Theme Deck</NAME>
+		<ICON_FILE>en_booster_deck_005.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Council-themed Vita Deck with exclusive |Council VP Tieria, Double Council Kick Spell, |and Council Press Student cards.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item057</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Maid Theme Deck</NAME>
+		<ICON_FILE>en_booster_deck_006.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Maid-themed Academy Deck with exclusive |Maid Lesnoa, Comfort Room, |and Producer Maid cards.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item058</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Seeker Theme Deck</NAME>
+		<ICON_FILE>en_booster_deck_007.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Seeker-themed Crux Deck with exclusive |Seeker Odien, Flash Shield, |and Seeker Irene cards.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item059</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Witch Theme Deck</NAME>
+		<ICON_FILE>en_booster_deck_008.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Witch-themed Darklore Deck with exclusive |Lightning Palomporom, Strega Think Tank, |and Artisan Baker Witch cards.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item064</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>The key of Girl's room</NAME>
+		<ICON_FILE>item_64.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>This item allows your Characters| to explore the Girl's room.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item026</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Ore Certificate</NAME>
+		<ICON_FILE>item_26.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>This lets you perform another|20 Ore transmutations.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item027</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Accessories Certificate</NAME>
+		<ICON_FILE>item_27.png</ICON_FILE>
+		<PRICE>10</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>This lets you perform another|20 Accessory transmutations.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item028</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Magical Map</NAME>
+		<ICON_FILE>item_28.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>This item allows your Character to explore|the Magical Forest.|(This is a single-use item)</TEXT>
+	</CASH_ITEM>
+	
+	<CASH_ITEM>
+		<ID>Item004</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Relic</NAME>
+		<ICON_FILE>item_05.png</ICON_FILE>
+		<PRICE>100</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Prevent one Follower from being consumed|during upgrading. This can only be used on|Followers with STVL. 1 or higher.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item029</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Blessed Relic</NAME>
+		<ICON_FILE>item_05.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Prevent one Follower from being consumed|during upgrading. This can only be used on|Followers with STVL. 1 or higher.|(Also unlocks the Advanced Gym)</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item030</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Slot Key</NAME>
+		<ICON_FILE>item_29.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>This item gives you another Deck Slot.|You can have up to 10 Decks.|</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item031</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>Continue Coin</NAME>
+		<ICON_FILE>item_30.png</ICON_FILE>
+		<PRICE>25</PRICE>
+		<PRESENT_NO>0</PRESENT_NO>
+		<TEXT>Insert coin for a rematch!</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item032</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Original Green Sleeves</NAME>
+		<ICON_FILE>item_32.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Adds Original Green Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item033</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Original Red Sleeves</NAME>
+		<ICON_FILE>item_33.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Adds Original Red Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item034</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Original Light Blue Sleeves</NAME>
+		<ICON_FILE>item_34.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Adds Original Light Blue Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item035</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Original Black Sleeves</NAME>
+		<ICON_FILE>item_35.png</ICON_FILE>
+		<PRICE>50</PRICE>
+		<TEXT>Adds Original Black Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item036</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>SG Special Sleeves</NAME>
+		<ICON_FILE>item_36.png</ICON_FILE>
+		<PRICE>1000</PRICE>
+		<TEXT>Adds Sword Girls Special Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item037</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Default Sleeves</NAME>
+		<ICON_FILE>item_37.png</ICON_FILE>
+		<PRICE>0</PRICE>
+		<TEXT>Adds Default Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item038</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>SD Sita Sleeves</NAME>
+		<ICON_FILE>item_38.png</ICON_FILE>
+		<PRICE>150</PRICE>
+		<TEXT>Adds SD Sita Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item039</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>SD Cinia Sleeves</NAME>
+		<ICON_FILE>item_39.png</ICON_FILE>
+		<PRICE>150</PRICE>
+		<TEXT>Adds SD Cinia Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item040</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>SD Luthica Sleeves</NAME>
+		<ICON_FILE>item_40.png</ICON_FILE>
+		<PRICE>150</PRICE>
+		<TEXT>Adds SD Luthica Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item041</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>SD Iri Sleeves</NAME>
+		<ICON_FILE>item_41.png</ICON_FILE>
+		<PRICE>150</PRICE>
+		<TEXT>Adds SD Iri Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item042</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Wind Slash Sleeves</NAME>
+		<ICON_FILE>item_42.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Wind Slash Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item043</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Royle Academy Sleeves</NAME>
+		<ICON_FILE>item_43.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Royle Academy Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item044</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Comeback Sleeves</NAME>
+		<ICON_FILE>item_44.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Comeback Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item045</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Vernika's World Sleeves</NAME>
+		<ICON_FILE>item_45.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Vernika's World Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item046</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Sita Sleeves</NAME>
+		<ICON_FILE>item_46.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Sita Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item047</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Cinia Sleeves</NAME>
+		<ICON_FILE>item_47.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Cinia Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item048</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Luthica Sleeves</NAME>
+		<ICON_FILE>item_48.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Luthica Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item049</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Iri Sleeves</NAME>
+		<ICON_FILE>item_49.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Iri Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item050</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Penguin Doll Sleeves</NAME>
+		<ICON_FILE>item_50.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Penguin Doll Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item051</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Passionate Panda Sleeves</NAME>
+		<ICON_FILE>item_51.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Passionate Panda Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item052</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Drunken Holy Beast Sleeves</NAME>
+		<ICON_FILE>item_52.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Drunken Holy Beast Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item053</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Blood Delivery Sleeves</NAME>
+		<ICON_FILE>item_53.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Blood Delivery Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item112</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Child Sita Sleeves</NAME>
+		<ICON_FILE>item_112.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Child Sita Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item113</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Child Cinia Sleeves</NAME>
+		<ICON_FILE>item_113.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Child Cinia Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item114</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Child Luthica Sleeves</NAME>
+		<ICON_FILE>item_114.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Child Luthica Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item115</ID>
+		<ITEM_TYPE>CardBackground</ITEM_TYPE>
+		<NAME>Child Iri Sleeves</NAME>
+		<ICON_FILE>item_115.png</ICON_FILE>
+		<PRICE>450</PRICE>
+		<TEXT>Adds Child Iri Sleeves to your Library.</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item054</ID>
+		<ITEM_TYPE>SingleCard</ITEM_TYPE>
+		<NAME>Talentium Pearl</NAME>
+		<ICON_FILE>item_54.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<TEXT>Talentium Pearls are used to craft premium cards.||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item055</ID>
+		<ITEM_TYPE>SingleCard</ITEM_TYPE>
+		<NAME>Talentium Ingot</NAME>
+		<ICON_FILE>item_55.png</ICON_FILE>
+		<PRICE>200</PRICE>
+		<TEXT>Talentium Ingots are used to craft premium cards.||</TEXT>
+	</CASH_ITEM>
+
+	<CASH_ITEM>
+		<ID>Item065</ID>
+		<ITEM_TYPE>ETC</ITEM_TYPE>
+		<NAME>New Nametag</NAME>
+		<ICON_FILE>item_65.png</ICON_FILE>
+		<PRICE>500</PRICE>
+		<TEXT>Your User Name will be changed.||</TEXT>
+	</CASH_ITEM>
+	<CASH_ITEM>
+		<ID>Item093</ID>
+		<ITEM_TYPE>Deck</ITEM_TYPE>
+		<NAME>Deluxe Starter Bundle</NAME>
+		<ICON_FILE>en_booster_deck_010.png</ICON_FILE>
+		<PRICE>1200</PRICE>
+		<TEXT>All 4 Starter Decks, with 3 bonus Event cards:|Good Job, Thank You, and Pleased to Meet You</TEXT>
+	</CASH_ITEM>
+</CASH_ITEM_DATA>

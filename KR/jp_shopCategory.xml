@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SHOP_CATEGORY_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SHOP_CATEGORY>
+		<ID>1</ID>
+		<NAME>ブースタ</NAME>
+		<ICON_FILE>shop_booster.png</ICON_FILE>
+		<TITLE_FILE>jp_shop_booster_title.png</TITLE_FILE>
+	</SHOP_CATEGORY>
+	
+	<SHOP_CATEGORY>
+		<ID>3</ID>
+		<NAME>デッキ</NAME>
+		<ICON_FILE>shop_deck.png</ICON_FILE>
+		<TITLE_FILE>jp_shop_deck_title.png</TITLE_FILE>
+	</SHOP_CATEGORY>
+	
+	<SHOP_CATEGORY>
+		<ID>2</ID>
+		<NAME>アイテム</NAME>
+		<ICON_FILE>shop_item.png</ICON_FILE>
+		<TITLE_FILE>jp_shop_item_title.png</TITLE_FILE>
+	</SHOP_CATEGORY>
+
+	<COIN_CATEGORY>
+		<ID>4</ID>
+		<NAME>コインショップ</NAME>
+		<ICON_FILE>coinshop.png</ICON_FILE>
+		<TITLE_FILE>jp_coinshop_title.png</TITLE_FILE>
+	</COIN_CATEGORY>
+
+</SHOP_CATEGORY_DATA>

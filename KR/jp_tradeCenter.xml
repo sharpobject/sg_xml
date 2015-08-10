@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TRADE_CENTER_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TRADE_CENTER>
+		<ID>1</ID>
+		<NAME>交換場</NAME>
+		<ICON_FILE>exchange.png</ICON_FILE>
+		<TITLE_FILE>jp_exchane_title.png</TITLE_FILE>
+	</TRADE_CENTER>
+</TRADE_CENTER_DATA>

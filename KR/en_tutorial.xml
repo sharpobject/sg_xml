@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TUTORIAL_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TUTORIAL_PAGE>
+		<ID>0</ID>
+		<TITLE>Welcome</TITLE>
+		<IMAGE_FILE>.</IMAGE_FILE>
+		<STATE>0</STATE>
+		<MSG><![CDATA[Hi, I'm Rio. You look like you could use some help!<br></br>Sword Girls is about collecting all the best cards,<br></br>building impressive decks, conquering fearsome<br></br>dungeon bosses, and outplaying your opponents.<br></br>I've given you some <span fontWeight="bold" color="#0ba8f9">free Tokens and Materials</span><br></br>as a welcome gift! Click START to begin the tutorial.<br></br>It's also your first Quest!]]></MSG>
+	</TUTORIAL_PAGE>
+	
+	<TUTORIAL_PAGE>
+		<ID>1</ID>
+		<TITLE>Card Type</TITLE>
+		<IMAGE_FILE>en_tuto_1_rule.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[There are three kinds of cards in Sword Girls:<br></br><span fontWeight="bold" color="#0ba8f9">Character</span> - The hero. Primary focus and<br></br>there must be one in each deck.<br></br><span fontWeight="bold" color="#0ba8f9">Follower</span> - The fighter. Features 3 stats:<br></br>Attack (ATK), Defense (DEF), and Stamina (STA).<br></br><span fontWeight="bold" color="#0ba8f9">Spell</span> - The support. Powerful buffs for allies<br></br>and debuffs for enemies.]]></MSG>
+	</TUTORIAL_PAGE>
+	
+	<TUTORIAL_PAGE>
+		<ID>2</ID>
+		<TITLE>Card Size</TITLE>
+		<IMAGE_FILE>tuto_2_rule.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[Followers and Spells have a <span fontWeight="bold" color="#0ba8f9">SIZE</span> in the upper-right<br></br>corner of the card. During each turn, you can play<br></br>cards until you reach a total SIZE of <span fontWeight="bold" color="#0ba8f9">10</span>. A Follower<br></br>card's SIZE determines how much LIFE a Character<br></br>will lose from either a direct attack or when an allied<br></br>Follower is defeated.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>3</ID>
+		<TITLE>Main Phase</TITLE>
+		<IMAGE_FILE>tuto_3_fight.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[During the Main Phase, you play cards from <br></br>your Hand and place them in the Field.  Your Hand<br></br>consists of 5 cards and is refilled every turn. <br></br>Be aware of the maximum Field size of <span fontWeight="bold" color="#0ba8f9">10</span>. Click<br></br><span fontWeight="bold" color="#0ba8f9">SHUFFLE</span> if you would like to swap the current<br></br>cards in your Hand with cards from your Deck.<br></br>You can only SHUFFLE twice per match.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>4</ID>
+		<TITLE>Battle Phase</TITLE>
+		<IMAGE_FILE>tuto_4_fight.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[During the Battle Phase, Spell cards always<br></br>activate first and then Followers proceed to attack.<br></br>Followers will always counterattack if they survive<br></br>the initial attack. Pay attention to the <span fontWeight="bold" color="#0ba8f9">SIZE</span> of <br></br>Follower cards; if they are defeated,<br></br>the Character loses <span fontWeight="bold" color="#0ba8f9">LIFE</span> equal to the <span fontWeight="bold" color="#0ba8f9">SIZE</span> of their<br></br>allied Follower.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>5</ID>
+		<TITLE>Main Menu</TITLE>
+		<IMAGE_FILE>en_tuto_5_menu.png</IMAGE_FILE>
+		<STATE>1</STATE>
+		<MSG><![CDATA[Everything in Sword Girls starts here.<br></br><span fontWeight="bold" color="#0ba8f9">DUNGEON</span> - Hunt down bosses.<br></br><span fontWeight="bold" color="#0ba8f9">FIGHT</span> - Battle against other players.<br></br><span fontWeight="bold" color="#0ba8f9">SHOP</span> - Purchase cards and items.<br></br><span fontWeight="bold" color="#0ba8f9">DECK</span> - Browse your collection and build decks<br></br><span fontWeight="bold" color="#0ba8f9">LAB</span> - Crafting, exchanging, training, and more.<br></br>Click "?" on the top left of each menu for details.]]></MSG>
+	</TUTORIAL_PAGE>
+		
+	<TUTORIAL_PAGE>
+		<ID>6</ID>
+		<TITLE>Success!</TITLE>
+		<IMAGE_FILE>.</IMAGE_FILE>
+		<STATE>2</STATE>
+		<MSG><![CDATA[Tutorial quest complete! Click QUEST on the<br></br>bottom right to claim your rewards. <span fontWeight="bold" color="#0ba8f9">Visit the<br></br>DECK to get familiar with your Starter Deck<br></br>and bonus cards.</span> When you are ready to enter<br></br>your first battle, explore the Beginner Dungeon.<br></br>For more detailed information, click HELP<br></br>to view the full game guide.<br></br>]]></MSG>
+	</TUTORIAL_PAGE>
+</TUTORIAL_DATA>

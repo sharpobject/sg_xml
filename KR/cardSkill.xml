@@ -3879,5 +3879,5 @@
 <CARD_SKILL><ID>2673</ID><NAME>이상동몽</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 랜덤한 다크로어 소속 카드 1을 자신 덱 맨밑으로 옮긴다. 그경우 방어 추종자는 다음 특수능력을 얻는다."공격전: 이 추종자의 공격력 -1"</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2674</ID><NAME>마안개방</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 특수능력 개수만큼 공격 추종자의 공/체 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2675</ID><NAME>운요의 태도!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자는 무덤으로 간다. 해당 카드 사이즈의 절반(내림)만큼 자신 라이프 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2675</ID><NAME>여름밤의 꿈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드는 행동가능 상태가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2676</ID><NAME>여름밤의 꿈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드는 행동가능 상태가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

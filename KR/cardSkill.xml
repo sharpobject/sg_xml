@@ -3896,8 +3896,8 @@
 <CARD_SKILL><ID>2676</ID><NAME>여름밤의 꿈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드는 행동가능 상태가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2677</ID><NAME>친구들과의 휴가</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 공립 카드 수만큼 공격추종자의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2678</ID><NAME>친구소개</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드를 자신 덱 맨밑으로 옮긴다. 자신 덱 랜덤한 공립소속 추종자 1을 이 카드가 위치한 슬롯에 배치한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2679</ID><NAME>여름노을</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 전체 필드 “시타”가 들어가는 카드가 있을 경우, 방어 추종자의 방어력 =0. 변화치 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2680</ID><NAME>노을빛 꿈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력이 방어추종자의 방/체합 이상일 경우,방어 추종자의 사이즈 +1. 방어 추종자의 소속이 상대와 다를 경우 해당 추종자의 방어전 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2679</ID><NAME>여름노을</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드를 제외한 전체 필드“시타”가 들어가는 카드가 있을 경우,방어 추종자의 방어력 =0. 변화치 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2680</ID><NAME>노을빛 꿈</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력이 방어추종자의 방/체합 이상일 경우,방어 추종자의 사이즈 +1.방어 추종자의 소속이 상대와 다를 경우 해당 추종자의 방어전 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2681</ID><NAME>하향평준화</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 공립소속 카드가 3장 이상일 경우,공격 추종자의 공/방/체 수치중 증가한 수치는 본래 수치가 된다.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2682</ID><NAME>선도활동지도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 강화수치+1 만큼 해당 추종자의 공/방/체 감소. 강화수치가 0일 경우, 이 카드와 자신 덱 랜덤한 공립 소속 추종자 1의 공/체 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2683</ID><NAME>또 다른 자신</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드를 제거한다. 자신 무덤 리누스가 들어가는 랜덤한 추종자 1을 공/체 +2. 사이즈 -1. 하여 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>

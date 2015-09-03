@@ -3945,5 +3945,5 @@
 <CARD_SKILL><ID>2708</ID><NAME>은총의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공격력 -1. 자신 필드 랜덤한 크룩스 소속 추종자 2의 방/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2709</ID><NAME>신의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 크룩스 소속이고, 이 카드의 방/체합이 공격 추종자 공격력보다 낮을 경우, 이 카드의 사이즈 +1 하여 자신 덱 맨 위로 이동한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2710</ID><NAME>무녀의 신념</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 전체 필드 추종자의 공격전 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다. 변경된 특수능력 수 만큼 이 카드의 공/체 증가.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2711</ID><NAME>계승의 의식</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 카드 수가 7장 이상일 경우, 방어 추종자의 턴개시시 특수능력은 사라진다. 13장 이상일 경우,이 추종자의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2711</ID><NAME>계승의 의식</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 카드 수가 7장 이상일 경우, 공격 추종자의 턴개시시 특수능력은 사라진다. 13장 이상일 경우,이 추종자의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

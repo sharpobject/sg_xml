@@ -6090,7 +6090,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>84</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>4</SEASON><TOOL_TIP_ICON>dungeon_ex27.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 붉은 장미, 세이버, 가터스타킹, 매니큐어|특징 : 복수를 위해 시니아가를 습격한 마리메. 퍼시피카 가문에 얽힌 그녀의 사연은?</TOOL_TIP_TEXT>
+<ID>84</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>4</SEASON><TOOL_TIP_ICON>dungeon_ep27.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 붉은 장미, 세이버, 가터스타킹, 매니큐어|특징 : 복수를 위해 시니아가를 습격한 마리메. 퍼시피카 가문에 얽힌 그녀의 사연은?</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>

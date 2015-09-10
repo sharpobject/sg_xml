@@ -1122,4 +1122,5 @@
 <TALK_PATTERN><ID>f301362</ID><JOIN>이 이상은 좌시할 수 없군.</JOIN><JOIN>쉽게 끝날거라 생각마라.</JOIN><FALL_APART>꽤나 귀찮게 하는군…</FALL_APART><FALL_APART>순순히 따라오도록</FALL_APART><ATTACK>더는 좌시할 수 없다! </ATTACK><COUNTER>반항하겠다면, 실력으로 제압하지.</COUNTER><DIRECT>적당히 봐줄 생각은 없다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301363</ID><JOIN>이단자는 용서할 수 없다.</JOIN><JOIN>신께서 우리를 보살필것이다.</JOIN><FALL_APART>오늘도 이렇게 죄많은 영혼이…</FALL_APART><FALL_APART>정화의 시간이 다가왔다.</FALL_APART><ATTACK>신이 용서한다 할지라도 내가 용서 못해!</ATTACK><COUNTER>이 세계에서 이단이 피할곳은 없다.</COUNTER><DIRECT>자비는 신께 구하도록!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301364</ID><JOIN>이것이 신의 뜻이라면…</JOIN><JOIN>설마 이게 전부인건가요?</JOIN><FALL_APART>예전 복장이 그리워 지네요…</FALL_APART><FALL_APART>새로운 복장은 적응이…</FALL_APART><ATTACK>자…잠깐 이건 분명 신의 뜻이 맞는 거겠죠?</ATTACK><COUNTER>다른 옷은 더 없는걸까요…</COUNTER><DIRECT>당분간은 조용히 지내야 할지도…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301365</ID><JOIN>때가 되었다.</JOIN><JOIN>사실 필요할지도…</JOIN><FALL_APART>추락하는 것에 날개는 필요없지.</FALL_APART><FALL_APART>아직 눈치 채지 못한듯 하군…</FALL_APART><ATTACK>추진력을 이용한다면…!</ATTACK><COUNTER>좀 더 빠르게! 좀 더 강하게!</COUNTER><DIRECT>다음 목표물은 어디에 있지?</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

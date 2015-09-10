@@ -2232,6 +2232,7 @@
 <CARD_SKILL><ID>201094</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 무덤 상대와 소속이 다른 랜덤한 카드를 3장까지 제거한다. 제거한 카드의 절반(올림)만큼 자신 셔플 수 증가. 상대 무덤 십의 자리 수 만큼 자신 필드/핸드 “스카델”, “크레센트”, “플리나”가 들어가는 추종자 전체 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201095</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>슬롯 번호와 사이즈의 홀/짝이 일치하지 않는 상대 필드 카드 전체 상대 무덤으로 보낸다. 보낸 카드 수만큼 자신 무덤 랜덤한 카드의 사이즈를 절반(올림) 하여 자신 덱 맨밑으로 옮긴다. 추가로 자신 라이프와 자신 덱이 상대보다 적을 경우, 자신 필드와 핸드 카드 전체 사이즈 -1. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201096</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201097</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 덱 포인트가 가장 높은 카드 1을 자신 필드 마지막 빈슬롯에 옮긴다. 자신 덱 포인트가 가장 낮은 랜덤한 카드 1을 상대 핸드 마지막 슬롯에 옮긴다. 자신 라이프가 상대보다 적을 경우 해당 카드를 상대 필드 마지막 빈 슬롯에 행동종료 상태로 배치한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 카드이름에 "요리연구부"가 들어간 랜덤한 자신필드 추종자 카드1의 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -3946,4 +3947,7 @@
 <CARD_SKILL><ID>2709</ID><NAME>신의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 크룩스 소속이고, 이 카드의 방/체합이 공격 추종자 공격력보다 낮을 경우, 이 카드의 사이즈 +1 하여 자신 덱 맨 위로 이동한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2710</ID><NAME>무녀의 신념</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 전체 필드 추종자의 공격전 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다. 변경된 특수능력 수 만큼 이 카드의 공/체 증가.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2711</ID><NAME>계승의 의식</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 카드 수가 7장 이상일 경우, 공격 추종자의 턴개시시 특수능력은 사라진다. 13장 이상일 경우,이 추종자의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2712</ID><NAME>추진력의 전달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 강화수치 만큼 자신 덱 사이즈가 가장 큰 추종자 1의 사이즈 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2713</ID><NAME>몰이</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(올림)만큼 상대 덱 맨밑에 있는 추종자를 상대 덱 맨위로 옮긴다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+
 </CARD_SKILL_DATA>

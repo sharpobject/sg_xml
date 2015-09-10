@@ -3949,5 +3949,5 @@
 <CARD_SKILL><ID>2711</ID><NAME>계승의 의식</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 카드 수가 7장 이상일 경우, 공격 추종자의 턴개시시 특수능력은 사라진다. 13장 이상일 경우,이 추종자의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2712</ID><NAME>추진력의 전달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 강화수치 만큼 자신 덱 사이즈가 가장 큰 추종자 1의 사이즈 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2713</ID><NAME>몰이</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(올림)만큼 상대 덱 맨밑에 있는 추종자를 상대 덱 맨위로 옮긴다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-
+<CARD_SKILL><ID>2714</ID><NAME>무력화의 연쇄</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 만큼,상대 필드 첫 번째 슬롯 부터 상대 덱 추종자 체력 -2.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

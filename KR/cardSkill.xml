@@ -3958,10 +3958,10 @@
 <CARD_SKILL><ID>2712</ID><NAME>추진력의 전달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 강화수치 만큼 자신 덱 사이즈가 가장 큰 추종자 1의 사이즈 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2713</ID><NAME>몰이</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 절반(올림)만큼 상대 덱 맨밑에 있는 추종자를 상대 덱 맨위로 옮긴다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2714</ID><NAME>무력화의 연쇄</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치 만큼,상대 필드 첫 번째 슬롯 부터 상대 덱 추종자 체력 -2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2715</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 사이즈와 슬롯번호의 홀짝이 일치하지 않을 경우 방어 추종자를 파괴한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2716</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 공립 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2717</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 사립 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2718</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 크룩스 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2719</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 다크로어 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
-
+<CARD_SKILL><ID>2715</ID><NAME>부적합판정</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 사이즈와 슬롯번호의 홀짝이 일치하지 않을 경우 방어 추종자를 파괴한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2716</ID><NAME>공립멸시</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 공립 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2717</ID><NAME>사립멸시</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 사립 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2718</ID><NAME>크룩스멸시</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 크룩스 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2719</ID><NAME>다크로어멸시</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 다크로어 소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2720</ID><NAME>무소속멸시</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 무소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

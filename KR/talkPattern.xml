@@ -486,6 +486,10 @@
 <TALK_PATTERN><ID>c100486</ID><JOIN>우… 왜 자꾸 휴가때마다 따라오는거죠?</JOIN><JOIN>나만의 시간이 이렇게…</JOIN><FALL_APART>수영을 못하는게 아니라고요!</FALL_APART><FALL_APART>매…맥주병!? 그런거 아니에요!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100487</ID><JOIN>후훗… 어딜 그렇게 보고 계신거죠?</JOIN><JOIN>어머… 어딜 보고 싶으신걸까?</JOIN><FALL_APART>아쉽다고요? 저도 아쉬운걸요.</FALL_APART><FALL_APART>조금 더 원하신다면 후훗…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100488</ID><JOIN>다시 시중을 들게 되어 영광이에요.</JOIN><JOIN>다시 뵙게 되어 기쁘답니다.</JOIN><FALL_APART>언제든 필요하실때 불러주세요.</FALL_APART><FALL_APART>감사합니다. 주인님.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+
+
+
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>

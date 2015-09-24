@@ -490,6 +490,7 @@
 
 
 
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1127,4 +1128,5 @@
 <TALK_PATTERN><ID>f301363</ID><JOIN>이단자는 용서할 수 없다.</JOIN><JOIN>신께서 우리를 보살필것이다.</JOIN><FALL_APART>오늘도 이렇게 죄많은 영혼이…</FALL_APART><FALL_APART>정화의 시간이 다가왔다.</FALL_APART><ATTACK>신이 용서한다 할지라도 내가 용서 못해!</ATTACK><COUNTER>이 세계에서 이단이 피할곳은 없다.</COUNTER><DIRECT>자비는 신께 구하도록!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301364</ID><JOIN>이것이 신의 뜻이라면…</JOIN><JOIN>설마 이게 전부인건가요?</JOIN><FALL_APART>예전 복장이 그리워 지네요…</FALL_APART><FALL_APART>새로운 복장은 적응이…</FALL_APART><ATTACK>자…잠깐 이건 분명 신의 뜻이 맞는 거겠죠?</ATTACK><COUNTER>다른 옷은 더 없는걸까요…</COUNTER><DIRECT>당분간은 조용히 지내야 할지도…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301365</ID><JOIN>때가 되었다.</JOIN><JOIN>사실 필요할지도…</JOIN><FALL_APART>추락하는 것에 날개는 필요없지.</FALL_APART><FALL_APART>아직 눈치 채지 못한듯 하군…</FALL_APART><ATTACK>추진력을 이용한다면…!</ATTACK><COUNTER>좀 더 빠르게! 좀 더 강하게!</COUNTER><DIRECT>다음 목표물은 어디에 있지?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301366</ID><JOIN>우물우물…</JOIN><JOIN>또 달리면 또 주는거야?</JOIN><FALL_APART>빵 또 없어…?</FALL_APART><FALL_APART>빵… 맛있어…</FALL_APART><ATTACK>끝난거 아니었어?</ATTACK><COUNTER>또 달려야 하는거야?</COUNTER><DIRECT>빵… 더 먹고 싶은데…</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

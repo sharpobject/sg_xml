@@ -3968,5 +3968,5 @@
 <CARD_SKILL><ID>2720</ID><NAME>무소속멸시</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자가 무소속일 경우, 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2721</ID><NAME>무사완주</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 특수능력이 3개일 경우,이 카드의 사이즈 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2722</ID><NAME>첫 번째 장애물</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 공/체는 방어 추종자 본래 카드포인트의 일의 자리수 1.5배(내림)이 된다.이 특수능력은 사라진다. </span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2723</ID><NAME>무사통과</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 강화포인트의 절반(올림) 만큼 공격 추종자의 체력 감소. 그경우 자신과 상대 무덤 랜덤한 카드 1을 제거한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2723</ID><NAME>무사통과</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 강화 수치의 절반(올림) 만큼 공격 추종자의 체력 감소. 그경우 자신과 상대 무덤 랜덤한 카드 1을 제거한다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

@@ -38,7 +38,7 @@ scs = gc.openall()
 for sc in scs:
     print sc.id
 
-sh = gc.open_by_key("12xmOG59rHJHf1QyzaiRNFIQk-hJ_0f0pDnip_iTk41o")
+sh = gc.open_by_key("1ECdAfHs8Z-80gmt0Aj7dhHSuAyPndCS1LoEIsAGp3lo")
 ws1 = sh.get_worksheet(1)
 ws2 = sh.get_worksheet(2)
 new_ts = max(tf_from_timestamp(ws1.updated),

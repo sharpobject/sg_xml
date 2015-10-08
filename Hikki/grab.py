@@ -10,6 +10,7 @@ from xml.dom import minidom
 import sys
 import codecs
 import locale
+from oauth2client.client import SignedJwtAssertionCredentials
 
 sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout)
 
@@ -28,9 +29,16 @@ tsfile.close()
 
 new_ts = 0
 
-(username, password) = open("password.conf").read().split(" ")
-gc = gspread.login(username, password)
-sh = gc.open_by_key("1ECdAfHs8Z-80gmt0Aj7dhHSuAyPndCS1LoEIsAGp3lo")
+json_key = json.load(open("password.conf"))
+scope = ['https://spreadsheets.google.com/feeds']
+credentials = SignedJwtAssertionCredentials(json_key['client_email'], json_key['private_key'], scope)
+gc = gspread.authorize(credentials)
+
+scs = gc.openall()
+for sc in scs:
+    print sc.id
+
+sh = gc.open_by_key("12xmOG59rHJHf1QyzaiRNFIQk-hJ_0f0pDnip_iTk41o")
 ws1 = sh.get_worksheet(1)
 ws2 = sh.get_worksheet(2)
 new_ts = max(tf_from_timestamp(ws1.updated),

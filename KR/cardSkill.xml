@@ -2266,7 +2266,7 @@
 <CARD_SKILL><ID>1013</ID><NAME>화염의권!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어추종자의 체력 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1014</ID><NAME>깃발의유실물</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 자신필드 3번 슬롯 추종자의 공/체 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1015</ID><NAME>전우의애</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드 사이즈 -1. 카드이름에 "기사단"이 들어간 자신필드 추종자 카드 전체 공/체 +1</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1016</ID><NAME>위압!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 방어 추종자의 사이즈 -1. 상대 캐릭터의 라이프 -1. 공격추종자의 사이즈가 이 카드의 사이즈 미만일경우 이 카드의 공/방 +1</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1016</ID><NAME>위압!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 사이즈 -1. 상대 캐릭터의 라이프 -1. 공격추종자의 사이즈가 이 카드의 사이즈 미만일경우 이 카드의 공/방 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1017</ID><NAME>치유의기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터의 라이프 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1018</ID><NAME>홀리힐</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 턴 수가 홀수일 경우 이 카드의 체력 +3</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1019</ID><NAME>십자성</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신필드에 크룩스 소속 카드가 2 이상일 경우. 방어 추종자의 공/방/체 -1/-2/-1</span>]]></TEXT></CARD_SKILL>

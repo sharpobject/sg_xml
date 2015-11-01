@@ -494,6 +494,7 @@
 <CARD_SKILL><ID>100491</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈 +1.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 크룩스 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100492</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 방어력 =0.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 다크로어 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100493</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 공/체 +1.해당 추종자의 사이즈가 홀수일 경우 추가로 공격력 +1. 짝수일 경우 추가로 체력 +1. 해당 카드의 증가된 사이즈는 본래 사이즈가 된다.변경된 사이즈 만큼 상대 필드 혹은 상대 덱 랜덤한 추종자 1의 체력 감소.자신 셔플 수가 상대 셔플 수 이하일경우,상대 셔플 수 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100494</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 공/방/체 +1.해당 추종자의 사이즈가 본래 사이즈일 경우, 사이즈는 절반(내림)이 된다. 해당 추종자는 "방어전: 이 카드의 사이즈는 본래 사이즈가 된다."특수능력을 얻는다. 자신 필드 추종자가 없을 경우 상대 필드 랜덤한 추종자 1의 특수능력은 모두 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -1111,7 +1112,7 @@
 <CARD_SKILL><ID>120050</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 추종자 전체의 본래 공격력보다 증가한 공격력의 1.5배 만큼 해당 추종자의 체력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120051</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 추종자 전체 사이즈 -1. 본래 사이즈와 현재 사이즈가 3이상 차이나는 상대 필드 랜덤한 추종자1을 파괴한다.그랬을경우 상대 핸드 랜덤한 추종자 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120052</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1은 상대 핸드 카드 사이즈의 종류수에 따라 이하의 효과를 모두 적용한다. ●1사이즈: 사이즈 +1. ●2사이즈: 공격력 -1. ●3사이즈: 체력 -1. ●4사이즈: 방어력 -1. ●5사이즈: 공/체 -1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>120053</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 현재 턴 수가 1일경우 자신 덱 카드 전체 사이즈 =2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>120053</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 현재 턴 수가 1일경우 자신 덱 카드 전체 사이즈 =2. 상대 게임수가 5000전 이하일 경우, 자신 필드 랜덤한 추종자 1의 공/방/체를 본래 수치로 하여 상대 필드 마지막 빈 슬롯으로 옮긴다. 상대 게임 수의 5-천의 자리 수 만큼 해당 추종자의 공/체 증가, 라이프 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120054</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 무덤 맨위의 카드 1을 제거한다. 제거한 카드 사이즈만큼 상대 필드 랜덤한 추종자 1의 공/체 감소. 자신 무덤 맨위의 카드 1을 제거한다. 제거한 카드의 사이즈만큼 자신 필드와 핸드 랜덤한 추종자 1의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120055</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 서로의 덱,핸드에 있는 스펠카드는 선물상자, 추종자카드는 포장이 멋진 선물상자로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120056</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 핸드 랜덤한 스펠 1의 사이즈 +2 해당 카드의 사이즈가 6이상일 경우 해당 카드와 인접한 카드는 전부 무덤으로 간다. 상대 핸드에 스펠이 없을 경우 상대 필드 랜덤한 추종자 1의 공/체 -2.</span>]]></TEXT></CARD_SKILL>
@@ -3988,4 +3989,7 @@
 <CARD_SKILL><ID>2732</ID><NAME>중재의 검</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 덱 본래 수치 이상의 공/방/체를 가지는 추종자 전체의 공/방/체 -1.이 특수능력은 사라지지도 변경되지도 않는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2733</ID><NAME>수호자의 시련</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 마지막 특수능력은 사라진다.상대 덱 랜덤한 추종자 1의 공격전 특수능력을 이 카드에 이전한다.해당 카드의 사이즈의 절반(내림)만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2734</ID><NAME>수호자의 장막</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈 =1. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2735</ID><NAME>회복!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신라이프가 상대보다 적을 경우,이 카드의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2736</ID><NAME>장난? 선물?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신핸드 랜덤한 스펠 2의 사이즈 -1하여 자신 덱 맨밑으로 옮긴다.그경우 방어 추종자의 공/체와 이 카드의 공/체를 교환한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2737</ID><NAME>기상!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈는 본래 사이즈가 된다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

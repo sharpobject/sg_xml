@@ -486,11 +486,12 @@
 <TALK_PATTERN><ID>c100486</ID><JOIN>우… 왜 자꾸 휴가때마다 따라오는거죠?</JOIN><JOIN>나만의 시간이 이렇게…</JOIN><FALL_APART>수영을 못하는게 아니라고요!</FALL_APART><FALL_APART>매…맥주병!? 그런거 아니에요!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100487</ID><JOIN>후훗… 어딜 그렇게 보고 계신거죠?</JOIN><JOIN>어머… 어딜 보고 싶으신걸까?</JOIN><FALL_APART>아쉽다고요? 저도 아쉬운걸요.</FALL_APART><FALL_APART>조금 더 원하신다면 후훗…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100488</ID><JOIN>다시 시중을 들게 되어 영광이에요.</JOIN><JOIN>다시 뵙게 되어 기쁘답니다.</JOIN><FALL_APART>언제든 필요하실때 불러주세요.</FALL_APART><FALL_APART>감사합니다. 주인님.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
-
-
-
-
-
+<TALK_PATTERN><ID>c100489</ID><JOIN>응? 나 말이야? 지금은 바쁜데…</JOIN><JOIN>응? 나 말이야? 지금은 바쁜데…</JOIN><FALL_APART>미안 다음에 또 놀아줄게~</FALL_APART><FALL_APART>미안 다음에 또 놀아줄게~</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100490</ID><JOIN>노닥거릴 시간 따위 없어요.</JOIN><JOIN>노닥거릴 시간 따위 없어요.</JOIN><FALL_APART>복수의 화살은 피할 수 없어!</FALL_APART><FALL_APART>복수의 화살은 피할 수 없어!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100491</ID><JOIN>여신님께서 저희를 지켜주실거에요.</JOIN><JOIN>여신님께서 저희를 지켜주실거에요.</JOIN><FALL_APART>여신님의 가호가 함께하길…</FALL_APART><FALL_APART>여신님의 가호가 함께하길…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100492</ID><JOIN>너의 영혼은 무슨 색일까? 궁금한걸?</JOIN><JOIN>너의 영혼은 무슨 색일까?</JOIN><FALL_APART>네 영혼. 한 번만 봐도 될까?</FALL_APART><FALL_APART>네 영혼. 한 번만 봐도 될까?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100493</ID><JOIN>옷은 뭐... 천천히 갈아입을게요.</JOIN><JOIN>하암… 귀찮은데…</JOIN><FALL_APART>하암… 피곤해졌어요.</FALL_APART><FALL_APART>하암… 벌써 식사시간인가요?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100494</ID><JOIN>오늘도 지각해버렸어…</JOIN><JOIN>부활동 연습을 너무 열심히 했어…</JOIN><FALL_APART>후에엥… 더 자고 싶어…</FALL_APART><FALL_APART>머리 감을 시간도 없어…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1134,4 +1135,5 @@
 <TALK_PATTERN><ID>f301369</ID><JOIN>배후가 의심스럽군…</JOIN><JOIN>무언가 결정적인 정보가 필요해!</JOIN><FALL_APART>아직은… 증거가 부족하군.</FALL_APART><FALL_APART>철저히 조사를 진행해야겠군…</FALL_APART><ATTACK>무언가 배후가 있는건가…?</ATTACK><COUNTER>이대로라면 교국이…</COUNTER><DIRECT>더 늦기전에 움직여야겠군.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301370</ID><JOIN>비켜… 장난칠 시간따위 없다.</JOIN><JOIN>아직 늦지않았을터…</JOIN><FALL_APART>서둘러야해…</FALL_APART><FALL_APART>방해하지 마.</FALL_APART><ATTACK>쓸데없는 시간낭비일 뿐이다.</ATTACK><COUNTER>빚은 잊지 않고 반드시 갚는다.</COUNTER><DIRECT>더 이상 지체할 시간이 없다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301371</ID><JOIN>믿음을 가진다면 두려움 따위…!</JOIN><JOIN>저의 사명은 곧…</JOIN><FALL_APART>더는 물러설 수 없습니다…</FALL_APART><FALL_APART>이 세계를 지키기 위한 검…</FALL_APART><ATTACK>사명을 완수하겠습니다!</ATTACK><COUNTER>또 다시 같은 실수를 반복할순…</COUNTER><DIRECT>모든 것을 지키기 위해서라면…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301372</ID><JOIN>베르니카, 눈빛이 바뀐것 같아…</JOIN><JOIN>사소한건 신경 쓰지 않아도 돼.</JOIN><FALL_APART>베르니카, 귀가 커진것 같아…</FALL_APART><FALL_APART>그건 시타를 잘 보기 위해서란다.</FALL_APART><ATTACK>배고파졌어… </ATTACK><COUNTER>배가 부르니 졸려…</COUNTER><DIRECT>좀 더 가까이 와도 돼 시타.</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

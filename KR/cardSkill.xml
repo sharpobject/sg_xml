@@ -4009,7 +4009,7 @@
 <CARD_SKILL><ID>2736</ID><NAME>장난? 선물?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신핸드 랜덤한 스펠 2의 사이즈 -1하여 자신 덱 맨밑으로 옮긴다.그경우 방어 추종자의 공/체와 이 카드의 공/체를 교환한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2737</ID><NAME>기상!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈는 본래 사이즈가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2738</ID><NAME>검문검색</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 같은 사이즈의 자신 덱 랜덤한 공립 소속 카드 1을 자신 무덤에 복사한다. 그경우 방어 추종자를 행동종료 상태로 한다. 이 카드의 사이즈 -1</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2739</ID><NAME>교칙위반 발견!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 공립 소속 카드의 사이즈 종류 만큼 방어 추종자의 체력 감소. 해당 추종자의 소속이 상대 캐릭터와 다를 경우 추가로 공격력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2739</ID><NAME>교칙위반 발견!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 공립 소속 카드의 사이즈 종류 만큼 공격 추종자의 체력 감소. 해당 추종자의 소속이 상대 캐릭터와 다를 경우 추가로 공격력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2740</ID><NAME>일망타진</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 필드 방어력이 -1이하인 추종자 전체 방어전 특수능력은 사라진다.그경우 이 카드의 사이즈 +1. 이 카드의 사이즈가 8이상일 경우, 본래 사이즈와 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2741</ID><NAME>죠커</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 사립소속일 경우, 이 카드의 방어력과 공격 추종자의 공격력 차이의 절반(올림)만큼 공격 추종자의 방/체 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2742</ID><NAME>이단심판</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 4-자신 라이프 10의 자리 수 만큼 상대와 소속이 다른 상대 무덤 랜덤한 카드를 제거한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

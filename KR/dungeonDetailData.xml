@@ -6162,10 +6162,10 @@
 <DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>당신은 누구시죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>이런, 이런. 네가 아무리 기도한다 한들 바뀌는 건 아무것도 없는 걸?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>어디서 들어온 거죠? 정체를 밝히세요! 무녀님, 이쪽으로!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>아무것도 모르는 가엾은 무녀. 바꾸고 싶지 않아? 세계의 진실을 알고싶지 않아?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>잠깐… 멈추세요! 하윽?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>남십자의, 아니. 이곳에서는 '진리의'라고 해야하나? 여신의 부활을 위한 첫 의식을 시작하겠어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>어디서 들어온 거죠? 정체를 밝히세요! 무녀님, 이쪽으로!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>아무것도 모르는 가엾은 무녀. 바꾸고 싶지 않아? 세계의 진실을 알고싶지 않아?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>잠깐… 멈추세요! 하윽?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>남십자의, 아니. 이곳에서는 '진리의'라고 해야하나? 여신의 부활을 위한 첫 의식을 시작하겠어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -6197,13 +6197,13 @@
 <DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>굉음과 함께 벽이 무너지고 두 명의 소녀가 유유히 걸어 나왔다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>짜잔! 남십자 주교 9석  티나가 쓰레기 청소를 위해 찾아왔습니다~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>짜잔! 남십자 주교 9석  티나가 쓰레기 청소를 위해 찾아왔습니다~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>정숙하세요, 티나. 이곳은 적진. 그 어떤 일이 벌어질 수 있는 곳이거늘, 매번 마음이 너무 가볍습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>쳇쳇. 이자벨은 너무 엄격하단 말이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>쳇쳇. 이자벨은 너무 엄격하단 말이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>흠흠. 인사가 늦었습니다. 저 주교 이자벨은 남십자 교황청의 이름하에 당신들 천리교의 무녀의 제거를 선언합니다. 각오하시길!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>잡것들은 맡겨둬, 이자벨. '성흔 무장-시몬'으로 쓸어버릴 테니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>잡것들은 맡겨둬, 이자벨. '성흔 무장-시몬'으로 쓸어버릴 테니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>잠깐, 티나! 당신의 무장을 이런 좁은 곳에서 꺼냈다가는…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>문답무용! 성흔 해방! 너의 시간이다. 날뛰어라, 시몬!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>문답무용! 성흔 해방! 너의 시간이다. 날뛰어라, 시몬!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -6211,7 +6211,7 @@
 <DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>거봐, 괜찮잖아, 이자벨. 이 녀석들도 꽤나 호전적이잖아?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>거봐, 괜찮잖아, 이자벨. 이 녀석들도 꽤나 호전적이잖아?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>천리교의 숙적, 남십자 교황청입니다. 여러분! 방어는 저와 선동가분들이 책임집니다. 적을 구속하고 헬레나님을 지키는 겁니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -6220,8 +6220,8 @@
 <DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>기어오르지 마, 가짜 나부랭이들! 교황님 말씀만 들으면 더 구원 받을 수 있어. 더 많이 구원할 수 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>거짓된 신을 믿는 이단 녀석들에게는 기도할 장소따윈 필요없다는 걸 보여주겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>기어오르지 마, 가짜 나부랭이들! 교황님 말씀만 들으면 더 구원 받을 수 있어. 더 많이 구원할 수 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>거짓된 신을 믿는 이단 녀석들에게는 기도할 장소따윈 필요없다는 걸 보여주겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>

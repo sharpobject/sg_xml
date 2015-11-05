@@ -4017,7 +4017,7 @@
 <CARD_SKILL><ID>2744</ID><NAME>당신의 정답은…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 전체 핸드 소속 수 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2745</ID><NAME>그레이트!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 소속에 따라 다음 효과를 적용한다.●공립/사립: 공격 추종자의 방어력 =0.●크룩스/다크로어: 공격 추종자의 증가된 공격력은 본래 수치가 된다.●그 외: 공격 추종자의 특수능력은 전부 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2746</ID><NAME>한 번 더 앵콜!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 특수능력은“공격전: 이 카드는 제거된다. 이 카드의 방어력은 본래 수치가 된다.증감된 수치만큼 상대 셔플 수 증가.상대 핸드 카드 전체 본래 사이즈가 된다.”로 변경된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2747</ID><NAME>열광의 분위기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 핸드 카드 전체와 상대 덱 맨위 카드2의 사이즈 +3.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2747</ID><NAME>열광의 분위기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 핸드 카드 전체와 상대 덱 맨위 카드3의 사이즈 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2748</ID><NAME>피버타임!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 셔플 수 =0.감소된 수치만큼 이 카드의 방어력 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2749</ID><NAME>결심의 순간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈=1. 감소치만큼 상대 필드 랜덤한 추종자 1의 체력 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2750</ID><NAME>다음 이 시간에</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드는 제거된다.이 카드의 방어력은 본래 수치가 된다.증감된 수치만큼 상대 셔플 수 증가.상대 핸드 카드 전체 본래 사이즈가 된다.</span>]]></TEXT></CARD_SKILL>

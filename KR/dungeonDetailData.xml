@@ -6140,4 +6140,125 @@
 </DUNGEON_DETAIL>
 
 
+<DUNGEON_DETAIL>
+<ID>86</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>4</SEASON><TOOL_TIP_ICON>dungeon_ep28.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 의문의 나비, 펭귄인형, 우산, 가터스타킹|특징 : 마침내 헬레나와 합류한 라임. 하지만 때에 맞춰 주교들이 습격하는데…</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>boss_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>방황하고 있었습니다. 믿던 것이 사라져 버팀목이 필요했습니다. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>boss_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>헬레나님은 있을 곳을 주셨습니다. 믿을 것을 주셨습니다. 마음으로 이어진 동료들이 생겼습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>boss_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>교황청에는 없는 것이 이곳에는 분명히 있습니다. 저는 더 이상 망설이지 않고 과거와 마주하겠어요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>그 모습은…?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>boss_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>성흔은 압류당했지만 애초에 저에게는 필요없는 것입니다. 전력으로 가겠습니다, 이자벨.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>당신은 누구시죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>이런, 이런. 네가 아무리 기도한다 한들 바뀌는 건 아무것도 없는 걸?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>어디서 들어온 거죠? 정체를 밝히세요! 무녀님, 이쪽으로!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>아무것도 모르는 가엾은 무녀. 바꾸고 싶지 않아? 세계의 진실을 알고싶지 않아?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>잠깐… 멈추세요! 하윽?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>남십자의, 아니. 이곳에서는 '진리의'라고 해야하나? 여신의 부활을 위한 첫 의식을 시작하겠어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>가슴이 뜨거워요. 마더데몬 때와 비슷하지만 전혀 다른 이 느낌은…? 아아앗!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3> </NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>마더데몬? 아아. 그 녀석이 꽤 많이 헤집어놨구나. 걱정하지마. 너는 곧 바람을 이룰 수 있을 거야.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>어째서 이런 일을 하는 거죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>뭘. 평범한 변덕이야. 후후후. 가장 먼저 사라질 어두운 별의 운명을 뒤엎는다. 재밌는 여흥이 될 것 같아.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>무녀님께 무슨 짓을 한 겁니까!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>잠깐 정신을 잃은 것 뿐이야. 의식은 순조롭게 진행되고 있어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>의식?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>네가 신경 써야 할 건 그런 게 아닐텐데?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>뭐, 뭐죠? 이 강대한 기운은… 침입자?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>굉음과 함께 벽이 무너지고 두 명의 소녀가 유유히 걸어 나왔다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>짜잔! 남십자 주교 9석  티나가 쓰레기 청소를 위해 찾아왔습니다~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>정숙하세요, 티나. 이곳은 적진. 그 어떤 일이 벌어질 수 있는 곳이거늘, 매번 마음이 너무 가볍습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>쳇쳇. 이자벨은 너무 엄격하단 말이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>흠흠. 인사가 늦었습니다. 저 주교 이자벨은 남십자 교황청의 이름하에 당신들 천리교의 무녀의 제거를 선언합니다. 각오하시길!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>잡것들은 맡겨둬, 이자벨. '성흔 무장-시몬'으로 쓸어버릴 테니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>잠깐, 티나! 당신의 무장을 이런 좁은 곳에서 꺼냈다가는…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>문답무용! 성흔 해방! 너의 시간이다. 날뛰어라, 시몬!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>거봐, 괜찮잖아, 이자벨. 이 녀석들도 꽤나 호전적이잖아?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_redsun.png</NPC_IMG><NPC_NAME>레드선</NPC_NAME><NPC_TEXT_1>천리교의 숙적, 남십자 교황청입니다. 여러분! 방어는 저와 선동가분들이 책임집니다. 적을 구속하고 헬레나님을 지키는 겁니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>6</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>기어오르지 마, 가짜 나부랭이들! 교황님 말씀만 들으면 더 구원 받을 수 있어. 더 많이 구원할 수 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Tina.png</NPC_IMG><NPC_NAME>티나</NPC_NAME><NPC_TEXT_1>거짓된 신을 믿는 이단 녀석들에게는 기도할 장소따윈 필요없다는 걸 보여주겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>7</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>당신은 아그네스…?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>지금은 천리교의 비나 입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>그렇군요. 파문 당하셨다는 문은 들었지만 설마 이정도까지 타락하셨을 줄은…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>이자벨. 당신은 남십자의 어둠에 대해 아무것도 모르고 있습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>기도할 신을 잃은 방랑자의 말을 귀담아 들어줄 정도로 저 이자벨은 무르지 않습니다. 섬멸 대상을 확장하겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>8</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Bina.png</NPC_IMG><NPC_NAME>비나</NPC_NAME><NPC_TEXT_1>이자벨. 생각 해 보시기 바랍니다. 비록 다른 신앙을 가지고 있더라도 이런 식의 무분별한 침공에 무슨 의미가 있는 거죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>교황님의 뜻은 곧 여신님의 뜻입니다. 저는 그저 그 뜻을 널리 알리는 종. 성흔을 가진 이로서의 책무를 다할 뿐입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>역시 당신을 상대로는 성흔의 해방은 필요불가결로 판단 되는군요.  성흔무장-안드레아를 기동합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>9</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_086.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_086.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_086.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>끝났군요. 아무리 당신이라 할지라도 지금의 당신은 무력할 뿐입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>그럼, 그 곳의 괴물. 당신에게서는 존재 자체에서 부정한 기운이 느껴지는군요. 이제 당신의 차례인가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>남십자도 꽤 거칠게 변했는걸. 마음은 굴뚝같지만 의식 도중에는 내 움직임도 상당히 제한되서 말이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>그리고 섣부른 판단은 하지 않는 게 좋아, 남십자의 아이.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND></NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>……놀랐습니다. 아그네스…아니, 비나는 이것을 견뎌냈다는 건가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
 </DUNGEON_DETAIL_DATA>

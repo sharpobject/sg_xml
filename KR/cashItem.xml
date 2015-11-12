@@ -31,7 +31,7 @@
 <CASH_ITEM> <ID>Item028</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>마법의지도</NAME> <ICON_FILE>item_28.png</ICON_FILE> <PRICE>100</PRICE> <TEXT>마법의 숲에서 탐사를 시작합니다.|시즌2 파이트 재료카드를 획득할 수 있습니다.|최소 2시간부터 최대 24시간까지|시간이 오래 지날수록 많은 재료를|획득할 수 있습니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item029</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>수호의 성물(고급)</NAME> <ICON_FILE>item_05.png</ICON_FILE> <PRICE>700</PRICE> <TEXT>2단계 강화 시도 시 부터 사용할 수 있으며,||현재 강화에 필요한 재료 카드 1장이 감소됩니다.||고급 강화장 사용시 확률이 10% 증가 합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item030</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>보관함 열쇠</NAME> <ICON_FILE>item_29.png</ICON_FILE> <PRICE>2000</PRICE> <TEXT>기간 : 무제한|사용 가능한 덱 슬롯이 1개 증가합니다.|최대 25개까지 확장 가능합니다.</TEXT> </CASH_ITEM>
-<CASH_ITEM> <ID>Item031</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>기회의 코인</NAME> <ICON_FILE>item_30.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>이 보스에 다시 한 번 도전합니다.|도전하지 않으실 경우|1층으로 이동합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item031</ID> <ITEM_TYPE>ETC</ITEM_TYPE> <NAME>기회의 코인</NAME> <ICON_FILE>item_30.png</ICON_FILE> <PRICE>500</PRICE> <TEXT>이 보스에 다시 한 번 도전합니다.|(재도전시 던전 보스 HP가 절반으로 감소합니다.)|도전하지 않으실 경우 1층으로 이동합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item032</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>녹색슬리브</NAME> <ICON_FILE>item_32.png</ICON_FILE> <PRICE>0</PRICE> <TEXT>뒷면 이미지가| 녹색슬리브으로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item033</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>적색슬리브</NAME> <ICON_FILE>item_33.png</ICON_FILE> <PRICE>0</PRICE> <TEXT>뒷면 이미지가| 적색슬리브으로 변경됩니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item034</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>청색슬리브</NAME> <ICON_FILE>item_34.png</ICON_FILE> <PRICE>0</PRICE> <TEXT>뒷면 이미지가| 청색슬리브으로 변경됩니다.</TEXT> </CASH_ITEM>
@@ -257,5 +257,14 @@
 <CASH_ITEM> <ID>Mat027</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>제이나의 부관 루티카</NAME> <ICON_FILE>gamebg_mat_027</ICON_FILE> <PRICE>5000</PRICE> <TEXT>제이나의 부관 루티카의 매트를 구매합니다.|게임배경을 제이나의 부관 루티카로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat028</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>감춰진 힘의 개방</NAME> <ICON_FILE>gamebg_mat_028</ICON_FILE> <PRICE>5000</PRICE> <TEXT>감춰진 힘의 개방의 매트를 구매합니다.|게임배경을 감춰진 힘의 개방로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat029</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>편익의 에델펠트</NAME> <ICON_FILE>gamebg_mat_029</ICON_FILE> <PRICE>5000</PRICE> <TEXT>편익의 에델펠트의 매트를 구매합니다.|게임배경을 편익의 에델펠트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item273</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>시타</NAME> <ICON_FILE>item_273.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>시타의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item274</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>시니아</NAME> <ICON_FILE>item_274.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>시니아의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item275</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>루티카</NAME> <ICON_FILE>item_275.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>루티카의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item276</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>아이리</NAME> <ICON_FILE>item_276.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>아이리의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat030</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>레이디 나나이</NAME> <ICON_FILE>gamebg_mat_030</ICON_FILE> <PRICE>5000</PRICE> <TEXT>레이디 나나이의 매트를 구매합니다.|게임배경을 레이디 나나이로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat031</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>메이드 미카</NAME> <ICON_FILE>gamebg_mat_031</ICON_FILE> <PRICE>5000</PRICE> <TEXT>메이드 미카의 매트를 구매합니다.|게임배경을 메이드 미카로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat032</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>영지와 추격의 검</NAME> <ICON_FILE>gamebg_mat_032</ICON_FILE> <PRICE>5000</PRICE> <TEXT>영지와 추격의 검의 매트를 구매합니다.|게임배경을 영지와 추격의 검로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat033</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>퍼스트 블러드</NAME> <ICON_FILE>gamebg_mat_033</ICON_FILE> <PRICE>5000</PRICE> <TEXT>퍼스트 블러드의 매트를 구매합니다.|게임배경을 퍼스트 블러드로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat034</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>제2황녀 하노벨</NAME> <ICON_FILE>gamebg_mat_034</ICON_FILE> <PRICE>5000</PRICE> <TEXT>제2황녀 하노벨의 매트를 구매합니다.|게임배경을 제2황녀 하노벨로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

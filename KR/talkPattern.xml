@@ -493,6 +493,10 @@
 <TALK_PATTERN><ID>c100493</ID><JOIN>옷은 뭐... 천천히 갈아입을게요.</JOIN><JOIN>하암… 귀찮은데…</JOIN><FALL_APART>하암… 피곤해졌어요.</FALL_APART><FALL_APART>하암… 벌써 식사시간인가요?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100494</ID><JOIN>오늘도 지각해버렸어…</JOIN><JOIN>부활동 연습을 너무 열심히 했어…</JOIN><FALL_APART>후에엥… 더 자고 싶어…</FALL_APART><FALL_APART>머리 감을 시간도 없어…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100495</ID><JOIN>믿음이 있는한 쓰러지지 않습니다.</JOIN><JOIN>천리교의 의지는 강합니다!</JOIN><FALL_APART>명상은 끝났습니다.</FALL_APART><FALL_APART>천리교를 위하여…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+
+
+
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1142,4 +1146,8 @@
 <TALK_PATTERN><ID>f301375</ID><JOIN>시작해볼까요?</JOIN><JOIN>오늘도 무사히…</JOIN><FALL_APART>신의 가호가 함께하길…</FALL_APART><FALL_APART>신께서 저희를 지켜보십니다.</FALL_APART><ATTACK>그대를 위한 레퀴엠을…</ATTACK><COUNTER>신께서 기다리고 계신답니다.</COUNTER><DIRECT>이제 곧 신의 곁으로…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301376</ID><JOIN>정말 상쾌한 기분이죠?</JOIN><JOIN>조금 더 공부하시길.</JOIN><FALL_APART>상식이 부족하신 분이네요.</FALL_APART><FALL_APART>100명 정도야 가뿐하죠.</FALL_APART><ATTACK>당신의 그 정답 부정해드리죠!</ATTACK><COUNTER>꺼내보시죠! 당신의... 정답을…</COUNTER><DIRECT>아예 재워드리죠!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301377</ID><JOIN>당신만의 뮤지시터 등장!</JOIN><JOIN>이 아슬아슬함이 중요하답니다.</JOIN><FALL_APART>서비스! 빅 서비스!</FALL_APART><FALL_APART>준비되셨나요? 전 준비되었어요!</FALL_APART><ATTACK>모두 하나 되어~</ATTACK><COUNTER>절망속이든 희망속이든 노래하겠어요!</COUNTER><DIRECT>앙코르~ 원하시나요?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301378</ID><JOIN>무사히 돌아갈 수 있을까…?</JOIN><JOIN>무사히 돌아갈 수 있겠지?</JOIN><FALL_APART>조금은 더 찾아봐야할 것 같아.</FALL_APART><FALL_APART>이 길을 따라 가면 된다고?</FALL_APART><ATTACK>집으로 가는 길을 찾고 있어!</ATTACK><COUNTER>혹시 집으로 가는 길을 아니?</COUNTER><DIRECT>탐정의 감으로 찾아보겠어!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301379</ID><JOIN>위대한 지식을 찾고 있어요.</JOIN><JOIN>이래서 지식을 찾을 수 있을지…</JOIN><FALL_APART>머리가 나쁘면 몸이 고생이죠?</FALL_APART><FALL_APART>생각이 없어보이는데 괜찮을까?</FALL_APART><ATTACK>당신 너무 멍청해 보이는걸요?</ATTACK><COUNTER>머릿속이 텅 빈 것 같네요.</COUNTER><DIRECT>머리는 장식이 아니잖아요?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301380</ID><JOIN>사랑따위 믿지 않아요.</JOIN><JOIN>시시한 장난이었어요.</JOIN><FALL_APART>역시 허무하군요…</FALL_APART><FALL_APART>부질없는 짓 아닌가요?</FALL_APART><ATTACK>그대로 사라지시길…</ATTACK><COUNTER>하찮군요…</COUNTER><DIRECT>제겐 아무 의미 없습니다…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301381</ID><JOIN>제게 조금 더 용기가 있다면…</JOIN><JOIN>무사히 끝나서 다행이에요…</JOIN><FALL_APART>제가 도움이 되었나요…?</FALL_APART><FALL_APART>조…조금은 무섭지만…</FALL_APART><ATTACK>용서해주세요…!</ATTACK><COUNTER>꺄…꺄악!</COUNTER><DIRECT>얼릉 끝났으면 좋겠어요…</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

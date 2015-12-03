@@ -2272,6 +2272,11 @@
 <CARD_SKILL><ID>201109</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우, 자신 필드 본래 특수능력이 아닌 추종자 1을 본래 특수능력으로 하여, 행동종료 상태로 한다. 자신 필드 카드 수가 상대 필드 카드 수 이상일 경우, 상대 필드 랜덤한 추종자 1의 체력은 해당 추종자의 방어력에서 행동종료된 추종자의 공격력의 차이만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201110</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우, 자신 필드 랜덤한 추종자 1은 “턴개시시: 이 카드의 사이즈=1. 감소치만큼 상대 필드 랜덤한 추종자 1의 체력 감소.이 특수능력은 사라진다.”특수능력을 얻는다.해당 카드가 다크로어 소속일 경우, 해당 카드 사이즈의 절반(내림)만큼 상대 필드 랜덤한 추종자 2의 체력 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201111</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'></span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201112</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 카드 전체 자신 덱 맨밑으로 옮긴다. 옮긴 카드에 공립소속 카드가 포함되어 있을 경우 상대와 소속이 다른 상대 필드 랜덤한 추종자 1을 자신 필드 마지막 빈슬롯에 옮긴다. 상대와 소속이 다른 상대 핸드 랜덤한 스펠 1을 자신 필드 첫 번째 빈 슬롯에 옮긴다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201113</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우, 3- 자신 덱 10의 자리 수 만큼 상대 필드 추종자 전체 공격력 -2, 공격전 특수능력은 "공격전: 이 카드의 체력 -3. 이 특수능력은 사라진다."가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201114</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우, 상대 필드 카드 수 만큼 상대 필드 추종자 전체 체력 감소. 전체 필드 소속 종류 수 만큼 자신 필드 추종자 전체 공/체 증가. 자신 필드 카드 수가 상대 필드 카드 수 보다 많을 경우, 자신 필드 랜덤한 크룩스 추종자 1을 자신 덱 랜덤한 위치에 복사한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201115</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우,자신의 공격 순서에 따라 다음 효과를 적용한다.●선공: 전체필드 추종자 1의 체력 =1. 사이즈 =1. 체력 감소치만큼 해당 추종자의 공격력 증가.●후공: 자신 필드 랜덤한 다크로어 카드 1을 자신 덱 맨밑으로 옮긴다. 그경우 상대 필드 랜덤한 카드 1을 제거한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201116</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신과 상대 덱 추종자 전체 강화수치 =0. 강화수치가 감소한 추종자 수에 따라 다음 효과를 전부 적용한다. 2이상: 상대 필드 랜덤한 스펠 1을 제거한다. 5이상: 상대 셔플 수 -2. 자신 셔플 수 +2.7이상: 상대 필드 랜덤한 추종자 1을 파괴한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈 -1. 카드이름에 "요리연구부"가 들어간 자신필드 추종자 전체 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 방/체 +2/+1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -4033,4 +4038,12 @@
 <CARD_SKILL><ID>2756</ID><NAME>오즈탐험</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱"로제"가 들어가는 랜덤한 추종자 1의 랜덤한 특수능력 1을 얻는다.이 특수능력은 "턴 개시시:본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2757</ID><NAME>오즈로의 초대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 다크로어소속일 경우, 상대 핸드 빈 슬롯 수만큼방어 추종자의 체력 감소. 감소치가 3이상일 경우, 방어 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2758</ID><NAME>오즈탐험</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱"헬레나"가 들어가는 랜덤한 추종자 1의 랜덤한 특수능력 1을 얻는다.이 특수능력은 "턴 개시시:본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2759</ID><NAME>부활동참여</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 공립 소속 카드 전체 자신 덱 맨위로 옮긴다.그경우 자신 덱“학생회”,“요리연구부”가 들어가는 랜덤한 추종자 1의 사이즈를 옮긴 카드 수만큼 감소하여 자신 필드 마지막 빈 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2760</ID><NAME>부활동지원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드“학생회”가 들어가는 카드와 이 카드의 공/체 +1.“요리연구부”가 들어가는 카드와 이 카드의 방어력 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2761</ID><NAME>충동억제</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 덱 10의 자리수 +1 만큼 이 카드의 사이즈와 공/체 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2762</ID><NAME>충동해방</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 사립 소속일 경우,이 카드의 사이즈만큼 공격추종자의 체력 감소.이 카드의 증가한 사이즈 -1.그경우 이 카드는 자신 덱 맨 위로 이동한다.이 특수능력은 "턴개시시:  본래 방어전 특수능력이 된다."가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2763</ID><NAME>운명의 개입</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스 소속일 경우,상대 필드 랜덤한 스펠 1과 동일한 사이즈의 상대 덱 랜덤한 추종자와 위치를 교환한다.상대 필드 추종자 수만큼 이 카드의 공격력 증가. "방어전: 공격 추종자의 공격력의 절반(올림)만큼 이 카드의 체력 증가.이 특수능력은 사라진다." 특수능력이 추가된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2764</ID><NAME>별의 소집</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 무덤/필드 "별"이 들어가는 카드 수의 절반(내림)만큼 방어 추종자의 방어력 감소.감소치가 3이상일경우, 자신 필드 추종자 전체 사이즈 -1. 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2765</ID><NAME>별의 해방</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 특수능력은 자신 무덤 "별"이 들어가는 랜덤한 추종자 1의 특수능력과 같아진다. 추가된 특수능력 수만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2766</ID><NAME>간때문이야</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 체력 -3. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

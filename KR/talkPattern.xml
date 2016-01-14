@@ -1163,5 +1163,7 @@
 <TALK_PATTERN><ID>f301399</ID><JOIN>아직 멀리는 못가셨을 것이다!</JOIN><JOIN>추격대를 편성해야…</JOIN><FALL_APART>이런 놓쳐버린건가…</FALL_APART><FALL_APART>분명 이쪽이었는데…</FALL_APART><ATTACK>반드시 찾아낼것이다!</ATTACK><COUNTER>찾아내서…</COUNTER><DIRECT>어떻게든 찾아야만 한다!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301400</ID><JOIN>움직이시면 상처가 벌어진답니다.</JOIN><JOIN>쾌차를 기원하겠습니다.</JOIN><FALL_APART>금방 회복하실거에요.</FALL_APART><FALL_APART>신의 은총이 함께하기를…</FALL_APART><ATTACK>잠깐! 무리하시면 안됩니다!</ATTACK><COUNTER>지금은 안정을 취하셔야 해요.</COUNTER><DIRECT>뒷일은 저희 교황청이 맡겠습니다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301401</ID><JOIN>그럼 연극을 시작합니다~</JOIN><JOIN>이젠 더 이상 엉키는 일 없이!</JOIN><FALL_APART>오늘 공연도 대성공!</FALL_APART><FALL_APART>관객도 완벽하고 장치도 완벽!</FALL_APART><ATTACK>다음 인형은 누구일까요?</ATTACK><COUNTER>사실 이 고양이들 인형이 아니에요.</COUNTER><DIRECT>앙코르~ 고마워요!</DIRECT></TALK_PATTERN>
-
+<TALK_PATTERN><ID>f301402</ID><JOIN>그럼 사양 않고 전력으로 가볼까?</JOIN><JOIN></JOIN><FALL_APART>파괴는 멈추지 않는다.</FALL_APART><FALL_APART></FALL_APART><ATTACK>파괴한다!</ATTACK><COUNTER>애들 장난도 못되는걸?</COUNTER><DIRECT>그대로 잠들어라.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301403</ID><JOIN>어디 이번엔 좀 즐길 수 있을까?</JOIN><JOIN>실망이군… 시시해.</JOIN><FALL_APART>조금 더 버틸줄 알았건만…</FALL_APART><FALL_APART>기대해봐도 좋은거겠지?</FALL_APART><ATTACK>손가락 하나로 다운인건가?</ATTACK><COUNTER>너의 다음이 어떨지… 알려주마.</COUNTER><DIRECT>현실의 가혹함이란거다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301404</ID><JOIN>너도 한 방 나도 한방…</JOIN><JOIN>다음은 없다.</JOIN><FALL_APART>이번은 내가 이긴 것 같군.</FALL_APART><FALL_APART>어때 공평하지?</FALL_APART><ATTACK>한 방이면 충분하지.</ATTACK><COUNTER>미안. 나는 한 방이 아니거든.</COUNTER><DIRECT>어디 버틸 수 있을지 시험해볼까?</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

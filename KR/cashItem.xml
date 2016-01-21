@@ -271,5 +271,7 @@
 <CASH_ITEM> <ID>Mat037</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>신년의 핀테일</NAME> <ICON_FILE>gamebg_mat_037</ICON_FILE> <PRICE>5000</PRICE> <TEXT>신년의 핀테일의 매트를 구매합니다.|게임배경을 신년의 핀테일로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat038</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>아이리와 코넌드럼</NAME> <ICON_FILE>gamebg_mat_038</ICON_FILE> <PRICE>5000</PRICE> <TEXT>아이리와 코넌드럼의 매트를 구매합니다.|게임배경을 아이리와 코넌드럼로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat039</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>베르니카의 악몽</NAME> <ICON_FILE>gamebg_mat_039</ICON_FILE> <PRICE>5000</PRICE> <TEXT>베르니카의 악몽의 매트를 구매합니다.|게임배경을 베르니카의 악몽로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item277</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>소드걸스 무릎 담요 패키지</NAME> <ICON_FILE>item_277.png</ICON_FILE> <PRICE>44800</PRICE> <TEXT>소드걸스 담요 상품 1EA + 어리광 1매 +|마일리지 카드 6매 + 각 색깔 광석 100매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item278</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>소드걸스 전신 담요 패키지</NAME> <ICON_FILE>item_278.png</ICON_FILE> <PRICE>59800</PRICE> <TEXT>소드걸스 담요 상품 1EA + 어리광 1매 +|마일리지 카드 10매 + 각 색깔 광석 150매||구매 후 1:1 문의의 상품주문을 통해 상품을|배송받으실 주소와 연락처를 남겨주세요.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

@@ -498,6 +498,7 @@
 
 
 
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1170,4 +1171,5 @@
 <TALK_PATTERN><ID>f301406</ID><JOIN>집이 최고죠? 역시.</JOIN><JOIN>안심하세요. 해치진 않아요.</JOIN><FALL_APART>카넬?페니카? 얌전히 있으세요.</FALL_APART><FALL_APART>언니들도 함께였다면…</FALL_APART><ATTACK>밖은 위험하답니다.</ATTACK><COUNTER>카넬과 페니카를 데려가라는 이야기는 아니에요.</COUNTER><DIRECT>저랑 함께 있어주시겠어요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301407</ID><JOIN>쉿… 조용히 해야 되요.</JOIN><JOIN>퍼시피카가가 이쪽이었던가…</JOIN><FALL_APART>시니아는 아직 깨어있으려나요?</FALL_APART><FALL_APART>누군가 깨면 곤란하니까.</FALL_APART><ATTACK>선물이 너무 많이 일손이 부족한걸요.</ATTACK><COUNTER>시니아도 같이 데려와야겠어요.</COUNTER><DIRECT>퍼시피카가로 출발하죠!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301408</ID><JOIN>선물은 연말에 주는게 아닌가?</JOIN><JOIN>마음이 중요한거겠지…</JOIN><FALL_APART>시기가 중요한건 아니겠지?</FALL_APART><FALL_APART>내가 잘못 알고 있는건가?</FALL_APART><ATTACK>서둘러야 하네만…</ATTACK><COUNTER>아직 들려야할 곳이 한참남아서…</COUNTER><DIRECT>미안… 네 선물은 없는 것 같군.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301409</ID><JOIN>저랑 놀아주시는거죠!?</JOIN><JOIN>시간가는줄 몰랐어요!</JOIN><FALL_APART>내일도 아니! 좀있다 또 놀아요!</FALL_APART><FALL_APART>오늘 하루종일 같이 노는거에요!</FALL_APART><ATTACK>같이 눈사람 만들래요?</ATTACK><COUNTER>눈사람 아니어도 좋아!</COUNTER><DIRECT>이불 밖은 안전하다고요!</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

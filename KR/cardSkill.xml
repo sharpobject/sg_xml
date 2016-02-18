@@ -2334,7 +2334,7 @@
 <CARD_SKILL><ID>201150</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>본래 사이즈가 아닌 전체 필드/핸드 카드 전체의 사이즈를 본래 수치로 하여 각자 주인의 덱 맨밑으로 보낸다. 옮긴 카드 수가 2이하일 경우, 상대 덱 강화수치가 1이상인 랜덤한 추종자 1의 강화수치 =0. 감소치 만큼 자신 필드 랜덤한 다크로어 소속 추종자 1의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201151</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 다크로어 소속 추종자 전체 상대 필드/핸드 카드 수만큼 체력 증가. 상대와 소속이 다른 상대 필드/핸드 카드 수만큼 방어력 증가.“턴개시시: 이 카드의 감소된 공/체와 특수능력은 본래 수치가 되어 자신 덱 랜덤한 위치로 옮긴다.” 특수능력을 얻는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201152</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우,상대 핸드 스펠 전부 상대 덱 맨밑으로 옮긴다.상대 핸드 빈 슬롯 수만큼 상대 덱 맨위 스펠을 상대 덱 맨밑으로 옮긴다.상대 셔플 수 = 0. 이 카드의 사이즈 =1 이 되어 상대 덱 맨 위로 이동한다. 이 카드의 사이즈= 1일 경우 자신 셔플 수 =2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>201153</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대와 소속이 다른 상대 필드 랜덤한 추종자 1을 제외한, 전체 필드 위 모든 카드를 본래 주인의 덱 맨위로 옮긴다. 해당 추종자는 “턴개시시: 이 카드는 파괴된다.” 특수능력을 얻는다.해당 추종자는 “턴개시시: 이 카드는 파괴된다.” 특수능력을 얻는다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201153</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대와 소속이 다른 상대 필드 랜덤한 추종자 1을 제외한, 전체 필드 위 모든 카드를 본래 주인의 덱 맨위로 옮긴다. 해당 추종자는 “턴개시시: 이 카드는 파괴된다.” 특수능력을 얻는다. 옮긴 카드의 절반(올림)만큼 자신 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈 -1. 카드이름에 "요리연구부"가 들어간 자신필드 추종자 전체 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/방/체 +2/+1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>

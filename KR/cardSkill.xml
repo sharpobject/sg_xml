@@ -4234,7 +4234,7 @@
 <CARD_SKILL><ID>2880</ID><NAME>GS단원소집</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 필드/핸드 카드 수만큼, 자신 무덤 "GS 전투원"을 생성 후, 2배만큼 방어 추종자의 체력 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2881</ID><NAME>수령의 계획</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방/체합이, 공격 추종자의 공격력보다 낮을 경우, 자신 무덤 랜덤한 다크로어 소속 스펠 1과 "별"이 들어가는 추종자 1을 사이즈 =1.로 하여, 자신 덱 맨위로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2882</ID><NAME>당주의 계약</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력은 자신 덱/무덤의 추종자 카드 수의 절반(내림)과 같아진다. 방어력은 자신 덱/무덤 카드 수의 10의 자리 수 -1과 같아진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2883</ID><NAME>아픔나눔</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 본래 체력에서 감소한 현재 체력 수치만큼 공격 추종자의 체력 감소. 공격 추종자의 체력이 0이됬을 경우, 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2883</ID><NAME>아픔나눔</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 본래 체력에서 감소한 현재 체력 수치만큼 공격 추종자의 체력 감소. 공격 추종자의 체력이 0이 됐을 경우, 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2884</ID><NAME>방패파괴</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 방어력 =0. 이 특수능력은 사라진다.
 </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2885</ID><NAME>방황</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자는 상대 필드 랜덤한 빈 슬롯으로 이동한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

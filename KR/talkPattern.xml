@@ -503,6 +503,7 @@
 <TALK_PATTERN><ID>c100503</ID><JOIN>올 해도 주문한대로군요.</JOIN><JOIN>솜씨는 변함이 없군요.</JOIN><FALL_APART>만족했어요.</FALL_APART><FALL_APART>제 미모 덕이죠!</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100504</ID><JOIN>맛있어 보이는 음식이 한 가득이네요!</JOIN><JOIN>무엇부터 먹을까 고민이 되네요.</JOIN><FALL_APART>맛은 어떠셨나요?</FALL_APART><FALL_APART>한 입 더 하시겠어요?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100505</ID><JOIN>즐길 거리가 한 가득인것 같군…</JOIN><JOIN>난 이걸로 충분하네…</JOIN><FALL_APART>시온님은 항상 고생이 많군…</FALL_APART><FALL_APART>리온님도 이젠 철좀 들었으면…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>c100506</ID><JOIN>신의 가르침을 행할 시간인가?</JOIN><JOIN>무엇을 고민하는거지?</JOIN><FALL_APART>더는 고민할 필요없다.</FALL_APART><FALL_APART>신에게 모든걸 맡기거라.</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1182,14 +1183,19 @@
 <TALK_PATTERN><ID>f301413</ID><JOIN>뺏을테면 뺏어 봐!</JOIN><JOIN>분명 후회할거니까!</JOIN><FALL_APART>저주할테야…</FALL_APART><FALL_APART>영령따위 얼릉 사라져 버렷!</FALL_APART><ATTACK>그 누구에게도 뺏길 수 없어…</ATTACK><COUNTER>나 만을 바라봐 주는 인형으로…</COUNTER><DIRECT>빼앗긴 고통을 네게도 느끼게 해줄거야!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301416</ID><JOIN>얼음 마법 하나 보여드릴까요?</JOIN><JOIN>음… 오늘은 여기까지?</JOIN><FALL_APART>어라… 전부 얼어버렸네요…</FALL_APART><FALL_APART>어떤 마법을 보여드릴까요?</FALL_APART><ATTACK>그럼 마술 수업을 시작할게요.</ATTACK><COUNTER>한 번 보곤 이해하기 어렵죠?</COUNTER><DIRECT>특별 수업은 이것으로 끝.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301419</ID><JOIN>두 개 먹는다고, 두 살 먹는건 아니지.</JOIN><JOIN>맛있게 먹었어?</JOIN><FALL_APART>음음… 좋아 올해도 열심히!</FALL_APART><FALL_APART>몇 개를 먹든 나이는 그대로~</FALL_APART><ATTACK>안 먹는다고 나이를 안먹는건 아냐!</ATTACK><COUNTER>그러니 어서 먹으라고!</COUNTER><DIRECT>맛있지?</DIRECT></TALK_PATTERN>
-
-
-
-
-
-
-
-
-
-
+<TALK_PATTERN><ID>f301422</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301425</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301427</ID><JOIN>내일 부터 다시 추워진다고 했어!</JOIN><JOIN>내일은 기필코 완성해야지!</JOIN><FALL_APART>흐아암… 너무 무리했나…</FALL_APART><FALL_APART>오늘 밤중으로 만들 수 있겠지?</FALL_APART><ATTACK>으음 좀 짧은거 같지…?</ATTACK><COUNTER>살짝만 더 늘려볼까…?</COUNTER><DIRECT>이래선 끝이 없어…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301428</ID><JOIN>밖은 춥지만… 여긴 따뜻해…</JOIN><JOIN>밖은 추우니까…</JOIN><FALL_APART>벌써 가는거야?</FALL_APART><FALL_APART>그렇게 입고 있으면 덥지 않아?</FALL_APART><ATTACK>여름 옷… 겨울에 입어도 시원해…</ATTACK><COUNTER>하나도 안추워… 오히려 따뜻해…</COUNTER><DIRECT>내 옷은 어딨어…?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301430</ID><JOIN>너한테만 보여주는거라고!</JOIN><JOIN>약속이야!</JOIN><FALL_APART>이건 비밀로 해야해!</FALL_APART><FALL_APART>어때 신기하지!</FALL_APART><ATTACK>이런거 처음보지!?</ATTACK><COUNTER>너희 집엔 이런거 없지!?</COUNTER><DIRECT>다른 사람한테 말하면 가만 안둘거야!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301431</ID><JOIN>착각하지 마세요!</JOIN><JOIN>그… 아무 말도 하지 마세요!</JOIN><FALL_APART>맛은 제가 보장해요!</FALL_APART><FALL_APART>의리 초콜릿이라고요!</FALL_APART><ATTACK>시…시험작이에요!</ATTACK><COUNTER>한 번 맛보시라구 주는거에요!</COUNTER><DIRECT>당연히 맛있죠? 어서 맛있다고 말하세요!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301433</ID><JOIN>제 목숨을 걸고라도!</JOIN><JOIN>제이나님…</JOIN><FALL_APART>어디서나… 언제까지나…</FALL_APART><FALL_APART>제가 지켜드리겠습니다.</FALL_APART><ATTACK>손끝하나 닿게 할 순 없습니다!</ATTACK><COUNTER>여긴 못 지나갑니다!</COUNTER><DIRECT>제가 있는한…!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301434</ID><JOIN>잠시 쉬었다 갈까요?</JOIN><JOIN>그럼 다시 움직여볼까요?</JOIN><FALL_APART>힘든일지만 그래도 즐겁죠?</FALL_APART><FALL_APART>아티팩트 탐사는 어떠신가요?</FALL_APART><ATTACK>잠깐 여기서 아티팩트 반응이…</ATTACK><COUNTER>이쪽인것 같아요!</COUNTER><DIRECT>실례! 잠시 지나갈게요!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301436</ID><JOIN>가볼까?</JOIN><JOIN>내 명을 듣지 않겠다는 건가?</JOIN><FALL_APART>기다려.</FALL_APART><FALL_APART>시간이로군.</FALL_APART><ATTACK>서둘지 마.</ATTACK><COUNTER>나를 잡을 수 있다고 생각해?</COUNTER><DIRECT>실망이 큰 걸.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301437</ID><JOIN>더 이상 지켜볼수만은 없군요.</JOIN><JOIN>밤은 다시 올겁니다.</JOIN><FALL_APART>밤은 아직 끝나지 않았습니다.</FALL_APART><FALL_APART>복종하세요!</FALL_APART><ATTACK>달은 여기 있습니다.</ATTACK><COUNTER>무례하군요.</COUNTER><DIRECT>이 밤은 영원할 겁니다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301373</ID><JOIN>학교의 지배자가 누군지 알려드리죠.</JOIN><JOIN>조금 더 노력하시길…</JOIN><FALL_APART>이런 문제따위 식은죽 먹기죠.</FALL_APART><FALL_APART>천재의 실력을 보여드리죠.</FALL_APART><ATTACK>부실을 잘 못 찾으신거 아닌가요?</ATTACK><COUNTER>두 블록 아래로 가보시는게?</COUNTER><DIRECT>노력이 부족하시군요. </DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301374</ID><JOIN>움직여 볼까?</JOIN><JOIN>미천하군. </JOIN><FALL_APART>뭐 내가 나설 필요도 없었나?</FALL_APART><FALL_APART>무엇이 불만이지?</FALL_APART><ATTACK>얼굴 펴. 예쁜 얼굴이 망가지잖나?</ATTACK><COUNTER>기어오르다니… 주제를 알거라!</COUNTER><DIRECT>꺄핫! 이미 망가져버렸나?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301375</ID><JOIN>무언가 불편하신 부분이라도?</JOIN><JOIN>언제나 기다리고 있겠습니다.</JOIN><FALL_APART>언제든지 불러주세요!</FALL_APART><FALL_APART>제가 도움이 될 수 있다면…</FALL_APART><ATTACK>준비하신 자료 입니다.</ATTACK><COUNTER>더 필요하신 부분이라도?</COUNTER><DIRECT>앗…! 그…그건 보지 마세요!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301376</ID><JOIN>달이 완전히 채워지기 전까지!</JOIN><JOIN>죽음을 뿌리쳐라!</JOIN><FALL_APART>달은 영원할 것이다.</FALL_APART><FALL_APART>지금이다!</FALL_APART><ATTACK>페스티벌의 시작이다.</ATTACK><COUNTER>더 이상 지체할 시간이 없다!</COUNTER><DIRECT>남은 것은 달이 차오르길 기다릴 뿐.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301377</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

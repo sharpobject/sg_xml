@@ -3529,33 +3529,6 @@
 
 
 <DUNGEON_DETAIL>
-<ID>87</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 크리스마스 레드볼|특징 : 다양한 성탄 보상을 획득하세요(1일1회 던전클리어 제한)</TOOL_TIP_TEXT>
-
-<FLOOR>
-<FLOOR_ID>0</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_087.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_087.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_087.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>산타는 착한 아이에게 선물을 준다지만 우리 호무짱을 괴롭힌 당신은 나쁜 사람 같네. 나쁜 사람이 아니라구? 그럼 마지막 테스트를 시작할게~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>1</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_087.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_087.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_087.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio2.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>크리스 마스를 맞이해서 선물을 드리기 위해 소드걸스의 캐릭터들이 다양한 미니게임을 준비한 것 같네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>snow.png</NPC_IMG><NPC_NAME>이플</NPC_NAME><NPC_TEXT_1>와아! 이렇게 많은 분들과 노는 건가요? 규칙이요? 이플은 그런 거 몰라요! 모두 함께 놀아요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_weekly.png</NPC_IMG><NPC_NAME>위클리</NPC_NAME><NPC_TEXT_1>흐,흥. 딱히 너한테 선물을 주고 싶은 건 아니거든! 정 갖고싶으면 나한테 이겨 보든가.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressclarisse.png</NPC_IMG><NPC_NAME>클라리스</NPC_NAME><NPC_TEXT_1>내 호무짱은 호락호락하지 않을 거라구!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_seron.png</NPC_IMG><NPC_NAME>세론</NPC_NAME><NPC_TEXT_1>저,저 말인가요? 엣… 당신의 행운을 시험하세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio2.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>자, 그럼 시작해 볼까요? 메리 크리스마스!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-</DUNGEON_DETAIL>
-
-
-<DUNGEON_DETAIL>
 <ID>27</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>4</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 흑사자의 발톱, 금빛/은빛/구리빛 탈렌티움|특징 : 오픈시간동안 얼마든지 재도전이 가능합니다.(오픈:매주 금요일 22시~23시 59분) (카드포인트 1000이상 도전가능)</TOOL_TIP_TEXT>
 
 <FLOOR>

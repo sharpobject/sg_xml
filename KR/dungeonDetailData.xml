@@ -6512,9 +6512,9 @@
 <DUNGEON_TITLE_IMG>dungeon_title_089.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_089.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_pope.png</NPC_IMG><NPC_NAME>교황 크루시아</NPC_NAME><NPC_TEXT_1>수고했어요, 우리엘라. 먼저 돌아가도록 하세요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>하지만 교황님!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>하지만 교황님!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_pope.png</NPC_IMG><NPC_NAME>교황 크루시아</NPC_NAME><NPC_TEXT_1>돌아가라고 했어요. 뒷처리 할 일이 많으실 거예요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>……알겠습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>……알겠습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>네가 교황인가? 예전 교황이 아니군.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>최근 교황청의 눈에 띄는 호전적인 행위는 그대 때문인가?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_pope.png</NPC_IMG><NPC_NAME>교황 크루시아</NPC_NAME><NPC_TEXT_1>어머, 무서워라. 시그마는 언제부터 주인한테 이를 세우는 나쁜 아이가 된 걸까…조금 슬플지도?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -6609,28 +6609,28 @@
 <DUNGEON_TITLE_IMG>dungeon_title_089.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_089.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>똑.똑.똑. 노크 소리가 우리엘라의 집무실에 울려 퍼진다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>들어와라.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>…… 결과는?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>들어와라.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>…… 결과는?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>면목 없습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>그런 형식적인 소리 따위가 듣고 싶어서 부른 게 아니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>티나 그 경솔한 녀석이라면 둘째치고 주교 중에서는 아그네스 다음으로 강한 네가 함께 갔는데도 실패했다면 이유가 있을 터.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>그런 형식적인 소리 따위가 듣고 싶어서 부른 게 아니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>티나 그 경솔한 녀석이라면 둘째치고 주교 중에서는 아그네스 다음으로 강한 네가 함께 갔는데도 실패했다면 이유가 있을 터.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>네. 이레귤러가 있었습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>이레귤러?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>이레귤러?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>사전 조사에 의한 천리교의 전력에 대해서는 티나 혼자 갔어도 충분했을 정도…였습니다만….</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>추기경 클래스의 강함으로 추정되는 뿔이 달린 소녀와 파문됐던 전대 아그네스, 비나가 있었습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>그리고 무엇보다 중요한 부분은 천리교의 장으로 생각되는 소녀는 이미 무언가의 의식을 받고 있었으며 의식이 끝난 직후…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>마치 이 세계의 것이라고는 생각되지 않는 나비가 저희를 덮쳤고 성흔의 힘은 일시적으로 사라졌습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>뭐라고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>뭐라고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>책상을 손바닥으로 내리친 우리엘라는 깊은 생각에 빠지는 듯 싶더니 이자벨을 똑바로 보고 말했다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>이 일은 다른 녀석에게는?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>이 일은 다른 녀석에게는?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>저는 없습니다만… 라파엘라께 치료를 받으러 간 티나라면 분명 보고했을 겁니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>칫. 한 발 늦은 것인가… 잘 들어라, 이자벨.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>지금부터 하는 말은 경고이자 부탁이다. 이번 일은 마치 없었던 일인 듯 잊어라. 그 어떤 의문도 제기하지 마라.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>이미 라파엘라의 귀에 들어간 시점에서 늦어버린 걸 지도 모르겠지만 하나만은 확실하게 말해주마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>나는 너를 잃고 싶지 않다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>칫. 한 발 늦은 것인가… 잘 들어라, 이자벨.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>지금부터 하는 말은 경고이자 부탁이다. 이번 일은 마치 없었던 일인 듯 잊어라. 그 어떤 의문도 제기하지 마라.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>이미 라파엘라의 귀에 들어간 시점에서 늦어버린 걸 지도 모르겠지만 하나만은 확실하게 말해주마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>나는 너를 잃고 싶지 않다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Issabel.png</NPC_IMG><NPC_NAME>이자벨</NPC_NAME><NPC_TEXT_1>…… 명심 하겠습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>쿵! 갑자기 굉음과 함께 지진이라도 난 듯 교황청의 건물이 흔들리기 시작했다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>밖이 소란스럽군. 이상이다. 그대는 다음 명령을 대기하도록. 나는 잠시 나가보도록 하겠다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>밖이 소란스럽군. 이상이다. 그대는 다음 명령을 대기하도록. 나는 잠시 나가보도록 하겠다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -6674,12 +6674,12 @@
 <DUNGEON_ICON_IMG>dungeon_icon_089.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_089.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_089.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>무, 무슨…?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>무, 무슨…?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>밖으로 나온 우리엘라는 경악을 금치 못했다. 문을 지키던 수녀는 큰 상처를 입고 쓰러져 있었고, 마술적 결계로 수호되고 있는 교황청의 문은 이미 바깥쪽이 8할 이상 부서져 가고 있었기 때문이다. </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma2.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>교황…은 아닌 것 같군.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>교황님을 수호하는 교황청의 4명의 장 중 하나, '녹'의 우리엘라 라고 합니다. 상황을 설명 해 주시겠습니까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>교황님을 수호하는 교황청의 4명의 장 중 하나, '녹'의 우리엘라 라고 합니다. 상황을 설명 해 주시겠습니까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma2.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>교황을 불러라고 했거늘, 끝까지 문을 안 열더구나.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>교황님은 저를 포함한 추기경 클래스만이 알현할 수 있습니…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>교황님은 저를 포함한 추기경 클래스만이 알현할 수 있습니…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>우리엘라의 말은 끝까지 이어지지 못했다. 추기경 중에서 특히 방어 마술에 특화된 그녀의 빛의 마술 방패로도 시그마의 공격의 여파가 미약하게 나마 그녀를 덮쳤다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>비켜라. 두 번은 없다. 나 단죄의 성수 시그마는 그대들의 장에게 책임을 물을 것이다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
@@ -6689,16 +6689,16 @@
 <DUNGEON_ICON_IMG>dungeon_icon_089.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_089.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_089.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>크흑…성흔의 힘을 사용해도 밀리는 것인가…? 다른 추기경들은 뭣들 하고 있는 거지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>크흑…성흔의 힘을 사용해도 밀리는 것인가…? 다른 추기경들은 뭣들 하고 있는 거지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>그 입 다물어라. 사실 그 녀석의 흔적을 교황청에서 관리하는 것 조차 마음에 들지 않는 나다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>시덥잖은 잔재주로 시간을 끄는 것도 더는 눈감아주지 않겠네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>저 역시 여신께 영혼을 바친 자. 물러설 순 없습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>저 역시 여신께 영혼을 바친 자. 물러설 순 없습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>???</NPC_NAME><NPC_TEXT_1>멈추세요, 우리엘라. 그녀라면 저를 볼 자격이 있습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>대립하는 그녀들의 머릿속에 목소리가 울려 퍼졌다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>……교황님?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>……교황님?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>교황? </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>우리엘라는 석연찮은 표정으로 말했다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_urielra.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>……안내 드리겠습니다, 시그마님. 저를 따라 오시죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>……안내 드리겠습니다, 시그마님. 저를 따라 오시죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>

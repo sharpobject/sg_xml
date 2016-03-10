@@ -3529,7 +3529,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>90</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>3</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 화이트데이 사탕|특징 : 사탕 공장에서 이스펠트와 함께 소드걸스 주인공들을 알아가봐요!|*난이도를 직접 선택하실 수 있습니다. (1일 1클리어 제한)</TOOL_TIP_TEXT>
+<ID>90</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>3</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 화이트데이 사탕|특징 : 이스펠트와 함께 소드걸스 주인공들을 알아가봐요!|*난이도를 직접 선택하실 수 있습니다. (1일 1클리어 제한)</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3547,12 +3547,12 @@
 <QUESTIONER_NAME>이스펠트</QUESTIONER_NAME>
 <QUESTION>어떤 소녀들에 대해 알고싶어?</QUESTION>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이스펠트의 사탕 공장에 온 걸 환영해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭔가 데자뷰가 일어난다고? 기분탓이야. 잊어버려. 신경쓰면 지는 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>1년에 하루. 좋아하는 소녀에게 사탕을 건네며 마음을 전하는 로맨틱한 스위트 데이, 바로 그 날! 화이트데이가 오늘이란 말이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭔가 데자뷰가 일어난다고? 기분 탓이야. 잊어버려. 신경 쓰면 지는 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>1년에 하루. 좋아하는 소녀에게 사탕을 건네며 마음을 전하는 로맨틱한 스위트 데이, 바로 그날! 화이트데이가 오늘이란 말이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래. 당신은 올해에도 선택받았어. 여기 이스펠트 사탕 공장에서 극소량 생산하는 이 전설의 캔디로 좋아하는 소녀의 마음을 사로잡으라는 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐, 그래도 사탕 하나로 뭐든 가능했다면 세상에 솔로는 없겠지? 거기, 울지마. 내가 잘못했다니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>하지만 걱정마시라. 모 안경 낀 아줌…언니의 확실한 정보로 이번엔 소녀들에 대한 정보도 함께 알려줄테니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 당신한테 그 이야기를 들을 자격이 있는 지 시험해 볼까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐, 그래도 사탕 하나로 뭐든 가능했다면 세상에 솔로는 없겠지? 거기, 울지 마. 내가 잘못했다니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>하지만 걱정 마시라. 모 안경 낀 아줌…언니의 확실한 정보로 이번엔 소녀들에 대한 정보도 함께 알려줄 테니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 당신한테 그 이야기를 들을 자격이 있는지 시험해 볼까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3560,18 +3560,18 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>테스트 합격, 일단은 축하해. 검과 소녀의 이야기의 소녀들에 대해 알고싶다고? </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>테스트 합격, 일단은 축하해. 검과 소녀의 이야기의 소녀들에 대해 알고 싶다고? </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 소개할 소녀는 바로바로…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>짠! 바로 이 아이. 시타 빌로사야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……우물우물…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>다들 알다시피 검과 소녀의 이야기에서 공립 소속의 주인공으로 등장해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>전쟁 고아였지만 마스터 빌로사의 제자가 되어 지금은 빌로사 유파의 한 사람으로써 활약 중이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>전쟁고아였지만 마스터 빌로사의 제자가 되어 지금은 빌로사 유파의 한 사람으로서 활약 중이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>비타 학교의 요리 연구부에 소속되어있고, 과자를 엄~청 좋아해. 화이트데이는 시타를 위해 존재한다고 할 정도지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이 소생물 같은 귀여움 때문에 선생,학생을 불문하고 많은 비타 학교의 많은 이들에게 사랑 받고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 비타 학교의 도서관에서 이리나,아스미스와 함께 행동 중이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>저기… 나 이제 가면 안돼?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이 소생물 같은 귀여움 때문에 선생, 학생을 불문하고 많은 비타 학교의 많은 이들에게 사랑받고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 비타 학교의 도서관에서 이리나, 아스미스와 함께 행동 중이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>저기… 나 이제 가면 안 돼?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이런. 시타가 지루해진 모양이야. 그럼 슬슬 시타와 친해지는 팁을 알려줄게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>시타는 악의에 관해서는 굉장히 민감해서 순도 99.99%의 선의로만 접근해야해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>시타는 악의에 관해서는 굉장히 민감해서 순도 99.99%의 선의로만 접근해야 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>하지만 먹을 때에는 그 직감이 조금 완화되니까 먹기 힘든 아주 거대한 사탕을 준비하면 먹는 동안은 쉽게 친해질 수 있을 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>대신 만날 때마다 공물이 필요하다는 건 꼭 숙지해둬! 그럼 모처럼 불렀으니까 시타와 친밀도를 쌓아보라구!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……해치우면 돼?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3587,18 +3587,18 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이번에 소개할 소녀는 바로 이 아이! 시니아 퍼시피카.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>아무리 평행세계라도 저를 직접 오라고 하다니, 무례하군요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>검과 소녀의 이야기에서 사립 소속 주인공으로 등장해. 로일 왕국의 퍼시피카 가문의 3녀, 즉 막내야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>응? 퍼시피카가 얼마나 대단한 가문이냐고? 아무리 이방인이라고 해도 정말 무지하구나, 너?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 이 로일왕국은 연합국의 주축으로, 제국 레이지온을 제외하면 교국 크룩스, 비타 공화국을 제외하면 제일 강한 나라야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>응? 퍼시피카가 얼마나 대단한 가문이냐고? 아무리 이방인이라고 해도 정말 무식하구나?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 이 로일왕국은 연합국의 주축으로, 같은 주축 비타 공화국, 종교대국 크룩스, 익인들이 지배하는 제국 레이지온을 제외하면 제일 강한 나라야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이 로일에서 제일 가는 귀족이 바로 퍼시피카란 말이지. 참고로 지금 이 로일왕국의 국왕은 너무 어려서 이 퍼시피카 가문의 폴트나가 재상으로서 주로 실권을 쥐고 있다는 소문이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>가문에 대해서만 말씀하시는 게 좀 그렇군요. 재색겸비, 문무양립. 결코 개인을 놓고 봐도 이 시니아 퍼시피카는 레이디의 정점이랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>가문에 대해서만 말씀하시는 게 좀 그렇군요. 재색겸비, 문무 양립. 결코 개인을 놓고 봐도 이 시니아 퍼시피카는 레이디의 정점이랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐, 본인은 리니아의 세뇌교육으로 그렇다고 굳게 믿고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>이봐요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 퍼시피카에 대한 깊은 원한이 있던 마리메를 제압하고 진상파악을 위해 함께 로일 왕궁으로 향하고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 퍼시피카에 대한 깊은 원한이 있던 마리메를 제압하고 진상 파악을 위해 함께 로일 왕궁으로 향하고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>시니아는 빨간색을 아주 좋아해서 시니아=빨강 이라는 공식이 성립할 정도야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그러니까 우선 사탕 포장에 힘쓰지 않으면 접근조차 힘들 걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>의외로 치켜세워주는 것도 좋아하니 노예 근성으로 접근해보도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그러니까 우선 사탕 포장에 힘쓰지 않으면 접근조차 힘들걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>의외로 치켜세워주는 것도 좋아하니 노예근성으로 접근해보도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그럼, 이번에도 시니아 양과 친밀감을 쌓아보라구!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>정말 좋을대로 써먹어 주시는군요. 뭐, 좋아요, 상대해 드리도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>정말 좋을 대로 써먹어 주시는군요. 뭐, 좋아요, 상대해 드리도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3606,7 +3606,7 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이제는 불평할 힘도 없어보이네, 당신. 좋아. 스피드하게 진행하도록 할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이제는 불평할 힘도 없어 보이네, 당신. 좋아. 스피드하게 진행하도록 할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이번에 소개할 소녀….소녀?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>실례예요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐 아무튼 루티카 프리벤터 '씨' 입니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3615,12 +3615,12 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>검과 소녀의 이야기의 역대 주인공 최고령, 역대 주인공 최고 가슴의 타이틀을 가지고 있지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>뭔가 제 소개에서만 악의가 느껴지는데요?!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>알았어, 루티카. 진지하게 설명할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이쪽 역시 전쟁고아지만, 기사단장 제이나 프리벤터의 의동생이 되어 기사단 입단 루트를 밟게 되었어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이쪽 역시 전쟁고아지만, 기사단장 제이나 프리벤터의 새동생이 되어 기사단 입단 루트를 밟게 되었어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래서 그런지, 언니 제이나에 대한 존경심이 이미 자매애를 넘은 것 같다는 게 주위의 평가야. </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그러니까 친해지는 것 까지는 쉬워도 그 이상을 바라기는 힘들 거야. 간단하게 말해서 포기해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이래저래 음모에 휩싸여서 교국을 잠시 떠나게 될 때도 있었지만, 지금은 훌륭히 제이나의 부관으로 복귀한 상태야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>참고로 앞에 설명한 시니아의 맏언니, 리니아와는 사이가 굉장히 안좋아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>이스펠트 양? 그 암여우 이야기는 제 앞에서는 하지 말라고 했을텐데요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>참고로 앞에 설명한 시니아의 맏언니, 리니아와는 사이가 굉장히 안 좋아.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>이스펠트 양? 그 암여우 이야기는 제 앞에서는 하지 말라고 했을 텐데요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>히익? 루티카 양. 그거 진검! 진검이라구! 진정해!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 우선 교황청에 난입한 시그마를 막기 위해 제이나, 핀테일과 이동 중에 있어. 그녀의 활약, 앞으로도 지켜보도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그리고 지금 '리니아' 커맨드로 이성을 잃은 루티카 좀 막아주지 않을래? 으아아앗!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3631,20 +3631,20 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_1.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>헉…헉… 고마워. 루티카를 제압해줘서. 당신, 꽤 쓸모있는 걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>헉…헉… 고마워. 루티카를 제압해줘서. 당신, 꽤 쓸모 있는걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이번에 소개할 소녀가 마지막이야. 아이리 플리나라고 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>아이리 플리나다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그녀는 인간과 흡혈귀의 하프야. 좀처럼 볼 수 없는 이례적인 종족이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래서 흡혈귀 내에서 배척받고 봉인당했다가, 풀려났는데, 마침 시타의 친구 베르니카에게 한눈에 반해서 이런 저런 민폐를 부리게 되지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래서 흡혈귀 내에서 배척받고 봉인당했다가, 풀려났는데, 마침 시타의 친구 베르니카에게 한눈에 반해서 이런저런 민폐를 부리게 되지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>그 시절에 대해서는… 면목 없다고 생각한다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이 어색한 말투는 이렇게 하면!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>이스펠트가 갑자기 아이리의 가슴을 만진다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>꺅? 갑자기 무슨 짓이야, 이스펠트!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>평소 말투로 돌아온다는 거, 참고해 둬. 아, 남자가 했다간 죽을 수도 있으니 조심해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>마더데몬 사건 이후, 책임감을 느낀 그녀는 학교를 떠나고 현자 사무소로 돌아갔어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>하지만 그 자리에 있던 건, 텅 빈 공터 뿐이었어. 그래서 지금은 다시 비타 학교로 복귀했어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>하지만 그 자리에 있던 건, 텅 빈 공터뿐이었어. 그래서 지금은 다시 비타 학교로 복귀했어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>iri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>현자님과 시온리온님들이 걱정이다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>말투는 저래도 인간 세계에 적응이 덜 되어있는 소녀틱한 아이니까 틈을 주지 말고 공세해보도록 해. 자, 렛츠 배틀 타임!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>말투는 저래도 인간 세계에 적응이 덜 되어있는 소녀틱한 아이니까 틈을 주지 말고 공세 해보도록 해. 자, 렛츠 배틀 타임!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3667,20 +3667,20 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>테스트 합격, 일단은 축하해. 약속과 허위의 전도사의 소녀들에 대해 알고싶다고? </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>테스트 합격, 일단은 축하해. 약속과 허위의 전도사의 소녀들에 대해 알고 싶다고? </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 소개할 소녀는 바로바로…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>알고 있는 것만 알고 있는 천재 소녀 탐정 아스미스 등장!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래. 바로 아스미스 하라야. 약속과 허위의 전도사에서 공립 소속의 주인공으로 등장해. 라고 해도 이미 시즌1에서부터도 꽤 중요한 소녀로 이야기가 진행돼.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>비타 학교의 호기심이 많은 자칭 탐정소녀로, 머리회전이 엄청 빨라서 학생들의 의뢰를 칼같이 해결하는 소녀야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>다만, 카나에 대해 조사하던 도중, 둔기로 머리를 가격당한 이후로는 머리에 붕대를 감고 있어. 용케 살아있다니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래. 바로 아스미스 하라야. 약속과 허위의 전도사에서 공립 소속의 주인공으로 등장해. 라고 해도 이미 시즌1에서도 꽤 중요한 소녀로 이야기가 진행돼.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>비타 학교의 호기심이 많은 자칭 탐정 소녀로, 머리 회전이 엄청 빨라서 학생들의 의뢰를 칼같이 해결하는 소녀야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>다만, 카나에 대해 조사하던 도중, 둔기로 머리를 가격 당한 이후로는 머리에 붕대를 감고 있어. 용케 살아있다니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>원래 주인공은 절대 죽지 않는 법이지!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>…너 그러다 언제 더 큰 꼴 당할 거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>그 땐 그 때야. 난 내가 알 수 없는 건 도저히 참을 수 없거든. 누구도 내 호기심을 막을 순 없어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>보다시피 호기심 광이라 사탕으로 구애하는 건 의미가 없을 지도 모르겠네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>오히려 사탕 도둑이 되어 수수깨끼와 함께 날 찾아봐라!하고 도전장을 내미는 쪽이 아스미스의 호감도를 올릴 수 있지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래도 지금까지의 주인공들에 비해 그나마 평범한 생김세에 평범한 가문인 편이니까 당신과는 꽤 죽이 잘 맞을 지도 모르겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>뭔가 험담이 들린 것 같은데 기분탓일까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>칭찬이야, 칭찬. 아무튼 자유시간을 줄 테니까 아스미스의 호감도를 올려봐.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>그땐 그때야. 난 내가 알 수 없는 건 도저히 참을 수 없거든. 누구도 내 호기심을 막을 순 없어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>보다시피 호기심 광이라 사탕으로 구애하는 건 의미가 없을지도 모르겠네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>오히려 사탕 도둑이 되어 수수께끼와 함께 날 찾아봐라! 하고 도전장을 내미는 쪽이 아스미스의 호감도를 올릴 수 있지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래도 지금까지의 주인공들에 비해 그나마 평범한 생김새에 평범한 가문인 편이니까 당신과는 꽤 죽이 잘 맞을지도 모르겠어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>뭔가 험담이 들린 것 같은데 기분 탓일까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>칭찬이야, 칭찬. 친근한 연예인 같다는 거지. 아무튼 자유시간을 줄 테니까 아스미스의 호감도를 올려봐.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3690,12 +3690,12 @@
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>꽤 지친 표정이구나? 아직 갈 길이 멀다구.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이번에 소개할 소녀는 바로 이 레이디! 리누스 팔코!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>이래뵈도 꽤 바쁜 몸이라구요? 빨리 끝내주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>약속과 허위의 전도사에서 사립 소속 주인공으로 등장해. 팔코 가문의 영애야. 퍼시피카에 비하면 김빠질 지는 몰라도 이쪽도 귀족가문의 레이디라구?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>이래 봬도 꽤 바쁜 몸이라구요? 빨리 끝내주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>약속과 허위의 전도사에서 사립 소속 주인공으로 등장해. 팔코 가문의 영애야. 퍼시피카에 비하면 김빠질지는 몰라도 이쪽도 귀족 가문의 레이디라구?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그리고 탐정, 레이디, 마녀, 뮤지시터… 꽤 많은 분류에 속해 있는 소녀야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>시즌2에서 최초로 등장한 신캐릭터지만 뛰어난 활약상을 보여주고 있는 소녀야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>시즌 2에서 최초로 등장한 신캐릭터지만 뛰어난 활약상을 보여주고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>하아… 어쩌다 이렇게 되어 버린 걸까요…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>리니아/마더데몬 사건이 마무리 된 후 지금은 평범하게 로일학원에서 학원 생활을 보내고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>리니아/마더데몬 사건이 마무리된 후 지금은 평범하게 로일학원에서 학원 생활을 보내고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>참고로 지금 진로 고민 중인 것 같으니 고민을 잘 들어주면 친해질 수 있지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>맞다. 리누스 요즘 세븐과 그렇게 뜨거운 사이라는데 당신이 낄 자리는 없지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_linus.png</NPC_IMG><NPC_NAME>리누스</NPC_NAME><NPC_TEXT_1>자, 잠깐! 무슨 말씀을 하시는 건가요, 이스펠트! 저와 세븐은 그런 사이가…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3707,20 +3707,20 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_2.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이제는 불평할 힘도 없어보이네, 당신. 좋아. 스피드하게 진행하도록 할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이제는 불평할 힘도 없어 보이네, 당신. 좋아. 스피드하게 진행하도록 할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이번에 소개할 레이디는 로제 퍼시피카~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>안녕하신가요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>응? 지금은 크룩스 주인공 차례 아니냐고? 맞는데? 로일의 퍼시피카니까 사립 소속 아니냐고?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>로제 씨! 로제씨 복장 때문에 혼란스러워 하잖아요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>로제 양! 로제 양의 복장 때문에 혼란스러워하잖아요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>에? 저 때문인가요? 그럼…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>이렇게요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>네. 잠시 그렇게 입고 계셔 주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>복장과 이름으로 눈치 챘겠지만, 다시 설명할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>복장과 이름으로 눈치챘겠지만, 다시 설명할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>약속과 허위의 전도사의 크룩스 소속 주인공이자, 로일 왕국의 귀족 퍼시피카 가문의 둘째야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>맏이, 리니아의 계획으로 인해 희생되어 가문에서 버려졌고, 몸을 숨겨 교국의 기사단에 들어가게 됐어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>물론 지금은 모든 오해가 풀렸고, 시니아, 마리메와 함께 로일 왕궁으로 향하고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>한 때는 언니가 미웠지만… 지금은 입장의 차이었다고 생각해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>하지만 아직도 언니는 저희에게 무언가를 숨기고 있는 것 같아요. 미래를 볼 수 있는 전 알 수 있어요… 아직 끝나지 않았다는 걸요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>한때는 언니가 미웠지만… 지금은 입장의 차이었다고 생각해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_rose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>하지만 아직도 언니는 저희에게 무언가를 숨기고 있는 것 같아요. 미래를 볼 수 있는 전 알 수 있어요… 아직 끝나지 않았다는걸요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>로제 씨의 고민을 이야기하는 시간이 아니라고요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐, 하지만 그렇네. 이쪽은 시니아랑은 달리 이미 성숙된 레이디 오브 레이디니까. 현실적인 문제도 있으니 당신으로는 무리겠네.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래도 힘 내봐. 노력하면 불가능은 없다고들 하잖아? 로제 씨도 조금은 시간을 내 주세요. 렛츠 배틀 타임~</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3738,7 +3738,7 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>네, 네. 여기서 포교 활동은 안됩니다, 헬레나 양.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이쪽도 비교적 평범한 가정의 천리교도들 사이에서 태어났지만, 태어나자마자 그 성력을 인정받아 천리교의 상징이 되었어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>태어나자마자 추앙받은 무녀라 세상일에 대해 잘 모르는 편이 많지만 그만큼 순수한 편이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>다만 헬레나와 가까워 지려면 천리교의 상층부가 되어야 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>다만 헬레나와 가까워지려면 천리교의 상층부가 되어야 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그게 난관이라고 하면 난관이겠지만 신뢰받는 경지에 오른다면 헬레나의 하트는 당신의 것!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>자, 그럼 일단 그녀와 놀아보라구. 헬레나. 이 분이 천리교에 관심이 있다는데?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_helena.png</NPC_IMG><NPC_NAME>헬레나</NPC_NAME><NPC_TEXT_1>정말인가요? 잘 생각하셨어요. 진리의 신께서는 언제나 모든 이를 환영하고 계시거든요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -3764,19 +3764,19 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>테스트 합격, 일단은 축하해. 해방된 주박과 숙명의 소녀들에 등장하는 소녀들에 대해 알고싶다고? </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>테스트 합격, 일단은 축하해. 해방된 주박과 숙명의 소녀들에 등장하는 소녀들에 대해 알고 싶다고? </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>우선 소개할 소녀는 바로바로…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>짠! 바로 이 아이. 이리나야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>아, 정말! 난 평범하게 살고 싶다니까!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>평범을 원하는 비평범의 대명사! 알다시피 해방된 주박과 숙명의 소녀들에서 공립 소속의 주인공으로 등장해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>어릴 때부터 기묘한 꿈을 꾸는 일이 종종 있었다고 해. 때로는 노이즈가 귓가를 멤돌아서 두통이 심해 헤드셋을 항상 가지고 다니지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>어릴 때부터 기묘한 꿈을 꾸는 일이 종종 있었다고 해. 때로는 노이즈가 귓가를 맴돌아서 두통이 심해 헤드셋을 항상 가지고 다니지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>비타 학교에 가면 이 증상을 해결할 수 있다는 현자의 조언을 듣고 비타 학교에 입학한 후로 자취하고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>확실히 노이즈는 해결됐어. 문제는 이상한 꿈은 계속 꾸고, 더 심한 게 들러 붙었다는 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>확실히 노이즈는 해결됐어. 문제는 이상한 꿈은 계속 꾸고, 더 심한 게 들러붙었다는 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>냥~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>그 안경 아줌마, 이제 와서는 연락도 안되고 사기 아냐?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 사건에 휘말려서 비타 도서관에 있어. 솔직하지 못한 편이라 까칠해 보일 지는 몰라도, 그녀의 마음의 소리가 들린다면 당신은 이미 가능성 충분~.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>그 안경 아줌마, 이제 와서는 연락도 안 되고 사기 아냐?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>지금은 사건에 휘말려서 비타 도서관에 있어. 솔직하지 못한 편이라 까칠해 보일지는 몰라도, 그녀의 마음의 소리가 들린다면 당신은 이미 가능성 충분~.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>자, 남은 시간 동안 이리나와 마음의 교감을 나눠보도록 해. 렛츠 스위트 타임!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>야! 저런 못생긴 애랑 단 둘이 남기고 가지 말란 말이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>야! 저런 못생긴 애랑 단둘이 남기고 가지 말란 말이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -3789,10 +3789,10 @@
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>흥.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>해방된 주박과 숙명의 소녀들에서 사립 소속의 주인공으로 등장해. 시니아와는 견묘지간이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>그 우매한 호박 이야기는 하지 말아주시겠어요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>퍼시피카 가에 엄청난 악감정이 있다고 해. 크로이츠 가는 로일 서열 2위였던 가문인데, 어느 시점에 몰락하게 되었어. 거기에 퍼시피카가 관련 되어 있지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>퍼시피카 가에 엄청난 악감정이 있다고 해. 크로이츠 가는 로일 서열 2위였던 가문인데, 어느 시점에 몰락하게 되었어. 거기에 퍼시피카가 관련되어 있지 않을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>맞아요. 용서할 수 없어요. 크로이츠의 저택은 습격 당했어요. 저와 미카 이외에는 모두 저택과 함께 재가 되었죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>미카가 말했어요. 금발의 마녀를 목격했다고. 지금은 로제 언니를 봐서 행동을 함께 하는 것 뿐이예요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그러고 보니 로제가 쫒겨 다닐 때 마리메의 집에 머물렀었지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>미카가 말했어요. 금발의 마녀를 목격했다고. 지금은 로제 언니를 봐서 행동을 함께 하는 것뿐이에요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그러고 보니 로제가 쫓겨 다닐 때 마리메의 집에 머물렀었지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>보다시피 퍼시피카 하면 치를 떠는 마리메야. 같이 시니아의 험담이라도 하면서 친해져 보도록 해. 렛츠 스위트 타임~!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>뭔가요, 당신. 그 우매한 낯짝을 보니 기분 나쁜 호박이 떠올랐어요. 벌이 필요하겠네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
@@ -3802,20 +3802,20 @@
 <DUNGEON_ICON_IMG>dungeon_icon_090.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_090_3.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_090.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이제는 불평할 힘도 없어보이네, 당신. 좋아. 스피드하게 진행하도록 할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이제는 불평할 힘도 없어 보이네, 당신. 좋아. 스피드하게 진행하도록 할게.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이번에 소개할 소녀는 미미 아우디레! 남십자 교황청의 주교님이야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>안녕하세요, 여러분. 남십자 주교 8석의 아우디레라고 해요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>아우디레 양. 매번 말씀하시는 그 '석'이라는 게 무얼 의미하는 거죠? 물론 전 알고 있지만 멘트 상 여쭤볼게요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>저희 교황청에는 주교 중에서도 교황님께 인정 받은 자매님들 13분은 '성흔'을 하사 받게 되어 있어요. 석은 그 성흔을 받은 분들의 순위 같은 거예요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>저희 교황청에는 주교 중에서도 교황님께 인정받은 자매님들 13분은 '성흔'을 하사받게 되어 있어요. 석은 그 성흔을 받은 분들의 순위 같은 거예요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>1~4석으로는 추기경 분들이, 5석엔 제 은인이신 대주교님, 그 외엔 저처럼 평범한 주교진들로 이루어져 있어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>한마디로 아우디레 양이 교황청에서 8 번째로 강하다는 말씀이네요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>지위의 문제일 뿐이예요. 강함으로만 치면 저는 9석인 티나보다 약하답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그렇군요. 이제 아우디레 양의 근황을 설명할게. 교황청의 명령으로 변경 유적의 순례를 명령받았지만 SS단에게 습격 당해. 때마침 라임을 쫒던 이리나와 루베르에게 도움을 받게 되지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>지위의 문제일 뿐이에요. 강함으로만 치면 저는 9석인 티나보다 약하답니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그렇군요. 이제 아우디레 양의 근황을 설명할게. 교황청의 명령으로 변경 유적의 순례를 명령받았지만 SS 단에게 습격 당해. 때마침 라임을 쫓던 이리나와 루베르에게 도움을 받게 되지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>이후 무슨 목적인지 비타 학교의 임시 신학 교사로 온 후 이리나와 함께 도서관에 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>전 학교를 다니지 못해서 굉장히 신선한 느낌이었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>맞아. 그러고 보니 아우디레 역시 전쟁 고아 중 한 사람이야. 다만, 다른 주인공들보다 조금 더 혹독하게 살았다고 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>굶는 날이 많아 동물귀 머리띠를 주워 써서 밥값을 구걸했고 그 와중 대주교에게 거둬져 현재까지 왔다는 이야기야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>모두에게 상냥한 그녀지만 자신은 못돌보는 소녀니까 네가 그녀를 챙겨준다면 잘 어울릴 수 있을거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>전 학교를 다니지 못 해서 굉장히 신선한 느낌이었어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>맞아. 그러고 보니 아우디레 역시 전쟁고아 중 한 사람이야. 다만, 다른 주인공들보다 조금 더 혹독하게 살았다고 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>굶는 날이 많아 동물 귀 머리띠를 주워 써서 밥값을 구걸했고 그 와중 대주교에게 거둬져 현재까지 왔다는 이야기야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>모두에게 상냥한 그녀지만 자신은 못 돌보는 소녀니까 네가 그녀를 챙겨준다면 잘 어울릴 수 있을 거야.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>무슨 말씀 중이시죠?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>자, 스위트 타임! 이번엔 그녀와 시간을 보내도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
@@ -3830,10 +3830,10 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>보다시피 통행증이 없는 이차원의 몬스터야. 지금은 어째서인지 천리교에서 헬레나와 함께 하고 있어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>그 여자는 사성의 마지막 별이야. 운명을 뒤집는 거, 재밌지 않아?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>요즘 자주 언급되던데 사성이 뭐야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>사성은 말이지…음? 저기 있는 담당자라는 녀석이 그건 비밀로 해달라는 군.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>사성은 말이지…음? 저기 있는 담당자라는 녀석이 그건 비밀로 해달라는군.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>그래? 사실 말이지, 이스프릿 한테서도 너한테 대한 정보는 전혀 듣지 못했거든?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Chimera.png</NPC_IMG><NPC_NAME>라임</NPC_NAME><NPC_TEXT_1>당연한 이야기야. 그 서고는 '이쪽' 이야기밖에 없을 테니까.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐, 이세계의 몬스터인 이상 내가 해 줄 이야기는 없겠네. 거기, 너. 이번엔 직접 부딛쳐 라임과 친해지도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ispelt1.png</NPC_IMG><NPC_NAME>이스펠트</NPC_NAME><NPC_TEXT_1>뭐, 이세계의 몬스터인 이상 내가 해 줄 이야기는 없겠네. 거기, 너. 이번엔 직접 부딪쳐 라임과 친해지도록 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>

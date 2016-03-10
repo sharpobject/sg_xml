@@ -508,12 +508,12 @@
 <CARD_SKILL><ID>100505</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 핸드가 3장 이하일 경우,자신 덱 랜덤한 다크로어 소속 스펠 1을 사이즈 -1하여,자신 핸드 빈 슬롯에 옮긴다.자신 핸드 추종자 카드가 없을 경우,자신 덱 랜덤한 다크로어 소속 추종자 1의 공/방/체 +1하여 자신 핸드 빈 슬롯에 옮긴다.자신 라이프가 상대 보다 적을 경우,자신 라이프 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100506</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 크룩스 추종자1의 마지막 특수능력은 본래 특수능력이 된다. 자신 필드 카드 수에 따라 다음 효과를 적용한다. ●2장 이하 : 자신 필드 랜덤한 추종자 1의 공/방 +1. ●3장 : 자신 셔플 수 +1.  ●4장 이상 : 자신 무덤 랜덤한 크룩스 소속 추종자 1을 자신 덱 랜덤한 위치로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100507</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 카드 사이즈의 합이 상대 필드 사이즈의 합보다 높을 경우, 상대캐릭터 라이프 -1. 상대 미만일 경우 자신캐릭터 라이프 +1. 상대가 NPC일 경우 상대 라이프 -1, 유저일 경우 셔플수가 0일 경우 셔플수=1.</span>]]></TEXT></CARD_SKILL>
-
-
-
-
-
-
+<CARD_SKILL><ID>100508</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 홀수턴이면 자신필드/핸드 랜덤한 추종자 1과 자신덱 맨 위 추종자의 공/체 +1.자신캐릭터 라이프 +1.짝수턴이면 상대필드/핸드 랜덤한 추종자 1과 상대 덱 맨 위 추종자의 공/체 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100509</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 캐릭터의 라이프에 따라 이하의 효과를 적용한다. ●31이상:상대 라이프-2.●30~24:상대캐릭터의 라이프 -1, 자신 라이프 +1.●20~15:상대 라이프 -2.●9이하 : 자신 라이프 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100510</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 공/체 -1/-2.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 사립 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100511</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈 +1.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 크룩스 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100512</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈 +1.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 크룩스 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100513</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴수가 1일경우 자신 덱 무소속 추종자 전체 체력+2.턴수가 2일경우 자신 덱 무소속 추종자 전체 공격력 +1.턴 수가 홀수일 경우 자신 무덤 맨 밑에 있는 추종자 1은 자신 덱 맨 밑으로 이동한다.턴 수가 짝수이고 자신 셔플 수가 0일경우 셔플+1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>

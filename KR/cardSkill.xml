@@ -1068,7 +1068,7 @@
 <CARD_SKILL><ID>110552</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 캐릭터와 소속이 다른 랜덤한 카드1을 무덤으로 보낸다. 자신 필드 랜덤한 추종자1의 사이즈 +1, 공/방/체 +1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110553</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 캐릭터와 소속이 다른 랜덤한 추종자1의 본래 수치에서 증가한 공/방/체는 각각 본래의 수치가 된다. 자신 필드 추종자 전체 사이즈 -1, 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110554</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드/핸드/덱 랜덤한 카드 1의 사이즈 -1. 해당 카드가 추종자일 경우, 추가로 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110555</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 카드가 없을 경우, 자신 덱과 무덤에 "드레스업"이 들어가는 랜덤한 카드 1을 첫 번째 빈 슬롯에 생성한다. 해당 카드의 사이즈 =4. 공/체 +2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110555</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 카드가 없을 경우, 자신 덱과 무덤에 맨 위에"드레스업"이 들어가는 랜덤한 추종자 1을 생성한다. 해당 카드의 사이즈 =4. 공/체 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110556</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 덱 맨위 5장중 추종자 전체 체력 -1. 감소치의 합 만큼 자신 필드 랜덤한 추종자 1의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110557</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자 1의 체력 +4. 자신 덱 맨위 추종자 1의 공격력 +3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110558</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 공/체는 3 - 해당 추종자의 특수능력 수 만큼 감소한다. 감소치가 1이하일 경우, 자신 필드 랜덤한 추종자 1의 공/체 +1/+2. 해당 추종자의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
@@ -1855,7 +1855,7 @@
 <CARD_SKILL><ID>200639</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 전체 추종자의 사이즈는 절반(내림)이 되고, 이하의 특수능력 중 하나가 추가된다. "공격전: 이 카드의 공격력 +3", "방어전: 이 추종자의 체력 +3", 턴개시시: 이 추종자의 공/방/체 +1"</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200640</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터와 소속이 같은 자신 필드 추종자 수만큼 자신 캐릭터의 라이프 증가. 증가치의 절반(올림)만큼 상대 캐릭터의 라이프 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200641</ID><NAME>. </NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드에 추종자가 존재할 경우 랜덤한 필드 추종자 1은 이하의 특수능력을 얻는다. "턴개시시: 이 카드를 파괴한다."</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200642</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신무덤 맨 아래에 있는 카드를 자신필드 첫 번째 빈 슬롯에, 덱 맨 아래에 있는 카드를 자신 핸드 마지막 빈 슬롯에 복사한다. 핸드로 가져온 카드 사이즈 절반(내림)만큼 자신필드 랜덤한 추종자2 의 공/체 증가. 이 카드는 게임에서 제거된다. 이 스펠은 복사되지 않는다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200642</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신과 소속이 같은,자신무덤 맨 아래에 있는 카드를 자신필드 첫 번째 빈 슬롯에, 덱 맨 아래에 있는 카드를 자신 핸드 마지막 빈 슬롯에 복사한다. 핸드로 가져온 카드 사이즈 절반(내림)만큼 자신필드 랜덤한 추종자2 의 공/체 증가. 이 카드는 게임에서 제거된다. 이 스펠은 복사되지 않는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200643</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>이 카드의 스펠 필드에 적색,황색,청색코인을 랜덤하게 3번 생성한다. 생성된 카드중 일치된 카드 수에 따라 다음 효과가 발동된다. 0장:상대 필드 추종자 전체 체력 -1 2장:상대 필드 추종자 전체 공격력 -2, 자신 필드 추종자 전체 체력 +2. 3장: 랜덤한 상대 필드 카드 1장 파괴.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200644</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 무덤에 "도움"카드가 없을 경우 이 카드는 게임에서 제거된다. 자신 무덤에 "도움"카드가 있을 경우 상대 필드 추종자 전체 공/방/체 -2/-1/-2. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200645</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 사이즈가 5이상인 카드가 있을경우 해당 카드들의 사이즈는 절반(내림)이 된다. 감소한 수치의 합이 5 이상일 경우 자신 무덤 맨 위의 카드를 자신 덱 맨 위로 이동시킨다.</span>]]></TEXT></CARD_SKILL>
@@ -2198,7 +2198,7 @@
 <CARD_SKILL><ID>200982</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>이 카드의 사이즈가 1일 경우 이 카드를 행동종료 상태로 하여, 사이즈는 상대 필드랜덤한 추종자 1의 사이즈와 같아진다.1이 아닐 경우 상대 필드 이 카드와 같은 사이즈를 가진 추종자가 없을 경우, 이 카드의 사이즈의 두 배만큼 상대 라이프 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200983</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신필드와 핸드 카드이름에"도서","학생회","요리연구부","수면부"가 들어가는 카드 종류 수에 따라 다음 효과를 전부 적용한다.●1:자신 필드 추종자 전체 체력 +2.자신 라이프 +2.●2:상대 필드 스펠 전부 행동종료 상태가 된다.●3:자신 필드 추종자 전체 공격력 +2.상대 라이프 -1.●4:상대 필드 추종자 전체 행동종료 상태가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200984</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 덱 "메이드"가 들어가는 카드 전체 체력 -2~-4. 해당 추종자 중 랜덤한 추종자 1~3을 자신 필드 마지막 슬롯에 배치.자신 덱 "메이드"가 들어가는 카드 수만큼 배치된 추종자의 체력 증가. 증가치의 절반(내림)만큼 추가로 공격력 증가.자신 필드 사이즈가 초과됐을 경우,해당 카드를 행동종료 시킨다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>200985</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우, 자신 필드 크룩스 소속 추종자 수만큼 상대 필드 추종자 전체 특수능력이 사라진다. 자신 셔플 수 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>200985</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우, 자신 필드 크룩스 소속 추종자 수만큼 상대 필드 추종자 전체 특수능력이 사라진다. 자신 셔플 수 +1.이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200986</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 덱 추종자 전체의 공/방/체는 본래 수치가 된다.변경된 카드 수의 절반(올림)만큼 자신 필드 랜덤한 다크로어 소속 추종자 1의 공/체 증가. 증가치가 3이상일 경우, 상대 셔플 수 -1.없을 경우, 자신 핸드 랜덤한 다크로어 소속 추종자 2의 공/체 +3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200987</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 공립소속일 경우, 상대 덱/필드/핸드 추종자 전체 체력 -1. 자신 라이프가 상대보다 낮을 경우 상대 덱 맨 위 추종자 5의 체력 -2. 자신 덱 "시타"가 들어가는 추종자 전체 체력 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>200988</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립소속일 경우, 상대 덱/필드/핸드 추종자 전체 체력 -1. 자신 라이프가 상대보다 낮을 경우, 자신 덱 맨 위 스펠 5의 사이즈 -1.자신 덱 "시니아"가 들어가는 추종자 전체 체력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -2350,7 +2350,7 @@
 <CARD_SKILL><ID>201134</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 랜덤한 추종자 1의 강화수치 = 0. 해당 추종자가 가진 특수능력 종류에 따라 다음 효과를 추가로 적용한다.●턴개시시: 상대 필드 랜덤한 스펠 1을 상대 덱 맨밑으로 보낸다. ●공격전: 상대 필드 사이즈 합의 절반(올림)만큼 자신 라이프 증가. ●방어전: 상대 필드 카드 수의 절반(내림)만큼 자신 셔플 수 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201135</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터와 소속이 같은 자신 필드 첫 번째 추종자의 턴개시시 능력을 발동한다. 턴개시시 특수능력을 보유하고 있지 않을 경우,해당 추종자의 특수능력은 본래 특수능력이 된 후, 상대 필드 랜덤한 추종자 1의 특수능력은 사라진다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201136</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 덱 맨위 5장중 공립 소속 카드 수 만큼 자신 필드 랜덤한 추종자 1의 공/체 증가. 증가치만큼 자신 라이프 증가. 증가치가 3이상일 경우, 해당 추종자의 마지막 특수능력을 해당 추종자와 자신 덱/필드 랜덤한 공립 소속 추종자 1에게 추가한다. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>201137</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우,상대 필드 추종자 전체 방/체는 해당 추종자의 공격력과 방어력의 차이만큼 감소한다.상대 핸드 스펠 전체 상대 덱 맨 밑으로 옮긴다. 옮긴 카드 수 만큼 상대 필드 랜덤한 카드를 행동 종료 상태로 한다.이 카드의 사이즈가 1일 경우, 상대 필드 랜덤한 추종자 2의 방어전 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201137</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우, 상대 핸드 스펠 전체 상대 덱 맨밑으로 옮긴다. 옮긴 카드 수 만큼 상대 필드 랜덤한 카드를 행동종료 상태로 한다. 행동종료 상태가 된 추종자의 방어전 특수능력은 사라진다. 이 카드의 사이즈가 1일 경우, 상대 필드 추종자 전체 방/체는 해당 추종자의 공격력과 방어력의 차이 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201138</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>크룩스 소속이 아닌 전체 필드 추종자 전체 공격력 -2.자신 필드 크룩스 소속 카드 수 +2 만큼 자신 필드 추종자 전체 체력 증가.보유하고 있는 특수능력 수 +1 만큼 공/방 증가. 해당 카드 이름에 "추기경","주교"가 들어가 있을 경우, "턴개시시: 자신 라이프 +2.이 특수능력은 사라진다."가 추가된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201139</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 첫 번째 다크로어 소속 추종자의 마지막 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다. 상대 필드 공/체 합이 가장 큰 추종자 1의 사이즈와 공/체 =1. 자신 라이프가 상대 보다 적을경우, 해당 추종자의 특수능력은 사라진다. 자신 셔플 수가 상대 보다 적을 경우,해당 추종자의 사이즈는 본래 수치가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201140</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>필드위의 이 카드는 효과로 이동하지 않는다.자신 캐릭터가 다크로어 소속이고,서로 필드 추종자가 존재할 경우,자신 필드 마지막 빈슬롯에 행동가능 상태로 재성성 후,상대 필드 랜덤한 추종자 1의 체력 -4. 상대 필드 추종자가 없을 경우,자신 필드 추종자 전체 자신 덱 맨밑으로 옮긴다. 옮긴 카드 수 만큼 상대 라이프 감소. </span>]]></TEXT></CARD_SKILL>
@@ -2378,7 +2378,7 @@
 <CARD_SKILL><ID>201162</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 필드 추종자 전체 사이즈 -1. 감소치만큼 자신 라이프 증가. 자신 필드 크룩스 추종자 1만 존재할 경우, 해당 추종자의 사이즈 보다 낮은 사이즈의 상대 필드 추종자 전체의 공/체는 절반(올림)이 된다.  자신 필드/핸드/덱 랜덤한 추종자 1은 "공격전: 방어 추종자의 방어력 =0. 이 특수능력은 사라진다."이 추가된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201163</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 카드 수의 홀/짝과, 상대 필드 두 번째 슬롯 카드의 사이즈가 홀/짝이 일치할 경우, 해당 카드를 파괴한다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201164</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>이 카드의 사이즈가 1일 경우,이 카드의 사이즈는 2~4중 랜덤한 사이즈가 되어 재생성 된다.이 카드의 사이즈가 2이상일 경우,자신 덱 랜덤한 추종자 1을 이 카드의 사이즈와 동일한 사이즈로 변경하여,자신 필드 마지막 슬롯에 행동종료 상태로 배치한다. 해당 카드의 소속이 다크로어 소속일 경우,공/방/체 +1. 하여 행동가능 상태로 배치한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>201165</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우, 상대 핸드 카드 수의 절반(내림)만큼 상대 무덤 랜덤한 카드를 상대 덱 맨위로 옮긴다. 옮긴 카드중 추종자 전체 방어력 =0. 상대 핸드 카드 전체 상대 무덤으로 보낸다. 보낸 카드 수 -1만큼 상대 라이프와 상대와 자신 셔플 수 감소. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201165</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 다크로어 소속일 경우, 상대 핸드 카드 수의 절반(내림)만큼 상대 무덤 랜덤한 카드를 상대 덱 맨위로 옮긴다. 옮긴 카드중, 추종자 전체 방어력 =0. 스펠 전체 사이즈 +1. 상대 핸드 카드 전체 상대 무덤으로 보낸다. 보낸 카드 수 -1만큼 상대 라이프와 셔플 수 감소. 이 카드는 제거된다</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201166</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>이 카드가 위치한 슬롯 번호와,자신의 공격 순서에 따라 다음 효과를 전부 적용한다. 이 카드는 제거한다.●홀수슬롯: 자신 무덤 랜덤한 공립 소속 카드 2를 자신 덱 맨 밑으로 옮긴다.  ●짝수슬롯: 상대 무덤 랜덤한 카드 2를 제거한다. ●선공: 상대 필드 추종자 전체 방어력 =0. ●후공: 상대 필드 랜덤한 스펠 1을 상대 덱 맨위로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201167</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 사립 소속일 경우, 상대 필드 방어력이 감소한 랜덤한 추종자 2의 사이즈 =1. 감소한 사이즈의 수치와, 해당 추종자의 방어력의 절대값 합 만큼, 해당 추종자의 공/체 감소. 이 카드의 사이즈가 1일 경우, 추가로 자신 필드 체력이 감소한 랜덤한 사립 소속 추종자 2의 공/체는 본래 수치가 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201168</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우, 자신 필드 첫 번째 크룩스 소속 추종자를 행동종료 상태로 한다. 그경우 상대 필드 또는 덱 공/방/체가 증가한 랜덤한 추종자 1의 공/방/체 수치는 본래 수치가 된다. 변화한 수치의 종류 수 +2만큼 자신 필드 행동종료된 랜덤한 추종자 1의 공/체 증가. </span>]]></TEXT></CARD_SKILL>
@@ -2389,6 +2389,8 @@
 <CARD_SKILL><ID>201173</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 랜덤한 크룩스소속 카드 1의 사이즈 =1.자신 덱 두번째 카드가 크룩스 소속일 경우,해당 카드를 자신 필드 마지막 슬롯에 복사한다.자신 필드 크룩스 카드 수 만큼 상대 라이프 감소.자신 라이프가 상대 보다 적을 경우,상대 필드 랜덤한 카드 1을 파괴한다.(50% 확률) 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201174</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 핸드 랜덤한 다크로어소속 카드 1의 사이즈 =1.자신 덱 두번째 카드가 다크로어 소속일 경우,해당 카드를 자신 필드 마지막 슬롯에 복사한다.자신 무덤 다크로어 카드 수만큼 상대 필드/핸드 랜덤한 추종자 1의 체력 감소.(최대 9)자신 라이프가 상대 보다 적을 경우,상대 필드 랜덤한 카드 1을 파괴한다.(50% 확률) 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201175</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 카드 전체 사이즈 -1, 이 카드와 상대 필드 추종자 전체 행동종료 상태가 된다. 이 카드의 사이즈 =2이고, 상대 핸드 카드가 3장 미만일 경우, 상대 필드 첫 번째 추종자는 "게임 스타터" 마지막 스펠은 "감사합니다."로 바뀐다.상대 핸드 카드가 3장 이상일 경우, 상대 핸드 랜덤한 스펠 1을 자신 덱 맨위로 옮긴다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201176</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 덱 2장 이상 들어가 있는 카드 종류 수의 절반(올림) 만큼, 상대 필드 랜덤한 카드를 제거한다. 제거한 카드 수만큼 상대 라이프 감소. 자신 셔플 수 증가. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201177</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>전체 필드 추종자의 공격전 특수능력은 "공격전: 이 추종자의 공격력 = 1~10(랜덤)" 방어전 특수능력은 " 방어전:  이 추종자의 체력 = 1~10(랜덤)"이 된다. 특수능력이 변경된 추종자 전체는"턴개시시: 이 카드의 특수능력은 본래 특수능력이 된다."특수능력을 얻는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈 -1. 카드이름에 "요리연구부"가 들어간 자신필드 추종자 전체 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/방/체 +2/+1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -3261,8 +3263,8 @@
 <CARD_SKILL><ID>1867</ID><NAME>단원호출</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 무덤 맨 위에 "GS 전투원" 3장을 생성한다. 자신 무덤 "GS 전투원"이 들어가는 카드 수의 절반(올림)만큼 이 추종자의 공/체 증가.(최대 5)이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1868</ID><NAME>현현!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈 +1.자신캐릭터가 다크로어소속이고 자신무덤에 다크로어 카드가 8장 이상있을 경우 이 카드를 제거,자신필드 마지막 슬롯에"진 흡혈신"을 이 카드의 본래 공/방/체 보다 증가한 수치만큼 증가시켜 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1869</ID><NAME>순살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대라이프가 4이하일 경우 상대라이프 =0.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1870</ID><NAME>선혈의 광기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대필드,핸드 추종자 전체 체력 -1. 자신필드, 핸드 추종자 전체 체력 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1871</ID><NAME>피의 희생</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 다크로어소속일 경우, 공격 추종자의 공/체는 자신 무덤 십의 자리수 2배만큼 감소한다. 감소치의 절반만큼 상대 캐릭터 라이프 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1870</ID><NAME>선혈의 광기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대필드,핸드 추종자 전체 공/체 -1. 자신필드, 핸드 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1871</ID><NAME>피의 희생</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 다크로어 소속일 경우, 공격 추종자의 공/방/체는 자신 무덤 십의 자리수 +1만큼 감소한다. 감소치의 절반(내림)만큼 상대 라이프 감소.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1872</ID><NAME>준비 조준!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신의 셔플수는 이 카드의 강화 수치의 절반(올림)이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1873</ID><NAME>요술탄 장전!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 셔플 수만큼 이 카드의 사이즈 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1874</ID><NAME>로켓 점프!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 셔플수 -1. 그랬을경우 공격추종자의 체력-3. 상대 라이프 -1.</span>]]></TEXT></CARD_SKILL>
@@ -3380,8 +3382,8 @@
 <CARD_SKILL><ID>1986</ID><NAME>증거인멸</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 방어력은 본래 수치가 된다.변화치만큼 상대 라이프 감소.(최대 3)자신 무덤"리온 플리나"를 1장 생성한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1987</ID><NAME>증거제출</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 무덤"리온"이 들어가는 카드 수 절반(올림)+1만큼 공/체 증가.(최대 5) 방어 추종자의 사이즈 +1.이 특수능력은"턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1988</ID><NAME>이의제기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력+1</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1989</ID><NAME>빌로사류 오의</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 공립이면 자신 덱 랜덤한 추종자 1의 특수능력을 2개까지 얻는다.추가 특수능력수+1만큼 자신 공/체 증가. 이 특수능력은 "방어전: 이 카드의 방/체합이 공격 추종자의 공격력보다 낮으면 게임에서 제거 후 자신 덱 맨위 재생성, 이 특수능력은 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1990</ID><NAME>분신살법!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 공격력이 이 카드의 방/체 합보다 높으면 이 카드를 제거해 자신 덱 맨위에 재성성 한다.이 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1989</ID><NAME>빌로사류 오의</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 공립이면 자신 덱 랜덤한 추종자 1의 특수능력을 2개까지 얻는다.추가 특수능력수+1만큼 자신 공/체 증가. 이 특수능력은 "방어전: 이 카드의 방/체합이 공격 추종자의 공격력보다 낮으면 게임에서 제거 후 자신 라이프 -2.자신 덱 맨위 재생성,이 특수능력은 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1990</ID><NAME>분신살법!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방/체합이 공격 추종자의 공격력보다 낮으면 게임에서 제거 후 자신 라이프 -2.자신 덱 맨위 재생성,이 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1991</ID><NAME>도그 파이트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 강화수치보다 작은 사이즈의 상대필드 랜덤한 카드 1을 상대 핸드 마지막 슬롯으로 보낸다.해당 카드의 사이즈는 이 카드 강화 수치의 절반(올림)만큼 증가한다.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1992</ID><NAME>교대시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 카드이름에 "메이드"가 들어간 랜덤한 추종자 1의 공/체+1 하여 이 카드와 교체한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1993</ID><NAME>한계돌파!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈는 원래 사이즈가 된다. 변화된 수치 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
@@ -3422,7 +3424,7 @@
 <CARD_SKILL><ID>2028</ID><NAME>트릿트!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 랜덤한 카드 1을 자신 덱 맨 밑으로 보낸다.그경우 자신 필드 랜덤한 추종자 1의 공/방 +2/+1. 보낸 카드 이름에 “할로윈” 혹은 “로제”가 들어갈 경우 추가로 자신 캐릭터 라이프 +1,자신 덱 맨위 “할로윈” 혹은 “로제”가 들어간 카드 1을 자신 핸드 마지막 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2029</ID><NAME>트릭?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 랜덤한 카드 1을 자신 덱 맨 밑으로 보낸다.그경우 상대 필드 랜덤한 추종자 1의 방/체 -1 행동종료 시킨다.보낸 카드 이름에 “할로윈” 혹은 “헬레나”가 들어갈 경우 추가로 상대 캐릭터 라이프 -1,자신 덱 맨위 “할로윈” 혹은 “헬레나”가 들어간 카드 1을 자신 핸드 마지막 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2030</ID><NAME>트릿트!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 랜덤한 카드 1을 자신 덱 맨 밑으로 보낸다.그경우 자신 필드 랜덤한 추종자 1의 공/방/체 +1. 보낸 카드 이름에 “할로윈” 혹은 “헬레나”가 들어갈 경우 추가로 사이즈 -1,자신 덱 맨위 “할로윈” 혹은 “헬레나”가 들어간 카드 1을 자신 핸드 마지막 슬롯으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2031</ID><NAME>용파참!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대가 던전 보스 NPC 일경우, 이 카드의 강화수치의 절반(올림)+1만큼 상대 캐릭터 라이프 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2031</ID><NAME>용파참!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대가 NPC일 경우, 이 카드의 강화수치의 절반(내림)만큼 상대 라이프 감소. 던전 보스 NPC일 경우, 강화수치의 절반(올림) +1 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2032</ID><NAME>메디테이트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력 -2.이 카드의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2033</ID><NAME>카모플라쥬</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 핸드 강화수치가 3이상인 랜덤한 추종자 1을 자신핸드 마지막 슬롯으로 옮긴다.그랬을경우 이 카드는 무덤으로 간다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2034</ID><NAME>꿈나라로</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈를 -1하여 파괴한다. 자신 필드와 자신 덱 맨위 추종자 2의 공격력 +2.</span>]]></TEXT></CARD_SKILL>
@@ -3439,7 +3441,7 @@
 <CARD_SKILL><ID>2045</ID><NAME>기원</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 라이프 십의 자리수+1 만큼 이 카드의 공/체 증가.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2046</ID><NAME>만월의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 덱 맨아래 있는 카드 2장을 무덤으로 보낸다.그경우,상대 무덤 가장 밑에 있는 카드 1을 상대 덱 아래로 옮긴다.상대 무덤 십의 자리 수 만큼 상대 라이프 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2047</ID><NAME>포크</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전:자신 캐릭터가 사립일 경우,방어 추종자를 행동종료 상태로 한 후 강화수치=0,원래 수치이상의 공/방/체 수치는 원래수치-1이 된다.그경우 이 카드 사이즈-1 이 특수능력은 “턴개시시: 본래 특수능력으로 바뀐 후 덱 맨위로 간다.”로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2048</ID><NAME>프로모션</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전:공격 추종자의 증감된 공/방/체 수치의 절반(내림)만큼 이 카드 공/방/체 증가</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2048</ID><NAME>프로모션</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전:공격 추종자의 증감된 공/방/체 수치의 절반(올림)만큼 이 카드 공/방/체 증가</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2049</ID><NAME>포격준비</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 덱 맨 위 5장중 이 카드의 강화수치 만큼의 추종자는 방어력 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2050</ID><NAME>마력 집속</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 덱 맨위 5장중 이 카드의 강화수치 만큼의 추종자는 방어력 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2051</ID><NAME>전력전개!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 특수능력이 1개일경우, 이 카드는 무덤으로 간다.이 카드의 강화수치만큼 상대 라이프 감소.</span>]]></TEXT></CARD_SKILL>
@@ -3510,7 +3512,7 @@
 <CARD_SKILL><ID>2116</ID><NAME>천리교 선동</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드를 자신 핸드 마지막 슬롯으로 보낸다. 그경우, 자신 덱“선동가”가 들어간 랜덤한 카드 1의 사이즈를 공격 추종자의 사이즈만큼 감소시켜, 자신 필드 랜덤한 슬롯에 배치한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2117</ID><NAME>승천</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈가 2이하일 경우,이 카드를 무덤으로 보낸다. 상대 라이프는 6- 현재 사이즈 만큼 감소한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2118</ID><NAME>무녀의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 다크로어 소속일 경우,이 카드의 사이즈보다 낮은 사이즈의 상대 필드 랜덤한 카드 1을 상대 덱 맨 위 보낸다. 그경우 이 카드의 사이즈 -2.보내지 못했을 경우 이 카드의 공/체 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2119</ID><NAME>역전의 호령</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스일 경우 자신 필드 추종자 전체 자신 필드 사이즈 합의 절반(올림)만큼 공/체 증가.(최대 4)이 특수능력은"턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2119</ID><NAME>역전의 호령</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스일 경우 자신 필드 추종자 전체 6- 자신 필드 카드 수 만큼 공/체 증가. 이 특수능력은"턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2120</ID><NAME>본진급습</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신필드 크룩스 추종자 전체 사이즈 -1.상대 핸드 카드 수만큼 상대 라이프 감소.상대 핸드 랜덤한 카드 1을 제거.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2121</ID><NAME>프리징</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전 : 방어 추종자의 마지막 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2122</ID><NAME>아이시클</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전 : 공격 추종자의 특수능력 수의 절반(올림)만큼 이 카드의 공/체 증가. 특수능력이 없을 경우 공격추종자의 특수능력은 원래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
@@ -3776,7 +3778,7 @@
 <CARD_SKILL><ID>2382</ID><NAME>특제 도시락</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 라이프 -1. 그경우 이 카드와 자신 핸드 랜덤한 추종자 1의 사이즈 -1. 감소치의 합이 1이하일 경우, 방어 추종자의 체력 -3.  </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2383</ID><NAME>특별 레시피</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 핸드 첫 번째 카드 종류에 따라 다음 효과를 발동한다. 이 특수능력은 턴 개시시 본래 특수능력이 된다. 스펠: 상대 라이프 -2. 추종자: 자신 셔플 수 +1. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2384</ID><NAME>재즈악단</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 "후보생"이 들어간 추종자가 있을 경우, 자신 덱 랜덤한 다크로어 소속 추종자 1의 사이즈 =1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2385</ID><NAME>마녀의 계약</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 "마녀"가 들어간 랜덤한 카드1을 자신 필드 랜덤한 슬롯에 이 카드 사이즈의 절반(올림)만큼 공/체를 증가시켜 배치한다. 이 카드의 사이즈 -1. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2385</ID><NAME>마녀의 계약</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 사이즈가 초과되지 않았을 경우, 자신 덱 "마녀"가 들어간 랜덤한 사립 소속 추종자 1을 자신 필드 랜덤한 슬롯에 이 카드 사이즈의 절반(올림)만큼 공/체를 증가시켜 배치한다. 해당 카드와 이 카드의 사이즈 -1. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2386</ID><NAME>정성어린 간호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 특수능력이 2개이상일 경우, 상대 라이프 -1. 방어 추종자의 특수능력은 "턴 개시시: 본래 특수능력이 된다."로 바뀐다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2387</ID><NAME>예언의 서</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 특수능력 수만큼 상대 라이프 감소. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2388</ID><NAME>예언의 실현</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 특수능력 수 만큼 이 카드의 체력 증가. 공격 추종자의 특수능력 수*30%의 확률로 이 카드의 특수능력은 본래 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
@@ -4031,8 +4033,8 @@
 <CARD_SKILL><ID>2637</ID><NAME>거짓된 가면</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 핸드 랜덤한 추종자 1과 이 카드의 방어력을 교환한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2638</ID><NAME>악마의 수</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 캐릭터가 사립 소속일 경우, 이 카드의 사이즈와 공/방/체 +1. 이 카드의 사이즈가 6이상일 경우, 이 카드를 제거한다. 상대 덱 추종자 전체 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2639</ID><NAME>피의 향연</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 사이즈 +1. 이 카드의 사이즈의 절반(내림)만큼 공격 추종자의 방어력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2640</ID><NAME>이단말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력과 방어추종자의 방어력 차이의 절반(내림)만큼 방어추종자를 제외한 상대필드 추종자 전체 체력 감소.이 특수능력은 "턴개시시:본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2641</ID><NAME>여신의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 카드 수 -1 만큼 이 카드의 체력 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2640</ID><NAME>이단말살</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력과 방어추종자의 방어력 차이만큼 방어추종자를 제외한 상대필드 추종자 전체 체력 감소.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2641</ID><NAME>여신의 가호</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 카드 수의 절반(올림) 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2642</ID><NAME>정찰활동</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 핸드 카드 전체 다크로어 소속일 경우,상대 셔플 수 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2643</ID><NAME>천리교의 비기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 상대 라이프가 20이상일 경우,이 카드의 사이즈 =1. 공/체 +2. 30이상일 경우,추가로 상대 라이프 -3.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2644</ID><NAME>그림자 수사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 다크로어 소속 카드 수 만큼 공격 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
@@ -4232,8 +4234,8 @@
 <CARD_SKILL><ID>2838</ID><NAME>달콤함으로의 유혹</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 사이즈가 이 카드의 사이즈 이하일 경우, 해당 추종자를 상대 덱 맨위로 옮긴다. 그경우 해당 카드의 사이즈 만큼 이 카드의 체력 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2839</ID><NAME>매력어필</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 사립 소속일 경우, 방어 추종자와 인접한 상대 필드 추종자 전체 공/체 -3. 자신 캐릭터에 시니아가 들어갈 경우, 추가로 사이즈 +1. 이 카드는 파괴된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2840</ID><NAME>주인님의 선물</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 사립소속 추종자 전체 사이즈 -1. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2841</ID><NAME>약점포착</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 현재 턴수와 슬롯의 홀/짝이 일치하는 상대 필드 추종자 전체 공/체 -1. 해당 추종자 수 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2842</ID><NAME>뮤지시터의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 사립 소속이고 공격 추종자의 공격력이 이 카드의 방/체합 보다 클 경우, 이 카드의 사이즈 만큼 상대 덱 랜덤한 추종자 1의 공/체 -1.을 실행한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2841</ID><NAME>약점포착</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 사립 소속일 경우, 현재 턴수와 슬롯의 홀/짝이 일치하는 상대 필드 추종자 전체 공/체 -1. 해당 카드 수 +1 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2842</ID><NAME>뮤지시터의 기도</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 덱 맨 위 사립 소속 카드 1의 사이즈 -2, 해당 카드의 본래 사이즈 만큼 상대 덱 랜덤한 추종자 1의 공/체 -1.을 실행한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2843</ID><NAME>역경극복</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 3- 이 카드의 특수능력 수 만큼 자신 라이프 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2844</ID><NAME>재기</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 캐릭터에 " 루티카"가 들어갈 경우, 이 특수능력은 이 카드 본래의 공격전 특수능력이 된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2845</ID><NAME>성도의 힘</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 추종자 전체 공/체 +1.  자신 캐릭터에 "루티카"가 들어갈 경우, 추가로 방/체 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

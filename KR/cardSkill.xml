@@ -514,6 +514,7 @@
 <CARD_SKILL><ID>100511</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈 +1.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 크룩스 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100512</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈 +1.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 크룩스 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100513</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴수가 1일경우 자신 덱 무소속 추종자 전체 체력+2.턴수가 2일경우 자신 덱 무소속 추종자 전체 공격력 +1.턴 수가 홀수일 경우 자신 무덤 맨 밑에 있는 추종자 1은 자신 덱 맨 밑으로 이동한다.턴 수가 짝수이고 자신 셔플 수가 0일경우 셔플+1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100514</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 다크로어 소속 추종자 전체 다음 특수능력을 얻는다."방어전: 자신필드 방/체합이 가장 높은 추종자 1과 이 카드의 위치를 교체한다. 자신 필드 다크로어 소속 추종자 전체 공/체 +2. 자신 필드 추종자 전체의,이 특수능력은 사라진다."자신 필드 추종자가 없을 경우, 자신 덱 맨위 2장중 다크로어 소속 카드 전체 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -4295,4 +4296,7 @@
 <CARD_SKILL><ID>2897</ID><NAME>팔괘의 춤</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신과 소속이 같은, 자신 무덤 맨위의 스펠 1을 자신 필드 마지막 슬롯에 배치한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2898</ID><NAME>공간절단</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 공격력이 자신의 방/체 합보다 높을 경우, 이 카드와 방어 추종자를 제거한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2899</ID><NAME>진정</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드가 행동종료 상태일 경우, 이 카드의 공격력은 본래 수치가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2900</ID><NAME>꿈나라로…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 덱 "시타"가 들어가는 랜덤한 추종자 1을 본래 특수능력을 얻는 특수능력으로 변경하여, 자신 필드 마지막 슬롯에 배치한다. 해당 추종자의 사이즈 -2.이 추종자를 자신덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2901</ID><NAME>동조</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공/방/체는 공격 추종자의 공/방/체 수치와 같아진다. 변경된 수치당 이 카드의 사이즈 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2902</ID><NAME>원호방어</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신필드 방/체합이 가장 높은 추종자 1과 이 카드의 위치를 교체한다. 자신 필드 다크로어 소속 추종자 전체 공/체 +2. 자신 필드 추종자 전체의,이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

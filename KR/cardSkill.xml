@@ -515,6 +515,8 @@
 <CARD_SKILL><ID>100512</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 사이즈 +1.해당 추종자의 소속이 상대와 다를 경우 해당 추종자의 마지막 특수능력은 사라진다.소속이 같거나 상대 필드 카드가 없을 경우,자신 덱 맨위 추종자 1의 공/체 +2.해당 카드가 크룩스 소속일 경우,추가로 사이즈 -1.턴 수가 3의 배수이고,자신 셔플 수가 0일 경우 자신 셔플 수 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100513</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴수가 1일경우 자신 덱 무소속 추종자 전체 체력+2.턴수가 2일경우 자신 덱 무소속 추종자 전체 공격력 +1.턴 수가 홀수일 경우 자신 무덤 맨 밑에 있는 추종자 1은 자신 덱 맨 밑으로 이동한다.턴 수가 짝수이고 자신 셔플 수가 0일경우 셔플+1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>100514</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 다크로어 소속 추종자 전체 다음 특수능력을 얻는다."방어전: 자신필드 방/체합이 가장 높은 추종자 1과 이 카드의 위치를 교체한다. 자신 필드 다크로어 소속 추종자 전체 공/체 +2. 자신 필드 추종자 전체의,이 특수능력은 사라진다."자신 필드 추종자가 없을 경우, 자신 덱 맨위 2장중 다크로어 소속 카드 전체 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100515</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 죽-창</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>100515</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시:방해하면 자를거야…</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110001</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1의 체력+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 슬롯번호와 자신 사이즈의 홀/짝이 일치하는 상대필드 추종자 카드는 공/체 -1</span>]]></TEXT></CARD_SKILL>
@@ -1116,14 +1118,14 @@
 <CARD_SKILL><ID>110599</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 1의 공/체 -1.  "시니아"가 들어가는 자신 필드 추종자 전체 공/체+1. 자신 라이프가 상대보다 적을 경우 상대 필드 랜덤한 추종자 1의 사이즈 +1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110600</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 자신필드 추종자 1 공/체 +1. "루티카"가 들어가는 자신 필드 추종자 전체 공/체+1. 자신 라이프가 상대보다 적을 경우 자신 필드 랜덤한 추종자 1의 사이즈 -1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>110601</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 카드 사이즈의 합이 상대보다 높을경우 상대캐릭터 라이프 -1. "아이리"가 들어가는 자신 필드 추종자 전체 공/체+1. 자신 라이프가 상대보다 적을 경우 상대 라이프-1, 자신 라이프+1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110602</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 덱 맨 위 카드의 사이즈 +1. 자신 덱 맨 위 카드의 사이즈 -1 해당 카드가 추종자일 경우 추가로 공/체 +2. "아스미스"가 들어가는 자신 필드 추종자 전체 공/체+1. 턴 수가 짝수일 경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110603</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 덱 랜덤한 추종자1의 공/체 -1을 현재 턴 수 만큼실행 한다. "리누스"가 들어가는 자신 필드 추종자 전체 공/체+1. 턴 수가 짝수일 경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110604</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신핸드 첫번째 카드를 자신덱 맨 위로 옮긴다. 자신핸드 빈 슬롯 수 만큼 자신 덱 랜덤한 추종자 1의 공/체 증가. 자신 필드 ‘로제’가 들어간 추종자 전체 공/체+1. 턴 수가 짝수일 경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110605</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대필드와 핸드 추종자카드 전체 공격력 -1. 그 경우 감소치 만큼 자신덱 맨 위의 추종자 1의 공/체 증가. 자신 필드 ‘헬레나’가 들어간 추종자 전체 공/체+1. 턴 수가 짝수일 경우 자신 무덤 랜덤한 추종자 1을 자신 덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110606</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 "게임 스타터" 전체 공격력 =0. 상대 필드 랜덤한 추종자 1은 "게임스타터"가 된다. 해당 추종자의 소속이 상대 캐릭터와 같을 경우, 동일한 공/방/체와 사이즈, 특수능력을 보유한 "게임스타터"가 된다. 자신 덱이 5장 미만일 경우 자신 덱은 본래 덱이 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110607</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자1의 공/체 -1/-2. 자신 핸드 첫번째 카드에 따라 이하의 효과를 발동한다.●추종자: 자신 필드 추종자 전체 본래 특수능력이 된다.●스펠: 자신 덱 맨 위 추종자와 스펠 사이즈=1. 자신 덱이 5장 미만일 경우 자신 덱은 본래 덱이 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110608</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신 필드 랜덤한 추종자1의 공/체 +1/+2. 자신 라이프+1. 상대 덱/필드 랜덤한 추종자1의 마지막 특수능력을 사라진다. 자신 덱이 5장 미만일 경우자신 덱은 본래 덱이 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>110609</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 상대 필드 랜덤한 추종자 1의 체력 -4. 상대 덱 추종자 전체 행동종료 상태가 된다. 해당 추종자의 마지막 특수능력은 “방어전: 이 카드의 체력 -3.”이 된다. 자신 덱이 5장 미만일 경우 자신 덱은 본래 덱이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110602</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 자신 라이프 =99. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110603</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 상대 덱 =0.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110604</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 상대 라이프 =0. </span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110605</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 상대 라이프 와 덱 =0.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110606</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 자신 라이프 =100.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110607</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 상대 덱 =1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110608</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 상대 라이프 =1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>110609</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 턴 수가 2턴일 경우, 상대 라이프 와 덱 =1.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120001</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 자신필드 모든 추종자의 사이즈 -1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120002</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 사이즈 3 이하 자신필드 추종자 전체 공/체 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>120003</ID><NAME>.</NAME><TEXT><![CDATA[<span fontWeight='bold'>턴개시시: 랜덤한 상대필드 추종자 카드 1을 행동종료상태로 한다.</span>]]></TEXT></CARD_SKILL>
@@ -2393,6 +2395,8 @@
 <CARD_SKILL><ID>201176</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 덱 2장 이상 들어가 있는 카드 수의 절반(올림) 만큼, 상대 필드 랜덤한 카드를 제거한다. 제거한 카드 수만큼 상대 라이프 감소. 자신 셔플 수 증가. 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201177</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>전체 필드 추종자의 공격전 특수능력은 "공격전: 이 추종자의 공격력 = 1~10(랜덤)" 방어전 특수능력은 " 방어전:  이 추종자의 체력 = 1~10(랜덤)"이 된다. 특수능력이 변경된 추종자 전체는"턴개시시: 이 카드의 특수능력은 본래 특수능력이 된다."특수능력을 얻는다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>201178</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 캐릭터가 크룩스 소속일 경우, 자신 무덤 포인트가 가장 높은 크룩스 카드 1을 자신 덱 맨위로 옮긴다. 포인트에 따라 다음 효과를 적용한다. 100: 자신 필드 추종자 전체 공/체 +4. 50:상대 필드/핸드/덱 랜덤한 카드 1을 무덤으로 보낸다. 33이하:상대 필드 랜덤한 카드 1을 행동종료 후, 자신 덱 추종자 전체 공격력 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201179</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>상대 플레이어가 성별이 없을 경우, 상대 필드 랜덤한 추종자 1을 파괴한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>201180</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>자신 필드 추종자가 존재할 경우, 자신의 공격순서에 따라 이하의 효과를 적용한다. 선공 : 상대 필드 랜덤한 추종자 1을 파괴한다. 후공 : 자신 필드 랜덤한 추종자 1을 파괴한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1001</ID><NAME>구경해도되나요?</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 사이즈 -1. 카드이름에 "요리연구부"가 들어간 자신필드 추종자 전체 공/체+1</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1002</ID><NAME>천하일미!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공/방/체 +2/+1/-1 (체력 1이하일 경우 발동하지않음)</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1003</ID><NAME>최선의공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력 +1.</span>]]></TEXT></CARD_SKILL>
@@ -4299,4 +4303,7 @@
 <CARD_SKILL><ID>2900</ID><NAME>꿈나라로…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 덱 "시타"가 들어가는 랜덤한 추종자 1을 본래 특수능력을 얻는 특수능력으로 변경하여, 자신 필드 마지막 슬롯에 배치한다. 해당 추종자의 사이즈 -2.이 추종자를 자신덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2901</ID><NAME>동조</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공/방/체는 공격 추종자의 공/방/체 수치와 같아진다. 변경된 수치당 이 카드의 사이즈 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2902</ID><NAME>원호방어</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신필드 방/체합이 가장 높은 추종자 1과 이 카드의 위치를 교체한다. 자신 필드 다크로어 소속 추종자 전체 공/체 +2. 자신 필드 추종자 전체의,이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2903</ID><NAME>우선</NAME><TEXT><![CDATA[<span fontWeight='bold'>루티카!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2904</ID><NAME>마음을</NAME><TEXT><![CDATA[<span fontWeight='bold'>운요의!</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2905</ID><NAME>비웁니다.</NAME><TEXT><![CDATA[<span fontWeight='bold'>죽-창!</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

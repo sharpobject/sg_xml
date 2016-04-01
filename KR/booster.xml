@@ -2,6 +2,18 @@
 <BOOSTER_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 <BOOSTER>
+<ID>Booster305</ID>
+<NAME>오프라인 상품 부스터</NAME>
+<IMAGE_FILE>booster305.png</IMAGE_FILE>
+<TITLE_CARD>100469</TITLE_CARD>
+<PRICE>1000000</PRICE>
+<BEGINNER></BEGINNER>
+<CARD_NO>100469</CARD_NO>
+<CARD_NO>301282</CARD_NO>
+<CARD_NO>301444</CARD_NO>
+</BOOSTER>
+
+<BOOSTER>
 <ID>Booster320</ID>
 <NAME>공립 초보자 부스터</NAME>
 <IMAGE_FILE>booster_05_beginner.png</IMAGE_FILE>

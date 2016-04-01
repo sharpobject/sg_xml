@@ -3689,7 +3689,7 @@
 <DUNGEON_BG_IMG>dungeon_lobby_090_4.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>헉.. 방금 그건 뭐였죠!?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>marter_deamon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>곧 닥칠 미래의 모습… 그래… 이것이 미래의 교국이다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>안 돼! 이런 미래는…! 난 당할 수 없어! 당장 멈추세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>안 돼! 이런 미래는…! 난 감당할 수 없어! 당장 멈추세요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>marter_deamon.png</NPC_IMG><NPC_NAME>마더데몬</NPC_NAME><NPC_TEXT_1>꿈이라고 생각 되나? 아쉽지만 이것이 현실이다! 그러니 그대로 푹 쉬거라!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>luthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>내…내가 남자가 됀다고? 말도 안 돼… 말 도 안됀다고!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>

@@ -4342,7 +4342,7 @@
 <CARD_SKILL><ID>2925</ID><NAME>축하선물</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 무덤 랜덤한 다크로어 소속 추종자 1과 스펠 1의 사이즈를 -1 하여, 자신 덱 맨위로 옮긴다. 이 카드는 제거된다. </span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2926</ID><NAME>만월의 축복</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 덱 다크로어 소속 추종자 전체 공/체 +1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2927</ID><NAME>축하인사</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 캐릭터가 다크로어 소속일 경우, 공격 추종자의 공/방 -2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2928</ID><NAME>진짜는 바로 나!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 제천의 분신 카드 전체를 제거한다. 제거한 카드 수 만큼, 이 카드의 사이즈와 상대 라이프 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2929</ID><NAME>분신술!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 빈 슬롯에 사이즈 =1 전체 필드 빈 슬롯 수의 공/체를 가지는 제천의 분신 카드를 행동종료 상태로 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2928</ID><NAME>진짜는 바로 나!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 필드 제천의 분신 카드 전체 제거한다.제거한 카드 수 만큼,이 카드의 사이즈 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2929</ID><NAME>분신술!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 라이프 +1.자신 필드 마지막 빈 슬롯에 사이즈 =1전체 필드 빈 슬롯 수의 공/체를 가지는 제천의 분신 카드를 행동종료 상태로 배치한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2930</ID><NAME>진짜를 찾아라!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 제천의 분신 추종자 수 +1만큼 이 카드의 사이즈 감소.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

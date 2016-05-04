@@ -6677,4 +6677,164 @@
 </DUNGEON_DETAIL>
 
 
+<DUNGEON_DETAIL>
+<ID>91</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>4</SEASON><TOOL_TIP_ICON>dungeon_ep31.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 음양도-위, 세이버, 펭귄인형, 우산|특징 : 문의 저편으로 향한 이리나 일행. 그녀들을 맞이하는 것은 7성수였다.</TOOL_TIP_TEXT>
+
+<FLOOR>
+<FLOOR_ID>0</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>이 정도의 거리라면 이제 술식을 파괴할 수 있다냐! 사성의 수호수 루미나레의 이름으로 명한다냐! 거짓된 술식을 파괴하고 진실된 빛으로 인도하라냐!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_felphix.png</NPC_IMG><NPC_NAME>위호</NPC_NAME><NPC_TEXT_1>어라라. 오랜만이네, 루미나레~.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>역시. 위호 펠픽스. 그 어떤 것으로도 변할 수 있는 거짓된 여우인가.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_felphix.png</NPC_IMG><NPC_NAME>위호</NPC_NAME><NPC_TEXT_1>자격 시험은 헨리페의 관할이지만 말이야. 지금 비타 학교의 그 곳으로 가기엔 너희들한테 부족한 게 많아서 내 숲으로 초대했어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>그래도 그렇지, 주인님이 위험했다냐! 반성하라냐!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_felphix.png</NPC_IMG><NPC_NAME>위호</NPC_NAME><NPC_TEXT_1>미안, 미안. 하지만 진짜 성수들이었다면 뼈도 못추렸을 걸?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>…냣!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>루미나레는 분한 듯 크르릉 거립니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_felphix.png</NPC_IMG><NPC_NAME>위호</NPC_NAME><NPC_TEXT_1>주인을 생각하는 건 좋지만, 시간이 없어. 그럴 게 시그마는 베타의 사성에 붙었고 감마의 사성엔 이레귤러가 있어. 놀드는 중립이지만 델타의 사성 역시 방심할 수 없지.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…… 무슨 이야기?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>남십자를 이루는 네 개의 별… 역시 유적에서 본 것은 사실이었던 건가요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>알기 쉽게 설명하라구!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_felphix.png</NPC_IMG><NPC_NAME>위호</NPC_NAME><NPC_TEXT_1>네가 알파의 사성이구나? 그 시절의 그 녀석과 똑같이 생겼네. 이거, 그 얼굴을 보니 그리워지는걸? 이 환영의 숲에서 내가 맡고 있던 그 아이의 기억을 줄게.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>꺄아아악?!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>위호가 건넨 눈부신 구체가 이리나의 몸에 스며듭니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>이리나, 괜찮아?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>그랬…던거야? 수 년간 날 괴롭혔던 악몽은 진짜 있었던 일인거야?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>모든 걸 기억해냈나, 이리나?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>그래. 오래 전 네 개로 갈라진 여신의 영혼.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>난 여신의 환생이었어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>1</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>역시 단서는 너였나, 이리나.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>무슨 소리야?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>파편과 네 검이 반응했고 그 결과로 도서관의 새로운 문이 열렸다. 그 뿐이야. 내가 모르는 과거는 존재하지 않지만 이리나, 너는 특별해. 알고싶다면 따라오는 게 좋을 거야.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>네가 말하니 뭔가 수상한데…?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>이유는 모르겠다냐. 하지만 주인님은 꼭 문의 저펀으로 가야하는 그런 기분이 든다냐.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>루미나레 양이 그렇게 말씀하신다면…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……우물…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>아 정말! 나도 신경쓰이는 건 못 참아. 가면 되잖아! 가면…!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>이리나 일행은 돌연히 출현한 문 밖으로 걸어 나갔습니다. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>문이 사라졌어?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>신비로운 힘이 느껴지는 숲이예요. 희미하게 그 분과 비슷한 따스함이 느껴져요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>나나이 너 아까 세 번째 도서관이 어쩌구 하지 않았어?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>이, 이럴리가 없는데? 내가 조사한 바로는 그 문은 분명 비타학교의 숨겨진 장소에 도달할 문이었어! </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>결국 너도 여기가 어딘지 모른다는 거네.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>주인님! 저길 봐라냐!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…갓트님?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>비타 학교의 수호수…님인가요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>어째 분위기가 이상하지 않아?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gatt2.png</NPC_IMG><NPC_NAME>갓트</NPC_NAME><NPC_TEXT_1>너희들은 어떤 바람을 가슴에 품고 별을 바라보지?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gatt2.png</NPC_IMG><NPC_NAME>갓트</NPC_NAME><NPC_TEXT_1>나는 바람의 성수. 인간들의 소원과 꿈을 여신에게서 맡은 자다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>갓트가 아니다냐! 조심해라냐! 저 환영을 없애지 않으면 이 곳에서 나갈 수 없다냐!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gatt2.png</NPC_IMG><NPC_NAME>갓트</NPC_NAME><NPC_TEXT_1>어리석은 자들이여. 그대들의 꿈을 내게 보여라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>2</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>헉…헉… 겨우 물리쳤다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……나쁜 의도는 없어. 하지만 결코 진실되지 않은 환영…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>저거 어쩐지 진짜 갓트보다 강한 것 같지 않아?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>아하하… 진짜 갓트가 들으면 화낼 거 같다냐…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>저 고양이는 이 장소와 환영에 대해 해박한 것 같은데?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>다들 방심하지 마세요! 더 강력한 기운이 느껴집니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_hen.png</NPC_IMG><NPC_NAME>헨리페</NPC_NAME><NPC_TEXT_1>여어. 교국에서 봤던 애송인가? 전보다는 한층 볼 만한 얼굴이 되었군. 원하던 해답은 찾았나? 결말은 그대가 바라는 것이었나?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…헨리페가 아니야. 하지만 전의 일을 기억하고 있어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>이번엔 뇌랑 헨리페의 환영이라고?!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>헨리페님은 자격과 재능을 수호하는 성수. 갓트님과는 전투력이 남다르실 거에요. 여러분, 조심하세요!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>뭐, 힘내라고, 너희들.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>잠깐! 그 의견에 의의있다. 너도 싸워!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_hen.png</NPC_IMG><NPC_NAME>헨리페</NPC_NAME><NPC_TEXT_1>대상의 본질을 파악하는 빌로사 유파와 카나를 쫒는 탐정, 과거의 열람자와 천연을 연기하는 주교인가? 시험해줄 대상이 넘쳐나는군.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_hen.png</NPC_IMG><NPC_NAME>헨리페</NPC_NAME><NPC_TEXT_1>영광으로 알거라. 이 몸은 자격의 성수. 여신에게서 모든 자격과 권리를 인정할 수 있는 권리를 맡은 자다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_hen.png</NPC_IMG><NPC_NAME>헨리페</NPC_NAME><NPC_TEXT_1>이 몸의 시험을 받는 것만으로도 대대손손 영광인 것이다. 그대들의 재능의 빛을 이 뇌광보다 눈부시게 비춰보거라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>3</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……확실히 진짜보다 약해.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>그러고 보니 시타와는 구면인듯한 말투였지. 저런 괴물이랑 싸우고도 용케 살아있구나?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……그 때는 필사적이었어. 헨리페는 대충이었고.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>아아아 이제 좀 봐줘! 앞으로 저런 게 몇 번이나 남은거야?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>이건 주인님을 간절히 만나고 싶어하는 어떤 아이의 질 나쁜 장난이다냐.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>그 아이의 성격으로 봐선 다음은…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_nold.png</NPC_IMG><NPC_NAME>놀드</NPC_NAME><NPC_TEXT_1>크르르르…. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>나왔다?!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>로일 왕국의 성수님이에요!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_nold.png</NPC_IMG><NPC_NAME>놀드</NPC_NAME><NPC_TEXT_1>나는 불굴의 성수. 만물의 시작과 인간의 모든 용기, 불굴의 자세를 짊어지는 자.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_nold.png</NPC_IMG><NPC_NAME>놀드</NPC_NAME><NPC_TEXT_1>몇 번이고 시작을 반복하면서도 종말을 거부하는 불굴의 생물들이여. 나에게 그대들의 의지를 보이거라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>4</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>그렇군. 그럼 이리나를 시험하고 싶은 녀석이 문의 통로를 바꿔치기 한건가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>그리고 차례차례 등장하는 성수라면 짐작가는 바가 있긴 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>역시 하라. 눈치 챈 건가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>하지만 어째서 이리나를 만나고 싶어 하는거지? 나나이. 너 뭔가 알고 있지?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>거기! 너희들끼리 속닥대지말고 빨리 도우란 말이야!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_kit</NPC_IMG><NPC_NAME>킷</NPC_NAME><NPC_TEXT_1>이제 더는 싫어… 저기, 내 불행 가져가지 않을래? 지긋지긋 하단 말이야. 왜 나만 불행한거야? 나만 힘든거야? 응? 가르쳐 줄래?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>무시무시한 부정의 힘…! 본 적도 없는 악한 기운이에요!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>칠흑묘 킷. 여신에게서 세상 모든 부정의 기운을 반대편의 세계로 전달하는 역할을 맡은 불행의 성수다냐.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>주인님, 조심해라냐. 방심하면 부정에 먹혀든다냐!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_kit</NPC_IMG><NPC_NAME>킷</NPC_NAME><NPC_TEXT_1>나는 기다리고 있어. 이 지긋지긋한 운명을 끝내기 위한 벙법은 그 아이의 재림 뿐이라고.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_kit</NPC_IMG><NPC_NAME>킷</NPC_NAME><NPC_TEXT_1>더 이상 참지 않아. 이 불행은 모두의 것이야. 모두 불행해지면 돼!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>5</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>그 아이의 기운이 점점 가까워지고 있다냐! 얼마 남지 않았다냐.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>하라. 그런데 아까부터 주교님의 상태가 이상한 것 같은데?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>아우디레 선생님?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>……</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>선생님!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>히이잇! 무슨 짓인가요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>이 쪽이 할 말이에요. 갑자기 왜 그러세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>그게… 7성수라고 한다면 반드시 그 분의 환영이 나올 거라고 생각하니…히이익?!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma2.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>나는 그대들을 인정할 수 없다. 나는 누구보다 그 녀석에 대해 알고 있다. 그대들은 성흔을 가질 자격이 없다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……천마 시그마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>저건 가짜야…저건 가짜야…저건 가짜야…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>과연. 시그마와 교황청의 사이는 예로부터 악평이 자자했지. 교국의 신도라면 그녀에 대한 공포는 당연한 건가.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma2.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>이 몸은 단죄의 성수. 여신에게서 모든 것을 심판할 권리를 가진 자다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma2.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>심판의 시간이다. 그대들에게서 그 녀석의 흔적들을 되찾으리라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>저, 전 더 이상 당신이 알던 그 시절의 제가 아니에요! 당신의 인정을 받지 못하더라도 저는 여신의 신도로서 증명하겠습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>환영이라는 것은 알고 있지만 아우디레는 마치 본인에게 외치듯 소리쳤습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>남십자 교회 제 8석, 아우디레. 성흔 유다를 해방하겠어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+<FLOOR>
+<FLOOR_ID>6</FLOOR_ID>
+<DUNGEON_ICON_IMG>dungeon_icon_091.png</DUNGEON_ICON_IMG>
+<DUNGEON_TITLE_IMG>dungeon_title_091.png</DUNGEON_TITLE_IMG>
+<DUNGEON_BG_IMG>dungeon_lobby_091.png</DUNGEON_BG_IMG>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_nanai.png</NPC_IMG><NPC_NAME>나나이</NPC_NAME><NPC_TEXT_1>굉장하군. 저게 교국 남십자 교황청 일개 주교의 힘인가.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>설마 공화국 순례에서 이 정도의 힘을 쓰게 될 줄은… 여러분. 아무래도 여기서의 일은 이 곳을 나가고 나서는 발설하지 말아주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>sita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…...교국 주교로서의 판단?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>아뇨. 교사로서의 판단입니다. 남십자의 여신은 교국뿐만 아니라 비타. 로일 이 두나라와도 밀접한 관련이 있어요. 다른 교사의 귀에 들어간다면 여러분도 곤란한 입장이 되실거예요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_irina.png</NPC_IMG><NPC_NAME>이리나</NPC_NAME><NPC_TEXT_1>그런 정치적인 이야기는 일단 나가고 생각하라구!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_crebass</NPC_IMG><NPC_NAME>크레바스</NPC_NAME><NPC_TEXT_1>얏호~☆ 모두의 아이돌 크레바스 등장!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_asumisu.png</NPC_IMG><NPC_NAME>아스미스</NPC_NAME><NPC_TEXT_1>……</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ruminare.png</NPC_IMG><NPC_NAME>루미나레</NPC_NAME><NPC_TEXT_1>모두 그런 불쌍한 눈으로 보지 마라냐! 크레바스가 불쌍하다냐! 아앗! 루미나레도 불쌍하다고 해버렸다냐!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_crebass</NPC_IMG><NPC_NAME>크레바스</NPC_NAME><NPC_TEXT_1>긍정의 상징 크레바스는 </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+</FLOOR>
+
+</DUNGEON_DETAIL>
+
+
 </DUNGEON_DETAIL_DATA>

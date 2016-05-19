@@ -4375,7 +4375,7 @@
 <CARD_SKILL><ID>2939</ID><NAME>두 번째 달</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 라이프가 상대보다 많을 경우,자신 셔플 수 +1. 이 카드의 사이즈 +3.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2940</ID><NAME>광기의 피</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 셔플 수가 상대보다 적을 경우,자신 셔플 수 +1.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2941</ID><NAME>피의 동화</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 전체 필드 행동종료된 카드가 있을 경우,이 카드의 체력 -3. 상대 라이프 -1.없을 경우,이 카드의 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2942</ID><NAME>새로운 기회</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드와 자신 필드 랜덤한 추종자 1의 특수능력은 본래 특수능력이 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2943</ID><NAME>권유</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 방어 추종자의 공격전 특수능력은 사라진다. 사라진 특수능력 수 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2944</ID><NAME>권능의 대행</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 전체 필드 본래 특수능력이 아닌 추종자수 만큼 공격 추종자의 체력 감소.(최대 4)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2942</ID><NAME>새로운 기회</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드와 자신 필드 랜덤한 추종자 1의 특수능력은 본래 특수능력이 된다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2943</ID><NAME>권유</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드와 방어 추종자의 공격전 특수능력은 사라진다.사라진 특수능력 수 만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2944</ID><NAME>권능의 대행</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 전체 필드 본래 특수능력이 아닌 카드 수 만큼 공격 추종자의 체력 감소.(최대 4)</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

@@ -2,9 +2,9 @@
 <ALBUM_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 <ALBUM>
-<ID>30_3</ID>
-<NAME><![CDATA[게임룰:EX, 이벤트 사용 불가, TR 3매, DR 7매까지 사용 가능]]></NAME>
-<IMAGE_FILE>Ladder30_3.png</IMAGE_FILE>
+<ID>30_4</ID>
+<NAME><![CDATA[게임룰:클래식, 덱pt 500↓, 시즌1,2만, 0강고정, 무소속 DR/TR 사용 불가]]></NAME>
+<IMAGE_FILE>Ladder30_4.png</IMAGE_FILE>
 <TITLE_CARD>100160</TITLE_CARD>
 <CARD_NO>100160</CARD_NO>
 <CARD_NO>300002</CARD_NO>

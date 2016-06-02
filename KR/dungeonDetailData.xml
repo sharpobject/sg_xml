@@ -3727,7 +3727,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>47</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 동색 훈장|특징 : 각 연구소의 단서를 획득해 제국의 비밀을 파혜쳐보세요.(오픈 : 매주 월요일, 목요일. 1일 1회 클리어제한)</TOOL_TIP_TEXT>
+<ID>47</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 동색 훈장|특징 : 각 연구소의 단서를 획득해 제국의 비밀을 파혜쳐보세요.(오픈 : 매주 월요일, 목요일, 일요일 1일. 1회 클리어제한)</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -3771,7 +3771,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>49</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 금색 훈장|특징 : 각 연구소의 단서를 획득해 제국의 비밀을 파혜쳐보세요.(오픈 : 매주 수요일, 토요일. 1일 1회 클리어제한)</TOOL_TIP_TEXT>
+<ID>49</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>5</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 금색 훈장|특징 : 각 연구소의 단서를 획득해 제국의 비밀을 파혜쳐보세요.(오픈 : 매주 수요일, 토요일, 일요일. 1일 1회 클리어제한)</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -6815,7 +6815,7 @@
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_sigma.png</NPC_IMG><NPC_NAME>시그마</NPC_NAME><NPC_TEXT_1>심판의 시간이다. 그대들에게서 그 녀석의 흔적들을 되찾으리라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>저, 전 더 이상 당신이 알던 그 시절의 제가 아니에요! 당신의 인정을 받지 못하더라도 저는 여신의 신도로서 증명하겠습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>환영이라는 것은 알고 있지만 아우디레는 마치 본인에게 외치듯 소리쳤습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>남십자 교회 제 8석, 아우디레. 성흔 유다를 해방하겠어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>남십자 교회 제 8석, 아우디레. 성흔 요한을 해방하겠어요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>

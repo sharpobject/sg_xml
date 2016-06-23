@@ -2511,7 +2511,7 @@
 <CARD_SKILL><ID>1068</ID><NAME>순환의이해</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대의 덱 맨위의 카드를 무덤으로 보낸다. 이 추종자의 체력 +2</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1069</ID><NAME>정의의망설임</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신의 캐릭터와 이 추종자가 소속이 같을경우 자신필드 추종자 전체 공/방/체 +3/+1/+4. 이 카드의 사이즈 -1. 이 특수능력은 "턴개시시 본래 특수능력이 된다."로 바뀐다. 이 카드의 사이즈가 1일 경우 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1070</ID><NAME>흡혈귀살해</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 랜덤한 상대핸드 추종자카드 1을 무덤으로 보낸다. 이 추종자의 체력 +2</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>1071</ID><NAME>엘더스크롤</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신캐릭터와 이 추종자의 소속이 같을경우 이 카드를 제외한 자신무덤 사이즈가 가장 큰 다크로어 소속 추종자 1을 제거후 같은카드를 자신필드 랜덤한 슬롯에 이 카드의 방어력만큼 공/체 증가 후 사이즈 +1하여 배치한다.공격추종자의 특수능력은 사라진다.이 카드는 무덤으로 간다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>1071</ID><NAME>엘더스크롤</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신캐릭터와 이 카드의 소속이 같을경우 이 카드를 제외한 자신무덤 사이즈가 가장 큰 다크로어 소속 추종자 1을 자신필드 랜덤한 슬롯에,이 카드 방어력만큼 공/체 증가 후 사이즈는 이 카드의 사이즈 +1로 하여배치한다.공격추종자의 특수능력은 사라진다.이 카드는 무덤으로 간다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1072</ID><NAME>체력보충</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 체력 +3</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1073</ID><NAME>스위트스펠</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 추종자는 이하의 특수능력을 얻는다. "방어전: 공격추종자의 사이즈가 이 추종자의 사이즈 이하일 경우 주인의 덱 맨 위로 옮긴다. 이 특수능력은 사라진다."</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>1074</ID><NAME>스위트카운트</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격추종자의 사이즈가 이 추종자의 사이즈 이하일 경우 주인의 덱 맨 위로 옮긴다.그경우 이 카드의 체력 +3.옮긴 추종자 사이즈 만큼 상대 라이프 감소.이 특수능력은 "턴개시시: 본래 특수능력이 된다."로 바뀐다.</span>]]></TEXT></CARD_SKILL>

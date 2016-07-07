@@ -3706,7 +3706,7 @@
 <DUNGEON_ICON_IMG>dungeon_icon_076.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_076.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_076.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio3</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>음… 분명 이쪽으로 가면… 출구를 찾은 것 같아요. 잠깐 희미하지만 사람의 그림자가... </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_rio3.png</NPC_IMG><NPC_NAME>리오</NPC_NAME><NPC_TEXT_1>음… 분명 이쪽으로 가면… 출구를 찾은 것 같아요. 잠깐 희미하지만 사람의 그림자가... </NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 </DUNGEON_DETAIL>
@@ -6838,7 +6838,7 @@
 
 
 <DUNGEON_DETAIL>
-<ID>92</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>4</SEASON><TOOL_TIP_ICON>dungeon_ep32.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 고귀한 자의 징표,  세이버, 가터스타킹, 매니큐어|특징 : SS와의 격돌. 심장석을 빼앗긴 시니아. 그녀들의 운명은?</TOOL_TIP_TEXT>
+<ID>92</ID><DIFFICULTY>2</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>4</SEASON><TOOL_TIP_ICON>dungeon_ep32.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 귀족의 징표,  세이버, 가터스타킹, 매니큐어|특징 : SS와의 격돌. 심장석을 빼앗긴 시니아. 그녀들의 운명은?</TOOL_TIP_TEXT>
 
 <FLOOR>
 <FLOOR_ID>0</FLOOR_ID>
@@ -6846,21 +6846,21 @@
 <DUNGEON_TITLE_IMG>dungeon_title_092.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_092.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>황제는 아깝지만 삼녀와 차녀의 검으로 만족해야겠군요. 뒷일은 식스에게 맡기고 저희는 퇴각 합니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>가차 없이 미끼역인가? 뭐, 시간을 끄는 건 좋지만 딱히 근위병놈들 전부 쓰러뜨려도 상관 없는건가?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>가차 없이 미끼역인가? 뭐, 시간을 끄는 건 좋지만 딱히 근위병놈들 전부 쓰러뜨려도 상관 없는건가?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>절.대. 안됩니다. 부디 적당히 하세요. 이대로 로일 왕국이 괴멸되어서는 곤란합니다. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>칫. 농담이 먹히지 않는 재미 없는 여자로구나.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>저 빛나는 문신… 칠흑의 낫… 황금의 눈동자… 설마? 그럴리가…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>칫. 농담이 먹히지 않는 재미 없는 여자로구나.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>저 빛나는 문신… 칠흑의 낫… 황금의 눈동자… 설마? 그럴리가…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>거기, 당신! 이 꼬맹이의 정체에 대해서 짐작가는 바는 있지만, 지금은 저 괴물이 먼저인 것 같네요. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>어떠한 방법으로도 마녀에게서 심장석을 뗄 순 없어요. 그 연결을 아무렇지도 않게 끊어버리는 저 괴물은 정체가 뭐죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>설마 쓰러진 저 영애분은 심장석을 먹힌건가요?! 그렇다면 저건 역시 로일의 전설 속 괴인, 알케이데스라고 생각합니다. 저도 실물을 본 적은 없어서 확실하지 않지만요. 애초에 그녀가 실존할 리가…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>설마 쓰러진 저 영애분은 심장석을 먹힌건가요?! 그렇다면 저건 역시 로일의 전설 속 괴인, 알케이데스라고 생각합니다. 저도 실물을 본 적은 없어서 확실하지 않지만요. 애초에 그녀가 실존할 리가…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>전설 속 괴인, 알케이데스. 마녀의 개체가 줄어든 가장 큰 이유에 해당하는 존재. 그녀의 낫은 마나에 관한 연결을 끊어버릴 수 있고, 마녀의 심장석을 무차별적으로 먹어치웠다고 하는 마녀 사냥꾼이었어.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>언제라고 명시되어 있지 않지만, 로일의 황제는 그녀의 힘을 이용해서 마녀를 탄압하고, 약소국을 흡수했고, 마침내 그녀의 힘을 두려워한 나머지 그녀를 봉인의 사슬로 묶은 뒤 아무도 모르는 로일 왕궁의 지하에 가둬버렸다고 해.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>잘 알고 있군, 퍼시피카의 차녀여. 뭐 이래저래 각색되어있기는 하나 아마 전설의 내용은 대게 이 몸의 일화를 이야기로서 잘 풀어 놨겠지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>허나 오해하지 말거라. 나는 로일 왕국에 일절 원한을 가지고 있지 않아. 나는 오직 나만의 목적으로 움직이며, 지금은 목적은 저 SS의 요원들이 무사히 자취를 감출 수 있도록 그대들의 발을 묶는 것이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>허세 부리지 마십시오! 다른 근위병들 역시 저들의 수색에 나설 것입니다. 당신의 강함은 익히 들어왔으나 이 인원을 상대로 벗어날 수 있다고 생각하십니까?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>그대야말로 그 가녀린 외면 속에 책략들을 숨기고 있구나. 긴장 풀거라. 퍼시피카와 크로이츠, 그리고 근위병. 이 몸은 실로 유쾌하다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>봉인이 풀린 이상 더 이상의 제약은 없다. 자, 오너라, 어린 세대들이여! </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>퍼시피카 장녀의 인형은 이 몸에게 3회의 죽음의 쾌락을 안겨줬지. 그대들은 날 몇 번 죽일 수 있을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>잘 알고 있군, 퍼시피카의 차녀여. 뭐 이래저래 각색되어있기는 하나 아마 전설의 내용은 대게 이 몸의 일화를 이야기로서 잘 풀어 놨겠지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>허나 오해하지 말거라. 나는 로일 왕국에 일절 원한을 가지고 있지 않아. 나는 오직 나만의 목적으로 움직이며, 지금은 목적은 저 SS의 요원들이 무사히 자취를 감출 수 있도록 그대들의 발을 묶는 것이지.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>허세 부리지 마십시오! 다른 근위병들 역시 저들의 수색에 나설 것입니다. 당신의 강함은 익히 들어왔으나 이 인원을 상대로 벗어날 수 있다고 생각하십니까?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>그대야말로 그 가녀린 외면 속에 책략들을 숨기고 있구나. 긴장 풀거라. 퍼시피카와 크로이츠, 그리고 근위병. 이 몸은 실로 유쾌하다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>봉인이 풀린 이상 더 이상의 제약은 없다. 자, 오너라, 어린 세대들이여! </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>퍼시피카 장녀의 인형은 이 몸에게 3회의 죽음의 쾌락을 안겨줬지. 그대들은 날 몇 번 죽일 수 있을까?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -6874,13 +6874,13 @@
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>로일 왕궁 내부는 재상 폴트나의 결계 때문에 관측에 실패했지만 왕궁에서 가출한 황제를 번화가에서 포착에 완료 했습니다… 라고 에이트는 실적을 보고하며 자신있게 가슴을 폅니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>…별로 에이트는 무능하지 않습니다. 그 치트스러운 천 살 먹은 요물의 결계를 피해 대상을 관측하는 것은 당신이라도 불가능 한 일이라고 에이트는 제로에게 사과를 요구합니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>…임무에 대한 이야기로 돌아가서, 황제는 군것질 중으로 사료 됩니다만 상인의 분위기가 심상치 않습니다. 라고 에이트는 의문을 표합니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>…? 돈이 뭐느냐? 대가? 짐의 것을 짐이 먹으려는데 왜 대가가 필요하느냐?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>…? 돈이 뭐느냐? 대가? 짐의 것을 짐이 먹으려는데 왜 대가가 필요하느냐?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>상인은 물건을 사는 데에는 돈이 필요하고 아가씨는 돈을 내지 않았다고 호소 합니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>…그렇구나. 짐의 잘못이라는 거군. 짐은 배가 고프니라. 일단 먹을 테니 나중에 주겠노라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>…그렇구나. 짐의 잘못이라는 거군. 짐은 배가 고프니라. 일단 먹을 테니 나중에 주겠노라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>상인은 돈이 없다면 빨리 사라져라고 화를 냅니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>…후엣? 지금 짐에게 화 낸 것이냐? 내가 누군 지 알고 그러느냐!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>…후엣? 지금 짐에게 화 낸 것이냐? 내가 누군 지 알고 그러느냐!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>상인의 역정에 황제는 울먹이더니 되려 호통을 칩니다. …저 모습을 보니 지금 정사를 폴트나가 하고 있다는 데에 에이트는 조금 안심했습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>짐이 누구냐고? 어…짐은…짐은…? 그, 그렇다. 지나가던 평범한 레이디 이니라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>짐이 누구냐고? 어…짐은…짐은…? 그, 그렇다. 지나가던 평범한 레이디 이니라!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>황제는 결국 쫒겨난 모양 입니다. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
@@ -6890,21 +6890,21 @@
 <DUNGEON_TITLE_IMG>dungeon_title_092.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_092.png</DUNGEON_BG_IMG>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>풀이죽은 황제는 금새 기운을 차려 지나가던 금발의 영애에게 말을 겁니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>거기 지나가는 영애여.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>거기 지나가는 영애여.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>재색겸비, 문무양립. 이 모든 게 완벽한 시니아 퍼시피카를 어쩐 일로 부르시죠? 저는 이래뵈도 바쁜 몸이랍니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>시끄럽다, 호박.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>시끄럽다, 호박.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>호,호박?!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>짐은 배가 아주 고프노라. 빨리 짐에게 저기 노점상의 처음 보는 음식을 바치거라. 나중에 내 친히 공을 칭찬하도록 하지.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>짐은 배가 아주 고프노라. 빨리 짐에게 저기 노점상의 처음 보는 음식을 바치거라. 나중에 내 친히 공을 칭찬하도록 하지.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>세론, 저 무례한 꼬맹이가 저한테 무슨 말을 하는거죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>이래서 우매한 삼녀는 안된다는 거에요. 고작 어린 아이가 하는 말에 신경쓰시는 좁은 인품. 지극히 삼녀 다워요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>누가 어린 아이라는거냐, 짜리몽땅. 짐 쪽이 가슴도 크고 연상이노라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>누가 어린 아이라는거냐, 짜리몽땅. 짐 쪽이 가슴도 크고 연상이노라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>(울컥)</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>후….후후후후후…. 교육이 필요한 아이 같군요. 미카?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mika.png</NPC_IMG><NPC_NAME>미카</NPC_NAME><NPC_TEXT_1>Yes. 마스터. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>후에? 이, 이거 놓거라! 내가 누군지 알고…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>후에? 이, 이거 놓거라! 내가 누군지 알고…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mika.png</NPC_IMG><NPC_NAME>미카</NPC_NAME><NPC_TEXT_1>마스터께의 무례는 용서할 수 없습니다. 사과하시죠.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>젤리처럼 볼을 잡아당겨진 황제는 바둥바둥 몸부림 칩니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>이거 놓거라! 아프다! 아프니라! 내가 너희를 그리 보살폈더냐! 잘못했다! 잘못했노라! 뭔진 몰라도 잘못했어요! 후에엥!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>이거 놓거라! 아프다! 아프니라! 내가 너희를 그리 보살폈더냐! 잘못했다! 잘못했노라! 뭔진 몰라도 잘못했어요! 후에엥!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
 
 <FLOOR>
@@ -6917,11 +6917,11 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>에? 에엣? 어째서? 왜 이런 곳에?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>저도 영문을 모르겠는데 로제는 오죽할까요. 그녀는 공황상태에 빠졌습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>황제는 로제를 발견하자마자 미카를 뿌리치고 헤어진 부모를 본 마냥 안겼습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>흐에엥! 그대는 퍼시피카의 차녀가 아니더냐! 저 극악무도한 자들을 어떻게 해 보거라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>흐에엥! 그대는 퍼시피카의 차녀가 아니더냐! 저 극악무도한 자들을 어떻게 해 보거라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>이게 대체…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>아는 사람인가요, 언니?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>아, 시니아는 왕궁에 간 적이 없었지. 본 적이 없던가? 이 분은…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>쉿. 짐은 외출이 들켜선 안되니라. 아는 영애라고 하거라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>쉿. 짐은 외출이 들켜선 안되니라. 아는 영애라고 하거라.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>황제는 누구에게도 들리지 않게 로제에게 안긴 채로 작게 속삭였습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>네, 넵! 왕궁에서 알게 된 영애 분인데… 하하핫. 우리보다 높으신 분이란다, 시니아.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>저희 가문보다 높은 가문이 있던가요, 언니?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -6945,10 +6945,10 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>흘려들을 수 없는 이야기군요. 건방진 꼬맹이는 둘째치고 검을 노린다면 이야기는 별개죠. SS 인지 뭔지는 몰라도 검은 드릴 수 없어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_marime.png</NPC_IMG><NPC_NAME>마리메</NPC_NAME><NPC_TEXT_1>삼녀 치곤 웬일로 의견이 일치하는군요. 더 이상 눈앞에서 누군가 죽는 건 사무친단 말이죠. 공격은 맡기겠어요, 미카. 마음껏 날뛰세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>시니아! 마리메! 조심해, 그들은…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>한눈팔 시간은 없을텐데?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>한눈팔 시간은 없을텐데?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>크흣…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>사람을 물리는 결계를 쳤어도 시간은 없어요. 장녀의 인조인형 때처럼 느긋한 놀이는 삼가해주시겠어요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>이래뵈도 일단은 최선을 다하고 있는데 말이지. 그런 무리한 요구를 할테면 이 봉인의 사슬을 푸는 게 어떤가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>이래뵈도 일단은 최선을 다하고 있는데 말이지. 그런 무리한 요구를 할테면 이 봉인의 사슬을 푸는 게 어떤가?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>웃기지도 않는 농담은 마시죠, 식스. 그건 최후의 수단입니다. 메이드들은 맡겨도 되겠지, 포틴?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>SS 포틴 로시</NPC_IMG><NPC_NAME>SS 포틴 로시</NPC_NAME><NPC_TEXT_1>그 명령을 기다리고 있었어, 언니.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>텐은 공간의 마녀를 막아주시죠. 저래뵈도 크로이츠의 가주 입니다. 저는 삼녀의 검을 확보하겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -6968,7 +6968,7 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>cinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>더 이상의 논쟁은 무의미하군요. 이렇게 해방하던가요? 그 때의 감각을… 시간이여, 멈춰라….엘 문도…!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>이 때를 기다렸어! 식스! 당신의 차례에요!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>SS 포의 명령이 떨어지자 식스의 낫에서 형용할 수 없는 괴이한 기운이 뿜어져 나왔습니다. 그 기운에 순식간에 압도된 로제는 순간적으로 시니아를 향해 뛰쳐나간 식스를 막지 못했습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>퍼시피카의 삼녀여, 네 심장석은 아주 아름답구나. 역대 퍼시피카 중에서도 너처럼 붉은 심장석을 가진 자는 드물었지. 시니아 퍼시피카. 네 심장석, 받아가겠다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>퍼시피카의 삼녀여, 네 심장석은 아주 아름답구나. 역대 퍼시피카 중에서도 너처럼 붉은 심장석을 가진 자는 드물었지. 시니아 퍼시피카. 네 심장석, 받아가겠다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>위험하게 식스를 데려갔다 했더니 역시 저걸 노린 거였을까요. 식스를 막지 못한 차녀의 실수군요. 식스는 심장석과 탈렌티움을 집어삼키는 전설의 괴인이니까요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>식스가 휘두른 낫에 닿자, 실이 끊어진 것처럼 시니아와 심장석의 연결은 완전히 끊어졌습니다. 시니아의 붉은 심장석을 식스는 한 번에 집어 삼켰습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrose.png</NPC_IMG><NPC_NAME>로제</NPC_NAME><NPC_TEXT_1>시니아…! 정신차리렴! 시니아!!!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -6979,16 +6979,16 @@
 <DUNGEON_ICON_IMG>dungeon_icon_092.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_092.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_092.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>아와와… 폐하의 위치를 파악했습니다. 폐하… 불충한 소생 베디비를 용서하시옵소서!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>아와와… 폐하의 위치를 파악했습니다. 폐하… 불충한 소생 베디비를 용서하시옵소서!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>근위병 한 명이 황제의 위치를 파악한 모양입니다. 선대 시절부터 갓 태어난 황제를 지금까지 보살핀 창잡이 베디비인가요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>베비디는 통신기에 위치를 전송합니다. 곧 근위병들이 집결하겠군요. 이거, 아직 그녀뿐인 지금이라면 모르겠지만 솔직히 곧 지금 인원으로 위험해지지 않을까하고 에이트는 불안감에 휩싸입니다. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>아와와… 사람을 물리는 결계인가요? 번화가 한복판에 있기에는 굉장히 수상하군요. 에잇!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>아와와… 사람을 물리는 결계인가요? 번화가 한복판에 있기에는 굉장히 수상하군요. 에잇!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>베디비의 창이 결계를 가르자, 마리메에게 보호받는 황제의 모습이 보입니다. 금발의 소녀는 쓰러져 있고, 몇 번인가 안면이 있는 로제가 절박하게 그녀를 안고 있었습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>오오! 베디비 경이 아닌가! 후에엥… 무서웠노라! 짐을 구하러 와줬구나!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>아와와…! 폐하! 당신들은…? 퍼시피카와 크로이츠 가문의 사람들이군요. 안심하십시오. 제가 함께 근위병들이 올 때 까지 시간을 벌겠습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>악당들이여, 폐하를 위협한 그대들의 행위는 명백한 반역! 폐하를 지키는 창, 이 베디비가 그대들을 절대 놓치지 않겠다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Erika.png</NPC_IMG><NPC_NAME>에리카</NPC_NAME><NPC_TEXT_1>오오! 베디비 경이 아닌가! 후에엥… 무서웠노라! 짐을 구하러 와줬구나!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>아와와…! 폐하! 당신들은…? 퍼시피카와 크로이츠 가문의 사람들이군요. 안심하십시오. 제가 함께 근위병들이 올 때 까지 시간을 벌겠습니다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_Bedivere.png</NPC_IMG><NPC_NAME>로일 근위병 베디비</NPC_NAME><NPC_TEXT_1>악당들이여, 폐하를 위협한 그대들의 행위는 명백한 반역! 폐하를 지키는 창, 이 베디비가 그대들을 절대 놓치지 않겠다!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_four.png</NPC_IMG><NPC_NAME>SS 포 루시</NPC_NAME><NPC_TEXT_1>칫. 벌써 들킨 거야? 하나 정도면 몰라도 로일 왕국 제일의 근접형 탈렌티움 기사들, 근위병에게 둘러싸이는 건 사양하겠어. 할 수 없네요. 식스, 봉인을 풀겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>바라던 바다, 포. 이런 사슬 따위 없어도 '지금의' 난 너희들을 배신하지 않는다고 했거늘. 대가도 충분히 받았으니 특별히 날뛰어주마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_ss6.png</NPC_IMG><NPC_NAME>SS 식스 알케이데스</NPC_NAME><NPC_TEXT_1>바라던 바다, 포. 이런 사슬 따위 없어도 '지금의' 난 너희들을 배신하지 않는다고 했거늘. 대가도 충분히 받았으니 특별히 날뛰어주마.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>무슨 생각인가요, 포는? 설마 번화가 한복판에서 식스의 봉인을 풀다니…!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS 에이트</NPC_NAME><NPC_TEXT_1>……! 거울 안의 여파가 공간을 넘어서까지 덮쳐옵니다. 에이트는 이대로 죽기 싫으니 관찰을 끝내고 통신을 단절하도록 하겠습니다. 다시 이른 시일 내에 뵙죠, 제로.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>

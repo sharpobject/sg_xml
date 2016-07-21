@@ -4241,7 +4241,7 @@
 <CARD_SKILL><ID>2784</ID><NAME>계승되는 의지</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드이외 자신 필드 랜덤한 추종자 1을 자신 덱 맨밑으로 옮긴다.해당 카드의 증가한 공/체만큼 이 카드의 공/체 증가.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2785</ID><NAME>기사단의 유대</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 필드 카드 수가 상대 필드 카드 수보다 적을 경우,공격 추종자를 상대 덱 맨밑으로 옮긴다.그경우 상대 필드 카드 수 만큼 자신 덱 맨위 크룩스 소속 추종자의 공/체 +1.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2786</ID><NAME>약점공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 캐릭터가 크룩스 소속일경우, 방어 추종자의 방어력의 절대값만큼 방어 추종자의 방/체 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2787</ID><NAME>상하관계</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 사이즈 -1. 상대 라이프 -1. 공격 추종자의 사이즈가 이 카드의 사이즈 이하일 경우, 자신 필드 추종자 전체 공/체 +1/-2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2787</ID><NAME>상하관계</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 사이즈 -1. 상대 라이프 -1. 공격 추종자의 사이즈가 이 카드의 사이즈 이하일 경우, 자신 필드 추종자 전체 공/체 +1/+2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2788</ID><NAME>퇴근시간</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 이 카드의 특수능력이 1개일 경우, 이 카드는 제거된다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2789</ID><NAME>인첸트 흡수</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신과 상대 덱 강화수치가 1이상인 랜덤한 추종자 1의 강화수치 = 0. 감소된 추종자 수+1만큼 이 카드의 공/체 증가. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2790</ID><NAME>그노티 세아우톤</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 강화수치가 3이상인 랜덤한 추종자 1을 제거한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

@@ -4353,7 +4353,7 @@
 <CARD_SKILL><ID>2895</ID><NAME>솔라 이클립스</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 자신 핸드 첫 번째 카드 1을 자신 덱 맨밑으로 옮긴다.그경우,자신 셔플 수 +1.공격 추종자의 체력 -3.다크로어 소속이 아닌 카드를 옮겼을 경우,이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2896</ID><NAME>봉인</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 상대 필드 본래 특수능력이 아닌 랜덤한 추종자 1의 사이즈 +1.특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2897</ID><NAME>팔괘의 춤</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신과 소속이 같은, 자신 무덤 맨위의 스펠 1을 자신 필드 마지막 슬롯에 배치한다.이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>2898</ID><NAME>공간절단</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 공격력이 자신의 방/체 합보다 높을 경우, 이 카드와 방어 추종자를 파괴한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>2898</ID><NAME>공간절단</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 공격력이 자신의 방/체 합보다 높을 경우, 이 카드와 공격 추종자를 파괴한다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2899</ID><NAME>진정</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드가 행동종료 상태일 경우, 이 카드의 공격력은 본래 수치가 된다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2900</ID><NAME>꿈나라로…</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 덱 "시타"가 들어가는 랜덤한 추종자 1을 본래 특수능력을 얻는 특수능력으로 변경하여, 자신 필드 마지막 슬롯에 배치한다. 해당 추종자의 사이즈 -2.이 추종자를 자신덱 맨 밑으로 옮긴다.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>2901</ID><NAME>동조</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 공/방/체는 공격 추종자의 공/방/체 수치와 같아진다. 변경된 수치당 이 카드의 사이즈 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>

@@ -1239,4 +1239,5 @@
 <TALK_PATTERN><ID>f301470</ID><JOIN>어떠한 운명이 기다릴지라도!</JOIN><JOIN>정의는 지지 않아요!</JOIN><FALL_APART>세레스! 에리스! 세드나!</FALL_APART><FALL_APART>정의의 사도입니다!</FALL_APART><ATTACK>만개하여라, 생각하는대로!</ATTACK><COUNTER>이 순간 모든 것을 걸고!</COUNTER><DIRECT>뮤지시터 펀치!</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301471</ID><JOIN>퍼즐을 풀지 못하면 패배 뿐이야.</JOIN><JOIN>정의는 자신이 옳다고 믿는 것!</JOIN><FALL_APART>틀렸으면 사과하면 되는 거야.</FALL_APART><FALL_APART>인정해버리면 변명은 소용없어.</FALL_APART><ATTACK>당신은 구경꾼일 뿐이야.</ATTACK><COUNTER>제가 회장의 후계자에요.</COUNTER><DIRECT>둘이서라면 당신을…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301472</ID><JOIN>짐이 된다면 가차없이 버리겠어.</JOIN><JOIN>맹약이 끝난다면 바로…</JOIN><FALL_APART>더는 볼 일은 없다.</FALL_APART><FALL_APART>흥 이쪽이 할 말이야.</FALL_APART><ATTACK>내가 먼저 치겠어! 따라 와!</ATTACK><COUNTER>오직 수령님의 명령에만 따른다!</COUNTER><DIRECT>이 녀석은 내 몫이다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301486</ID><JOIN>여름의 더위가 싹 가시길…</JOIN><JOIN>여름 바다의 내음이 좋구나.</JOIN><FALL_APART>더위가 조금 사그라 들었지?</FALL_APART><FALL_APART>그대에게 내리는 은총이다.</FALL_APART><ATTACK>축복이 필요해?</ATTACK><COUNTER>여신은 언제나 그대와 함께있다.</COUNTER><DIRECT>이 더위도 곧 지나가겠지.</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

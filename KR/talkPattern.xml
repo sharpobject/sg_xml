@@ -1240,4 +1240,12 @@
 <TALK_PATTERN><ID>f301471</ID><JOIN>퍼즐을 풀지 못하면 패배 뿐이야.</JOIN><JOIN>정의는 자신이 옳다고 믿는 것!</JOIN><FALL_APART>틀렸으면 사과하면 되는 거야.</FALL_APART><FALL_APART>인정해버리면 변명은 소용없어.</FALL_APART><ATTACK>당신은 구경꾼일 뿐이야.</ATTACK><COUNTER>제가 회장의 후계자에요.</COUNTER><DIRECT>둘이서라면 당신을…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301472</ID><JOIN>짐이 된다면 가차없이 버리겠어.</JOIN><JOIN>맹약이 끝난다면 바로…</JOIN><FALL_APART>더는 볼 일은 없다.</FALL_APART><FALL_APART>흥 이쪽이 할 말이야.</FALL_APART><ATTACK>내가 먼저 치겠어! 따라 와!</ATTACK><COUNTER>오직 수령님의 명령에만 따른다!</COUNTER><DIRECT>이 녀석은 내 몫이다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301486</ID><JOIN>여름의 더위가 싹 가시길…</JOIN><JOIN>여름 바다의 내음이 좋구나.</JOIN><FALL_APART>더위가 조금 사그라 들었지?</FALL_APART><FALL_APART>그대에게 내리는 은총이다.</FALL_APART><ATTACK>축복이 필요해?</ATTACK><COUNTER>여신은 언제나 그대와 함께있다.</COUNTER><DIRECT>이 더위도 곧 지나가겠지.</DIRECT></TALK_PATTERN>
+
+
+<TALK_PATTERN><ID>f301491</ID><JOIN>어째서 지금 말해주는거에요!</JOIN><JOIN>캔디라면 저를 찾아오셨어야죠!</JOIN><FALL_APART>벌써 끝나다니…</FALL_APART><FALL_APART>아직 다 못 즐겼어요!</FALL_APART><ATTACK>에잇! 그 캔디는 제꺼에요!</ATTACK><COUNTER>캔디가 더 필요해요.</COUNTER><DIRECT>축제는 이제부터에요.</DIRECT></TALK_PATTERN>
+
+
+
+
+
 </TALK_PATTERN_DATA>

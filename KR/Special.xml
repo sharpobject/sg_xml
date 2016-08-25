@@ -3,7 +3,7 @@
 
 <ALBUM>
 <ID>31_2</ID>
-<NAME><![CDATA[게임룰:EX, 시즌 2,4,무소속 사용 불가, 이벤트 카드 3매까지 사용 가능, 강화0고정]]></NAME>
+<NAME><![CDATA[게임룰:EX, 시즌 2,4,무소속 카드 사용 불가, 이벤트 카드 3매까지 사용 가능, 강화0고정]]></NAME>
 <IMAGE_FILE>Ladder31_2.png</IMAGE_FILE>
 <TITLE_CARD>100039</TITLE_CARD>
 <CARD_NO>100039</CARD_NO>
@@ -41,7 +41,7 @@
 
 <ALBUM>
 <ID>31_1</ID>
-<NAME><![CDATA[게임룰:EX, 시즌 2,4,무소속 사용 불가, 이벤트 카드 3매까지 사용 가능, 강화0고정]]></NAME>
+<NAME><![CDATA[게임룰:EX, 시즌 2,4,무소속 카드 사용 불가, 이벤트 카드 3매까지 사용 가능, 강화0고정]]></NAME>
 <IMAGE_FILE>Ladder31_1.png</IMAGE_FILE>
 <TITLE_CARD>100430</TITLE_CARD>
 <CARD_NO>100430</CARD_NO>
@@ -51,7 +51,7 @@
 <CARD_NO>300745</CARD_NO>
 <CARD_NO>300798</CARD_NO>
 <CARD_NO>300830</CARD_NO>
-<CARD_NO>300843</CARD_NO>
+<CARD_NO>300855</CARD_NO>
 <CARD_NO>300932</CARD_NO>
 <CARD_NO>301058</CARD_NO>
 <CARD_NO>301154</CARD_NO>

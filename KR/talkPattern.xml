@@ -513,6 +513,11 @@
 <TALK_PATTERN><ID>c100523</ID><JOIN>모두의 아이돌 레이나 등장!</JOIN><JOIN>레이나가 함께할게요~</JOIN><FALL_APART>앵콜은 언제든지 환영이에요!</FALL_APART><FALL_APART>제 노래는 모두를 행복하게…</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>c100524</ID><JOIN>내 목숨은 레어라고?</JOIN><JOIN>목숨 하나당 네놈들 목숨 두 개.</JOIN><FALL_APART>흥 쓸데없이 목숨을 낭비했군.</FALL_APART><FALL_APART>의뢰완료. 불만은 없지?</FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
 
+
+
+
+
+
 <TALK_PATTERN><ID>f300014</ID><JOIN>누구죠? 교칙위반은?</JOIN><JOIN>교내 치안을 위해서!</JOIN><FALL_APART>오늘의 일과는 이걸로 끝?</FALL_APART><FALL_APART>필요하면 언제든 불러줘요</FALL_APART><ATTACK>벌점 10점!</ATTACK><COUNTER>나를 누구라고 생각하나요?</COUNTER><DIRECT>복장이 불량하군요.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300034</ID><JOIN>주인님, 무슨일인가요?</JOIN><JOIN>불러주셔서 기뻐요 주인님</JOIN><FALL_APART>다른 일은 없으신가요?</FALL_APART><FALL_APART>물러가겠습니다, 주인님</FALL_APART><ATTACK>회심의 빗자루!</ATTACK><COUNTER>더럽히면 안되요!</COUNTER><DIRECT>더러운 곳은 이곳인가요?</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f300052</ID><JOIN>실로 흥미로운 일이군요</JOIN><JOIN>제가 직접 확인해야겠죠?</JOIN><FALL_APART>다음엔 더 재밌게 해줘요</FALL_APART><FALL_APART>고마워요 좋은 자료가 됐어</FALL_APART><ATTACK>신의 의지이거늘</ATTACK><COUNTER>신에게 거역하겠다는건가</COUNTER><DIRECT>한심한 방어로군.</DIRECT></TALK_PATTERN>
@@ -1240,12 +1245,16 @@
 <TALK_PATTERN><ID>f301471</ID><JOIN>퍼즐을 풀지 못하면 패배 뿐이야.</JOIN><JOIN>정의는 자신이 옳다고 믿는 것!</JOIN><FALL_APART>틀렸으면 사과하면 되는 거야.</FALL_APART><FALL_APART>인정해버리면 변명은 소용없어.</FALL_APART><ATTACK>당신은 구경꾼일 뿐이야.</ATTACK><COUNTER>제가 회장의 후계자에요.</COUNTER><DIRECT>둘이서라면 당신을…</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301472</ID><JOIN>짐이 된다면 가차없이 버리겠어.</JOIN><JOIN>맹약이 끝난다면 바로…</JOIN><FALL_APART>더는 볼 일은 없다.</FALL_APART><FALL_APART>흥 이쪽이 할 말이야.</FALL_APART><ATTACK>내가 먼저 치겠어! 따라 와!</ATTACK><COUNTER>오직 수령님의 명령에만 따른다!</COUNTER><DIRECT>이 녀석은 내 몫이다.</DIRECT></TALK_PATTERN>
 <TALK_PATTERN><ID>f301486</ID><JOIN>여름의 더위가 싹 가시길…</JOIN><JOIN>여름 바다의 내음이 좋구나.</JOIN><FALL_APART>더위가 조금 사그라 들었지?</FALL_APART><FALL_APART>그대에게 내리는 은총이다.</FALL_APART><ATTACK>축복이 필요해?</ATTACK><COUNTER>여신은 언제나 그대와 함께있다.</COUNTER><DIRECT>이 더위도 곧 지나가겠지.</DIRECT></TALK_PATTERN>
-
-
-<TALK_PATTERN><ID>f301491</ID><JOIN>어째서 지금 말해주는거에요!</JOIN><JOIN>캔디라면 저를 찾아오셨어야죠!</JOIN><FALL_APART>벌써 끝나다니…</FALL_APART><FALL_APART>아직 다 못 즐겼어요!</FALL_APART><ATTACK>에잇! 그 캔디는 제꺼에요!</ATTACK><COUNTER>캔디가 더 필요해요.</COUNTER><DIRECT>축제는 이제부터에요.</DIRECT></TALK_PATTERN>
-
-
-
-
-
+<TALK_PATTERN><ID>f301488</ID><JOIN>쉬지말고 일하세요! 일!</JOIN><JOIN>정말…제가 없으면 안되는데.</JOIN><FALL_APART>잠깐! 그건 거기가 아니에요!</FALL_APART><FALL_APART>다들 힘내는 겁니다!</FALL_APART><ATTACK>똑바로 못하나요?</ATTACK><COUNTER>방해하지 마세요.</COUNTER><DIRECT>이런것도 도와줘야 하나요?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301489</ID><JOIN>Chear UP! 좀 더 힘 내세요!</JOIN><JOIN>더운날씨에 고생 하셨어요.</JOIN><FALL_APART>자 여기 선물~♡</FALL_APART><FALL_APART>여기까지 푸시면, 선물을 드릴게요.</FALL_APART><ATTACK>자 시원한 음료수 한 잔!</ATTACK><COUNTER>덥다고 축 처져 있으면 안 돼요.</COUNTER><DIRECT>이젠 힘이 나시나요?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301491</ID><JOIN>저... 힘내겠습니다!</JOIN><JOIN>이 정도 상처쯤 괜찮아요!</JOIN><FALL_APART>오늘도 영광스런 상처가…</FALL_APART><FALL_APART>맡겨주세요! </FALL_APART><ATTACK>꺅! 접시가…</ATTACK><COUNTER>찻잔이…!</COUNTER><DIRECT>또 깨뜨려버렸어요…</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301492</ID><JOIN></JOIN><JOIN></JOIN><FALL_APART></FALL_APART><FALL_APART></FALL_APART><ATTACK></ATTACK><COUNTER></COUNTER><DIRECT></DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301494</ID><JOIN>저희 도움이 필요하시군요.</JOIN><JOIN>후회하실겁니다.</JOIN><FALL_APART>다음에 다시뵙죠.</FALL_APART><FALL_APART>믿어주세요.</FALL_APART><ATTACK>핀테일 갑니다!</ATTACK><COUNTER>감히!</COUNTER><DIRECT>각오!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301495</ID><JOIN>아직도 주무시는 겁니까?</JOIN><JOIN>휴가 끝났습니다.</JOIN><FALL_APART>이래선 행보관님께 혼납니다.</FALL_APART><FALL_APART>아침점호 10분전 입니다.</FALL_APART><ATTACK>집합입니다.</ATTACK><COUNTER>행보관님이 찾으십니다.</COUNTER><DIRECT>어디 숨을 생각 하지 말라고 하십니다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301497</ID><JOIN>내가 움직여야 할 일인가?</JOIN><JOIN>이젠 내가 없어도 되겠나?</JOIN><FALL_APART>하찮은 일은 사양하겠다</FALL_APART><FALL_APART>힘을 빌려줄테니 감사해라</FALL_APART><ATTACK>당주의 명을 거역하는건가</ATTACK><COUNTER>지루한 공격이군</COUNTER><DIRECT>나의 힘은 절대적이다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301498</ID><JOIN>응? 나인가?</JOIN><JOIN>나중에 보자.</JOIN><FALL_APART>이대로 자는것도 좋겠지.</FALL_APART><FALL_APART>알겠다</FALL_APART><ATTACK>얕보지 마!</ATTACK><COUNTER>겨우 이정도?</COUNTER><DIRECT>너무 안일한걸?</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301499</ID><JOIN>학기 초부터 교칙 위반인가요?</JOIN><JOIN>등교시간 끝!</JOIN><FALL_APART>그럼 지각생을 잡아볼까요?</FALL_APART><FALL_APART>방학 동안 무슨 일이 있었던거람…</FALL_APART><ATTACK>개학부터 지각이야?</ATTACK><COUNTER>거기! 월담 금지! 정문을 이용해!</COUNTER><DIRECT>거기! 학급 봉사 10시간!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301500</ID><JOIN>가레스의 언니 입니다.</JOIN><JOIN>서둘러 왕궁 의료실로!</JOIN><FALL_APART>부상을 입으셨나요?</FALL_APART><FALL_APART>가레스가 실례하진 않았나요?</FALL_APART><ATTACK>방패라도 공격할 수 있어요!</ATTACK><COUNTER>이 정도로 공격쯤은!</COUNTER><DIRECT>빈틈 투성이군요!</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301501</ID><JOIN>2석 가브리엘라 입니다.</JOIN><JOIN>발언은 허락하지 않아요.</JOIN><FALL_APART>배신자가 있다고 합니다.</FALL_APART><FALL_APART>추기경 회의 말입니까?</FALL_APART><ATTACK>성흔 필립이여, 힘을!</ATTACK><COUNTER>얼음의 화살이여!</COUNTER><DIRECT>교황님의 적은 단죄합니다.</DIRECT></TALK_PATTERN>
+<TALK_PATTERN><ID>f301502</ID><JOIN>코넌드럼 저흰 쓸모 없지 않아요.</JOIN><JOIN>아셨죠? 코넌드럼.</JOIN><FALL_APART>밤의 시간이 훨씬 유익하답니다.</FALL_APART><FALL_APART>낮은 위험하답니다.</FALL_APART><ATTACK>낮에 돌아다니지 못하는 흡혈귀는…</ATTACK><COUNTER>팝콘… 아니 실컷 자 두면 된답니다.</COUNTER><DIRECT>쓸모없지 않아요.</DIRECT></TALK_PATTERN>
 </TALK_PATTERN_DATA>

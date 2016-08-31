@@ -4540,15 +4540,15 @@
 <CARD_SKILL><ID>3035</ID><NAME>자연의 소리</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 방어 추종자의 방/체합이 이 카드의 공격력보다 낮을 경우, 방어 추종자의 사이즈 +2.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>3036</ID><NAME>소라의 고동</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 공격 추종자의 공격력이 본래 수치에서 증가하였을 경우, 공격 추종자의 공/체 -3.</span>]]></TEXT></CARD_SKILL>
 <CARD_SKILL><ID>3037</ID><NAME>한 번더!</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방/체 합이 공격 추종자의 공격력보다 낮을 경우, 이 카드의 공/체와 공격 추종자의 공/체를 교환한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3038</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드 방어력의 두배 만큼,방어 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3039</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력이 3이상일 경우,이 카드를 파괴후,자신 무덤 랜덤한 공립 소속 스펠 1을 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3040</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드 방/체합이 공격 추종자의 공격력 보다 낮을 경우,이 카드의 사이즈 -1.방어력 +1.체력은 본래 수치가 된다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3041</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 사립 소속 추종자 수 만큼, 이 카드의 공/체 증가. 방어 추종자의 사이즈가 4이하일 경우, 방어 추종자의 공/체 -2.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3042</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 스펠 카드가 없을 경우, 자신 핸드 랜덤한 사립 소속 스펠 카드 1의 사이즈 =1. 로 하여, 자신 필드 첫 번째 빈 슬롯에 배치한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3043</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 핸드/필드 크룩스 소속 추종자 전체 사이즈 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3044</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 첫 번째 크룩스 소속 추종자 공격력의 절반(내림)만큼, 이 카드의 공/체 증가.(최대 3)</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3045</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력이 방어 추종자의 방/체합보다 높을 경우, 상대 라이프 -1, 방어 추종자를 제거한다.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3046</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 다크로어 소속 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3047</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 “스카델”,“크레센트”,“플리나”가 들어가는 카드 수 절반(올림)만큼,상대 필드 추종자 전체 체력 감소.</span>]]></TEXT></CARD_SKILL>
-<CARD_SKILL><ID>3048</ID><NAME></NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력은 자신 핸드 “스카델”,“크레센트”,“플리나”가 들어가는 카드 전체 공격력 합의 절반(내림)이 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3038</ID><NAME>교칙준수</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드 방어력의 두배 만큼,방어 추종자의 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3039</ID><NAME>지각생단속</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드의 방어력이 3이상일 경우,이 카드를 파괴후,자신 무덤 랜덤한 공립 소속 스펠 1을 자신 필드 마지막 슬롯에 배치한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3040</ID><NAME>꺾이지 않는 의지</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 이 카드 방/체합이 공격 추종자의 공격력 보다 낮을 경우,이 카드의 사이즈 -1.방어력 +1.체력은 본래 수치가 된다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3041</ID><NAME>능력비교</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 사립 소속 추종자 수 만큼, 이 카드의 공/체 증가. 방어 추종자의 사이즈가 4이하일 경우, 방어 추종자의 공/체 -2.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3042</ID><NAME>슬로우스타터</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶방어전: 상대 필드 스펠 카드가 없을 경우, 자신 핸드 랜덤한 사립 소속 스펠 카드 1의 사이즈 =1. 로 하여, 자신 필드 첫 번째 빈 슬롯에 배치한다. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3043</ID><NAME>미사의 시작</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶턴개시시: 자신 핸드/필드 크룩스 소속 추종자 전체 사이즈 -1. 이 특수능력은 사라진다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3044</ID><NAME>단결된 마음</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 필드 첫 번째 크룩스 소속 추종자 공격력의 절반(내림)만큼, 이 카드의 공/체 증가.(최대 3)</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3045</ID><NAME>여신의 혜안</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력이 방어 추종자의 방/체합보다 높을 경우, 상대 라이프 -1, 방어 추종자를 제거한다.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3046</ID><NAME>관람준비</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 다크로어 소속 추종자 전체 공/체 +1.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3047</ID><NAME>팝콘공격</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 자신 핸드 “스카델”,“크레센트”,“플리나”가 들어가는 카드 수 절반(올림)만큼,상대 필드 추종자 전체 체력 감소.</span>]]></TEXT></CARD_SKILL>
+<CARD_SKILL><ID>3048</ID><NAME>가치의 증명</NAME><TEXT><![CDATA[<span fontWeight='bold'>▶공격전: 이 카드의 공격력은 자신 핸드 “스카델”,“크레센트”,“플리나”가 들어가는 카드 전체 공격력 합의 절반(내림)이 된다.</span>]]></TEXT></CARD_SKILL>
 </CARD_SKILL_DATA>

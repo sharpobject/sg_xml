@@ -246,6 +246,15 @@
 <CASH_ITEM> <ID>Item266</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>사립 초보자 패키지</NAME> <ICON_FILE>item_266.png</ICON_FILE> <PRICE>19800</PRICE> <TEXT>초보자 유저를 위한 사립 패키지 입니다.|가면무도회의 놀드 + 다이버 핀테일 +|지능개발 + 적색광석 300매를 획득 합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item267</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>크룩스 초보자 패키지</NAME> <ICON_FILE>item_267.png</ICON_FILE> <PRICE>19800</PRICE> <TEXT>초보자 유저를 위한 크룩스 패키지 입니다.|가면무도회의 시그마 + 다이버 핀테일 +|지능개발 + 청색광석 300매를 획득 합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Item268</ID> <ITEM_TYPE>SingleCard</ITEM_TYPE> <NAME>다크로어 초보자 패키지</NAME> <ICON_FILE>item_268.png</ICON_FILE> <PRICE>19800</PRICE> <TEXT>초보자 유저를 위한 다크로어 패키지 입니다.|가면무도회의 앤즈 + 다이버 핀테일 +|지능개발 + 흑색광석 300매를 획득 합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item273</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>시타</NAME> <ICON_FILE>item_273.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>시타의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item274</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>시니아</NAME> <ICON_FILE>item_274.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>시니아의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item275</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>루티카</NAME> <ICON_FILE>item_275.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>루티카의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item276</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>아이리</NAME> <ICON_FILE>item_276.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>아이리의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item277</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>검과 소녀들의 이야기</NAME> <ICON_FILE>item_277.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>검과 소녀들의 이야기의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item278</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>휴양</NAME> <ICON_FILE>item_278.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>휴양의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item279</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>삶의 찬미가</NAME> <ICON_FILE>item_279.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>삶의 찬미가의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item280</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>고백의 아이리</NAME> <ICON_FILE>item_280.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>고백의 아이리의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Item281</ID> <ITEM_TYPE>CardBackground</ITEM_TYPE> <NAME>축하합니다!</NAME> <ICON_FILE>item_281.png</ICON_FILE> <PRICE>4000</PRICE> <TEXT>축하합니다!의 |뒷면 이미지를 구매합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat019</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>포켓볼의 레이나</NAME> <ICON_FILE>gamebg_mat_019</ICON_FILE> <PRICE>5000</PRICE> <TEXT>포켓볼의 레이나의 매트를 구매합니다.|게임배경을 포켓볼의 레이나로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat020</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>로제 퍼시피카</NAME> <ICON_FILE>gamebg_mat_020</ICON_FILE> <PRICE>5000</PRICE> <TEXT>로제 퍼시피카의 매트를 구매합니다.|게임배경을 로제 퍼시피카로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat021</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>기사단의 프렛</NAME> <ICON_FILE>gamebg_mat_021</ICON_FILE> <PRICE>5000</PRICE> <TEXT>기사단의 프렛의 매트를 구매합니다.|게임배경을 기사단의 프렛로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
@@ -280,5 +289,11 @@
 <CASH_ITEM> <ID>Mat046</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>사립 5주년 기념 매트</NAME> <ICON_FILE>gamebg_mat_046</ICON_FILE> <PRICE>5000</PRICE> <TEXT>사립 5주년 기념 매트를 구매합니다.|게임배경을 구매한 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat047</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>크룩스 5주년 기념 매트</NAME> <ICON_FILE>gamebg_mat_047</ICON_FILE> <PRICE>5000</PRICE> <TEXT>크룩스 5주년 기념 매트를 구매합니다.|게임배경을 구매한 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 <CASH_ITEM> <ID>Mat048</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>다크로어 5주년 기념 매트</NAME> <ICON_FILE>gamebg_mat_048</ICON_FILE> <PRICE>5000</PRICE> <TEXT>다크로어 5주년 기념 매트를 구매합니다.|게임배경을 구매한 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat049</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>검과 소녀들의 이야기</NAME> <ICON_FILE>gamebg_mat_049</ICON_FILE> <PRICE>5000</PRICE> <TEXT>검과 소녀들의 이야기의 매트를 구매합니다.|게임배경을 질문로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat050</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>휴양</NAME> <ICON_FILE>gamebg_mat_050</ICON_FILE> <PRICE>5000</PRICE> <TEXT>휴양의 매트를 구매합니다.|게임배경을 최후의 목격자로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat051</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>삶의 찬미가</NAME> <ICON_FILE>gamebg_mat_051</ICON_FILE> <PRICE>5000</PRICE> <TEXT>삶의 찬미가의 매트를 구매합니다.|게임배경을 공립 5주년 기념 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat052</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>고백의 아이리</NAME> <ICON_FILE>gamebg_mat_052</ICON_FILE> <PRICE>5000</PRICE> <TEXT>고백의 아이리의 매트를 구매합니다.|게임배경을 사립 5주년 기념 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat053</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>축하합니다!</NAME> <ICON_FILE>gamebg_mat_053</ICON_FILE> <PRICE>5000</PRICE> <TEXT>축하합니다!의 매트를 구매합니다.|게임배경을 크룩스 5주년 기념 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
+<CASH_ITEM> <ID>Mat054</ID> <ITEM_TYPE>FieldBackground</ITEM_TYPE> <NAME>코크스와 글라시에</NAME> <ICON_FILE>gamebg_mat_054</ICON_FILE> <PRICE>5000</PRICE> <TEXT>코크스와 글라시에의 매트를 구매합니다.|게임배경을 다크로어 5주년 기념 매트로 변경합니다.|구매 후 환불이 불가능합니다.</TEXT> </CASH_ITEM>
 
 </CASH_ITEM_DATA>

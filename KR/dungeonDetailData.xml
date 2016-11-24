@@ -3529,113 +3529,6 @@
 
 
 <DUNGEON_DETAIL>
-<ID>98</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>1</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_normal.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 백색광석, 호박 포인트|특징 : 유저의 덱 등급에 따라 난이도가 변화합니다.</TOOL_TIP_TEXT>
-
-<FLOOR>
-<FLOOR_ID>0</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_098.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_098.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_098.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>흠냐… 모두 이 리온님을 공경하는 거야! 흠냐….</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>아앗…! 치사해, 리오온…흠냐…zzz</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>… 오는 길에 사탕 사 오라더니 잘 자고 있군.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_op.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>그래도 평소처럼 사고 치는 것보다는 낫지 않나요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3> </NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_op.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>분명 외로웠던 걸 거예요. 작년이랑 달리 이곳 식구도 꽤 줄었으니까요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>그렇다고 방치할 수도 없는 노릇이니까 말이야. 넌 후회하지 않아? 그쪽에서 할 일이 있었잖아.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_op.png</NPC_IMG><NPC_NAME>오필리어</NPC_NAME><NPC_TEXT_1>물론 그렇지만 지금은 이걸로 좋다고 생각해요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>녀석들은 호박호박이라고 명명한 호박을 안고 자고 있다. 호박 안에는 사탕이 들어있었고 각자 전달할 이름표가 붙어 있다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>ㅡ시타의 사탕 ㅡ</NPC_NAME><NPC_TEXT_1>이 사탕이 어째선지 제일 크다. </NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>ㅡ시니아의 사탕ㅡ</NPC_NAME><NPC_TEXT_1>보기만 해도 달아 보이는 새빨간 딸기 사탕이다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>ㅡ루티카의 사탕ㅡ</NPC_NAME><NPC_TEXT_1>웬일로 평범한 사탕인가 했더니 추신이 적혀있다. 추신: 손으로 잡지 말고 가슴에 끼워 먹을 것!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>ㅡ아이리의 사탕ㅡ</NPC_NAME><NPC_TEXT_1>눈 쪽에 초코 시럽 안대가 발라진 토끼 모양 사탕이다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>저렇게 보여도 200년이 넘는 시간을 살아온 녀석들이다. 전할 수 없다는 것은 알 테지만 지금은 생각한다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>무슨 꿈을 꾸고 있는지는 모르겠지만 이런 세계도 있을 수 있지 않을까?라고.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>ㅡ이스프릿의 수첩에서 발췌ㅡ</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>1</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_098.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_098.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_098.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>때는 어느 해의 할로윈. 있었을지도 모르는 다른 세계의 이야기다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>trick or treat!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>해피 할로윈이에요,여러분.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresscinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>…그래서 왜 저희까지 모인 거죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……지이…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_isprit.png</NPC_IMG><NPC_NAME>이스프릿</NPC_NAME><NPC_TEXT_1>미안. 아이리. 갑자기 사무소에 급한 용무가 들어와서 말이야. 리오랑 같이 나갔다 올 테니 그때까지 저 꼬맹이들 잘 감시하고 있어.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressiri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>라고 현자가 말씀하셨다. 미안하지만 시온님과 리온님은 나로선 역부족이라…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>무슨 소리야, 아이리. 그렇게 말하면 마치 우리가 평소에 괴롭힌 것 같잖아! 그치~시온?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>맞아, 맞아! 사무소 생태계의 정점이 사라져서 우린 아주 조~금 들떴을 뿐이라고. 그럴게, 오늘은 우리들의 날! 해피 할로윈이라니까!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressluthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>뭐, 어떻게 됐든 평행세계의 일이라지만 저희가 이렇게 모이는 일은 흔치 않으니까요…랄까 저는 최근에 나오는 일 자체가 흔치 않아요! 흑흑흑….</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>스스로 지뢰를 밟는 건 그만둬, 루티카!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>맞아! 원래 주인공은 나중에 등장하는 법이니까 곧 비중을 되찾을 수 있을 거야!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressluthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>시온…! 리온…!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…지이…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>앗…! 잠깐! 안돼, 시타! 이 호박호박은 이번 할로윈 파티의 중요한 아이템이라구!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……호박?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>호박 아냐, 호박호박이지!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>2</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_098.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_098.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_098.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresscinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>그래서 이 호박…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>찌릿</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresscinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>흠.흠. 이 호박호박은 어디에 쓰는 물건이죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>잘 물었어, 시니아! 역시 재색겸비라고 할 수 있겠어!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>이 호박호박은 말이지, 음…사실 나도 잘 몰라. 리온이 가져왔거든!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>역시 시온은 내가 없으면 안 된다니까! 이 호박호박은 할로윈에만 쓸 수 있는 신비한 아티팩트라고.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>3</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_098.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_098.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_098.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>리온이 호박호박을 뒤적거리더니 기묘한 할로윈 코스튬을 꺼낸다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressiri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>…아니, 아니. 누가 봐도 평범한 과자 상잔데 어디서 그런 옷이 튀어 나오는거죠?!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>…… trick or treat?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressiri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>벌써 입었어?!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>눈치가 빠른 착한 시타에게는 호박 사탕을 증정합니다!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>냠…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>자, 모두들 일단 이 할로윈 코스튬을 입고 할로윈을 즐기는 거야!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressluthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>이, 이 옷 조금 작지 않나요?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>삐빅! 정상입니다!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresscinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>흥. 붉은색은 마음에 드는군요, 특별히 입어드리겠어요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME></NPC_NAME><NPC_TEXT_1>소녀들은 저마다 코스튬을 입어보며 들뜨기 시작했다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-<FLOOR>
-<FLOOR_ID>4</FLOOR_ID>
-<DUNGEON_ICON_IMG>dungeon_icon_098.png</DUNGEON_ICON_IMG>
-<DUNGEON_TITLE_IMG>dungeon_title_098.png</DUNGEON_TITLE_IMG>
-<DUNGEON_BG_IMG>dungeon_lobby_098.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>자, 이제 게임을 시작할 거야. 호박호박이 준 다양한 미션을 우리들이랑 같이 클리어 하는 거지!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>할로윈 옷을 입고 클리어 하면 보상도 두 배라는 거, 잊지 말라구!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>참고로, 팁을 주자면, 이미 알겠지만 언니들의 덱에 따라 우리의 덱도 변한다는 걸 잊지 말아줘!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressluthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>그런데 이 색이 다른 종이에 쓰여진 미션은 뭐죠?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>그건 바로 스페셜 퀘스트! 이 특별한 퀘스트를 전부 클리어하면 굉장한 걸 받을 수 있어!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>그래도 스페셜 퀘스트를 깰 수 없다고 실망할 필요는 없어! 할로윈은 우리의 날! 즉 우리의 마음대로! 우리랑 놀아주다 보면 우리가 몰래 퀘스트 패스권을 줄지도!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>물론 스페셜 퀘스트뿐만 아니라 우리랑 오래오래 놀아주면 호박호박에서 다양한 재료를 가져갈 수 있어!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressiri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>그래도 올해는 다 같이 즐길 수 있어서 다행이네요. 작년엔 저 혼자 호박호박의 내용물을 구하러…읍</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>아하하핫. 무슨 소릴까 아이리는!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>기업 비밀을 발설하는 나쁜 아이가 되면 안 되지!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dresssion.png</NPC_IMG><NPC_NAME>시온 플리나</NPC_NAME><NPC_TEXT_1>룰에 대한 설명은 끝났어. 이제 그럼 다 함께 파티를 시작해 볼까?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>dressrion.png</NPC_IMG><NPC_NAME>리온 플리나</NPC_NAME><NPC_TEXT_1>그럼 올해도 다 같이!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresssita.png</NPC_IMG><NPC_NAME>시타</NPC_NAME><NPC_TEXT_1>……해피</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dresscinia.png</NPC_IMG><NPC_NAME>시니아</NPC_NAME><NPC_TEXT_1>할로윈~♡</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressluthica.png</NPC_IMG><NPC_NAME>루티카</NPC_NAME><NPC_TEXT_1>데이!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>dressiri.png</NPC_IMG><NPC_NAME>아이리</NPC_NAME><NPC_TEXT_1>trick or treat!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-</FLOOR>
-
-</DUNGEON_DETAIL>
-
-
-<DUNGEON_DETAIL>
 <ID>27</ID><DIFFICULTY>4</DIFFICULTY><DUNGEON_TYPE>4</DUNGEON_TYPE><SEASON>0</SEASON><TOOL_TIP_ICON>dungeon_tooltip_story.png</TOOL_TIP_ICON><TOOL_TIP_TEXT>던전 보상 : 흑사자의 발톱, 금빛/은빛/구리빛 탈렌티움|특징 : 오픈시간동안 얼마든지 재도전이 가능합니다.(오픈:매주 금요일 22시~23시 59분) (카드포인트 1000이상 도전가능)</TOOL_TIP_TEXT>
 
 <FLOOR>
@@ -7357,7 +7250,7 @@
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>...미카가 아직 보이지 않네요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>사적인 자리가 아니다, 3석! 1석을 미카라고 부르는 것은 자제하도록.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>네에~네에~4석님.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>미카엘라님은 교황님 직명으로 11석과 12석 주교님들을 동반하여 교국을 탈출한 뇌랑을 붙잡으러 갔습니다. 귀환을 응하지 않을 시 배제하라고 하셨습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>미카엘라님은 교황님 직명으로 11석과 12석 주교님들을 동반하여 교국을 탈출한 뇌랑을 붙잡으러 갔습니다. 귀환을 응하지 않을 시 배제하라고 하셨습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>뇌랑을? 뭐, 그녀의 힘은 무시할 수 없지만 미카엘라라면 걱정하지 않아도 되겠군요. 알겠습니다. 회의를 시작하죠.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>지금부터 주교 8석 아우디레의 이단죄 혐의에 대한 추기경 회의를 시작한다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>참석자는 나 우리엘라를 포함한 추기경3인과 혐의를 받은 8석 아우디레. 이하 4인으로 한다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -7379,23 +7272,23 @@
 <DUNGEON_ICON_IMG>dungeon_icon_099.png</DUNGEON_ICON_IMG>
 <DUNGEON_TITLE_IMG>dungeon_title_099.png</DUNGEON_TITLE_IMG>
 <DUNGEON_BG_IMG>dungeon_lobby_099.png</DUNGEON_BG_IMG>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>우리엘라님은 정말 돌려말하기를 좋아하는군요. 아니면 일부러인가요? 저는 중립적인 입장이지만 이 정도로 노골적으로 힌트를 계속 준다면 간섭할 수 밖에 없겠네요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>우리엘라님은 정말 돌려말하기를 좋아하는군요. 아니면 일부러인가요? 저는 중립적인 입장이지만 이 정도로 노골적으로 힌트를 계속 준다면 간섭할 수 밖에 없겠네요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>…! 죄송합니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>지금 이 자리에 없는 미카엘라님을 포함해서 추기경 4인은 그 전설의 비문의 내용을 알고도 오직 교황님만을 위해 모인 예언된 자들입니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>요는 이겁니다. 당신은 12주교의 자리에 있음에도 불구하고 어째서 그 자리에서 발견한 빛의 성수를 포획하지 않았나요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>지금 이 자리에 없는 미카엘라님을 포함해서 추기경 4인은 그 전설의 비문의 내용을 알고도 오직 교황님만을 위해 모인 예언된 자들입니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>요는 이겁니다. 당신은 12주교의 자리에 있음에도 불구하고 어째서 그 자리에서 발견한 빛의 성수를 포획하지 않았나요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>여신의 흔적을 찾으라고 하셨지만, 아직 그녀에 대해서는 확신이 서지 않아…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>저에게 거짓말은 통하지 않습니다. 정말 그랬다면 당신이 보고를 하지 않았을 리가 없어요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>그 비문을 읽은 자라면. 교황님의 편에 선 자라면 더더욱 당신은 최초의 성수를 알파의 사성에게 빼앗겨선 안됐습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>저에게 거짓말은 통하지 않습니다. 정말 그랬다면 당신이 보고를 하지 않았을 리가 없어요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>그 비문을 읽은 자라면. 교황님의 편에 선 자라면 더더욱 당신은 최초의 성수를 알파의 사성에게 빼앗겨선 안됐습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>!!!</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>또한 당신은 아무런 보고도 없이 권한을 사용하여 비타 학교의 임시 교사로서 그들을 지켜봤습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>결정적으로 그 어떤 수를 써서도 저희 교황청이 발견할 수 없었던 7성수 위호의 숲에 도달했음에도 불구하고 당신은 그녀가 맡은 기억이 알파의 사성에게 가는 것을 방관했습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>이 사실에 의의는 있습니까, 8석?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>또한 당신은 아무런 보고도 없이 권한을 사용하여 비타 학교의 임시 교사로서 그들을 지켜봤습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>결정적으로 그 어떤 수를 써서도 저희 교황청이 발견할 수 없었던 7성수 위호의 숲에 도달했음에도 불구하고 당신은 그녀가 맡은 기억이 알파의 사성에게 가는 것을 방관했습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>이 사실에 의의는 있습니까, 8석?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>……없습니다.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>정말… 부정하지 않습니까?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>정말… 부정하지 않습니까?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_mimi.png</NPC_IMG><NPC_NAME>아우디레</NPC_NAME><NPC_TEXT_1>네.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>유감입니다, 우리엘라. 당신이 지키려 한 그녀는 자신의 죄를 인정했습니다. 이것으로 추기경 회의는 종료합니다. 그녀의 처분은 교황님께 맡깁니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>유감입니다, 우리엘라. 당신이 지키려 한 그녀는 자신의 죄를 인정했습니다. 이것으로 추기경 회의는 종료합니다. 그녀의 처분은 교황님께 맡깁니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>처분을 교황님께? 어째서죠? 지금 정황으론 직위 박탈로 이어져도…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>라파엘라. 미카엘라가 없는 이상 결정권은 제게 있습니다. 저는 중립적이라고 말씀했을 터입니다?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>라파엘라. 미카엘라가 없는 이상 결정권은 제게 있습니다. 저는 중립적이라고 말씀했을 터입니다?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>…</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>ss8_npc.png</NPC_IMG><NPC_NAME>SS에이트</NPC_NAME><NPC_TEXT_1>회의는 끝나고 관찰대상 아우디레는 구속당했습니다. 임시적으로 지하감옥에 수감될 예정 같습니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
@@ -7412,13 +7305,13 @@
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>저는 당신과는 다른 방식으로 교황님을 사랑하는 것 뿐이에요. 그분의 곁에 필요한 사람은 진실된 자입니다. 마음 속 깊은 곳에 어둠을 숨기고 있는 짐승은 필요 없어요.</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>그리고 역경이 있을 때 믿음을 져버리지 않는 자야말로 진실로 믿을 자 아닌가요?</NPC_TEXT_1><NPC_TEXT_2> </NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>라파엘라!</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>회의가 끝났다고 바로 평소의 모습인가요. 제발 사이에 있는 제 입장도 생각해주시기 바랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>미카만 없으면 왜들 이렇게 싸우는걸까요. 아니면 혹시 제가 만만한 건가요? 미카처럼 불로 태워드릴 순 없지만 입을 얼려드릴 순 있사옵니다만?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>회의가 끝났다고 바로 평소의 모습인가요. 제발 사이에 있는 제 입장도 생각해주시기 바랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>미카만 없으면 왜들 이렇게 싸우는걸까요. 아니면 혹시 제가 만만한 건가요? 미카처럼 불로 태워드릴 순 없지만 입을 얼려드릴 순 있사옵니다만?</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>당신이 말하면 농담으로 들리진 않으니 참아주세요.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>동감이다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>이미 결정권은 교황님께로 넘어갔습니다. 저희들은 충실한 종. 그분의 결정에 이의는 없을 터.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>저희는 예언을 뒤엎기 위해 이 자리에 있습니다. 부디 이것을 명심하시고 해산하도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
-<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>blank.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>오랫동안 행방을 알 수 없었던 알파의 각성이 끝났습니다. 머지않아 전쟁이 시작될 겁니다. 다들 준비를 서두르시기 바랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>이미 결정권은 교황님께로 넘어갔습니다. 저희들은 충실한 종. 그분의 결정에 이의는 없을 터.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>저희는 예언을 뒤엎기 위해 이 자리에 있습니다. 부디 이것을 명심하시고 해산하도록 하죠.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
+<NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_gabriela.png</NPC_IMG><NPC_NAME>가브리엘라</NPC_NAME><NPC_TEXT_1>오랫동안 행방을 알 수 없었던 알파의 각성이 끝났습니다. 머지않아 전쟁이 시작될 겁니다. 다들 준비를 서두르시기 바랍니다.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>1</NPC_STAND><NPC_IMG>npc_uriela.png</NPC_IMG><NPC_NAME>우리엘라</NPC_NAME><NPC_TEXT_1>모든 것은 우리의 구세주를 위해서…</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 <NPC><NPC_STAND>0</NPC_STAND><NPC_IMG>npc_raphaela.png</NPC_IMG><NPC_NAME>라파엘라</NPC_NAME><NPC_TEXT_1>몸도 마음도 교황님의 뜻대로.</NPC_TEXT_1><NPC_TEXT_2></NPC_TEXT_2><NPC_TEXT_3></NPC_TEXT_3></NPC>
 </FLOOR>
